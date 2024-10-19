@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "Supernova - Dev",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/ready_player_world_logo.png",
+    "logo_width": "86",
+    "logo_height": "82",
+    "logo_text": "Ready Player World",
+    "mobile_nav_text": "Founder, Advisor, or VC?"
+  },
+  "metadata": {
+    "meta_author": "Supernova",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "SUPERNOVA (1supernova.com) is the leading growth-stage accelerator run by 150+ exited founders with a collective $10B in exit value. We back world-changing companies to achieve their missions, faster. ✨"
+  },
+  "social_media": [
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/company/gosupernova/",
+      "icon": "/images/social-icons/01.svg"
+    },
+    {
+      "name": "Calendly Link",
+      "link": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05",
+      "icon": "/images/social-icons/02.svg"
+    },
+    {
+      "name": "Email Address",
+      "link": "mailto:barry@1supernova.com",
+      "icon": "/images/social-icons/03.svg"
+    }
+  ]
+}
