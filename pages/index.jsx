@@ -10,6 +10,7 @@ const Home = ({ homepage, testimonials_page }) => {
     <Base>
       <Banner banner={banner} founders={founders} />
       <Testimonials testimonials={testimonials_page} />
+      {/* <AboutCeo aboutCeo={aboutCeo} /> */}
     </Base>
   );
 };
@@ -20,6 +21,7 @@ export default Home;
 export const getStaticProps = async () => {
   const homepage = await getListPage("content/_index.md");
   const testimonials = await getListPage("content/sections/testimonials.md");
+  const aboutCeo = await getListPage("content/sections/about-ceo.md");
 
   return {
     props: {
