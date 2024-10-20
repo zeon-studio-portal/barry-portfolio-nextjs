@@ -65,7 +65,7 @@ const Banner = ({ banner }) => {
           className="size-full object-cover"
           alt="supernova"
           width={1440}
-          height={900}
+          height={800}
         />
       </div>
     </section>

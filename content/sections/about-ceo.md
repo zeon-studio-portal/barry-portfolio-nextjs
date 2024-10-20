@@ -3,7 +3,7 @@ enable: true
 top_section:
   enable: true
   title: WHO IS BARRY STAMOS
-  image: /images/speakers/founder.png
+  image: /images/speakers/barry_stamos.png
   description: >-
     bring 25+ years of breakdowns and breakthroughs as a startup founder (3
     exits; IPO & Unicorn *), global corporate leader (Nasdaq), VC investor (Tier
@@ -33,13 +33,10 @@ bottom_section:
     tales, and actionable insights; based on my 25+ years building, scaling and
     growing by learning together with billionaires, celebrities, scaleups,
     startups, exited founders, and leaders of Fortune 500 companies.
-  quote: look forward to meeting your needs - exactly as a speaker!
+  quote: look forward to meeting your needs - </br> exactly as a speaker!
   name: Barry Stamos
   button:
     enable: true
     label: Keynote Sessions
     link: /about
-topSection:
-  title: a
 ---
-

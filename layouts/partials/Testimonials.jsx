@@ -1,10 +1,10 @@
-import AnimatedText from '@components/AnimatedText';
-import { markdownify } from '@lib/utils/textConverter';
-import Image from 'next/image';
-import { Autoplay, Pagination } from 'swiper';
-import 'swiper/css';
-import 'swiper/css/pagination';
-import { Swiper, SwiperSlide } from 'swiper/react';
+import AnimatedText from "@components/AnimatedText";
+import { markdownify } from "@lib/utils/textConverter";
+import Image from "next/image";
+import { Autoplay, Pagination } from "swiper";
+import "swiper/css";
+import "swiper/css/pagination";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 const Testimonials = ({ testimonials }) => {
   return (
@@ -13,18 +13,10 @@ const Testimonials = ({ testimonials }) => {
         <div className="mx-auto max-w-[1660px] px-4">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
-              <AnimatedText
-                tag="h2"
-                className="mb-4 font-medium"
-                content={testimonials.frontmatter.title}
-              />
+              <AnimatedText tag="h2" className="mb-4 font-medium" content={testimonials.frontmatter.title} />
             </div>
             <div data-aos="fade-up-sm" data-aos-delay="100">
-              {markdownify(
-                testimonials.frontmatter.subtitle,
-                'p',
-                'text-light-secondary md:text-xl'
-              )}
+              {markdownify(testimonials.frontmatter.subtitle, "p", "text-light-secondary md:text-xl")}
             </div>
           </div>
 
@@ -72,38 +64,27 @@ const Testimonials = ({ testimonials }) => {
                     slidesPerView: 3,
                     spaceBetween: 50,
                   },
-                }}>
+                }}
+              >
                 {testimonials.frontmatter.items.map((item, index) => (
                   <SwiperSlide key={index}>
-                    <div
-                      className="rounded-2xl bg-dark-quaternary"
-                      data-aos="fade-left"
-                      data-aos-delay={100}>
-                      <div
-                        className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}>
-                        <p className="mb-8 text-xl font-semibold">
-                          {item.quote}
-                        </p>
+                    <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
+                      <div className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}>
+                        <p className="mb-8 text-lg text-light-tertiary font-medium">{item.quote}</p>
                         <div className="flex">
                           <div className="flex-shrink-0">
                             <Image
-                              className="h-16 w-16 rounded-lg"
+                              className="h-16 w-auto rounded-lg"
                               src={item.image}
                               alt={item.name}
-                              width={80}
-                              height={80}
+                              width={160}
+                              height={160}
                             />
                           </div>
                           <div className="flex-grow-1 ml-4">
-                            <p className="text-base font-semibold text-light-primary">
-                              {item.name}
-                            </p>
-                            <p className="text-sm text-secondary-600">
-                              {item.designation}
-                            </p>
-                            <p className="text-sm text-light-secondary">
-                              {item.company}
-                            </p>
+                            <p className="text-base font-semibold text-light-primary">{item.name}</p>
+                            <p className="text-sm text-secondary-600">{item.designation}</p>
+                            <p className="text-sm text-light-secondary">{item.company}</p>
                           </div>
                         </div>
                       </div>

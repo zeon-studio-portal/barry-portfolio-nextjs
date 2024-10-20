@@ -1,16 +1,19 @@
 import Base from "@layouts/Baseof";
 import { getListPage } from "@lib/contentParser";
+import AboutCeo from "@partials/AboutCeo";
 import Banner from "@partials/Banner";
 import Testimonials from "@partials/Testimonials";
+import WatchHighlights from "@partials/WatchHighlights";
 
-const Home = ({ homepage, testimonials_page }) => {
+const Home = ({ homepage, testimonials_page, aboutCeo }) => {
   const { banner, founders } = homepage.frontmatter;
 
   return (
     <Base>
       <Banner banner={banner} founders={founders} />
+      <AboutCeo aboutCeo={aboutCeo} />
+      <WatchHighlights />
       <Testimonials testimonials={testimonials_page} />
-      {/* <AboutCeo aboutCeo={aboutCeo} /> */}
     </Base>
   );
 };
@@ -27,6 +30,7 @@ export const getStaticProps = async () => {
     props: {
       homepage: homepage,
       testimonials_page: testimonials,
+      aboutCeo: aboutCeo,
     },
   };
 };

@@ -11,11 +11,7 @@ let h1 = h2 * font_scale;
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./layouts/**/*.{js,ts,jsx,tsx}",
-    "./content/**/*.{md,mdx}",
-  ],
+  content: ["./pages/**/*.{js,ts,jsx,tsx}", "./layouts/**/*.{js,ts,jsx,tsx}", "./content/**/*.{md,mdx}"],
   darkMode: "class",
   theme: {
     screens: {
@@ -68,11 +64,11 @@ module.exports = {
         base: font_base + "px",
         "base-sm": font_base * 0.85 + "px",
         h1: h1 + "rem",
-        "h1_sm": h1 * 0.8 + "rem",
+        h1_sm: h1 * 0.8 + "rem",
         h2: h2 + "rem",
-        "h2_sm": h2 * 0.8 + "rem",
+        h2_sm: h2 * 0.8 + "rem",
         h3: h3 + "rem",
-        "h3_sm": h3 * 0.8 + "rem",
+        h3_sm: h3 * 0.8 + "rem",
         h4: h4 + "rem",
         h5: h5 + "rem",
         h6: h6 + "rem",
