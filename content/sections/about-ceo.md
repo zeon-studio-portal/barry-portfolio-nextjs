@@ -18,7 +18,10 @@ top_section:
     citizen.
   name: Barry Stamos
   designation: Founder & CEO
-  linkedin: linkedin.com/in/bstamos
+  linkedin:
+    enable: true
+    label: linkedin.com/in/bstamos
+    link: 'https://www.linkedin.com/linkedin.com/in/bstamos'
   button:
     enable: true
     label: Book Barry
@@ -40,3 +43,4 @@ bottom_section:
     label: Keynote Sessions
     link: /about
 ---
+

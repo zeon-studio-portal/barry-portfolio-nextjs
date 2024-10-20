@@ -1,10 +1,10 @@
 import ArrowButton from "@components/ArrowButton";
 import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
+import Link from "next/link";
 
 const AboutCeo = ({ aboutCeo }) => {
   const { enable, top_section, bottom_section } = aboutCeo.frontmatter;
-  console.log("🪲 :", aboutCeo.frontmatter);
   return enable ? (
     <section className="bg-dark-secondary py-24">
       <div className="container flex flex-col gap-16 lg:gap-20">
@@ -19,17 +19,21 @@ const AboutCeo = ({ aboutCeo }) => {
                 <div>
                   {markdownify(top_section.name, "p", "text-h4 mb-2")}
                   {markdownify(top_section.designation, "p", "")}
-                  <div className="flex items-center gap-2 mt-4">
-                    <ImageFallback
-                      className="size-4"
-                      width={16}
-                      height={16}
-                      src={"/images/icons/linkedin.svg"}
-                      alt="linkedin"
-                    />
 
-                    {markdownify(top_section.linkedin, "span")}
-                  </div>
+                  {top_section.linkedin.enable && (
+                    <div className="flex items-center gap-2 mt-4">
+                      <ImageFallback
+                        className="size-4"
+                        width={16}
+                        height={16}
+                        src={"/images/icons/linkedin.svg"}
+                        alt="linkedin"
+                      />
+                      <Link target="_blank" href={top_section.linkedin.link}>
+                        {top_section.linkedin.label}
+                      </Link>
+                    </div>
+                  )}
                 </div>
                 {top_section.button.enable && (
                   <div>

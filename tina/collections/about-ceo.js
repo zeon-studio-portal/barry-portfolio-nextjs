@@ -53,9 +53,26 @@ const aboutCeo = {
           type: "string",
         },
         {
-          label: "LinkedIn URL",
+          label: "LinkedIn",
           name: "linkedin",
-          type: "string",
+          type: "object",
+          fields: [
+            {
+              label: "Enable",
+              name: "enable",
+              type: "boolean",
+            },
+            {
+              label: "Label",
+              name: "label",
+              type: "string",
+            },
+            {
+              label: "Link",
+              name: "link",
+              type: "string",
+            },
+          ],
         },
         {
           label: "Button",
