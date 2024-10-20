@@ -12,6 +12,8 @@ list:
     image: "/images/advisor-brands/disney.png"
   - imageAlt: "FedEx"
     image: "/images/advisor-brands/fedex.png"
+  - imageAlt: "Fidelity"
+    image: "/images/advisor-brands/fidelity.png"
   - imageAlt: "General Motors"
     image: "/images/advisor-brands/general_motors.png"
   - imageAlt: "Google"
@@ -28,14 +30,15 @@ list:
     image: "/images/advisor-brands/nike.png"
   - imageAlt: "Sephora"
     image: "/images/advisor-brands/sephora.png"
-  - imageAlt: "Samsung Electronics"
-    image: "/images/advisor-brands/samsung_electronics.png"
+  - imageAlt: "tyco Electronics"
+    image: "/images/advisor-brands/tyco_electronics.png"
   - imageAlt: "Under Armour"
     image: "/images/advisor-brands/under_armour.png"
   - imageAlt: "Visa"
     image: "/images/advisor-brands/visa.png"
   - imageAlt: "Whole Foods"
     image: "/images/advisor-brands/whole_foods.png"
+
 
 ---
 
