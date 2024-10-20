@@ -1,5 +1,6 @@
 import { defineConfig } from "tinacms";
 import aboutCeo from "./collections/about-ceo";
+import advisorBrands from "./collections/advisor-brands";
 import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
 import menu from "./collections/global/menu";
@@ -26,6 +27,6 @@ export default defineConfig({
     publicFolder: "public",
   },
   schema: {
-    collections: [announcement, index, pages, testimonials, aboutCeo, config, menu],
+    collections: [announcement, index, pages, testimonials, aboutCeo, advisorBrands, config, menu],
   },
 });

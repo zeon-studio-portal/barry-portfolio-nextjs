@@ -1,6 +1,6 @@
 const advisorBrands = {
-  label: "Testimonials",
-  name: "testimonials",
+  label: "Advisor Brands Logo",
+  name: "advisorBrands",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const advisorBrands = {
     },
   },
   match: {
-    include: "testimonials",
+    include: "advisor-brands",
   },
   fields: [
     {
@@ -41,7 +41,7 @@ const advisorBrands = {
       ],
       ui: {
         itemProps: (item) => {
-          return { label: `${item?.name}` };
+          return { label: `${item?.imageAlt}` };
         },
       },
     },

@@ -30,7 +30,7 @@ const index = {
         {
           label: "Background Image",
           name: "background_image",
-          type: "string",
+          type: "image",
         },
         {
           label: "Video Button",
