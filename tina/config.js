@@ -7,6 +7,7 @@ import menu from "./collections/global/menu";
 import index from "./collections/index";
 import pages from "./collections/pages";
 import testimonials from "./collections/testimonials";
+import watchHighlights from "./collections/watch-highlights";
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
@@ -27,6 +28,6 @@ export default defineConfig({
     publicFolder: "public",
   },
   schema: {
-    collections: [announcement, index, pages, testimonials, aboutCeo, advisorBrands, config, menu],
+    collections: [announcement, index, pages, testimonials, aboutCeo, watchHighlights, advisorBrands, config, menu],
   },
 });

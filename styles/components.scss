@@ -13,10 +13,10 @@
 }
 
 // AOS Style
-[data-aos='fade-up-sm'] {
+[data-aos="fade-up-sm"] {
   transform: translate3d(0, 30px, 0);
 }
-[data-aos='rotate'] {
+[data-aos="rotate"] {
   opacity: 0;
   transform: rotateZ(360deg);
   transition-property: transform, opacity;
@@ -369,11 +369,7 @@
   }
 
   > p > div {
-    background: linear-gradient(
-      to right,
-      var(--bgColorOne) 50%,
-      var(--bgColorTwo) 50%
-    );
+    background: linear-gradient(to right, var(--bgColorOne) 50%, var(--bgColorTwo) 50%);
     background-size: 200% 100%;
     background-position-x: 100%;
     background-clip: text;

@@ -4,7 +4,7 @@ import "swiper/css/autoplay";
 
 const Gallery = ({ gallery }) => {
   const { enable, title, topList, bottomList, galleryImageWidth, animationSpeedForTop, animationSpeedForBottom } =
-    gallery.frontmatter.gallery;
+    gallery.frontmatter;
   return (
     enable && (
       <section className="section-lg pt-0">
