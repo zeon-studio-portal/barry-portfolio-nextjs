@@ -4,10 +4,11 @@ import { getListPage } from "@lib/contentParser";
 import AboutCeo from "@partials/AboutCeo";
 import AdvisorBrands from "@partials/AdvisorBrands";
 import Banner from "@partials/Banner";
+import KeynoteSession from "@partials/KeynoteSession";
 import Testimonials from "@partials/Testimonials";
 import WatchHighlights from "@partials/WatchHighlights";
 
-const Home = ({ homepage, testimonials_page, aboutCeo, watchHighlights, advisorBrands, gallery }) => {
+const Home = ({ homepage, testimonials_page, aboutCeo, watchHighlights, advisorBrands, keynoteSessions, gallery }) => {
   const { banner, founders } = homepage.frontmatter;
 
   return (
@@ -18,7 +19,7 @@ const Home = ({ homepage, testimonials_page, aboutCeo, watchHighlights, advisorB
       <WatchHighlights watchHighlights={watchHighlights} />
       <Testimonials testimonials={testimonials_page} />
       <AdvisorBrands advisorBrands={advisorBrands} />
-      {/* Keynotes */}
+      <KeynoteSession keynoteSessions={keynoteSessions} />
       {/* Panel Session */}
       {/* Life Event */}
       {/* Podcasts */}
@@ -39,6 +40,7 @@ export const getStaticProps = async () => {
   const aboutCeo = await getListPage("content/sections/about-ceo.md");
   const watchHighlights = await getListPage("content/sections/watch-highlights.md");
   const advisorBrands = await getListPage("content/sections/advisor-brands.md");
+  const keynoteSessions = await getListPage("content/sections/keynote-sessions.md");
   const gallery = await getListPage("content/sections/gallery.md");
   return {
     props: {
@@ -47,6 +49,7 @@ export const getStaticProps = async () => {
       aboutCeo: aboutCeo,
       watchHighlights: watchHighlights,
       advisorBrands: advisorBrands,
+      keynoteSessions: keynoteSessions,
       gallery: gallery,
     },
   };

@@ -3,6 +3,7 @@ import aboutCeo from "./collections/about-ceo";
 import advisorBrands from "./collections/advisor-brands";
 import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
+import keynoteSessions from "./collections/global/keynote-sessions";
 import menu from "./collections/global/menu";
 import index from "./collections/index";
 import pages from "./collections/pages";
@@ -28,6 +29,17 @@ export default defineConfig({
     publicFolder: "public",
   },
   schema: {
-    collections: [announcement, index, pages, testimonials, aboutCeo, watchHighlights, advisorBrands, config, menu],
+    collections: [
+      announcement,
+      index,
+      pages,
+      testimonials,
+      aboutCeo,
+      watchHighlights,
+      keynoteSessions,
+      advisorBrands,
+      config,
+      menu,
+    ],
   },
 });
