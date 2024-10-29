@@ -2,7 +2,7 @@
 enable: true
 top_section:
   enable: true
-  title: WHO IS BARRY STAMOS
+  title: WHO IS **BARRY STAMOS**
   image: /images/speakers/barry_stamos.png
   description: >-
     bring 25+ years of breakdowns and breakthroughs as a startup founder (3
@@ -28,7 +28,7 @@ top_section:
     link: /about
 bottom_section:
   enable: true
-  title: WHAT TO EXPECT
+  title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >-
     Be it an arena of 10,000+ or a workshop of 20, my talks are tailored to

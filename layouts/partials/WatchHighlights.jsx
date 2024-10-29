@@ -1,5 +1,4 @@
 "use client";
-import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
 import { useState } from "react";
@@ -10,11 +9,11 @@ const WatchHighlights = ({ watchHighlights }) => {
   const [isOpen, setOpen] = useState(false);
 
   return enable ? (
-    <div className="section py-24 bg-primary-600">
+    <div className="section py-24 bg-primary-600 ">
       <div className="container">
-        <div className="mb-20 text-center">
-          <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
-          {markdownify(subtitle, "p", "text-light-secondary text-lg font-medium")}
+        <div className="mb-14 text-center text-dark-primary">
+          {markdownify(title, "h2", "mb-4 font-semibold text-center lg:col-8 mx-auto")}
+          {markdownify(subtitle, "p", "text-lg font-medium text-dark-quaternary/80")}
         </div>
 
         {/* VIDEO THUMBNAIL */}

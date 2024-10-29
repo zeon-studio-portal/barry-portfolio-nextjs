@@ -15,7 +15,6 @@ const Home = ({ homepage, testimonials_page, aboutCeo, watchHighlights, advisorB
     <Base>
       <Banner banner={banner} founders={founders} />
       <AboutCeo aboutCeo={aboutCeo} />
-      {/* TODO: Needs change */}
       <WatchHighlights watchHighlights={watchHighlights} />
       <Testimonials testimonials={testimonials_page} />
       <AdvisorBrands advisorBrands={advisorBrands} />

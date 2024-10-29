@@ -10,7 +10,7 @@ const AdvisorBrands = ({ advisorBrands }) => {
         <div className="mb-20">
           <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
         </div>
-        <div className="flex flex-wrap justify-center xl:justify-between gap-11 ">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-11 ">
           {list.length &&
             list.map((item, index) => (
               <div key={index}>
@@ -19,7 +19,7 @@ const AdvisorBrands = ({ advisorBrands }) => {
                   height={120}
                   src={item.image}
                   alt={item.imageAlt}
-                  className="w-auto h-12 brightness-[.65]"
+                  className="h-full max-h-12 w-auto brightness-[.65]"
                 />
               </div>
             ))}

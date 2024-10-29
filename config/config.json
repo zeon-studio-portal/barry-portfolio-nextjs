@@ -1,10 +1,10 @@
 {
   "site": {
     "title": "Supernova - Dev",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "86",
-    "logo_height": "82",
+    "favicon": "/images/chakra.svg",
+    "logo": "/images/logo.svg",
+    "logo_width": "291",
+    "logo_height": "58",
     "logo_text": "Ready Player World",
     "mobile_nav_text": "Founder, Advisor, or VC?"
   },

@@ -13,7 +13,11 @@ const AboutCeo = ({ aboutCeo }) => {
             <div className="md:w-[50%]">
               <div className="flex flex-col gap-8">
                 <div>
-                  {markdownify(top_section.title, "h2", "mb-3 font-medium")}
+                  {markdownify(
+                    top_section.title,
+                    "h3",
+                    "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
+                  )}
                   {markdownify(top_section.description, "p", "text-light-tertiary text-base-sm")}
                 </div>
                 <div>
@@ -62,7 +66,11 @@ const AboutCeo = ({ aboutCeo }) => {
             <div className="md:w-[50%] md:pl-20">
               <div className="flex flex-col gap-8">
                 <div>
-                  {markdownify(bottom_section.title, "h2", "mb-3 font-medium")}
+                  {markdownify(
+                    bottom_section.title,
+                    "h3",
+                    "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
+                  )}
                   {markdownify(bottom_section.description, "p", "text-light-tertiary text-base-sm")}
                 </div>
                 <div>

@@ -3,7 +3,7 @@ enable: true
 title: Advisor or Speaker to World’s Biggest Brands
 list:
   - badge: Motivation
-    title: '**#1**. It''s Not Business, It''s Personal Put Your Heart Into Your Work'
+    title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image.png
@@ -36,7 +36,7 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Motivation
-    title: '**#2**. Daily Rituals: Mastering the Dimensions of Wellbeing'
+    title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-1.png
@@ -69,7 +69,7 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Leadership & Teamwork
-    title: '**#3**. The Heart of Leadership: Elevating Lives Via Business'
+    title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-2.png
@@ -102,7 +102,7 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
   - badge: The Future of Work
-    title: '**#4**. From Startups to Unicorns: Wisdom from Exited Founders'
+    title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-3.png
@@ -140,7 +140,7 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Entrepreneurship & Startups
-    title: '**#5**. Scale or Fail: 30 Best Practices in 60 Minutes'
+    title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-4.png
@@ -173,7 +173,7 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Ai & the Future of Work
-    title: '**#6**. AI Extreme Makeovers: Tomorrow’s World Today'
+    title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-5.png
