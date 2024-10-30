@@ -23,6 +23,7 @@ const Podcasts = ({ podcasts }) => {
                   title="youtube video"
                   className="w-full aspect-video mb-4"
                   src={`https://www.youtube.com/embed/${activeVideo.youtubeVideoId}?playlist=${activeVideo.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=${activeVideo.youtubeVideoId || 0}`}
+                  allowFullScreen
                 ></iframe>
                 <div className="p-6">
                   <h2 className="text-base font-medium mb-4 text-secondary-800">{activeVideo.head}</h2>

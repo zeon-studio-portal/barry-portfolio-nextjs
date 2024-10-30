@@ -6,6 +6,7 @@ import config from "./collections/global/config";
 import keynoteSessions from "./collections/global/keynote-sessions";
 import menu from "./collections/global/menu";
 import index from "./collections/index";
+import interviews from "./collections/interviews";
 import liveEvents from "./collections/live-events";
 import pages from "./collections/pages";
 import panelSessions from "./collections/panel-sessions";
@@ -44,6 +45,7 @@ export default defineConfig({
       panelSessions,
       liveEvents,
       podcasts,
+      interviews,
       config,
       menu,
     ],

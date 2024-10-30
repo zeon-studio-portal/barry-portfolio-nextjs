@@ -4,6 +4,7 @@ import { getListPage } from "@lib/contentParser";
 import AboutCeo from "@partials/AboutCeo";
 import AdvisorBrands from "@partials/AdvisorBrands";
 import Banner from "@partials/Banner";
+import Interviews from "@partials/Interviews";
 import KeynoteSession from "@partials/KeynoteSession";
 import LiveEvents from "@partials/LiveEvents";
 import PanelSession from "@partials/PannelSession";
@@ -21,6 +22,7 @@ const Home = ({
   panelSessions,
   liveEvents,
   podcasts,
+  interviews,
   gallery,
 }) => {
   const { banner, founders } = homepage.frontmatter;
@@ -36,7 +38,7 @@ const Home = ({
       <PanelSession panelSessions={panelSessions} />
       <LiveEvents liveEvents={liveEvents} />
       <Podcasts podcasts={podcasts} />
-      {/* Interviews */}
+      <Interviews interviews={interviews} />
       {/* Testimonial 2 Carousel */}
       {/* Speaker Biography */}
       <Gallery gallery={gallery} />
@@ -57,9 +59,9 @@ export const getStaticProps = async () => {
   const panelSessions = await getListPage("content/sections/panel-sessions.md");
   const liveEvents = await getListPage("content/sections/live-events.md");
   const podcasts = await getListPage("content/sections/podcasts.md");
+  const interviews = await getListPage("content/sections/interviews.md");
   const gallery = await getListPage("content/sections/gallery.md");
 
-  console.log("🪲 :", liveEvents);
   return {
     props: {
       homepage: homepage,
@@ -71,6 +73,7 @@ export const getStaticProps = async () => {
       panelSessions: panelSessions,
       liveEvents: liveEvents,
       podcasts: podcasts,
+      interviews: interviews,
       gallery: gallery,
     },
   };
