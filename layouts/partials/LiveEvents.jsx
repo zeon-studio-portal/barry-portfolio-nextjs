@@ -1,5 +1,5 @@
 import AnimatedText from "@components/AnimatedText";
-import ImageFallback from "@components/ImageFallback";
+import LiveEventCard from "@components/LiveEventCard";
 
 const LiveEvents = ({ liveEvents }) => {
   const { enable, title, list } = liveEvents.frontmatter;
@@ -7,22 +7,11 @@ const LiveEvents = ({ liveEvents }) => {
   return enable ? (
     <section className="section bg-dark-primary py-24">
       <div className="container">
-        <div className="mb-20">
+        <div className="mb-14 ">
           <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
         </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-11 ">
-          {list.length &&
-            list.map((item, index) => (
-              <div key={index}>
-                <ImageFallback
-                  width={300}
-                  height={120}
-                  src={item.image}
-                  alt={item.imageAlt}
-                  className="h-full max-h-12 w-auto brightness-[.65]"
-                />
-              </div>
-            ))}
+        <div className="grid md:grid-cols-2 gap-6 ">
+          {list.length && list.map((item, index) => <LiveEventCard key={index} item={item} />)}
         </div>
       </div>
     </section>

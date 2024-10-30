@@ -3,7 +3,6 @@ import PanelSessionCard from "@components/PanelSessionCard";
 
 const PannelSession = ({ panelSessions }) => {
   const { enable, title, list } = panelSessions.frontmatter;
-  console.log("🪲 :", panelSessions);
   return enable ? (
     <section
       id="reviews"

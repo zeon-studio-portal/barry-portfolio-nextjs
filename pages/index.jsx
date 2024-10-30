@@ -18,6 +18,7 @@ const Home = ({
   advisorBrands,
   keynoteSessions,
   panelSessions,
+  liveEvents,
   gallery,
 }) => {
   const { banner, founders } = homepage.frontmatter;
@@ -31,7 +32,7 @@ const Home = ({
       <AdvisorBrands advisorBrands={advisorBrands} />
       <KeynoteSession keynoteSessions={keynoteSessions} />
       <PanelSession panelSessions={panelSessions} />
-      <LiveEvents liveEvents={advisorBrands} />
+      <LiveEvents liveEvents={liveEvents} />
       {/* Podcasts */}
       {/* Interviews */}
       {/* Testimonial 2 Carousel */}
@@ -52,7 +53,10 @@ export const getStaticProps = async () => {
   const advisorBrands = await getListPage("content/sections/advisor-brands.md");
   const keynoteSessions = await getListPage("content/sections/keynote-sessions.md");
   const panelSessions = await getListPage("content/sections/panel-sessions.md");
+  const liveEvents = await getListPage("content/sections/live-events.md");
   const gallery = await getListPage("content/sections/gallery.md");
+
+  console.log("🪲 :", liveEvents);
   return {
     props: {
       homepage: homepage,
@@ -62,6 +66,7 @@ export const getStaticProps = async () => {
       advisorBrands: advisorBrands,
       keynoteSessions: keynoteSessions,
       panelSessions: panelSessions,
+      liveEvents: liveEvents,
       gallery: gallery,
     },
   };

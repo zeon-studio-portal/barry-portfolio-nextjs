@@ -35,7 +35,13 @@ const PanelSessionCard = ({ panel }) => {
         <div className="w-full lg:w-1/2 py-6 lg:px-6">
           <h6 className="font-medium text-[1rem] mb-2">{panel.head}</h6>
           {markdownify(panel.title, "h3", "text-h4_sm text-dark-primary font-medium mb-6")}
-          <div>{markdownify(panel.description, "p", "text-dark-quaternary text-[1rem]")}</div>
+          <div>
+            {markdownify(
+              panel.description,
+              "div",
+              "text-dark-quaternary text-[1rem] [&>blockquote]:font-bold [&>blockquote]:border-l-[4px] [&>blockquote]:border-dark-quaternary [&>blockquote]:pl-4"
+            )}
+          </div>
           <button
             className="mt-6 flex items-center gap-2 px-4 py-2 rounded-lg border border-dark-primary max-w-max text-dark-primary hover:text-white transition-colors duration-300 hover:bg-dark-primary"
             aria-label={panel.button.label}
@@ -83,7 +89,11 @@ const PanelSessionCard = ({ panel }) => {
               <div>
                 <h6 className="font-medium text-[1rem] mb-4">{panel.head}</h6>
                 {markdownify(panel.title, "h3", "text-h4 text-light-primary font-medium mb-6")}
-                <div>{markdownify(panel.description, "p", "text-light-quaternary")}</div>
+                {markdownify(
+                  panel.description,
+                  "div",
+                  "text-light-quaternary text-[1rem] [&>blockquote]:font-bold [&>blockquote]:border-l-[4px] [&>blockquote]:border-light-quaternary [&>blockquote]:pl-4"
+                )}
               </div>
             </div>
           </div>
