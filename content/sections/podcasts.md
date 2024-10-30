@@ -8,7 +8,7 @@ list:
     thumbnail: /images/podcasts/image.png
     youtubeVideoId: UIQc7abikzE
   - enable: true
-    head: Founders
+    head: Consulting
     title: Is heart-led entrepreneurship good for business?
     thumbnail: /images/podcasts/image-1.png
     youtubeVideoId: iUtnZpzkbG8
@@ -18,7 +18,7 @@ list:
     thumbnail: /images/podcasts/image-2.png
     youtubeVideoId: mLwlGsRhNIU
   - enable: true
-    head: Founders
+    head: Kernel Presents
     title: The Pitches
     thumbnail: /images/podcasts/image-3.png
     youtubeVideoId: muczNvx9fgg
