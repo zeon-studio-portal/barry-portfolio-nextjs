@@ -9,6 +9,7 @@ import index from "./collections/index";
 import liveEvents from "./collections/live-events";
 import pages from "./collections/pages";
 import panelSessions from "./collections/panel-sessions";
+import podcasts from "./collections/podcasts";
 import testimonials from "./collections/testimonials";
 import watchHighlights from "./collections/watch-highlights";
 
@@ -42,6 +43,7 @@ export default defineConfig({
       advisorBrands,
       panelSessions,
       liveEvents,
+      podcasts,
       config,
       menu,
     ],

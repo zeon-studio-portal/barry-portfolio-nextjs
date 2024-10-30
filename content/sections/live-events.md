@@ -4,7 +4,7 @@ title: Live Event
 list:
   - enable: true
     title: Transformative Company Events
-    thumbnail: "/images/live-events/image.png"
+    thumbnail: "/images/podcasts/image.png"
     youtubeVideoId: UIQc7abikzE
   - enable: true
     title: Community Building
