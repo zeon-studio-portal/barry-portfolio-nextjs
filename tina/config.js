@@ -7,6 +7,7 @@ import keynoteSessions from "./collections/global/keynote-sessions";
 import menu from "./collections/global/menu";
 import index from "./collections/index";
 import pages from "./collections/pages";
+import panelSessions from "./collections/panel-sessions";
 import testimonials from "./collections/testimonials";
 import watchHighlights from "./collections/watch-highlights";
 
@@ -38,6 +39,7 @@ export default defineConfig({
       watchHighlights,
       keynoteSessions,
       advisorBrands,
+      panelSessions,
       config,
       menu,
     ],

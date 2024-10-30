@@ -40,7 +40,7 @@ const Header = () => {
 
   return (
     <header className={`header ${toggleNavbar ? "navbar-open" : ""}`}>
-      <nav className="navbar container items-start px-0 sm:items-center sm:px-4">
+      <nav className="navbar  items-start px-0 sm:items-center sm:px-4">
         {/* logo */}
         <div className="order-0 mr-auto pl-4 sm:pl-0 lg:mr-0">
           <Logo src={logo} />

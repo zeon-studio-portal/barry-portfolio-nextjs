@@ -43,13 +43,17 @@ const KeynoteSessionCard = ({ item, isEven }) => {
               {markdownify(
                 item.title,
                 "h3",
-                "text-h5 xl:text-h3_sm [&>strong]:text-dark-primary [&>strong]:bg-secondary-800 [&>strong]:rounded-md [&>strong]:inline-block [&>strong]:h-[35px] [&>strong]:leading-[38px] [&>strong]:px-2 font-medium mb-4 line-clamp-2"
+                "text-h5 xl:text-h3_sm [&>strong]:text-dark-primary [&>strong]:bg-secondary-800 [&>strong]:rounded-md [&>strong]:inline-block [&>strong]:mr-2  [&>strong]:h-[35px] [&>strong]:leading-[38px] [&>strong]:px-2 font-medium mb-4 line-clamp-2"
               )}
             </button>
             {markdownify(item.description, "p", "text-light-tertiary text-sm sm:text-[1rem] line-clamp-3")}
           </div>
 
-          <button className="text-secondary-800 font-medium flex items-center gap-2" onClick={handleOpenModal}>
+          <button
+            className="text-secondary-800 font-medium flex items-center gap-2"
+            onClick={handleOpenModal}
+            aria-label="learn more"
+          >
             <span>Learn More</span>
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clip0_812_2341)">

@@ -1,5 +1,3 @@
-"use client";
-
 import AnimatedText from "@components/AnimatedText";
 import KeynoteSessionCard from "@components/KeynoteSessionCard";
 
