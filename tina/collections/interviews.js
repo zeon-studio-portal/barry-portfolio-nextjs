@@ -36,7 +36,12 @@ const podcasts = {
         {
           type: "string",
           name: "title",
-          label: "Interview Title",
+          label: "Title",
+        },
+        {
+          type: "string",
+          name: "description",
+          label: "Description",
         },
         {
           type: "image",

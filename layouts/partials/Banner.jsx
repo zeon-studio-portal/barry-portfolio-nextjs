@@ -4,6 +4,7 @@ import "node_modules/react-modal-video/scss/modal-video.scss";
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
 import "swiper/css";
+import VideoBG from "./VideoBG";
 
 const Banner = ({ banner }) => {
   const [isOpen, setOpen] = useState(false);
@@ -51,7 +52,6 @@ const Banner = ({ banner }) => {
             onClose={() => setOpen(false)}
           />
         </div>
-
         <div className="banner-image banner-image-left -z-10" data-aos="fade-right" data-aos-delay="350">
           <Image src="/images/chakra.svg" alt="supernova" width={550} height={550} />
         </div>
@@ -59,14 +59,8 @@ const Banner = ({ banner }) => {
           <Image src="/images/chakra.svg" alt="supernova" width={500} height={500} />
         </div>
       </div>
-      <div className="absolute inset-0 ">
-        <Image
-          src={banner.background_image}
-          className="size-full object-cover"
-          alt="supernova"
-          width={1440}
-          height={800}
-        />
+      <div className="video-background">
+        <VideoBG background_youtube_video_id={banner.background_youtube_video_id} />
       </div>
     </section>
   );

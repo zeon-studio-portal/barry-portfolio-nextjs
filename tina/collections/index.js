@@ -28,9 +28,9 @@ const index = {
           type: "string",
         },
         {
-          label: "Background Image",
-          name: "background_image",
-          type: "image",
+          label: "Background Video Youtube ID",
+          name: "background_youtube_video_id",
+          type: "string",
         },
         {
           label: "Video Button",
