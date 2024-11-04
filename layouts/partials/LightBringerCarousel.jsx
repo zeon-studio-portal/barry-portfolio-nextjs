@@ -63,13 +63,13 @@ const LightBringerCarousel = ({ lightBringerCarousel }) => {
           </Swiper>
 
           {/* SWIPER BUTTONS */}
-          <div class="flex justify-end gap-4 mt-4">
-            <button class="lbc-swiper-next cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
+          <div className="flex justify-end gap-4 mt-4">
+            <button className="lbc-swiper-next cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
               <div className="absolute inset-0 grid place-items-center">
                 <MdArrowBackIosNew />
               </div>
             </button>
-            <button class="lbc-swiper-next cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
+            <button className="lbc-swiper-next cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
               <div className="absolute inset-0 grid place-items-center">
                 <MdArrowForwardIos />
               </div>

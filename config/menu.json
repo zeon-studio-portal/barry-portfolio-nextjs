@@ -29,38 +29,20 @@
   ],
   "company": [
     {
-      "name": "About Us",
-      "url": "/about-us"
+      "name": "Meet Barry",
+      "url": "/#ceo"
     },
     {
-      "name": "Reviews",
-      "url": "/#reviews"
+      "name": "Speaking",
+      "url": "/#speaking-highlights"
     },
     {
-      "name": "Superstars",
-      "url": "/#superstars"
+      "name": "Advising",
+      "url": "/#speaking-advisors"
     },
     {
-      "name": "FAQ",
-      "url": "/#faqs"
-    },
-    {
-      "name": "Contact",
-      "url": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
-    }
-  ],
-  "join_us": [
-    {
-      "name": "Founder",
-      "url": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
-    },
-    {
-      "name": "Advisor",
-      "url": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
-    },
-    {
-      "name": "VC’s",
-      "url": "https://calendly.com/supernova-intro/supernova-intro?month=2023-05"
+      "name": "Thought Leadership",
+      "url": "/#partners"
     }
   ]
 }

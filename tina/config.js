@@ -3,15 +3,16 @@ import aboutCeo from "./collections/about-ceo";
 import advisorBrands from "./collections/advisor-brands";
 import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
-import keynoteSessions from "./collections/global/keynote-sessions";
 import menu from "./collections/global/menu";
 import index from "./collections/index";
 import interviews from "./collections/interviews";
+import keynoteSessions from "./collections/keynote-sessions";
 import lightBringerCarousel from "./collections/light-bringer-carousel";
 import liveEvents from "./collections/live-events";
 import pages from "./collections/pages";
 import panelSessions from "./collections/panel-sessions";
 import podcasts from "./collections/podcasts";
+import speakerBiography from "./collections/speaker-biography";
 import testimonials from "./collections/testimonials";
 import watchHighlights from "./collections/watch-highlights";
 
@@ -48,6 +49,7 @@ export default defineConfig({
       podcasts,
       interviews,
       lightBringerCarousel,
+      speakerBiography,
       config,
       menu,
     ],
