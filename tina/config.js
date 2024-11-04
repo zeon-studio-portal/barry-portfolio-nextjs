@@ -7,6 +7,7 @@ import keynoteSessions from "./collections/global/keynote-sessions";
 import menu from "./collections/global/menu";
 import index from "./collections/index";
 import interviews from "./collections/interviews";
+import lightBringerCarousel from "./collections/light-bringer-carousel";
 import liveEvents from "./collections/live-events";
 import pages from "./collections/pages";
 import panelSessions from "./collections/panel-sessions";
@@ -46,6 +47,7 @@ export default defineConfig({
       liveEvents,
       podcasts,
       interviews,
+      lightBringerCarousel,
       config,
       menu,
     ],

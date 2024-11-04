@@ -6,6 +6,7 @@ import AdvisorBrands from "@partials/AdvisorBrands";
 import Banner from "@partials/Banner";
 import Interviews from "@partials/Interviews";
 import KeynoteSession from "@partials/KeynoteSession";
+import LightBringerCarousel from "@partials/LightBringerCarousel";
 import LiveEvents from "@partials/LiveEvents";
 import PanelSession from "@partials/PannelSession";
 import Podcasts from "@partials/Podcasts";
@@ -23,6 +24,7 @@ const Home = ({
   liveEvents,
   podcasts,
   interviews,
+  lightBringerCarousel,
   gallery,
 }) => {
   const { banner, founders } = homepage.frontmatter;
@@ -39,6 +41,7 @@ const Home = ({
       <LiveEvents liveEvents={liveEvents} />
       <Podcasts podcasts={podcasts} />
       <Interviews interviews={interviews} />
+      <LightBringerCarousel lightBringerCarousel={lightBringerCarousel} />
       {/* Testimonial 2 Carousel */}
       {/* Speaker Biography */}
       <Gallery gallery={gallery} />
@@ -60,6 +63,7 @@ export const getStaticProps = async () => {
   const liveEvents = await getListPage("content/sections/live-events.md");
   const podcasts = await getListPage("content/sections/podcasts.md");
   const interviews = await getListPage("content/sections/interviews.md");
+  const lightBringerCarousel = await getListPage("content/sections/light-bringer-carousel.md");
   const gallery = await getListPage("content/sections/gallery.md");
 
   return {
@@ -74,6 +78,7 @@ export const getStaticProps = async () => {
       liveEvents: liveEvents,
       podcasts: podcasts,
       interviews: interviews,
+      lightBringerCarousel: lightBringerCarousel,
       gallery: gallery,
     },
   };
