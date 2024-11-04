@@ -11,7 +11,7 @@ const Banner = ({ banner }) => {
 
   return (
     <section className="relative overflow-hidden pb-16 pt-12 after:absolute after:inset-0 after:z-20 after:h-full after:w-full after:bg-dark-primary/70 after:content-[''] md:pt-8">
-      <div className="relative z-30 flex flex-col justify-around sm:min-h-[700px]">
+      <div className="relative z-30 flex flex-col justify-around min-h-[700px]">
         <div className="container relative z-50 text-center">
           <div data-aos="fade-up">
             {markdownify(banner.title, "h1", "mb-8 text-6xl/none text-banner font-medium w-fit mx-auto")}

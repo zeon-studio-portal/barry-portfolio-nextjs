@@ -10,7 +10,7 @@ const AdvisorBrands = ({ advisorBrands }) => {
         <div className="mb-20">
           <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
         </div>
-        <div className="grid  sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-y-11 gap-x-20 items-center ">
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-8 md:gap-y-11 md:gap-x-20 items-center ">
           {list.length &&
             list.map((item, index) => (
               <div key={index} className="justify-self-center">
