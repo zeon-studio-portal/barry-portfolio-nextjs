@@ -17,6 +17,9 @@ input#nav-toggle:checked ~ #nav-menu {
     @apply h-screen bg-dark-primary;
   }
 }
+.nav-menu-wrapper {
+  @apply hidden lg:flex lg:items-center lg:justify-end lg:flex-1 gap-8;
+}
 
 // navbar items
 .navbar {
@@ -39,7 +42,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-link {
-  @apply px-2 py-4  text-white transition hover:text-primary-200 sm:py-2 text-[1rem] lg:p-1.5;
+  @apply px-2 py-4  text-white transition hover:text-primary-200 sm:py-2 text-sm lg:p-1.5;
 }
 
 .mobile-cta {
