@@ -45,9 +45,9 @@ const Footer = () => {
             />
             <div className="flex flex-wrap gap-4 my-4">
               {social_media.map((social) => (
-                <a href={social.url} target="_blank" key={social.name} aria-label={social.name}>
+                <Link href={social.link} target="_blank" key={social.name} aria-label={social.name}>
                   <img src={social.icon} alt={social.name} className="size-6" />
-                </a>
+                </Link>
               ))}
             </div>
             {markdownify(copyright, "p", "text-[#8E8E8E] text-sm mb-4")}
