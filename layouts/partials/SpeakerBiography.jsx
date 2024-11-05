@@ -10,10 +10,12 @@ const SpeakerBiography = ({ speakerBiography }) => {
         <div className="flex flex-col lg:flex-row lg:items-center gap-10 mb-14">
           {/* LEFT SIDE */}
           <div className="lg:w-[60%]">
-            {markdownify(title, "h2", "mb-4 text-white font-semibold")}
-            {markdownify(bio, "p", "text-[1rem] text-light-tertiary pb-4")}
+            <div data-aos="fade-up-sm">{markdownify(title, "h2", "mb-4 text-white font-semibold")}</div>
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(bio, "p", "text-[1rem] text-light-tertiary pb-4")}
+            </div>
             {button.enable && (
-              <div>
+              <div data-aos="fade-up-sm">
                 <ArrowButton
                   link={button.link}
                   label={button.label}
@@ -30,11 +32,12 @@ const SpeakerBiography = ({ speakerBiography }) => {
               src={image}
               alt={title}
               className="w-full max-w-[446px] max-h-[530px] h-full object-cover rounded-2xl"
+              data-aos="fade-up-sm"
             />
           </div>
         </div>
         <div>
-          <div className="flex flex-wrap items-center gap-x-24 gap-y-8 text-center">
+          <div className="flex flex-wrap items-center gap-8 lg:gap-x-24 gap-y-8 text-center">
             {companyList.length &&
               companyList.map((item, index) => (
                 <ImageFallback
@@ -44,6 +47,8 @@ const SpeakerBiography = ({ speakerBiography }) => {
                   src={item.image}
                   alt={item.company}
                   className="max-h-12 w-auto "
+                  data-aos="fade-up-sm"
+                  data-aos-delay={index * 100}
                 />
               ))}
           </div>

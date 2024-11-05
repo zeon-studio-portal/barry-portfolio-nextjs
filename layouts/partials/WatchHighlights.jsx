@@ -1,4 +1,4 @@
-"use client";
+import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
 import { useState } from "react";
@@ -12,12 +12,16 @@ const WatchHighlights = ({ watchHighlights }) => {
     <div className="section py-24 bg-primary-600 scroll-mt-5" id="speaking-highlights">
       <div className="container">
         <div className="mb-14 text-center text-dark-primary">
-          {markdownify(title, "h2", "mb-4 font-semibold text-center lg:col-8 mx-auto")}
-          {markdownify(subtitle, "p", "text-lg font-medium text-dark-quaternary/80")}
+          <div data-aos="fade-up-sm">
+            <AnimatedText tag="h2" className="mb-4 font-semibold text-center lg:col-8 mx-auto" content={title} />
+          </div>
+          <div data-aos="fade-up-sm" data-aos-delay="100">
+            {markdownify(subtitle, "p", "text-lg font-medium text-dark-quaternary/80")}
+          </div>
         </div>
 
         {/* VIDEO THUMBNAIL */}
-        <div className="relative">
+        <div className="relative" data-aos="fade-up-sm">
           <ImageFallback
             src={thumbnail}
             alt="Watch Highlights"

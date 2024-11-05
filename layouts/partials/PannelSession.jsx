@@ -11,7 +11,9 @@ const PannelSession = ({ panelSessions }) => {
     >
       <div className="container">
         <div className="mb-20">
-          <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
+          <div data-aos="fade-up-sm">
+            <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
+          </div>
         </div>
         <div className="grid gap-6">
           {list.length &&

@@ -1,4 +1,4 @@
-import { markdownify } from "@lib/utils/textConverter";
+import AnimatedText from "@components/AnimatedText";
 import Image from "next/image";
 import { useState } from "react";
 
@@ -10,9 +10,15 @@ const Podcasts = ({ podcasts }) => {
     <section className="section bg-primary-600 py-24">
       <div className="container">
         <div className="mb-14 ">
-          {markdownify(title, "h2", "mb-4 text-black font-semibold text-center lg:col-8 mx-auto")}
+          <div data-aos="fade-up-sm">
+            <AnimatedText
+              tag="h2"
+              className="mb-4 text-black font-semibold text-center lg:col-8 mx-auto"
+              content={title}
+            />
+          </div>
         </div>
-        <div className="flex flex-col lg:flex-row  gap-8">
+        <div className="flex flex-col lg:flex-row  gap-8" data-aos="fade-up-sm" data-aos-delay="100">
           {/* LEFT SIDE */}
           <div className="lg:w-[50%] max-h-[480px] bg-dark-secondary text-light-primary rounded-2xl overflow-hidden">
             {activeVideo && (

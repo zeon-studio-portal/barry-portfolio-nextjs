@@ -13,14 +13,18 @@ const AboutCeo = ({ aboutCeo }) => {
             <div className="md:w-[50%]">
               <div className="flex flex-col gap-8">
                 <div>
-                  {markdownify(
-                    top_section.title,
-                    "h3",
-                    "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
-                  )}
-                  {markdownify(top_section.description, "p", "text-light-tertiary text-base-sm")}
+                  <div data-aos="fade-up-sm">
+                    {markdownify(
+                      top_section.title,
+                      "h3",
+                      "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
+                    )}
+                  </div>
+                  <div data-aos="fade-up-sm" data-aos-delay="100">
+                    {markdownify(top_section.description, "p", "text-light-tertiary text-base-sm")}
+                  </div>
                 </div>
-                <div>
+                <div data-aos="fade-up-sm" data-aos-delay="100">
                   {markdownify(top_section.name, "p", "text-h4 mb-2")}
                   {markdownify(top_section.designation, "p", "")}
 
@@ -40,7 +44,7 @@ const AboutCeo = ({ aboutCeo }) => {
                   )}
                 </div>
                 {top_section.button.enable && (
-                  <div>
+                  <div data-aos="fade-up-sm" data-aos-delay="100">
                     <ArrowButton
                       link={top_section.button.link}
                       label={top_section.button.label}
@@ -51,13 +55,15 @@ const AboutCeo = ({ aboutCeo }) => {
               </div>
             </div>
             <div className="md:w-[50%] md:pl-20">
-              <ImageFallback
-                src={top_section.image}
-                alt={top_section.name}
-                width={445}
-                height={523}
-                className="w-full rounded-xl drop-shadow-lg"
-              />
+              <div data-aos="fade-up-sm">
+                <ImageFallback
+                  src={top_section.image}
+                  alt={top_section.name}
+                  width={445}
+                  height={523}
+                  className="w-full rounded-xl drop-shadow-lg"
+                />
+              </div>
             </div>
           </div>
         )}
@@ -66,19 +72,23 @@ const AboutCeo = ({ aboutCeo }) => {
             <div className="md:w-[50%] md:pl-20">
               <div className="flex flex-col gap-8">
                 <div>
-                  {markdownify(
-                    bottom_section.title,
-                    "h3",
-                    "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
-                  )}
-                  {markdownify(bottom_section.description, "p", "text-light-tertiary text-base-sm")}
+                  <div data-aos="fade-up-sm">
+                    {markdownify(
+                      bottom_section.title,
+                      "h3",
+                      "mb-3 font-semi-bold [&>strong]:text-secondary-800 [&>strong]:font-semi-bold"
+                    )}
+                  </div>
+                  <div data-aos="fade-up-sm" data-aos-delay="100">
+                    {markdownify(bottom_section.description, "p", "text-light-tertiary text-base-sm")}
+                  </div>
                 </div>
-                <div>
+                <div data-aos="fade-up-sm" data-aos-delay="100">
                   {markdownify(bottom_section.quote, "p", " mb-2 text-secondary-600")}
                   {markdownify(bottom_section.name, "p", "text-h5 mb-2")}
                 </div>
                 {bottom_section.button.enable && (
-                  <div>
+                  <div data-aos="fade-up-sm" data-aos-delay="100">
                     <ArrowButton
                       link={bottom_section.button.link}
                       label={bottom_section.button.label}
@@ -89,13 +99,15 @@ const AboutCeo = ({ aboutCeo }) => {
               </div>
             </div>
             <div className="md:w-[50%]">
-              <ImageFallback
-                src={bottom_section.image}
-                alt={bottom_section.name}
-                width={445}
-                height={523}
-                className="w-full rounded-xl drop-shadow-lg"
-              />
+              <div data-aos="fade-up-sm">
+                <ImageFallback
+                  src={bottom_section.image}
+                  alt={bottom_section.name}
+                  width={445}
+                  height={523}
+                  className="w-full rounded-xl drop-shadow-lg"
+                />
+              </div>
             </div>
           </div>
         )}

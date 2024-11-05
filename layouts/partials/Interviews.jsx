@@ -1,3 +1,4 @@
+import AnimatedText from "@components/AnimatedText";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useRef, useState } from "react";
@@ -12,9 +13,15 @@ const interviews = ({ interviews }) => {
       <div ref={largeScreenRef} className="container relative ">
         <div className="relative z-10 ">
           <div className="mb-14">
-            {markdownify(title, "h2", "mb-4 text-white font-semibold text-center lg:col-8 mx-auto")}
+            <div data-aos="fade-up-sm">
+              <AnimatedText
+                tag="h2"
+                className="mb-4 text-white font-semibold text-center lg:col-8 mx-auto"
+                content={title}
+              />
+            </div>
           </div>
-          <div className="flex flex-col gap-10">
+          <div className="flex flex-col gap-10" data-aos="fade-up-sm" data-aos-delay="100">
             {/* BIG SCREEN */}
             <div className=" relative ">
               <div className="bg-dark-quaternary rounded-2xl overflow-hidden">
@@ -37,7 +44,7 @@ const interviews = ({ interviews }) => {
                 list
                   .filter((item) => item.title !== activeVideo.title)
                   .map(
-                    (item) =>
+                    (item, index) =>
                       item.enable && (
                         <div
                           onClick={() => {
@@ -46,6 +53,8 @@ const interviews = ({ interviews }) => {
                           }}
                           key={item.title}
                           className="flex flex-col items-center cursor-pointer bg-dark-quaternary rounded-2xl min-w-[250px] overflow-hidden"
+                          data-aos="fade-in"
+                          data-aos-delay={index * 100}
                         >
                           {/* IMAGE */}
                           <div className="relative ">

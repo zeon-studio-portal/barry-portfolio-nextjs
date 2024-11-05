@@ -20,7 +20,7 @@ const PanelSessionCard = ({ panel }) => {
 
   return (
     <>
-      <article className="flex flex-col lg:flex-row lg:items-center">
+      <article className="flex flex-col lg:flex-row lg:items-center" data-aos="fade-up-sm">
         {/* LEFT SIDE */}
         <div className="w-full h-full lg:w-1/2">
           <ImageFallback

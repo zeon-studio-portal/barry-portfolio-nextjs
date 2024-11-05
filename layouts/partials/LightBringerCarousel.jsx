@@ -1,3 +1,4 @@
+import AnimatedText from "@components/AnimatedText";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useState } from "react";
@@ -13,11 +14,18 @@ const LightBringerCarousel = ({ lightBringerCarousel }) => {
     <section className="section bg-secondary-600 py-24">
       <div className="container">
         <div className="mb-14">
-          {markdownify(title, "h2", "mb-4 text-black font-semibold text-center lg:col-8 mx-auto")}
-
-          {markdownify(subtitle, "p", "lg:col-8 mx-auto text-center text-dark-primary text-h6 font-normal")}
+          <div data-aos="fade-up-sm">
+            <AnimatedText
+              tag="h2"
+              className="mb-4 text-black font-semibold text-center lg:col-8 mx-auto"
+              content={title}
+            />
+          </div>
+          <div data-aos="fade-up-sm" data-aos-delay="100">
+            {markdownify(subtitle, "p", "lg:col-8 mx-auto text-center text-dark-primary text-h6 font-normal")}
+          </div>
         </div>
-        <div>
+        <div data-aos="fade-up-sm" data-aos-delay="100">
           <Swiper
             modules={[Autoplay, Navigation]}
             spaceBetween={24}
@@ -64,7 +72,7 @@ const LightBringerCarousel = ({ lightBringerCarousel }) => {
 
           {/* SWIPER BUTTONS */}
           <div className="flex justify-end gap-4 mt-4">
-            <button className="lbc-swiper-next cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
+            <button className="lbc-swiper-prev cursor-pointer size-10 relative rounded-full overflow-hidden border-[2px] border-dark-primary text-dark-primary hover:bg-dark-primary hover:text-white transition-colors duration-300">
               <div className="absolute inset-0 grid place-items-center">
                 <MdArrowBackIosNew />
               </div>
