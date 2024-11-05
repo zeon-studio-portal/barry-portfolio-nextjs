@@ -23,7 +23,7 @@ input#nav-toggle:checked ~ #nav-menu {
 
 // navbar items
 .navbar {
-  @apply relative flex flex-wrap items-center justify-between lg:gap-x-4 py-4 lg:py-7;
+  @apply relative flex flex-wrap items-center justify-between lg:gap-x-4 py-4;
 }
 
 .navbar-brand {
