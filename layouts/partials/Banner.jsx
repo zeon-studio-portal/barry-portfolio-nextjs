@@ -22,10 +22,31 @@ const Banner = ({ banner }) => {
 
           <div data-aos="fade-up" data-aos-delay="100" className="video-wrapper">
             <button
-              className="flex items-center gap-2 btn btn-border-gradient"
+              className="flex items-center gap-2 btn relative "
               onClick={() => setOpen(true)}
               aria-label="Play Video"
             >
+              <div className="absolute inset-0 size-full ">
+                <svg width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect x=".5" y=".5" width="99%" height="98%" rx="11.5" stroke="url(#a)" />
+                  <defs>
+                    <linearGradient
+                      id="a"
+                      x1="46.553"
+                      y1="-8.5"
+                      x2="182.645"
+                      y2="104.907"
+                      gradientUnits="userSpaceOnUse"
+                    >
+                      <stop stop-color="#0AA5FE" />
+                      <stop offset=".255" stop-color="#02DDEB" />
+                      <stop offset=".469" stop-color="#FDD13B" />
+                      <stop offset=".729" stop-color="#FF8F81" />
+                      <stop offset="1" stop-color="#C14ECF" />
+                    </linearGradient>
+                  </defs>
+                </svg>
+              </div>
               <svg
                 width="26"
                 height="26"
