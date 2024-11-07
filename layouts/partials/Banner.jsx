@@ -64,25 +64,24 @@ const Banner = ({ banner }) => {
               <span className="min-w-max">{banner.video_button.label}</span>
             </button>
           </div>
-
-          <ModalVideo
-            channel="youtube"
-            autoplay={1}
-            isOpen={isOpen}
-            videoId={banner.video_button.youtube_id}
-            onClose={() => setOpen(false)}
-          />
         </div>
         <div className="banner-image banner-image-left -z-10" data-aos="fade-right" data-aos-delay="350">
-          <Image src="/images/chakra.svg" alt="supernova" width={550} height={550} />
+          <Image src="/images/chakra.svg" draggable={false} alt="supernova" width={550} height={550} />
         </div>
         <div className="banner-image banner-image-right -z-10" data-aos="fade-left" data-aos-delay="350">
-          <Image src="/images/chakra.svg" alt="supernova" width={500} height={500} />
+          <Image src="/images/chakra.svg" draggable={false} alt="supernova" width={500} height={500} />
         </div>
       </div>
       <div className="video-background">
         <VideoBG background_youtube_video_id={banner.background_youtube_video_id} />
       </div>
+      <ModalVideo
+        channel="youtube"
+        autoplay={1}
+        isOpen={isOpen}
+        videoId={banner.video_button.youtube_id}
+        onClose={() => setOpen(false)}
+      />
     </section>
   );
 };

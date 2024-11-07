@@ -12,7 +12,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .header {
-  @apply sticky top-0 z-30 bg-dark-primary/5 backdrop-blur-md;
+  @apply sticky top-0 z-[100] bg-dark-primary/5 backdrop-blur-md;
   &.navbar-open {
     @apply h-screen bg-dark-primary;
   }

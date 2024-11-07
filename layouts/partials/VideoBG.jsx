@@ -1,5 +1,5 @@
 import Image from "next/image";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const VideoBG = ({ background_youtube_video_id }) => {
   const [isVideoLoaded, setIsVideoLoaded] = useState(false);
@@ -30,7 +30,7 @@ const VideoBG = ({ background_youtube_video_id }) => {
     ></iframe>
   ) : (
     <Image
-      className="h-full object-cover object-top aspect-[1/3] sm:aspect-auto"
+      className="h-full object-cover object-top "
       src={`/images/banner-bg.png`}
       alt="video thumbnail"
       width={1920}
