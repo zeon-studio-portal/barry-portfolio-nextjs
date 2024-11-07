@@ -16,11 +16,7 @@ const LiveEvents = ({ liveEvents }) => {
           {list.length &&
             list.map((item, index) => {
               const aosDelay = 100 * (index % 2);
-              return (
-                <div key={index} data-aos="fade-up-sm" data-aos-delay={aosDelay}>
-                  <LiveEventCard key={index} item={item} />
-                </div>
-              );
+              return <LiveEventCard key={index} item={item} aosDelay={aosDelay} />;
             })}
         </div>
       </div>

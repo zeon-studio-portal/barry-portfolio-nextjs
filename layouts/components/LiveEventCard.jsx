@@ -2,7 +2,7 @@ import { useState } from "react";
 import ModalVideo from "react-modal-video";
 import ImageFallback from "./ImageFallback";
 
-const LiveEventCard = ({ item }) => {
+const LiveEventCard = ({ item, aosDelay }) => {
   const [isOpen, setOpen] = useState(false);
 
   return (

@@ -42,7 +42,7 @@ const Header = () => {
     <header className={`header ${toggleNavbar ? "navbar-open" : ""}`}>
       <nav className="navbar container items-start px-0 sm:items-center sm:px-4">
         {/* logo */}
-        <div className="order-0 mr-auto pl-4 sm:pl-0 lg:mr-0 ">
+        <div className="order-0 mr-auto pl-4 sm:pl-0 lg:mr-0 max-sm:max-w-[200px]">
           <Logo src={logo} />
         </div>
         {/* navbar toggler */}
@@ -171,7 +171,6 @@ const Header = () => {
             </Link>
           </li>
         </ul>
-
         <div className="order-1 mx-5 hidden items-center lg:order-2 md:block lg:mx-0 lg:hidden">
           <Link
             className="btn btn-sm btn-dark py-4 leading-none"
@@ -197,7 +196,6 @@ const Header = () => {
             </svg>
           </Link>
         </div>
-
         <div className="nav-menu-wrapper">
           <ul
             id="nav-menu"

@@ -38,11 +38,11 @@ const Banner = ({ banner }) => {
                       y2="104.907"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#0AA5FE" />
-                      <stop offset=".255" stop-color="#02DDEB" />
-                      <stop offset=".469" stop-color="#FDD13B" />
-                      <stop offset=".729" stop-color="#FF8F81" />
-                      <stop offset="1" stop-color="#C14ECF" />
+                      <stop stopColor="#0AA5FE" />
+                      <stop offset=".255" stopColor="#02DDEB" />
+                      <stop offset=".469" stopColor="#FDD13B" />
+                      <stop offset=".729" stopColor="#FF8F81" />
+                      <stop offset="1" stopColor="#C14ECF" />
                     </linearGradient>
                   </defs>
                 </svg>
