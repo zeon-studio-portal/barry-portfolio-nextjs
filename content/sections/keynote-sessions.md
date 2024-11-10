@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Barry's worked with 100 Fortune 500 companies
+title: 'Barry''s Most Popular Keynote Sessions '
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
@@ -205,4 +205,5 @@ list:
       inspiration to embark on your own journey of inner space travel. You’ll
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
+draft: false
 ---
