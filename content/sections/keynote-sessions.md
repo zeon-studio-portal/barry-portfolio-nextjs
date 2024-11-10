@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Advisor or Speaker to World’s Biggest Brands
+title: Barry's worked with 100 Fortune 500 companies
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
@@ -206,4 +206,3 @@ list:
       learn how to integrate these practices into your life, unlocking personal
       growth and transformation, and ultimately, living a life you truly love.
 ---
-
