@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'POWERFUL PANELS '
+title: 'POWERFUL PANEL SESSIONS '
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
