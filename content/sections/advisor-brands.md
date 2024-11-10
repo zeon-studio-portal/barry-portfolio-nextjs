@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Advisor or Speaker to World’s Biggest Brands
+title: Advisor or Speaker to Top Brands
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
@@ -39,4 +39,3 @@ list:
   - imageAlt: google
     image: /images/advisor-brands/advisor_brand_3.png
 ---
-
