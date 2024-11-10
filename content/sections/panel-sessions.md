@@ -1,6 +1,6 @@
 ---
 enable: true
-title: PANEL SESSIONS TO TURNKEY POSITIVITY
+title: 'POSITIVE PANEL SESSIONS '
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
