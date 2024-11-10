@@ -1,6 +1,6 @@
 ---
 enable: true
-title: HIRED BY 100+ FORTUNE 500 BRANDS
+title: TRUSTED ADVISOR & SPEAKER
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
