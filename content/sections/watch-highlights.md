@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'AUTHENTIC. POWERFUL. REFRESHING. ENERGIZING. PURE DELIGHT. '
+title: 'BARRY IS AUTHENTIC, PLAYFUL, & ENERGIZING. '
 subtitle: |+
   Barry is a top-rated speaker and transformative change agent.
 
