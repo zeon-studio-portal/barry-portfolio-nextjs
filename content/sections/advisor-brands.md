@@ -5,7 +5,9 @@ list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
   - imageAlt: visa
-    image: /images/advisor-brands/advisor_brand_14.png
+    image: /Visa logo.jpg
+    title: Visa
+    enable: true
   - imageAlt: loreal
     image: /images/advisor-brands/advisor_brand_15.png
   - imageAlt: fedex
@@ -38,4 +40,5 @@ list:
     image: /images/advisor-brands/advisor_brand_16.png
   - imageAlt: google
     image: /images/advisor-brands/advisor_brand_3.png
+draft: false
 ---
