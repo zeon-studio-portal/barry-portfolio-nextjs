@@ -1,7 +1,7 @@
 ---
 enable: true
-title: READY TO EXPERIENCE THE MAGIC?
-subtitle: Barry's a burst of pure positive energy to light up lives.
+title: WISDOM EXPRESSED CHANGES LIVES
+subtitle: See Barry in action as he pours in positive energy to light up lives.
 thumbnail: /images/highlight-thumbnail.png
 youtubeVideoId: 'UIQc7abikzE '
 draft: false
