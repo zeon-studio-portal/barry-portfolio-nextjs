@@ -2,7 +2,7 @@
 enable: true
 title: LET'S LIGHT UP THE WORLD
 subtitle: >-
-  My purpose is to ignite the transformation spark in others, so our collective
+  My purpose is to ignite the transformative spark in others, so our collective
   light shines like a supernova. 
 list:
   - enable: true
