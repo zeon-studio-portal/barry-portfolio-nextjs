@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Advisor or Speaker to Top Brands
+title: Barry's worked with 100 Fortune 500 companies
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
