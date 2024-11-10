@@ -25,10 +25,8 @@ bottom_section:
     hearts and minds. His gifts are real life-changing stories of
     transformation, cautionary tales, and actionable insights leading to
     sustainable work and life success. 
-  quote: >-
-    "Wisdom revealed and energy shared is what really resonates with
-    billionaires, scaleups, startups, and Fortune 500 executives."
-  name: 'Barry Stamos '
+  quote: '"Barry wins hearts and minds with his incredible energy and wisdom."'
+  name: 'Top-Rated Keynote Speaker & Experience Guide '
   button:
     enable: true
     label: Keynote Sessions
