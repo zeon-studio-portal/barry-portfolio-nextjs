@@ -1,6 +1,6 @@
 ---
 enable: true
-title: INTERVIEWS WITH BARRY STAMOS
+title: 'INSPIRING INTERVIEWS '
 list:
   - enable: true
     title: What is the future of luxury?
