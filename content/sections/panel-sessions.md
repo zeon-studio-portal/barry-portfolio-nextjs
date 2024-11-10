@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'AUTHENTIC PANEL SESSIONS '
+title: 'POWERFUL PANELS '
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
@@ -45,4 +45,5 @@ list:
       enable: true
       label: Read More
       link: '#'
+draft: false
 ---
