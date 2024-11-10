@@ -1,6 +1,6 @@
 ---
 enable: true
-title: THE POWER OF THE HUMAN SPIRIT AT WORK
+title: PUT THE HUMAN SPIRIT AT WORK
 subtitle: >-
   See Barry in action as he releases a tidal wave of positive energy to light up
   lives.
