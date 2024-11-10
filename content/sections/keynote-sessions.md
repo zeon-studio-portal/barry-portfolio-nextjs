@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'Most Requested Talks '
+title: 'BARRY''S MOST REQUESTED TALKS '
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
