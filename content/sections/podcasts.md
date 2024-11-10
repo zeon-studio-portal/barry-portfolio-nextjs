@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MORE POSITIVE PODCASTS
+title: PODCASTS WITH PURE POSITIVITY
 list:
   - enable: true
     head: Founders
