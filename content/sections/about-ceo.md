@@ -26,10 +26,11 @@ bottom_section:
     years building, scaling and growing by learning together with billionaires,
     celebrities, scaleups, startups, exited founders, and leaders of Fortune 500
     companies. 
-  quote: look forward to meeting your needs - </br> exactly as a speaker!
+  quote: '"We are all in the business of changing lives."'
   name: Barry Stamos
   button:
     enable: true
-    label: Keynote Sessions
-    link: /about
+    label: 'Most Popular Talks '
+    link: '/about '
+draft: false
 ---
