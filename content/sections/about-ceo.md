@@ -24,8 +24,10 @@ bottom_section:
     Barry's energizing talks are tailored to every audience and overflowing with
     real life-changing stories of transformation, cautionary tales, and
     actionable insights. 
-  quote: look forward to meeting your needs - </br> exactly as a speaker!
-  name: Barry Stamos
+  quote: >-
+    I share breakdowns and breakthroughs to inspire billionaires, celebrities,
+    scaleups, startups, exited founders, and leaders of Fortune 500 companies.
+  name: 'Barry Stamos '
   button:
     enable: true
     label: Keynote Sessions
