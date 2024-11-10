@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Barry's worked with 100+ Fortune 500 companies
+title: Barry's worked with 100+ Top Brands
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
