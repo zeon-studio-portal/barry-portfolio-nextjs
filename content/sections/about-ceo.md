@@ -20,17 +20,15 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >
-    Be it an arena of 10,000+ or a workshop of 20, Barry's talks are tailored to
-    elevate audiences to elevate audiences through life-changing stories of
-    transformation, cautionary tales, and actionable insights; based on my 25+
-    years building, scaling and growing by learning together with billionaires,
-    celebrities, scaleups, startups, exited founders, and leaders of Fortune 500
-    companies. 
-  quote: '"We are all in the business of changing lives."'
+    Be it a stage speaking to 10,000+ people or leading a workshop with 20,
+    Barry's energizing talks are tailored to every audience and overflowing with
+    real life-changing stories of transformation, cautionary tales, and
+    actionable insights. 
+  quote: look forward to meeting your needs - </br> exactly as a speaker!
   name: Barry Stamos
   button:
     enable: true
-    label: 'Most Popular Talks '
-    link: '/about '
+    label: Keynote Sessions
+    link: /about
 draft: false
 ---
