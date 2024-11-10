@@ -8,7 +8,7 @@ top_section:
   name: Barry Stamos
   designation: >-
     "I'll let you all in a little secret...We are ALL-in the business of
-    changing lives. It's not business, it's personal."
+    changing lives. It's not just business, it's personal."
   linkedin:
     enable: true
     label: linkedin.com/in/bstamos
