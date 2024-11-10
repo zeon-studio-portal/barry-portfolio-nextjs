@@ -25,8 +25,8 @@ bottom_section:
     Be it a stage speaking to 10,000+ people or facilitating an intimate
     workshop with 10 executives, Barry's talks are always tailored to fulfill
     hearts and minds. His gifts are real life-changing stories of
-    transformation, cautionary tales, and actionable insights for elevating work
-    and life success. 
+    transformation, cautionary tales, and actionable insights leading to
+    sustainable work and life success. 
   quote: >-
     "Breakdowns and breakthroughs inspire change in billionaires, celebrities,
     scaleups, startups, and Fortune 500 companies." 
