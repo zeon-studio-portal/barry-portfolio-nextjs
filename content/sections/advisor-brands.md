@@ -1,6 +1,6 @@
 ---
 enable: true
-title: TOP RATED BY FORTUNE 500 BRANDS
+title: HIRED BY 100+ FORTUNE 500 BRANDS
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
