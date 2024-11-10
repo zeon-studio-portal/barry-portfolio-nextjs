@@ -4,24 +4,13 @@ top_section:
   enable: true
   title: WHO IS **BARRY STAMOS**
   image: /images/speakers/barry_stamos.png
-  description: >-
-    bring 25+ years of breakdowns and breakthroughs as a startup founder (3
-    exits; IPO & Unicorn *), global corporate leader (Nasdaq), VC investor (Tier
-    1), and management consultant (Big 4). I am the CEO & Founder of Supernova
-    (150+ exited founders) and former Chief Heart Officer & Co-founder of 1heart
-    (Human accelerator), EIR at 500 Global (#1 VC in exits), Head of Investor
-    Relations at Arora Project (Raised $125M; Exit to Republic), Global Head of
-    Strategy & Innovation at Axiom (Built $318M business and exited for $2.3B
-    all-cash deal), and Founder of INBOX/Responsys (IPO and Exit to Oracle for
-    $1.6B). Consultant to 100+ Fortune 500 companies. Heart-led Leader. Speaker.
-    Mentor. Community Builder. Lover. Father. Brother. Son. Friend. Global
-    citizen.
+  description: ' Barry''s purpose is to ignite the transformative spark in others, so our collective light shines as bright as a Supernova. ⭐️ Street creds: 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn), Tier 1 VC (EIR), Corporate Innovation Leader (Public company), & Management Consultant (Big 4). Barry is the CEO & Founder of Supernova (150+ exited founders) and former Chief Heart Officer & Co-founder of 1heart (Human accelerator), EIR at 500 Global (#1 VC in exits), Head of Investor Relations at Arora Project (Raised $125M; Exit to Republic), Global Head of Strategy & Innovation at Axiom (Built $318M business and exited for $2.3B all-cash deal), and Founder of INBOX/Responsys (IPO and Exit to Oracle for $1.6B). Barry has been hired as a speaker or consultant to 100+ Fortune 500 companies. Heart-led Leader. Speaker. Mentor. Community Builder. Lover. Father. Brother. Son. Friend. Global citizen.'
   name: Barry Stamos
   designation: Founder & CEO
   linkedin:
     enable: true
     label: linkedin.com/in/bstamos
-    link: 'https://www.linkedin.com/linkedin.com/in/bstamos'
+    link: https://www.linkedin.com/linkedin.com/in/bstamos
   button:
     enable: true
     label: Book Barry
@@ -43,4 +32,3 @@ bottom_section:
     label: Keynote Sessions
     link: /about
 ---
-
