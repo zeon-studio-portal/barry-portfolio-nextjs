@@ -1,9 +1,7 @@
 ---
 enable: true
-title: PUT THE HUMAN SPIRIT AT WORK
-subtitle: >-
-  See Barry in action as he releases a tidal wave of positive energy to light up
-  lives.
+title: THE HUMAN SPIRIT AT WORK
+subtitle: Experience tidal wave of positive energy to light up lives.
 thumbnail: /images/highlight-thumbnail.png
 youtubeVideoId: 'UIQc7abikzE '
 draft: false
