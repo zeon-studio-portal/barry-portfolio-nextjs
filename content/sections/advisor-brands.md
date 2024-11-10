@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Barry's worked with 100 Fortune 500 companies
+title: Barry's worked with 100+ Fortune 500 companies
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
@@ -34,8 +34,9 @@ list:
     image: /images/advisor-brands/advisor_brand_9.png
   - imageAlt: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
-  - imageAlt: generalmotors
-    image: /images/advisor-brands/advisor_brand_6.png
+  - imageAlt: General Motors Logo
+    image: /gm-logo.png
+    title: GM
   - imageAlt: lufthands
     image: /images/advisor-brands/advisor_brand_16.png
   - imageAlt: google
