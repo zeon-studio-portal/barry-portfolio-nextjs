@@ -19,12 +19,13 @@ bottom_section:
   enable: true
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
-  description: >-
-    Be it an arena of 10,000+ or a workshop of 20, my talks are tailored to
-    elevate audiences through hanging stories of transformation, cautionary
-    tales, and actionable insights; based on my 25+ years building, scaling and
-    growing by learning together with billionaires, celebrities, scaleups,
-    startups, exited founders, and leaders of Fortune 500 companies.
+  description: >
+    Be it an arena of 10,000+ or a workshop of 20, Barry's talks are tailored to
+    elevate audiences to elevate audiences through life-changing stories of
+    transformation, cautionary tales, and actionable insights; based on my 25+
+    years building, scaling and growing by learning together with billionaires,
+    celebrities, scaleups, startups, exited founders, and leaders of Fortune 500
+    companies. 
   quote: look forward to meeting your needs - </br> exactly as a speaker!
   name: Barry Stamos
   button:
