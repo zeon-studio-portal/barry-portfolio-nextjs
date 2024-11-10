@@ -27,7 +27,7 @@ bottom_section:
     sustainable work and life success. 
   quote: >-
     "Barry wins hearts and minds with his incredible energy and wisdom from the
-    world's billionaires, celebrities, founders and executives."
+    world's billionaires, celebrities, founders, and executives."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
