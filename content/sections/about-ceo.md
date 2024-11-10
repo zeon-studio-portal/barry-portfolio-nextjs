@@ -26,8 +26,8 @@ bottom_section:
     transformation, cautionary tales, and actionable insights leading to
     sustainable work and life success. 
   quote: >-
-    "Breakdowns and breakthroughs inspire change in billionaires, celebrities,
-    scaleups, startups, and Fortune 500 companies." 
+    "Real wisdom shared is rare these days. That's why I resonate with
+    billionaires, celebrities, scaleups, startups, and Fortune 500 executives." 
   name: 'Barry Stamos '
   button:
     enable: true
