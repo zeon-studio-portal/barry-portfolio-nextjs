@@ -26,8 +26,8 @@ bottom_section:
     transformation, cautionary tales, and actionable insights leading to
     sustainable work and life success. 
   quote: >-
-    "Big energy and real wisdom revealed is why I resonate with billionaires,
-    scaleups, startups, and Fortune 500 executives." 
+    "Real wisdom and pure energy is why I resonate with billionaires, scaleups,
+    startups, and Fortune 500 executives."
   name: 'Barry Stamos '
   button:
     enable: true
