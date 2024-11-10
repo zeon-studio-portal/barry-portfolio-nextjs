@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Podcasts
+title: PODCASTS
 list:
   - enable: true
     head: Founders
@@ -33,4 +33,3 @@ list:
     thumbnail: /images/podcasts/image.png
     youtubeVideoId: cEHP_LeBeyQ
 ---
-
