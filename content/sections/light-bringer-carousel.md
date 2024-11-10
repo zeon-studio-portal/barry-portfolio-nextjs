@@ -2,8 +2,8 @@
 enable: true
 title: LET'S LIGHT UP THE WORLD
 subtitle: >-
-  My soul's purpose is to ignite the transformation spark in others, so our
-  collective light shines like a supernova.
+  My purpose is to ignite the transformation spark in others, so our collective
+  light shines like a supernova. 
 list:
   - enable: true
     quote: >-
@@ -41,4 +41,5 @@ list:
       truth-tellers, and without them, humanity would lose its way in the dark."
     author: PLATO
     image: /images/light-bringer/image.png
+draft: false
 ---
