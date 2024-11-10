@@ -1,9 +1,8 @@
 ---
 enable: true
-title: Get started with <br> Supernova today
+title: Book Barry
 button:
   enable: true
-  label: ""
-  link: ""
+  label: ''
+  link: ''
 ---
-
