@@ -26,8 +26,8 @@ bottom_section:
     transformation, cautionary tales, and actionable insights leading to
     sustainable work and life success. 
   quote: >-
-    "Barry wins hearts and minds with his incredible energy and wisdom sharing
-    real-life stories of transformation."
+    "Barry wins hearts and minds with his incredible energy and wisdom from the
+    world's billionaires, celebrities, founders and executives."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
