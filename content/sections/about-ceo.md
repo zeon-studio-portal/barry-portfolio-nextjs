@@ -25,7 +25,9 @@ bottom_section:
     hearts and minds. His gifts are real life-changing stories of
     transformation, cautionary tales, and actionable insights leading to
     sustainable work and life success. 
-  quote: '"Barry wins hearts and minds with his incredible energy and wisdom."'
+  quote: >-
+    "Barry wins hearts and minds with his incredible energy and wisdom sharing
+    real-life stories of transformation."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
