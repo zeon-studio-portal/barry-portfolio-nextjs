@@ -22,13 +22,15 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >
-    Be it a stage speaking to 10,000+ people or leading a workshop with 20,
-    Barry's energizing talks are tailored to every audience and overflowing with
-    real life-changing stories of transformation, cautionary tales, and
-    actionable insights. 
+    Be it a stage speaking to 10,000+ people or facilitating an intimate
+    workshop with 10 executives, Barry's talks are always tailored to fulfill
+    hearts and minds. His gifts are real life-changing stories of
+    transformation, cautionary tales, and actionable insights for elevating work
+    and life success. 
   quote: >-
-    I share breakdowns and breakthroughs to inspire billionaires, celebrities,
-    scaleups, startups, exited founders, and leaders of Fortune 500 companies.
+    "I share real breakdowns and breakthroughs to inspire audiences of all types
+    including billionaires, celebrities, scaleups, startups, as well as leaders
+    of Fortune 500 companies."
   name: 'Barry Stamos '
   button:
     enable: true
