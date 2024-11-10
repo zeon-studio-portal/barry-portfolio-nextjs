@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING...
-subtitle: Barry is a top-rated speaker and transformative change agent.
+subtitle: Barry releases a tidal wave of positive energy to light up lives.
 items:
   - name: Beric Meric
     image: /images/testimonials/ivy.png
