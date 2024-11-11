@@ -21,7 +21,7 @@ items:
     company: Volcano Summit
     quote: >-
       “BARRY STAMOS KEYNOTES OUR ANNUAL SUMMIT AND IS ONE OF THE MOST IMPACTFUL
-      SPEAKER WE’VE EVER HAD.      WE INVITE HIM TO RETURN EVERY YEAR.”
+      SPEAKERS WE’VE EVER HAD.  WE INVITE HIM TO RETURN EVERY YEAR.”
   - name: Beric Meric
     image: /images/testimonials/ivy.png
     designation: "Founder of IVY.com\_"
