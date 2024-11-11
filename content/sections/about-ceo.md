@@ -20,14 +20,14 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >-
-    Be it a stage speaking to 10,000+ people or facilitating an intimate
-    workshop with 10 executives, Barry's talks are always tailored to fulfill
-    hearts and minds. He gifts life-changing stories of transformation,
-    cautionary tales, and actionable insights to positively impact audiences,
-    including billionaires, celebrities, founders, and leaders worldwide. He
-    goes beyond a talk and seeds in hearts and heads an aliveness that reminds
-    us to apply our lifeforce energy and business to do the good work for the
-    world."
+    Whether addressing an audience of 10,000 or guiding an intimate workshop for
+    a handful of executives, Barry’s talks are masterfully tailored to inspire
+    both hearts and minds. Through transformative stories, cautionary insights,
+    and actionable strategies, he delivers a life-changing impact on audiences
+    around the globe—from billionaires and celebrities to founders and leaders.
+    More than just a talk, Barry plants a powerful reminder within each listener
+    to channel their energy and business pursuits into meaningful, positive
+    contributions for the world."
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
