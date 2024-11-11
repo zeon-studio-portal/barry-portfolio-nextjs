@@ -28,7 +28,7 @@ bottom_section:
     goes beyond traditional talks and seeds in our hearts and heads an aliveness
     that our lifeforce energy and business is a platform for doing the good work
     in the world."
-  quote: '"Barry delivers epic experiences that truly transform lives."'
+  quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
