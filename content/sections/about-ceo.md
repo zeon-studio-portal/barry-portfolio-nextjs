@@ -20,8 +20,8 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >-
-    Whether addressing an audience of 10,000 or guiding an intimate workshop for
-    a handful of executives, Barry’s talks are masterfully tailored to inspire
+    Electrifying an audience of 10,000 or guiding an intimate workshop for a
+    handful of executives, Barry’s talks are masterfully tailored to inspire
     both hearts and minds. Through transformative stories, cautionary insights,
     and actionable strategies, he delivers a life-changing impact on audiences
     around the globe—from billionaires and celebrities to founders and leaders.
