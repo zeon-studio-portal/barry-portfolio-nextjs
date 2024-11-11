@@ -26,9 +26,8 @@ bottom_section:
     transformation, cautionary tales, and actionable insights for going beyond
     business as usually to truly transform lives.
   quote: >-
-    "Barry wins hearts and minds with his incredible energy and wisdom to win
-    over billionaires, celebrities, founders, and executives all over the
-    world."
+    "Barry works with billionaires, celebrities, founders, and leaders all over
+    the world."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
