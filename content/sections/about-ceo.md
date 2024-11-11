@@ -26,7 +26,7 @@ bottom_section:
     cautionary tales, and actionable insights and goes beyond business to truly
     transform lives.
   quote: >-
-    "Barry delights audiences of all kinds including billionaires, celebrities,
+    "Barry delights audiences of all kinds, including billionaires, celebrities,
     founders, and leaders worldwide."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
