@@ -14,7 +14,7 @@ list:
     image: /images/advisor-brands/advisor_brand_8.png
   - imageAlt: under
     image: /images/advisor-brands/advisor_brand_10.png
-  - imageAlt: wholefoods
+  - imageAlt: Whole Foods Market
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
   - imageAlt: axa
     image: /images/advisor-brands/advisor_brand_12.png
