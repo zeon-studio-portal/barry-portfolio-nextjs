@@ -46,7 +46,7 @@ list:
     title: JP Morgan Chase
   - imageAlt: StubHub
     image: /Stubhub.jpg
-  - imageAlt: ''
-    image: ''
+  - imageAlt: Meta
+    image: /Meta.webp
 draft: false
 ---
