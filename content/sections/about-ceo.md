@@ -20,14 +20,14 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >-
-    Be it electrifying an audience of 10,000+ or serving as a guiding light in
-    an intimate workshop for a handful of executives, Barry masterfully tailors
-    his talks into experiences to ignite both hearts and minds. Through
-    transformative stories, cautionary tales, and actionable insights, he
-    delivers a life-changing impact on audiences around the globe—from
-    billionaires and celebrities to founders and leaders. More than just a talk,
-    Barry sparks within each listener ways to channel their energy and business
-    pursuits into meaningful, positive contributions for the world.
+    Be it on stage electrifying an audience of 10,000+ in an arena or simply
+    facilitating an intimate workshop for a handful of executives, Barry
+    masterfully tailors talks and transforms experiences to ignite both hearts
+    and minds. Through transformative stories, cautionary tales, and actionable
+    insights, he delivers a life-changing impact on audiences around the
+    globe—from billionaires and celebrities to founders and leaders. More than
+    just a talk, Barry sparks within each listener ways to channel their energy
+    and business pursuits into meaningful, positive contributions for the world.
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
