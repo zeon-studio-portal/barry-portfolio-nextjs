@@ -40,10 +40,12 @@ items:
     designation: "Founder of IVY.com\_"
     company: Tuft & Needle. YPO Forum Member
     quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
-  - name: Beric Meric
-    image: /images/testimonials/ivy.png
-    designation: "Founder of IVY.com\_"
-    company: Tuft & Needle. YPO Forum Member
-    quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
+  - name: Klaas Weima
+    image: ''
+    designation: CEO & Founder
+    company: Energize
+    quote: >-
+      “Barry is an energetic speaker and consultant and blew my clients away
+      during an e-mail workshop we held in Amsterdam. Highly recommendable..”
 draft: false
 ---
