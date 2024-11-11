@@ -26,8 +26,9 @@ bottom_section:
     cautionary tales, and actionable insights to positively impact audiences,
     including billionaires, celebrities, founders, and leaders worldwide."
   quote: >-
-    "Barry inspires audiences to use business as a force for good to truly
-    transform lives.  
+    "Barry delivers epic experiences that truly transform lives. His message is
+    a powerful wake-up call to use our lifeforce energy and business as a force
+    for good."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
