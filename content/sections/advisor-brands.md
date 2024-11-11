@@ -14,7 +14,7 @@ list:
     image: /images/advisor-brands/advisor_brand_8.png
   - imageAlt: under
     image: /images/advisor-brands/advisor_brand_10.png
-  - imageAlt: Whole Foods Market
+  - imageAlt: wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
   - imageAlt: axa
     image: /images/advisor-brands/advisor_brand_12.png
@@ -44,8 +44,8 @@ list:
   - imageAlt: JP Morgan Chase
     image: /JP Morgan Chase.png
     title: JP Morgan Chase
-  - imageAlt: ''
-    image: ''
+  - imageAlt: StubHub
+    image: /Stubhub.jpg
   - imageAlt: ''
     image: ''
 draft: false
