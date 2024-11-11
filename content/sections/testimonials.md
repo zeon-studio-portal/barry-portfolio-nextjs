@@ -35,8 +35,8 @@ items:
     designation: CEO
     company: ''
     quote: “Barry is THE most upbeat and energetic change agent I have EVER met. .”
-  - name: Beric Meric
-    image: /images/testimonials/ivy.png
+  - name: Jeff Brown
+    image: ''
     designation: "Founder of IVY.com\_"
     company: Tuft & Needle. YPO Forum Member
     quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
