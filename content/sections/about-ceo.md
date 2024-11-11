@@ -22,12 +22,12 @@ bottom_section:
   description: >
     Be it a stage speaking to 10,000+ people or facilitating an intimate
     workshop with 10 executives, Barry's talks are always tailored to fulfill
-    hearts and minds. His gifts are real life-changing stories of
-    transformation, cautionary tales, and actionable insights for going beyond
-    business as usually to truly transform lives.
+    hearts and minds. He gifts real life-changing stories of transformation,
+    cautionary tales, and actionable insights and goes beyond business to truly
+    transform lives.
   quote: >-
-    "Barry has won the hearts and minds of billionaires, celebrities, founders,
-    and leaders all around the world."
+    "Barry delights audiences of all kinds including billionaires, celebrities,
+    founders, and leaders worldwide."
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
