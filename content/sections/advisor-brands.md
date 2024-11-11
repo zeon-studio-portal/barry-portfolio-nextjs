@@ -41,5 +41,12 @@ list:
     image: /images/advisor-brands/advisor_brand_16.png
   - imageAlt: google
     image: /images/advisor-brands/advisor_brand_3.png
+  - imageAlt: JP Morgan Chase
+    image: /JP Morgan Chase.png
+    title: JP Morgan Chase
+  - imageAlt: ''
+    image: ''
+  - imageAlt: ''
+    image: ''
 draft: false
 ---
