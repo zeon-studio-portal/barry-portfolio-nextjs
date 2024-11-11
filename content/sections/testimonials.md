@@ -10,7 +10,7 @@ items:
     quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
   - name: Matti Anttila
     image: /ypo-logo-white.png
-    designation: Head
+    designation: President
     company: YPO Southern 7
     quote: >-
       “BARRY IS A RARE FIND. HE WEAVES WISDOM AS A UNICORN FOUNDER, FORTUNE 500
