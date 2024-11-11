@@ -25,9 +25,9 @@ bottom_section:
     both hearts and minds. Through transformative stories, cautionary insights,
     and actionable strategies, he delivers a life-changing impact on audiences
     around the globe—from billionaires and celebrities to founders and leaders.
-    More than just a talk, Barry plants a powerful reminder within each listener
-    to channel their energy and business pursuits into meaningful, positive
-    contributions for the world."
+    More than just a talk, Barry sparks within each listener ways to channel
+    their energy and business pursuits into meaningful, positive contributions
+    for the world."
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
