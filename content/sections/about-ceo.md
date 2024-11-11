@@ -26,7 +26,7 @@ bottom_section:
     hearts and minds. Through transformative stories, cautionary tales, and
     actionable insights, he delivers a life-changing impact on audiences around
     the globe—from billionaires and celebrities to founders and leaders. More
-    than just a talk, Barry sparks within each listener ways to channel their
+    than just a talk, he sparks within each listener ways to channel their
     energy and business pursuits into meaningful, positive contributions to the
     world.
   quote: '"Barry delivers experiences that truly transform lives."'
