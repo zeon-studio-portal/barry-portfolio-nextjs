@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MOST POPULAR TALKS IN 2024
+title: MOST POPULAR TALKS
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
