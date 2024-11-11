@@ -20,7 +20,7 @@ bottom_section:
   title: WHAT TO **EXPECT**
   image: /images/speakers/founder-1.png
   description: >-
-    Be it electrifying an audience of 10,000+ by speaking on stage or simply
+    Be it electrifying an audience of 10,000+ by speaking on stage or
     facilitating an intimate workshop for a handful of executives, Barry
     masterfully tailors talks into transformative experiences to ignite both
     hearts and minds. Through transformative stories, cautionary tales, and
