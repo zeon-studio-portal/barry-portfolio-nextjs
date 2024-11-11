@@ -23,12 +23,11 @@ bottom_section:
     Be it a stage speaking to 10,000+ people or facilitating an intimate
     workshop with 10 executives, Barry's talks are always tailored to fulfill
     hearts and minds. He gifts life-changing stories of transformation,
-    cautionary tales, and actionable insights to audiences to impact audiences
-    of all kinds, including billionaires, celebrities, founders, and leaders
-    worldwide."
+    cautionary tales, and actionable insights to positively impact audiences,
+    including billionaires, celebrities, founders, and leaders worldwide."
   quote: >-
     "Barry inspires audiences to use business as a force for good to truly
-    transform lives. 
+    transform lives.  
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
