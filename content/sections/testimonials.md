@@ -8,9 +8,9 @@ items:
     designation: "Founder of IVY.com\_"
     company: Tuft & Needle. YPO Forum Member
     quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
-  - name: Matti
-    image: ''
-    designation: Leader
+  - name: Matti Anttila
+    image: /ypo-logo-white.png
+    designation: Head
     company: YPO Southern 7
     quote: >-
       “BARRY IS A RARE FIND. HE WEAVES WISDOM AS A UNICORN FOUNDER, FORTUNE 500
