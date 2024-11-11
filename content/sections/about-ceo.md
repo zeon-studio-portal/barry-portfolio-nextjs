@@ -24,11 +24,11 @@ bottom_section:
     workshop with 10 executives, Barry's talks are always tailored to fulfill
     hearts and minds. He gifts life-changing stories of transformation,
     cautionary tales, and actionable insights to positively impact audiences,
-    including billionaires, celebrities, founders, and leaders worldwide."
-  quote: >-
-    "Barry delivers epic experiences that truly transform lives. His message is
-    a powerful wake-up call to use our lifeforce energy and business as a force
-    for good."
+    including billionaires, celebrities, founders, and leaders worldwide. He
+    goes beyond traditional talks and seeds in our hearts and heads an aliveness
+    that our lifeforce energy and business is a platform for doing the good work
+    in the world."
+  quote: '"Barry delivers epic experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
