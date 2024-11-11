@@ -11,7 +11,7 @@ list:
   - imageAlt: loreal
     image: /images/advisor-brands/advisor_brand_15.png
   - imageAlt: fedex
-    image: /images/advisor-brands/advisor_brand_8.png
+    image: /fedex-logo-0.png
   - imageAlt: under
     image: /images/advisor-brands/advisor_brand_10.png
   - imageAlt: wholefoods
