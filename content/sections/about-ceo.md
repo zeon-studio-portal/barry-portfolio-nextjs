@@ -25,9 +25,9 @@ bottom_section:
     hearts and minds. He gifts life-changing stories of transformation,
     cautionary tales, and actionable insights to positively impact audiences,
     including billionaires, celebrities, founders, and leaders worldwide. He
-    goes beyond traditional talks and seeds in our hearts and heads an aliveness
-    that our lifeforce energy and business is a platform for doing the good work
-    in the world."
+    goes beyond a talk and seeds in hearts and heads an aliveness that reminds
+    us to apply our lifeforce energy and business to do the good work for the
+    world."
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
