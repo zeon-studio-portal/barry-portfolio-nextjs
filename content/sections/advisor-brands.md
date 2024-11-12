@@ -1,7 +1,9 @@
 ---
 enable: true
 title: TRUSTED ADVISOR & SPEAKER
-subtitle: Subtitle goes here ...
+subtitle: >-
+  Barry's been a paid consultant, advisor or speaker to 100+ Fortune 500
+  companies
 list:
   - enable: true
     title: microsoft
