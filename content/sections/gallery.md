@@ -30,7 +30,7 @@ bottomList:
     alt: gallery image
   - image: /flyer.jpeg
     alt: gallery image
-  - image: /images/gallery/04.png
+  - image: ''
     alt: gallery image
   - image: /images/gallery/05.png
     alt: gallery image
