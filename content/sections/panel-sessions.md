@@ -2,7 +2,7 @@
 enable: true
 title: POWERFUL PANEL SESSIONS
 subtitle: >-
-  Barry believes we tell a better story together and can serve a panelist or
+  Barry believes we tell a better story together and can serve as a panelist or
   lead and facilitate them.  
 list:
   - head: Entrepreneurship
