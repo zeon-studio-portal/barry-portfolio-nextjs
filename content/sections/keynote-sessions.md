@@ -177,7 +177,7 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Ai & the Future of Work
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
-    youtubeVideoId: UIQc7abikzE
+    youtubeVideoId: ''
     youtubeVideoStartTime: ''
     image: /images/keynote-sessions/image-5.png
     imageAlt: keynotes image
