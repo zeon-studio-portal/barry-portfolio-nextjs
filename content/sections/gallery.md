@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Gallery Images
+title: Gallery Images.
 galleryImageWidth: 250px
 animationSpeedForTop: 105s
 animationSpeedForBottom: 120s
