@@ -1,6 +1,6 @@
 ---
 enable: true
-title: POWERFUL PANEL SESSIONS
+title: EXTRAORDINARY PANEL SESSIONS
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
   lead and facilitate them.  
