@@ -2,8 +2,8 @@
 enable: true
 title: POWERFUL PANEL SESSIONS
 subtitle: >-
-  Barry is content simply being a panelist or leading and bringing a panel of
-  celebrities, billionaires, exited founders and/or artists.
+  Barry believes we tell a better story together and can serve a panelist or
+  lead and facilitate them.  
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
