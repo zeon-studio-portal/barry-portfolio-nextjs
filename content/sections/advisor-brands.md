@@ -79,8 +79,8 @@ list:
     image: /starwars.png
   - title: virgin
     image: /virgin-logo-black-and-white.png
-  - title: ''
-    image: ''
+  - title: macys
+    image: /macys.png
   - title: ''
     image: ''
   - title: ''
