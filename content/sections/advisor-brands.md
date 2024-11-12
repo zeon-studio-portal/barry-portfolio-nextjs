@@ -77,8 +77,8 @@ list:
     image: /P&G.png
   - title: starwars
     image: /starwars.png
-  - title: ''
-    image: ''
+  - title: virgin
+    image: /virgin-logo-black-and-white.png
   - title: ''
     image: ''
   - title: ''
