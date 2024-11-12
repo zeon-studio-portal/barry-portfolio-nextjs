@@ -1,11 +1,9 @@
 ---
 banner:
-  title: The Business of Changing Lives 
-  subtitle: >-
-    Wisdom From A Former Spiritually Bankrupt Silicon </br> Valley Unicorn Founder
+  title: Beyond Business As Usual
+  subtitle: 'Transform Work, Elevate Life, Impact The World '
   background_youtube_video_id: Mq61xLTDdGI
   video_button:
     label: Watch Barry in Action
     youtube_id: Mq61xLTDdGI
 ---
-
