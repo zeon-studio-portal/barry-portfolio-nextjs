@@ -10,8 +10,8 @@ list:
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     youtubeVideoId: UIQc7abikzE
   - enable: true
-    title: Community Building
-    thumbnail: /images/live-events/image-2.png
+    title: TRANSFORMATIVE RETREATS
+    thumbnail: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
     youtubeVideoId: UIQc7abikzE
 draft: false
 ---
