@@ -146,7 +146,7 @@ list:
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-4.png
+    image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     imageAlt: keynotes image
     description: >-
       Scaling a business is one of the most challenging and critical phases in
