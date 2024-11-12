@@ -7,7 +7,7 @@ subtitle: >-
 list:
   - enable: true
     title: COMPANY OFFSITES
-    thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
+    thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     youtubeVideoId: UIQc7abikzE
   - enable: true
     title: Community Building
