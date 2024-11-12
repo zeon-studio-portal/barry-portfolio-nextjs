@@ -47,7 +47,7 @@ list:
     image: /images/advisor-brands/advisor_brand_18.png
   - enable: true
     title: nike
-    image: /images/advisor-brands/advisor_brand_9.png
+    image: /nike_PNG4.png
   - enable: true
     title: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
@@ -85,5 +85,5 @@ list:
     image: ''
   - title: ''
     image: ''
-draft: true
+draft: false
 ---
