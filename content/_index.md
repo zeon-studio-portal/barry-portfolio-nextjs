@@ -1,7 +1,7 @@
 ---
 banner:
   title: Beyond Business As Usual
-  subtitle: Elevating Work and Life for Greater Good
+  subtitle: Elevating Work and Life For Success That Matters
   background_youtube_video_id: Mq61xLTDdGI
   video_button:
     label: Watch Barry in Action
