@@ -2,8 +2,8 @@
 enable: true
 title: POWERFUL PANEL SESSIONS
 subtitle: >-
-  Barry loves facilitating panels and is a superconnector who can bring to
-  events celebrities, billionaires, exited founders and artists.
+  Barry is content simply being a panelist or leading and bringing a panel of
+  celebrities, billionaires, exited founders and/or artists.
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
