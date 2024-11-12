@@ -11,7 +11,7 @@ top_section:
   linkedin:
     enable: true
     label: linkedin.com/in/bstamos
-    link: https://www.linkedin.com/linkedin.com/in/bstamos
+    link: https://www.linkedin.com/in/bstamos/
   button:
     enable: true
     label: Book Barry
