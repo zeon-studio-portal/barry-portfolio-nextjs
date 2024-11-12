@@ -1,13 +1,13 @@
 ---
 enable: true
-title: TRANSFORMATIVE OFFSITE RETREATS
+title: COMPANY OFFSITES & RETREATS
 subtitle: >-
-  Barry is a masterful experience guide who respects that everyone plays a part
-  in a symphony of synchronicities. 
+  Barry is an experienced guide for professional and personal transformative
+  experiences. 
 list:
   - enable: true
-    title: Transformative Company Events
-    thumbnail: /images/podcasts/image.png
+    title: Transformative Retreats
+    thumbnail: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
     youtubeVideoId: UIQc7abikzE
   - enable: true
     title: Community Building
