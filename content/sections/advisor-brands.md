@@ -10,7 +10,7 @@ list:
     image: /images/advisor-brands/advisor_brand_13.png
   - enable: true
     title: visa
-    image: /Visa logo.jpg
+    image: /visa.png
   - enable: true
     title: loreal
     image: /images/advisor-brands/advisor_brand_15.png
