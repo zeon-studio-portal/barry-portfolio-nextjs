@@ -28,7 +28,7 @@ bottomList:
     alt: gallery image
   - image: /Bio-8.JPG
     alt: gallery image
-  - image: /images/gallery/03.png
+  - image: /flyer.jpeg
     alt: gallery image
   - image: /images/gallery/04.png
     alt: gallery image
@@ -42,5 +42,5 @@ bottomList:
     alt: gallery image
   - image: /images/gallery/09.png
     alt: gallery image
-draft: true
+draft: false
 ---
