@@ -6,8 +6,8 @@ subtitle: >-
   experiences. 
 list:
   - enable: true
-    title: Transformative Retreats
-    thumbnail: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
+    title: COMPANY OFFSITES
+    thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
     youtubeVideoId: UIQc7abikzE
   - enable: true
     title: Community Building
