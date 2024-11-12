@@ -24,7 +24,7 @@ topList:
   - image: /images/gallery/09.png
     alt: gallery image
 bottomList:
-  - image: /images/gallery/01.png
+  - image: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     alt: gallery image
   - image: /images/gallery/02.png
     alt: gallery image
@@ -43,4 +43,3 @@ bottomList:
   - image: /images/gallery/09.png
     alt: gallery image
 ---
-
