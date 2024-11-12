@@ -1,7 +1,9 @@
 ---
 enable: true
-title: 'POWERFUL PANEL SESSIONS'
-subtitle: Subtitle goes here...
+title: POWERFUL PANEL SESSIONS
+subtitle: >-
+  Barry loves facilitating panels and is a superconnector who can bring to
+  events celebrities, billionaires, exited founders and artists.
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
