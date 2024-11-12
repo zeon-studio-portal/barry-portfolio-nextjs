@@ -1,7 +1,9 @@
 ---
 enable: true
 title: 'EXTRAORDINARY LIVE EVENTS '
-subtitle: 'Subtitle goes here ...'
+subtitle: >-
+  Barry is a masterful experience guide who respects that everyone plays a part
+  in a symphony of synchronicities. 
 list:
   - enable: true
     title: Transformative Company Events
