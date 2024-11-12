@@ -1,7 +1,9 @@
 ---
 enable: true
 title: PODCASTS WITH POSITIVITY
-subtitle: 'Subtitle goes here ...'
+subtitle: >-
+  In a world full of depression and despair, Barry believes it's upon us to
+  shine brighter than ever together. 
 list:
   - enable: true
     head: Founders
