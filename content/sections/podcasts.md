@@ -2,8 +2,8 @@
 enable: true
 title: PODCASTS WITH POSITIVITY
 subtitle: >-
-  In a world full of depression and despair, Barry believes it's upon us to
-  shine brighter than ever together. 
+  Barry is available for podcasts interested in serving as a source of light and
+  goodness.
 list:
   - enable: true
     head: Founders
@@ -35,4 +35,5 @@ list:
     title: "Extreme Makeovers:\_Stories of Human Transformation 6"
     thumbnail: /images/podcasts/image.png
     youtubeVideoId: cEHP_LeBeyQ
+draft: false
 ---
