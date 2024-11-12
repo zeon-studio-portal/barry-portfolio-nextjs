@@ -32,7 +32,7 @@ bottomList:
     alt: gallery image
   - image: ''
     alt: gallery image
-  - image: /images/gallery/05.png
+  - image: /MastersofScaleSummit2024.jpg
     alt: gallery image
   - image: /images/gallery/06.png
     alt: gallery image
