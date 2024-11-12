@@ -71,8 +71,8 @@ list:
     image: /Meta.webp
   - title: Disney
     image: /Disney.png
-  - title: ''
-    image: ''
+  - title: IAC
+    image: /logo-iac-new-white.webp
   - title: ''
     image: ''
 draft: true
