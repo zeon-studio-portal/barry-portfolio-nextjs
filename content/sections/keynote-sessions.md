@@ -108,7 +108,7 @@ list:
     title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-3.png
+    image: /Founder Stories.jpg
     imageAlt: keynotes image
     description: >-
       In today’s rapidly evolving business landscape, traditional approaches can
