@@ -1,6 +1,6 @@
 ---
 enable: true
-title: LIVE EVENTS & OFFSITE RETREATS
+title: TRANSFORMATIVE EVENTS & OFFSITE RETREATS
 subtitle: >-
   Barry is a masterful experience guide who respects that everyone plays a part
   in a symphony of synchronicities. 
@@ -13,4 +13,5 @@ list:
     title: Community Building
     thumbnail: /images/live-events/image-2.png
     youtubeVideoId: UIQc7abikzE
+draft: false
 ---
