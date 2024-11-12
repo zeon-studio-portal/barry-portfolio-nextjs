@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'TRANFORMATIVE LIVE EVENTS '
+title: LIVE EVENTS & OFFSITE RETREATS
 subtitle: >-
   Barry is a masterful experience guide who respects that everyone plays a part
   in a symphony of synchronicities. 
