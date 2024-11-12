@@ -81,8 +81,8 @@ list:
     image: /virgin-logo-black-and-white.png
   - title: macys
     image: /macys.png
-  - title: ''
-    image: ''
+  - title: ASU
+    image: /ASU-symbol.jpg
   - title: ''
     image: ''
 draft: false
