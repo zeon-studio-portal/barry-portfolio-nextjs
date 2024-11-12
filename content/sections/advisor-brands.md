@@ -59,7 +59,7 @@ list:
     image: /images/advisor-brands/advisor_brand_16.png
   - enable: true
     title: google
-    image: /images/advisor-brands/advisor_brand_3.png
+    image: /google-white-logo-2.png
   - enable: true
     title: JP Morgan Chase
     image: /JP Morgan Chase.png
