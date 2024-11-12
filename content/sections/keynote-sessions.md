@@ -1,7 +1,9 @@
 ---
 enable: true
 title: MOST POPULAR TALKS
-subtitle: Subtitle goes here...
+subtitle: >-
+  Barry tailors his talks to meet audiences' needs and delight hearts and
+  minds. 
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
