@@ -41,7 +41,7 @@ list:
     image: /images/advisor-brands/advisor_brand_7.png
   - enable: true
     title: bmw
-    image: /images/advisor-brands/advisor_brand_11.png
+    image: /BMW-Logo-Iron-on_1200x1200.webp
   - enable: true
     title: tyco
     image: /images/advisor-brands/advisor_brand_18.png
