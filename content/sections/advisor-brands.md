@@ -1,7 +1,7 @@
 ---
 enable: true
 title: TRUSTED ADVISOR & SPEAKER
-subtitle: Subtitle goes here
+subtitle: Subtitle goes here ...
 list:
   - enable: true
     title: microsoft
