@@ -1,19 +1,19 @@
 {
-  "social_media": {
-    "linkedin": {
+  "social_media": [
+    {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/company/gosupernova/",
-      "icon": "/images/social-icons/01.svg"
+      "icon": "/images/icons/linkedin.svg"
     },
-    "facebook": {
+    {
       "name": "Facebook",
-      "link": "https://www.linkedin.com/company/gosupernova/",
-      "icon": "/images/social-icons/01.svg"
+      "link": "https://www.facebook.com/gosupernova",
+      "icon": "/images/icons/facebook.svg"
     },
-    "youtube": {
+    {
       "name": "Youtube",
-      "link": "https://www.linkedin.com/company/gosupernova/",
-      "icon": "/images/social-icons/01.svg"
+      "link": "https://www.youtube.com/channel/UC9Z6ZJ6Zv7J1Z1Zz1Zz1Zz1Z",
+      "icon": "/images/icons/youtube.svg"
     }
-  }
+  ]
 }

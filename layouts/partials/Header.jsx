@@ -1,7 +1,6 @@
 import Logo from "@components/Logo";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
-import settings from "@config/settings.json";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
@@ -9,6 +8,7 @@ import React, { useEffect, useState } from "react";
 const Header = () => {
   // distructuring the main menu from menu object
   const { main } = menu;
+  const { header_cta_link } = config.params;
 
   // get current path
   const { asPath } = useRouter();
@@ -148,11 +148,11 @@ const Header = () => {
             <p className="z-10 mb-6 text-2xl font-semibold">{config.site.mobile_nav_text}</p>
             <Link
               className="btn btn-sm btn-light py-4 leading-none"
-              href={settings.header_cta_link}
+              href={header_cta_link}
               target="_blank"
               rel="noopener nofollow noreferrer"
             >
-              Book a Call
+              Book Barry
               <svg
                 width="20"
                 height="20"
@@ -174,11 +174,11 @@ const Header = () => {
         <div className="order-1 mx-5 hidden items-center lg:order-2 md:block lg:mx-0 lg:hidden">
           <Link
             className="btn btn-sm btn-dark py-4 leading-none"
-            href={settings.header_cta_link}
+            href={header_cta_link}
             target="_blank"
             rel="noopener nofollow noreferrer"
           >
-            Book a Call
+            Book Barry
             <svg
               width="20"
               height="20"
@@ -237,11 +237,11 @@ const Header = () => {
               <p className="z-10 mb-6 text-2xl font-semibold">{config.site.mobile_nav_text}</p>
               <Link
                 className="btn btn-sm btn-light py-4 leading-none"
-                href={settings.header_cta_link}
+                href={header_cta_link}
                 target="_blank"
                 rel="noopener nofollow noreferrer"
               >
-                Book a Call
+                Book Barry
                 <svg
                   width="20"
                   height="20"
@@ -264,11 +264,11 @@ const Header = () => {
           <div className="order-1 mx-5 hidden items-center lg:order-2 md:block lg:mx-0">
             <Link
               className="btn btn-sm btn-dark py-4 leading-none"
-              href={settings.header_cta_link}
+              href={header_cta_link}
               target="_blank"
               rel="noopener nofollow noreferrer"
             >
-              Book a Call
+              Book Barry
               <svg
                 width="20"
                 height="20"

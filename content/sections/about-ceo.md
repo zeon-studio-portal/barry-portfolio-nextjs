@@ -1,5 +1,6 @@
 ---
 enable: true
+title: ABOUT CEO
 top_section:
   enable: true
   title: WHO IS **BARRY STAMOS**

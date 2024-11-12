@@ -1,6 +1,7 @@
 ---
 enable: true
 title: TRUSTED ADVISOR & SPEAKER
+subtitle: Subtitle goes here
 list:
   - imageAlt: microsoft
     image: /images/advisor-brands/advisor_brand_13.png

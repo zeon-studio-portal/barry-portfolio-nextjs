@@ -66,31 +66,36 @@ const Testimonials = ({ testimonials }) => {
                   },
                 }}
               >
-                {testimonials.frontmatter.items.map((item, index) => (
-                  <SwiperSlide key={index}>
-                    <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
-                      <div className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}>
-                        <p className="mb-8 text-lg text-light-tertiary font-medium">{item.quote}</p>
-                        <div className="flex">
-                          <div className="flex-shrink-0">
-                            <Image
-                              className="h-16 w-auto rounded-lg"
-                              src={item.image}
-                              alt={item.name}
-                              width={160}
-                              height={160}
-                            />
-                          </div>
-                          <div className="flex-grow-1 ml-4">
-                            <p className="text-base font-semibold text-light-primary">{item.name}</p>
-                            <p className="text-sm text-secondary-600">{item.designation}</p>
-                            <p className="text-sm text-light-secondary">{item.company}</p>
+                {testimonials.frontmatter.items.map(
+                  (item, index) =>
+                    item.enable === true && (
+                      <SwiperSlide key={index}>
+                        <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
+                          <div
+                            className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}
+                          >
+                            <p className="mb-8 text-lg text-light-tertiary font-medium">{item.quote}</p>
+                            <div className="flex">
+                              <div className="flex-shrink-0">
+                                <Image
+                                  className="h-16 w-auto rounded-lg"
+                                  src={item.image}
+                                  alt={item.name}
+                                  width={160}
+                                  height={160}
+                                />
+                              </div>
+                              <div className="flex-grow-1 ml-4">
+                                <p className="text-base font-semibold text-light-primary">{item.name}</p>
+                                <p className="text-sm text-secondary-600">{item.designation}</p>
+                                <p className="text-sm text-light-secondary">{item.company}</p>
+                              </div>
+                            </div>
                           </div>
                         </div>
-                      </div>
-                    </div>
-                  </SwiperSlide>
-                ))}
+                      </SwiperSlide>
+                    )
+                )}
               </Swiper>
             </div>
           </div>

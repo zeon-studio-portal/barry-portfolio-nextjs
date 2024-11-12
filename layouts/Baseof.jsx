@@ -1,5 +1,4 @@
 import config from "@config/config.json";
-import settings from "@config/settings.json";
 import { plainify } from "@lib/utils/textConverter";
 import AnnouncementBar from "@partials/AnnouncementBar";
 import Footer from "@partials/Footer";
@@ -10,7 +9,7 @@ import { useRouter } from "next/router";
 const Base = ({ title, meta_title, description, image, noindex, canonical, enableSecondaryHeader, children }) => {
   const { meta_image, meta_author, meta_description } = config.metadata;
   const { base_url } = config.site;
-  const { announcement } = settings;
+  const { announcement } = config.params;
   const router = useRouter();
 
   return (

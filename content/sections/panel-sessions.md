@@ -1,6 +1,7 @@
 ---
 enable: true
-title: 'POWERFUL PANEL SESSIONS '
+title: 'POWERFUL PANEL SESSIONS'
+subtitle: Subtitle goes here...
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'

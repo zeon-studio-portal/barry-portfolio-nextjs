@@ -2,14 +2,14 @@ import ArrowButton from "@components/ArrowButton";
 import Logo from "@components/Logo";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
-import settings from "@config/settings.json";
+import socials from "@config/social.json";
 import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 
 const Footer = () => {
   const { logo } = config.site;
-  const { social_media } = config;
-  const { footer_copy, copyright, header_cta_link } = settings;
+  const { social_media } = socials;
+  const { footer_copy, copyright, header_cta_link } = config.params;
   return (
     <footer className="bg-dark-secondary pt-14 md:pt-24">
       <div className="container">

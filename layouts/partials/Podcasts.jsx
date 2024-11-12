@@ -1,15 +1,16 @@
 import AnimatedText from "@components/AnimatedText";
+import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useState } from "react";
 
 const Podcasts = ({ podcasts }) => {
-  const { enable, title, list } = podcasts.frontmatter;
+  const { enable, title, subtitle, list } = podcasts.frontmatter;
   const [activeVideo, setActiveVideo] = useState(list[0]);
 
   return enable ? (
     <section className="section bg-primary-600 py-24">
       <div className="container">
-        <div className="mb-14 ">
+        <div className="mb-20 text-center">
           <div data-aos="fade-up-sm">
             <AnimatedText
               tag="h2"
@@ -17,6 +18,11 @@ const Podcasts = ({ podcasts }) => {
               content={title}
             />
           </div>
+          {subtitle && (
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(subtitle, "p", "text-light-secondary md:text-xl")}
+            </div>
+          )}
         </div>
         <div className="flex flex-col lg:flex-row  gap-8" data-aos="fade-up-sm" data-aos-delay="100">
           {/* LEFT SIDE */}

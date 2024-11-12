@@ -42,7 +42,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-link {
-  @apply px-2 py-4  text-white transition hover:text-primary-200 sm:py-2 text-sm lg:p-1.5;
+  @apply px-2 py-4  text-white transition hover:text-primary-200 sm:py-2 text-base lg:p-1.5;
 }
 
 .mobile-cta {

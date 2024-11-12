@@ -1,6 +1,7 @@
 ---
 enable: true
 title: 'INSPIRING INTERVIEWS '
+subtitle: 'Subtitle goes here ...'
 list:
   - enable: true
     title: What is the future of luxury?

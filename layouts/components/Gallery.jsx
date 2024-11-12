@@ -8,12 +8,6 @@ const Gallery = ({ gallery }) => {
   return (
     enable && (
       <section className="section-lg pt-0">
-        {title && (
-          <h2
-            className="mb-10 text-center text-h2_sm font-medium md:text-h2"
-            dangerouslySetInnerHTML={{ __html: title }}
-          />
-        )}
         <div>
           {/* UPPER CAROUSEL */}
           {topList && (

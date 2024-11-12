@@ -1,6 +1,7 @@
 ---
 enable: true
 title: 'EXTRAORDINARY LIVE EVENTS '
+subtitle: 'Subtitle goes here ...'
 list:
   - enable: true
     title: Transformative Company Events

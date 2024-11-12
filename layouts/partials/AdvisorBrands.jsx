@@ -1,14 +1,22 @@
 import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
+import { markdownify } from "@lib/utils/textConverter";
 
 const AdvisorBrands = ({ advisorBrands }) => {
-  const { enable, title, list } = advisorBrands.frontmatter;
+  const { enable, title, subtitle, list } = advisorBrands.frontmatter;
 
   return enable ? (
     <section className="section bg-dark-primary py-24">
       <div className="container">
-        <div className="mb-20">
-          <AnimatedText tag="h2" className="mb-4 font-medium text-center lg:col-8 mx-auto" content={title} />
+        <div className="mb-20 text-center text-dark-primary">
+          <div data-aos="fade-up-sm">
+            <AnimatedText tag="h2" className="mb-4 font-semibold text-center lg:col-8 mx-auto" content={title} />
+          </div>
+          {subtitle && (
+            <div data-aos="fade-up-sm" data-aos-delay="100">
+              {markdownify(subtitle, "p", "text-light-secondary md:text-xl")}
+            </div>
+          )}
         </div>
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-8 md:gap-y-11 md:gap-x-20 items-center ">
           {list.length &&

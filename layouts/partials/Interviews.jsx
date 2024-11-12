@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useRef, useState } from "react";
 
 const interviews = ({ interviews }) => {
-  const { enable, title, list } = interviews.frontmatter;
+  const { enable, title, subtitle, list } = interviews.frontmatter;
   const [activeVideo, setActiveVideo] = useState(list[0]);
   const largeScreenRef = useRef(null);
 
@@ -12,7 +12,7 @@ const interviews = ({ interviews }) => {
     <section className="section bg-dark-primary py-24 overflow-hidden  relative isolate">
       <div ref={largeScreenRef} className="container relative ">
         <div className="relative z-10 ">
-          <div className="mb-14">
+          <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
               <AnimatedText
                 tag="h2"
@@ -20,6 +20,11 @@ const interviews = ({ interviews }) => {
                 content={title}
               />
             </div>
+            {subtitle && (
+              <div data-aos="fade-up-sm" data-aos-delay="100">
+                {markdownify(subtitle, "p", "text-light-secondary md:text-xl")}
+              </div>
+            )}
           </div>
           <div className="flex flex-col gap-10" data-aos="fade-up-sm" data-aos-delay="100">
             {/* BIG SCREEN */}
