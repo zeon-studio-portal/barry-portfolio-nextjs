@@ -28,7 +28,7 @@ bottom_section:
     leaving a lasting impact on audiences worldwide—from billionaires and
     celebrities to founders and leaders. More than just a talk, Barry sparks
     within each listener a drive to channel their energy and business pursuits
-    into meaningful, positive contributions for the world.
+    into meaningful, positive contributions for work and life success. 
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
