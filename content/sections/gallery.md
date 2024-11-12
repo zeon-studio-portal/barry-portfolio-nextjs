@@ -26,7 +26,7 @@ topList:
 bottomList:
   - image: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     alt: gallery image
-  - image: /images/gallery/02.png
+  - image: /Bio-8.JPG
     alt: gallery image
   - image: /images/gallery/03.png
     alt: gallery image
@@ -42,4 +42,5 @@ bottomList:
     alt: gallery image
   - image: /images/gallery/09.png
     alt: gallery image
+draft: true
 ---
