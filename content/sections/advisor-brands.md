@@ -69,7 +69,11 @@ list:
   - enable: true
     title: Meta
     image: /Meta.webp
-  - title: ASU
-    image: /ASU-symbol.jpg
-draft: false
+  - title: Disney
+    image: /Disney.png
+  - title: ''
+    image: ''
+  - title: ''
+    image: ''
+draft: true
 ---
