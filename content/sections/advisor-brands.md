@@ -75,5 +75,15 @@ list:
     image: /logo-iac-new-white.webp
   - title: P&G
     image: /P&G.png
+  - title: starwars
+    image: /starwars.png
+  - title: ''
+    image: ''
+  - title: ''
+    image: ''
+  - title: ''
+    image: ''
+  - title: ''
+    image: ''
 draft: true
 ---
