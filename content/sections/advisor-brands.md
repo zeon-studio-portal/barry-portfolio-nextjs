@@ -2,8 +2,8 @@
 enable: true
 title: TRUSTED ADVISOR & SPEAKER
 subtitle: >-
-  Barry's been a paid consultant, advisor or speaker to 100+ Fortune 500
-  companies
+  Barry has served as a paid consultant, advisor, or speaker for over 100
+  Fortune 500 companies.
 list:
   - enable: true
     title: microsoft
