@@ -83,7 +83,7 @@ list:
     image: /macys.png
   - title: ASU
     image: /ASU-symbol.jpg
-  - title: ''
-    image: ''
+  - title: American Express
+    image: /amex.png
 draft: false
 ---
