@@ -3,51 +3,68 @@ enable: true
 title: TRUSTED ADVISOR & SPEAKER
 subtitle: Subtitle goes here
 list:
-  - imageAlt: microsoft
+  - enable: true
+    title: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
-  - imageAlt: visa
+  - enable: true
+    title: visa
     image: /Visa logo.jpg
-    title: Visa
-    enable: true
-  - imageAlt: loreal
+  - enable: true
+    title: loreal
     image: /images/advisor-brands/advisor_brand_15.png
-  - imageAlt: fedex
+  - enable: true
+    title: fedex
     image: /fedex-logo-0.png
-  - imageAlt: under
+  - enable: true
+    title: under
     image: /images/advisor-brands/advisor_brand_10.png
-  - imageAlt: wholefoods
+  - enable: true
+    title: wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
-  - imageAlt: axa
+  - enable: true
+    title: axa
     image: /images/advisor-brands/advisor_brand_12.png
-  - imageAlt: sephora
+  - enable: true
+    title: sephora
     image: /images/advisor-brands/advisor_brand_17.png
-  - imageAlt: fidelity
+  - enable: true
+    title: fidelity
     image: /images/advisor-brands/advisor_brand_2.png
-  - imageAlt: disney
+  - enable: true
+    title: disney
     image: /images/advisor-brands/advisor_brand_5.png
-  - imageAlt: harley
+  - enable: true
+    title: harley
     image: /images/advisor-brands/advisor_brand_7.png
-  - imageAlt: bmw
+  - enable: true
+    title: bmw
     image: /images/advisor-brands/advisor_brand_11.png
-  - imageAlt: tyco
+  - enable: true
+    title: tyco
     image: /images/advisor-brands/advisor_brand_18.png
-  - imageAlt: nike
+  - enable: true
+    title: nike
     image: /images/advisor-brands/advisor_brand_9.png
-  - imageAlt: AT&T
+  - enable: true
+    title: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
-  - imageAlt: General Motors Logo
+  - enable: true
+    title: General Motors Logo
     image: /gm-logo.png
-    title: GM
-  - imageAlt: lufthands
+  - enable: true
+    title: lufthands
     image: /images/advisor-brands/advisor_brand_16.png
-  - imageAlt: google
+  - enable: true
+    title: google
     image: /images/advisor-brands/advisor_brand_3.png
-  - imageAlt: JP Morgan Chase
-    image: /JP Morgan Chase.png
+  - enable: true
     title: JP Morgan Chase
-  - imageAlt: StubHub
+    image: /JP Morgan Chase.png
+  - enable: true
+    title: StubHub
     image: /Stubhub.jpg
-  - imageAlt: Meta
+  - enable: true
+    title: Meta
     image: /Meta.webp
 draft: false
 ---

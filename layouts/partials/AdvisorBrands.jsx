@@ -23,15 +23,17 @@ const AdvisorBrands = ({ advisorBrands }) => {
             list.map((item, index) => {
               const aosDelay = index * 50;
               return (
-                <div key={index} className="justify-self-center" data-aos="fade-up-sm" data-aos-delay={aosDelay}>
-                  <ImageFallback
-                    width={300}
-                    height={120}
-                    src={item.image}
-                    alt={item.imageAlt}
-                    className=" max-h-12 w-auto "
-                  />
-                </div>
+                item.enable && (
+                  <div key={index} className="justify-self-center" data-aos="fade-up-sm" data-aos-delay={aosDelay}>
+                    <ImageFallback
+                      width={300}
+                      height={120}
+                      src={item.image}
+                      alt={item.title}
+                      className=" max-h-12 w-auto "
+                    />
+                  </div>
+                )
               );
             })}
         </div>
