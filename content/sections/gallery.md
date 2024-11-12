@@ -34,7 +34,7 @@ bottomList:
     alt: gallery image
   - image: /MastersofScaleSummit2024.jpg
     alt: gallery image
-  - image: /images/gallery/06.png
+  - image: /CTEMyurUwAAnepz.jpeg
     alt: gallery image
   - image: /images/gallery/07.png
     alt: gallery image
