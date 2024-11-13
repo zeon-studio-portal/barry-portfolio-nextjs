@@ -23,8 +23,8 @@ list:
       enable: true
       label: Read More
       link: '#'
-  - head: Entrepreneurship
-    title: My Panelists Are Pre-committed
+  - head: ''
+    title: 'Wisdom from Successfully Exited Founders '
     description: >-
       As the CEO & Founder of Supernova, I have built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
@@ -35,7 +35,7 @@ list:
       market leader. I’m ready to shine a light on our success secrets and also
       too our shadows.” </br> </br> JT Marino & Dahee Park, Co-founders of
       TN.com </blockquote> 
-    image: /images/passion-session/passion-session-2.png
+    image: /images/gallery/07.png
     button:
       enable: true
       label: Read More
