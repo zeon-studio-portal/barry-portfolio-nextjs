@@ -6,10 +6,10 @@ subtitle: >-
   minds. 
 list:
   - badge: Motivation
-    title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
+    title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     youtubeVideoId: ''
     youtubeVideoStartTime: ''
-    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
+    image: /IMG_0479.JPG
     imageAlt: keynotes image
     description: >-
       The world needs you now. In this keynote, I’ll share how to find your
