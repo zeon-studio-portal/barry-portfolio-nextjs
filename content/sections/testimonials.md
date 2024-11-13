@@ -31,8 +31,8 @@ items:
     name: Andrew Warner
     image: >-
       /mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
-    designation: 'CEO & Founder '
-    company: Mixergy.com
+    designation: Mixergy.com
+    company: CEO & Founder
     quote: >-
       “My most memorable podcast was with a guy named Barry Stamos (after 1,500+
       successful founder interviews)."
