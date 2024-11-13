@@ -21,12 +21,12 @@ items:
       company executive, and energy shaman to elevate lives.”
   - enable: true
     name: Jenma Bardi
-    image: ''
+    image: /Screenshot 2024-11-13 at 7.48.04 AM.png
     designation: 'Founder '
     company: Volcano Summit
     quote: >-
-      “Barry Stamos keynotes our annual summit and is one of the most impactful
-      speakers we've ever had. We invite him to return every year!"
+      “Barry Stamos has keynotes our annual summit. He is one of the most
+      impactful speakers we've ever had. We invite him back every year!"
   - enable: true
     name: Andrew Warner
     image: >-
