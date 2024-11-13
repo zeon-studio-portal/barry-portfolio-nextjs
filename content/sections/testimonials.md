@@ -21,12 +21,12 @@ items:
       company executive, and energy shaman to elevate lives.”
   - enable: true
     name: Jenma Bardi
-    image: /volcano summit.png
+    image: ''
     designation: 'Founder '
     company: Volcano Summit
     quote: >-
       “Barry Stamos keynotes our annual summit and is one of the most impactful
-      speakers we've ever had!" 
+      speakers we've ever had. We invite him to return every year!"
   - enable: true
     name: Andrew Warner
     image: >-
@@ -34,8 +34,8 @@ items:
     designation: 'CEO & Founder '
     company: Mixergy.com
     quote: >-
-      “MY MOST MEMORABLE PODCAST WAS WITH A GUY NAMED BARRY STAMOS (AFTER 1,500+
-      FOUNDER INTERVIEWS).”
+      “My most memorable podcast was with a guy named Barry Stamos (after 1,500+
+      successful founder interviews)."
   - enable: true
     name: JP Bewley
     image: ''
