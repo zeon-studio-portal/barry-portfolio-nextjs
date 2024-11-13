@@ -62,8 +62,8 @@ list:
     image: /macys.png
   - title: ASU
     image: /ASU-symbol.jpg
-  - title: AXA Group
-    image: /AXA_inverted_white.webp
+  - title: IBM
+    image: /ibm-logo-black-transparent.png
   - title: 'Allstate '
     image: /Allstate.png
 draft: false
