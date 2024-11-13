@@ -63,3 +63,12 @@ list:
       link: '#'
 draft: false
 ---
+This panel discussion relays that while technology reshapes the business landscape, our humanity and love are powerful superpowers that can set us apart. By leading with heart and purpose, you can harness these intrinsic qualities to drive success and create a more compassionate and effective workplace. The session will reveal how heart-led leadership can elevate your business, fostering deeper connections and a vibrant company culture that thrives amidst technological advancement.
+
+Key Takeaways:
+
+* Put Love To Work: Understand how love and empathy can act as the foundational technology that enhances human-machine collaboration and connection.
+* Purpose-Driven Leadership: Learn how to integrate your core values into your leadership approach, using them as a force to inspire and connect with your team on a deeper level.
+* Building Authentic Connections: Explore strategies to maintain genuine relationships and cultivate a supportive, engaged workforce despite the rise of automation.
+* Imact and Legacy: Discover how to leave a lasting legacy by leading with purpose and using your influence to create positive, sustainable change in the world.
+* By the end of this session, you’ll be inspired to leverage the power of humanity and love as key drivers of success. 
