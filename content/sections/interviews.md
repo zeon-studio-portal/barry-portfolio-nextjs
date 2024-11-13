@@ -1,7 +1,9 @@
 ---
 enable: true
-title: 'INSPIRING INTERVIEWS '
-subtitle: 'Subtitle goes here ...'
+title: MENTOR, ADVISOR & INVESTOR
+subtitle: >-
+  Barry is the CEO & Founder of Supernova, 150+ successfully exited founders
+  teaming up to advise, mentor and invest together. 
 list:
   - enable: true
     title: What is the future of luxury?
