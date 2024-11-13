@@ -63,5 +63,12 @@ items:
     quote: >-
       “Barry is an energetic speaker and consultant and blew my clients away
       during a workshop we held in Amsterdam.”
+  - name: Tim Sae Koo
+    image: /1heart.webp
+    designation: Co-founder
+    company: 1heart.com
+    quote: >-
+      "Barry is THE go-to guy when it comes to authentic positive energy x
+      remembering to live life as a miracle."
 draft: false
 ---
