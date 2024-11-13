@@ -42,7 +42,7 @@ list:
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-1.png
+    image: /images/gallery/01.png
     imageAlt: keynotes image
     description: >-
       In today’s rapidly evolving business landscape, traditional approaches can
