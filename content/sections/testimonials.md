@@ -51,7 +51,7 @@ items:
     company: 'Cameron Wenaus '
     quote: >-
       “Barry is a powerhouse. He is a fountain of ideas and inspires teams to
-      execute. He must have a small nuclear reactor powering him as I've never
+      execute. He must have a small nuclear reactor powering him, as I've never
       seen such energy and output from one person before.”
   - enable: true
     name: Klaas Weima
