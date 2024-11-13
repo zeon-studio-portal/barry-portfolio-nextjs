@@ -25,8 +25,8 @@ items:
     designation: 'Founder '
     company: Volcano Summit
     quote: >-
-      “BARRY STAMOS KEYNOTES OUR ANNUAL SUMMIT AND IS ONE OF THE MOST IMPACTFUL
-      SPEAKERS WE’VE EVER HAD.  WE INVITE HIM TO RETURN EVERY YEAR.”
+      “Barry Stamos keynotes our annual summit and is one of the most impactful
+      speakers we've ever had. We invite him to return every year!"
   - enable: true
     name: Andrew Warner
     image: >-
