@@ -6,8 +6,8 @@ items:
   - enable: true
     name: Beric Meric
     image: /IVY.jpeg
-    designation: CEO & Founder
-    company: IVY.com
+    designation: Ivy.com
+    company: CEO
     quote: >-
       “Barry lights up audiences as a soulful speaker who generously gifts
       secrets to work & life success.”
