@@ -75,7 +75,7 @@ list:
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-2.png
+    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
     description: >-
       In a world where machines handle more tasks and data drives decisions,
