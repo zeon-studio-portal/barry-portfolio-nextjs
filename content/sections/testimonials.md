@@ -11,8 +11,8 @@ items:
     designation: Ivy.com
     company: CEO
     quote: >-
-      “Barry lights up audiences as a soulful speaker who generously gifts
-      secrets to work & life success.” 
+      “Barry is a soulful speaker who generously gifts secrets to work & life
+      success.” 
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
@@ -45,7 +45,7 @@ items:
     company: J Patrick Bewley
     quote: >-
       “Barry is THE most upbeat and energetic change agent I have EVER met. And,
-      a visionary who sees the future more clearly than most." 
+      thought leader and visionary who sees the future more clearly than most." 
   - enable: true
     name: Cameron Wenaus
     image: /RG.png
