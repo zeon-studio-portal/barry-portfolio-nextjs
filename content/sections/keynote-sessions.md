@@ -9,7 +9,7 @@ list:
     title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     youtubeVideoId: ''
     youtubeVideoStartTime: ''
-    image: /IMG_0479.JPG
+    image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >-
       The world needs you now. In this keynote, I’ll share how to find your
