@@ -45,7 +45,7 @@ list:
   - title: JP Morgan Chase
     image: /JP Morgan Chase.png
   - title: StubHub
-    image: /stubhub-icon-512x232-oompxqp8.png
+    image: /Stubhub.png
   - title: Meta
     image: /Meta.webp
   - title: Disney
