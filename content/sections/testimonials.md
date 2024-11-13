@@ -60,6 +60,6 @@ items:
     company: Energize
     quote: >-
       “Barry is an energetic speaker and consultant and blew my clients away
-      during an workshop we held in Amsterdam. Highly recommended.”
+      during a workshop we held in Amsterdam.”
 draft: false
 ---
