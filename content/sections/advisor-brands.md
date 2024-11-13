@@ -5,7 +5,7 @@ subtitle: >-
   Barry has served as a consultant, advisor, or speaker for over 100+ Fortune
   500 companies.
 list:
-  - title: microsoft
+  - title: Microsoft
     image: /microsoft+logo+white.png
   - title: visa
     image: /visa.png
