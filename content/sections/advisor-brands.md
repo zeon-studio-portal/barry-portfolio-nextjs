@@ -5,69 +5,48 @@ subtitle: >-
   Barry has served as a consultant, advisor, or speaker for over 100+ Fortune
   500 companies.
 list:
-  - enable: true
-    title: microsoft
+  - title: microsoft
     image: /images/advisor-brands/advisor_brand_13.png
-  - enable: true
-    title: visa
+  - title: visa
     image: /visa.png
-  - enable: true
-    title: loreal
+  - title: loreal
     image: /images/advisor-brands/advisor_brand_15.png
-  - enable: true
-    title: fedex
+  - title: fedex
     image: >-
       /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
-  - enable: true
-    title: under
+  - title: under
     image: /images/advisor-brands/advisor_brand_10.png
-  - enable: true
-    title: wholefoods
+  - title: wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
-  - enable: true
-    title: axa
+  - title: axa
     image: /images/advisor-brands/advisor_brand_12.png
-  - enable: true
-    title: sephora
+  - title: sephora
     image: /images/advisor-brands/advisor_brand_17.png
-  - enable: true
-    title: fidelity
+  - title: fidelity
     image: /images/advisor-brands/advisor_brand_2.png
-  - enable: true
-    title: disney
+  - title: disney
     image: /images/advisor-brands/advisor_brand_5.png
-  - enable: true
-    title: harley
+  - title: harley
     image: /images/advisor-brands/advisor_brand_7.png
-  - enable: true
-    title: bmw
+  - title: bmw
     image: /BMW-Logo-Iron-on_1200x1200.webp
-  - enable: true
-    title: tyco
+  - title: tyco
     image: /images/advisor-brands/advisor_brand_18.png
-  - enable: true
-    title: nike
+  - title: nike
     image: /nike_PNG4.png
-  - enable: true
-    title: AT&T
+  - title: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
-  - enable: true
-    title: General Motors Logo
+  - title: General Motors Logo
     image: /gm-logo.png
-  - enable: true
-    title: lufthands
+  - title: lufthands
     image: /images/advisor-brands/advisor_brand_16.png
-  - enable: true
-    title: google
+  - title: google
     image: /google-white-logo-2.png
-  - enable: true
-    title: JP Morgan Chase
+  - title: JP Morgan Chase
     image: /JP Morgan Chase.png
-  - enable: true
-    title: StubHub
+  - title: StubHub
     image: /Stubhub.jpg
-  - enable: true
-    title: Meta
+  - title: Meta
     image: /Meta.webp
   - title: Disney
     image: /Disney.png
