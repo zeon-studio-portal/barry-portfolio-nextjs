@@ -22,8 +22,8 @@ items:
   - enable: true
     name: Jenma Bardi
     image: /Screenshot 2024-11-13 at 7.48.04 AM.png
-    designation: 'Founder '
-    company: Volcano Summit
+    designation: Volcano Summit
+    company: Founder
     quote: >-
       “Barry Stamos has keynotes our annual summit. He is one of the most
       impactful speakers we've ever had. We invite him back every year!"
