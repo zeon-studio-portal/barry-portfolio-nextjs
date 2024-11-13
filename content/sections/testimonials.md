@@ -7,12 +7,12 @@ subtitle: >-
 items:
   - enable: true
     name: Beric Meric
-    image: /IVY.jpeg
+    image: /IVY.png
     designation: Ivy.com
     company: CEO
     quote: >-
       “Barry lights up audiences as a soulful speaker who generously gifts
-      secrets to work & life success.”
+      secrets to work & life success.” 
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
