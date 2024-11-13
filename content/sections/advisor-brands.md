@@ -14,8 +14,8 @@ list:
   - title: fedex
     image: >-
       /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
-  - title: under
-    image: /images/advisor-brands/advisor_brand_10.png
+  - title: Under Armour
+    image: /UnderArmour.png
   - title: wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
   - title: axa
