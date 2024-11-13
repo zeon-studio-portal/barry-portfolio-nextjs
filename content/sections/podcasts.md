@@ -21,20 +21,5 @@ list:
     thumbnail: /Miami Creators.webp
     youtubeVideoId: >-
       https://miamicreators.com/episodes/episode-019-with-barry-stamos-leading-from-the-heart
-  - enable: true
-    head: Kernel Presents
-    title: The Pitches
-    thumbnail: /images/podcasts/image-3.png
-    youtubeVideoId: muczNvx9fgg
-  - enable: true
-    head: Founders
-    title: "Extreme Makeovers:\_Stories of Human Transformation 5"
-    thumbnail: /images/podcasts/image-1.png
-    youtubeVideoId: XYLg6Y1eMzo
-  - enable: true
-    head: Founders
-    title: "Extreme Makeovers:\_Stories of Human Transformation 6"
-    thumbnail: /images/podcasts/image.png
-    youtubeVideoId: cEHP_LeBeyQ
 draft: false
 ---
