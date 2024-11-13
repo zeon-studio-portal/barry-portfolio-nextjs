@@ -14,8 +14,8 @@ items:
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
-    designation: President
-    company: YPO Southern 7
+    designation: YPO Southern 7
+    company: President
     quote: >-
       “Barry's a rare find. He weaves wisdom as a Unicorn founder, Fortune 500
       executive, and energy shaman to elevate lives.”
