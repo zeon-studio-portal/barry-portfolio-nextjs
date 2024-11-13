@@ -60,10 +60,10 @@ list:
     image: /virgin-logo-black-and-white.png
   - title: macys
     image: /macys.png
-  - title: ASU
-    image: /ASU-symbol.jpg
+  - title: Santander
+    image: /santander1-logo-black-and-white.png
   - title: IBM
-    image: /ibm-logo-black-transparent.png
+    image: /ibm.png
   - title: 'Allstate '
     image: /Allstate.png
 draft: false
