@@ -37,7 +37,7 @@ list:
   - title: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
   - title: General Motors Logo
-    image: /gm-logo.png
+    image: /GM.webp
   - title: lufthands
     image: /images/advisor-brands/advisor_brand_16.png
   - title: google
