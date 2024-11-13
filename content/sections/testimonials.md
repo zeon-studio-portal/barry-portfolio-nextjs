@@ -6,9 +6,11 @@ items:
   - enable: true
     name: Beric Meric
     image: /images/testimonials/ivy.png
-    designation: "Founder of IVY.com\_"
-    company: Tuft & Needle. YPO Forum Member
-    quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
+    designation: CEO & Founder
+    company: IVY.com
+    quote: >-
+      “Barry lights up audiences as a soulful speaker who generously gifts
+      secrets to work & life success.”
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
