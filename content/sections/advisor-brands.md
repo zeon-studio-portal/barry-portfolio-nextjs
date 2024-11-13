@@ -10,7 +10,7 @@ list:
   - title: visa
     image: /visa.png
   - title: loreal
-    image: /png-transparent-loreal-paris-white-logo-product-logos.png
+    image: /Loreal_MMCv2_white.png
   - title: fedex
     image: >-
       /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
