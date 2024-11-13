@@ -2,8 +2,8 @@
 enable: true
 title: WHAT THEY ARE SAYING...
 subtitle: >-
-  The WOW Factor is real when Barry's invited to private events, conferences and
-  offsite retreats.
+  The WOW Factor is real when Barry's invited to private events, conferences,
+  and offsite retreats. 
 items:
   - enable: true
     name: Beric Meric
