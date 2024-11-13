@@ -63,6 +63,6 @@ list:
   - title: ASU
     image: /ASU-symbol.jpg
   - title: American Express
-    image: /amex.png
+    image: /american-express-logo-black-and-white-1.png
 draft: false
 ---
