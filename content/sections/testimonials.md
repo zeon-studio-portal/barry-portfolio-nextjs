@@ -38,10 +38,10 @@ items:
       successful founder interviews)."
   - enable: true
     name: JP Bewley
-    image: ''
+    image: /Evo.jpeg
     designation: CEO
-    company: ''
-    quote: “Barry is THE most upbeat and energetic change agent I have EVER met. .”
+    company: Big Cloud Analytics
+    quote: “Barry is THE most upbeat and energetic change agent I have EVER met.”
   - enable: true
     name: Jeff Brown
     image: ''
@@ -50,11 +50,11 @@ items:
     quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
   - enable: true
     name: Klaas Weima
-    image: ''
+    image: /energize.png
     designation: CEO & Founder
     company: Energize
     quote: >-
       “Barry is an energetic speaker and consultant and blew my clients away
-      during an e-mail workshop we held in Amsterdam. Highly recommendable..”
+      during an workshop we held in Amsterdam. Highly recommended.”
 draft: false
 ---
