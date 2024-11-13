@@ -63,7 +63,7 @@ list:
   - title: ASU
     image: /ASU-symbol.jpg
   - title: AXA Group
-    image: /AXA.svg
+    image: /AXA_inverted_white.webp
   - title: 'Allstate '
     image: /Allstate.png
 draft: false
