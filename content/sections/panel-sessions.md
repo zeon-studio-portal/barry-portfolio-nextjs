@@ -1,6 +1,6 @@
 ---
 enable: true
-title: EXTRAORDINARY PANEL SESSIONS
+title: MC OR PANEL PARTICIPANT
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
   lead and facilitate them.  
