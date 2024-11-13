@@ -43,11 +43,16 @@ items:
     company: Big Cloud Analytics
     quote: “Barry is THE most upbeat and energetic change agent I have EVER met.”
   - enable: true
-    name: Jeff Brown
-    image: ''
-    designation: "Founder of IVY.com\_"
-    company: Tuft & Needle. YPO Forum Member
-    quote: "“BARRY LIGHTS UP AUDIENCES AS A SOULFUL SPEAKER WHO GENEROUSLY GIFTS\_THE SECRETS TO WORK & LIFE SUCCESS.”"
+    name: Cameron Wenaus
+    image: /RG.png
+    designation: 'CEO & Founder '
+    company: Retreat Guru
+    quote: >-
+      “Barry is a powerhouse. He is super creative, playful and a fountain of
+      brilliant strategies that work. His enthusiasm is magnetizing and he
+      inspires the teams to execute. He must have a small nuclear reactor
+      powering him as I have never seen such energy and output in one person
+      before. ”
   - enable: true
     name: Klaas Weima
     image: /energize.png
