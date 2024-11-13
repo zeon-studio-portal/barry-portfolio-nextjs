@@ -5,7 +5,7 @@ subtitle: Barry releases a tidal wave of positive energy to light up lives.
 items:
   - enable: true
     name: Beric Meric
-    image: /images/testimonials/ivy.png
+    image: /IVY.jpeg
     designation: CEO & Founder
     company: IVY.com
     quote: >-
