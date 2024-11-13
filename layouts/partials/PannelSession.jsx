@@ -6,7 +6,7 @@ const PannelSession = ({ panelSessions }) => {
   const { enable, title, subtitle, list } = panelSessions.frontmatter;
   return enable ? (
     <section
-      id="thought_leadership"
+      id={panelSessions.slug}
       className="testimonials py-24 scroll-mt-5"
       style={{ background: "linear-gradient(96.4deg, #FDD13B 4.58%, #FF8F81 92.51%, #C14ECF 125.17%)" }}
     >

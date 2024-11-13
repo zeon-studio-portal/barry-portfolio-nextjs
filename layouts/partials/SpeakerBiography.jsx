@@ -5,7 +5,7 @@ import { markdownify } from "@lib/utils/textConverter";
 const SpeakerBiography = ({ speakerBiography }) => {
   const { enable, title, bio, button, image, companyList } = speakerBiography.frontmatter;
   return enable ? (
-    <section className="section bg-dark-primary py-24">
+    <section className="section bg-dark-primary py-24 scroll-mt-5" id={speakerBiography.slug}>
       <div className="container">
         <div className="flex flex-col lg:flex-row lg:items-center gap-10 mb-14">
           {/* LEFT SIDE */}

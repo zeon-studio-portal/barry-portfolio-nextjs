@@ -6,7 +6,7 @@ const AdvisorBrands = ({ advisorBrands }) => {
   const { enable, title, subtitle, list } = advisorBrands.frontmatter;
 
   return enable ? (
-    <section className="section bg-dark-primary py-24">
+    <section className="section bg-dark-primary py-24" id={advisorBrands.slug}>
       <div className="container">
         <div className="mb-20 text-center text-dark-primary">
           <div data-aos="fade-up-sm">

@@ -6,7 +6,7 @@ const LiveEvents = ({ liveEvents }) => {
   const { enable, title, subtitle, list } = liveEvents.frontmatter;
 
   return enable ? (
-    <section className="section bg-dark-primary py-24">
+    <section className="section bg-dark-primary py-24 scroll-mt-5" id={liveEvents.slug}>
       <div className="container">
         <div className="mb-20 text-center">
           <div data-aos="fade-up-sm">

@@ -3,11 +3,11 @@ import "swiper/css";
 import "swiper/css/autoplay";
 
 const Gallery = ({ gallery }) => {
-  const { enable, title, topList, bottomList, galleryImageWidth, animationSpeedForTop, animationSpeedForBottom } =
+  const { enable, topList, bottomList, galleryImageWidth, animationSpeedForTop, animationSpeedForBottom } =
     gallery.frontmatter;
   return (
     enable && (
-      <section className="section-lg pt-0">
+      <section className="section-lg pt-0 scroll-mt-5" id={gallery.slug}>
         <div>
           {/* UPPER CAROUSEL */}
           {topList && (
