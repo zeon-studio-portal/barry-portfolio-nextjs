@@ -62,8 +62,8 @@ list:
     image: /macys.png
   - title: ASU
     image: /ASU-symbol.jpg
-  - title: Acer Group
-    image: /acer-logo-acer-icon-free-free-vector.jpg
+  - title: AXA Group
+    image: /AXA.svg
   - title: Microsoft
     image: /microsoft+logo+white.png
 draft: false
