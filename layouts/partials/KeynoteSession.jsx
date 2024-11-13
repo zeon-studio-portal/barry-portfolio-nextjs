@@ -6,7 +6,7 @@ const KeynoteSession = ({ keynoteSessions }) => {
   const { enable, title, subtitle, list } = keynoteSessions.frontmatter;
 
   return enable ? (
-    <section id="speaking-advisors" className="testimonials bg-dark-secondary py-24">
+    <section id={keynoteSessions.slug} className="testimonials bg-dark-secondary py-24">
       <div className="container">
         <div className="mb-20 text-center">
           <div data-aos="fade-up-sm">

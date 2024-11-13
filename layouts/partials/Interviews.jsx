@@ -9,7 +9,10 @@ const interviews = ({ interviews }) => {
   const largeScreenRef = useRef(null);
 
   return enable ? (
-    <section className="section bg-dark-primary py-24 overflow-hidden  relative isolate">
+    <section
+      id={interviews.slug}
+      className="section bg-dark-primary py-24 overflow-hidden relative isolate scroll-mt-5"
+    >
       <div ref={largeScreenRef} className="container relative ">
         <div className="relative z-10 ">
           <div className="mb-20 text-center">

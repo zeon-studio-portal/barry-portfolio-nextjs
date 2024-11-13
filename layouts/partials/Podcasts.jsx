@@ -8,7 +8,7 @@ const Podcasts = ({ podcasts }) => {
   const [activeVideo, setActiveVideo] = useState(list[0]);
 
   return enable ? (
-    <section className="section bg-primary-600 py-24">
+    <section className="section bg-primary-600 py-24 scroll-mt-5" id={podcasts.slug}>
       <div className="container">
         <div className="mb-20 text-center">
           <div data-aos="fade-up-sm">

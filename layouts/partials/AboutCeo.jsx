@@ -6,7 +6,7 @@ import Link from "next/link";
 const AboutCeo = ({ aboutCeo }) => {
   const { enable, top_section, bottom_section } = aboutCeo.frontmatter;
   return enable ? (
-    <section className="bg-dark-secondary py-24 scroll-mt-5" id="ceo">
+    <section className="bg-dark-secondary py-24 scroll-mt-5" id={aboutCeo.slug}>
       <div className="container flex flex-col gap-16 lg:gap-20">
         {top_section.enable && (
           <div className="flex flex-col-reverse md:flex-row max-md:gap-10 items-center">

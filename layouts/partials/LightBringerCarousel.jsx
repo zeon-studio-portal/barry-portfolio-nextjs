@@ -1,17 +1,15 @@
 import AnimatedText from "@components/AnimatedText";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
-import { useState } from "react";
 import { MdArrowBackIosNew, MdArrowForwardIos } from "react-icons/md";
 import { Autoplay, Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const LightBringerCarousel = ({ lightBringerCarousel }) => {
   const { enable, title, subtitle, list } = lightBringerCarousel.frontmatter;
-  const [activeVideo, setActiveVideo] = useState(list[0]);
 
   return enable ? (
-    <section className="section bg-secondary-600 py-24">
+    <section className="section bg-secondary-600 py-24 scroll-mt-5" id={lightBringerCarousel.slug}>
       <div className="container">
         <div className="mb-14">
           <div data-aos="fade-up-sm">

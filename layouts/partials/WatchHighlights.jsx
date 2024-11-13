@@ -9,7 +9,7 @@ const WatchHighlights = ({ watchHighlights }) => {
   const [isOpen, setOpen] = useState(false);
 
   return enable ? (
-    <div className="section py-24 bg-primary-600 scroll-mt-5" id="speaking-highlights">
+    <div className="section py-24 bg-primary-600 scroll-mt-5" id={watchHighlights.slug}>
       <div className="container">
         <div className="mb-14 text-center text-dark-primary">
           <div data-aos="fade-up-sm">
