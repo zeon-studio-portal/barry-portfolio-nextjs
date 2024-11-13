@@ -35,7 +35,7 @@ const KeynoteSessionCard = ({ item, isEven }) => {
           height={320}
           src={item.image}
           alt={item.imageAlt}
-          className="w-full drop-shadow-lg"
+          className="w-full aspect-[16/10] object-cover drop-shadow-lg"
         />
         <div className="p-4 sm:p-8 flex flex-col gap-6 justify-between items-start h-full">
           <div>

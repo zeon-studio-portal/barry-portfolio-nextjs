@@ -75,13 +75,23 @@ const Banner = ({ banner }) => {
       <div className="video-background">
         <VideoBG background_youtube_video_id={banner.background_youtube_video_id} />
       </div>
-      <ModalVideo
-        channel="youtube"
-        autoplay={1}
-        isOpen={isOpen}
-        videoId={banner.video_button.youtube_id}
-        onClose={() => setOpen(false)}
-      />
+      {banner.video_button.youtube_id ? (
+        <ModalVideo
+          channel="youtube"
+          autoplay={1}
+          isOpen={isOpen}
+          videoId={banner.video_button.youtube_id}
+          onClose={() => setOpen(false)}
+        />
+      ) : (
+        <ModalVideo
+          channel="vimeo"
+          autoplay={1}
+          isOpen={isOpen}
+          videoId={banner.video_button.vimeo_id}
+          onClose={() => setOpen(false)}
+        />
+      )}
     </section>
   );
 };
