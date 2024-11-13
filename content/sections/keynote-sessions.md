@@ -179,7 +179,7 @@ list:
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
     youtubeVideoId: ''
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-5.png
+    image: /images/interviews/image-1.png
     imageAlt: keynotes image
     description: >-
       Artificial Intelligence (AI) is rapidly transforming every aspect of our
