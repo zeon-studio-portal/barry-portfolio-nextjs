@@ -70,5 +70,12 @@ items:
     quote: >-
       "Barry is THE go-to guy when it comes to authentic positive energy x
       remembering to live life as a miracle."
+  - name: Keith Ferrazzi
+    image: /FG.jpg
+    designation: CEO & Founder
+    company: Ferrazzi Greenlight
+    quote: >-
+      "I love Barry because he makes me uncomfortable... and that is unlocks
+      real change."
 draft: false
 ---
