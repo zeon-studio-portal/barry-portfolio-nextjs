@@ -17,9 +17,10 @@ list:
     youtubeVideoId: iUtnZpzkbG8
   - enable: true
     head: Founders
-    title: Barry Stamos - Leading From The Heart
-    thumbnail: /images/podcasts/image-2.png
-    youtubeVideoId: mLwlGsRhNIU
+    title: 'Miami Creators: Featuring Barry Stamos'
+    thumbnail: /Miami Creators.webp
+    youtubeVideoId: >-
+      https://miamicreators.com/episodes/episode-019-with-barry-stamos-leading-from-the-heart
   - enable: true
     head: Kernel Presents
     title: The Pitches
