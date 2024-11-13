@@ -19,7 +19,7 @@ top_section:
 bottom_section:
   enable: true
   title: WHAT TO **EXPECT**
-  image: /images/speakers/founder-1.png
+  image: /IMG_0479.JPG
   description: >-
     Barry ignites hearts and minds, whether speaking on stage to an audience of
     10,000+, facilitating an intimate executive workshop, or guiding
