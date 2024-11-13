@@ -85,8 +85,5 @@ list:
     image: /ASU-symbol.jpg
   - title: American Express
     image: /amex.png
-  - title: nextjs
-    image: /if82cpbS_400x400.jpg
-    enable: true
 draft: false
 ---
