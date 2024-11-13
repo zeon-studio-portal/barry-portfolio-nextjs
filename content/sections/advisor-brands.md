@@ -6,7 +6,7 @@ subtitle: >-
   500 companies.
 list:
   - title: microsoft
-    image: /images/advisor-brands/advisor_brand_13.png
+    image: /microsoft+logo+white.png
   - title: visa
     image: /visa.png
   - title: loreal
