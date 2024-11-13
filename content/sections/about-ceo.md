@@ -23,13 +23,12 @@ bottom_section:
   description: >-
     Barry ignites hearts and minds, whether speaking on stage to an audience of
     10,000+, facilitating an intimate executive workshop, or guiding
-    transformative offsite retreats. By tailoring each talk with care, he weaves
-    a tapestry of true stories, cautionary tales, and actionable insights,
-    leaving a lasting impact on audiences worldwide—from billionaires and
-    celebrities to founders and leaders. More than just a talk, Barry sparks
-    within each listener a drive to channel their energy and business pursuits
-    into meaningful, positive contributions for fulfilling work and life
-    success. 
+    transformative offsite retreats. By tailoring each talk with care, his
+    stories, cautionary tales, and actionable insights leave a lasting impact on
+    audiences worldwide — from billionaires and celebrities to founders and
+    leaders. More than just a talk, Barry sparks within each listener a drive to
+    channel their energy and business pursuits into meaningful, positive
+    contributions for more fulfilling work and life success. 
   quote: '"Barry delivers experiences that truly transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
