@@ -17,8 +17,8 @@ items:
     designation: President
     company: YPO Southern 7
     quote: >-
-      “BARRY IS A RARE FIND. HE WEAVES WISDOM AS A UNICORN FOUNDER, FORTUNE 500
-      COMPANY EXECUTIVE AND ENERGY SHAMAN TO ELEVATE LIVES.”
+      “Barry is a rare find. He weaves wisdom as a unicorn founder, Fortune 500
+      company executive, and energy shaman to elevate lives.”
   - enable: true
     name: Jenma Bardi
     image: ''
