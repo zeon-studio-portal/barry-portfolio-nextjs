@@ -2,9 +2,9 @@
 
 ## Dependency
 
-- node v18+
+- node v21+
 - npm v9+
-- next v13+
+- next v14+
 - tailwind v3+
 
 ## Development Command
