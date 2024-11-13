@@ -10,7 +10,7 @@ banner:
         url: https://www.youtube.com/watch?v=Mq61xLTDdGI
       - label: Vimeo
         url: https://vimeo.com/395353806
-    youtube_id: 
+    youtube_id: ""
     vimeo_id: 395353806
 draft: false
 ---
