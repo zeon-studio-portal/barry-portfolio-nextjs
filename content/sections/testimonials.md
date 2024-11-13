@@ -39,8 +39,8 @@ items:
   - enable: true
     name: JP Bewley
     image: /Evo.jpeg
-    designation: CEO
-    company: Big Cloud Analytics
+    designation: Big Cloud Analytics (EVO)
+    company: J Patrick Bewley
     quote: “Barry is THE most upbeat and energetic change agent I have EVER met.”
   - enable: true
     name: Cameron Wenaus
