@@ -1,7 +1,9 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING...
-subtitle: Barry releases a tidal wave of positive energy to light up lives.
+subtitle: >-
+  The WOW Factor is real when Barry's invited to private events, conferences and
+  offsite retreats.
 items:
   - enable: true
     name: Beric Meric
