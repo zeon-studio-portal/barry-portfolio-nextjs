@@ -43,7 +43,9 @@ items:
     image: /Evo.jpeg
     designation: Big Cloud Analytics (EVO)
     company: J Patrick Bewley
-    quote: “Barry is THE most upbeat and energetic change agent I have EVER met.”
+    quote: >-
+      “Barry is THE most upbeat and energetic change agent I have EVER met. And,
+      a though leader and visionary who sees the future more clearly than most."
   - enable: true
     name: Cameron Wenaus
     image: /RG.png
