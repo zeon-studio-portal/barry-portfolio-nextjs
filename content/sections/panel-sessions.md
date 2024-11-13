@@ -18,7 +18,7 @@ list:
       vulnerably reveal the breakdowns and breakthroughs that shaped their
       paths, offering a rare and honest look at the realities of building a
       startup."
-    image: /images/passion-session/passion-session-1.png
+    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     button:
       enable: true
       label: Read More
