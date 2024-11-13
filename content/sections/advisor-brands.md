@@ -62,8 +62,8 @@ list:
     image: /macys.png
   - title: ASU
     image: /ASU-symbol.jpg
-  - title: American Express
-    image: /american-express-logo-black-and-white-1.png
+  - title: Acer Group
+    image: /acer-logo-acer-icon-free-free-vector.jpg
   - title: Microsoft
     image: /microsoft+logo+white.png
 draft: false
