@@ -64,7 +64,7 @@ list:
     image: /ASU-symbol.jpg
   - title: AXA Group
     image: /AXA.svg
-  - title: Microsoft
-    image: /microsoft+logo+white.png
+  - title: 'Allstate '
+    image: /Allstate.png
 draft: false
 ---
