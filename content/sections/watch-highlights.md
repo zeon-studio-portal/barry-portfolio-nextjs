@@ -9,5 +9,6 @@ thumbnail: /images/highlight-thumbnail.png
 video_source_options:
   youtubeVideoId: ''
   vimeoVideoId: '1029779698'
+  title: Barry Stamos (Keynote Speaker)
 draft: false
 ---
