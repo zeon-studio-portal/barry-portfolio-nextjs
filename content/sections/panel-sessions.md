@@ -1,9 +1,9 @@
 ---
 enable: true
-title: PASSIONATE PANEL SESSIONS
+title: POWERFUL PANEL SESSIONS
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
-  lead and facilitate them.  
+  lead and facilitate them. 
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
