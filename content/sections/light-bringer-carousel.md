@@ -17,6 +17,7 @@ list:
       truth-tellers, and without them, humanity would lose its way in the dark."
     author: PLATO
     image: /images/light-bringer/image.png
+    subtitle: 'Plato '
   - enable: true
     quote: >-
       "The souls of people, on their way to Earth-life, pass through a room full
