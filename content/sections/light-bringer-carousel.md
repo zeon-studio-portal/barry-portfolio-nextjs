@@ -30,7 +30,7 @@ list:
       are the law-givers and saviors, the light-bringers, way-showers and
       truth-tellers, and without them, humanity would lose its way in the dark."
     author: PLATO
-    image: /images/light-bringer/image.png
+    image: /peace.jpg
   - enable: true
     quote: >-
       "The souls of people, on their way to Earth-life, pass through a room full
