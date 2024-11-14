@@ -78,10 +78,10 @@ list:
           Understanding Rituals: Learn the difference between daily habits,
           routines and rituals, and why rituals are essential for achieving a
           balanced and fulfilling life.
-      - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+      - title: >
+          Integrating Rituals into Daily Life: Gain practical tips on how to
+          seamlessly incorporate these rituals into your day, even amidst a
+          hectic lifestyle.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
