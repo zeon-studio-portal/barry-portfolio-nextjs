@@ -26,7 +26,7 @@ const AboutCeo = ({ aboutCeo }) => {
                 </div>
                 <div data-aos="fade-up-sm" data-aos-delay="100">
                   {markdownify(top_section.name, "p", "text-h4 mb-2")}
-                  {markdownify(top_section.designation, "p", "")}
+                  {markdownify(top_section.designation, "p", "text-secondary-800")}
 
                   {top_section.linkedin.enable && (
                     <div className="flex items-center gap-2 mt-4">

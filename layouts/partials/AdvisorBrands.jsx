@@ -8,7 +8,7 @@ const AdvisorBrands = ({ advisorBrands }) => {
   return enable ? (
     <section className="section bg-dark-primary py-24" id={advisorBrands.slug}>
       <div className="container">
-        <div className="mb-20 text-center text-dark-primary">
+        <div className="mb-20 text-center ">
           <div data-aos="fade-up-sm">
             <AnimatedText tag="h2" className="mb-4 font-semibold text-center lg:col-8 mx-auto" content={title} />
           </div>

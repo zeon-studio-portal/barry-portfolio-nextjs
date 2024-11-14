@@ -20,7 +20,7 @@ const Banner = ({ banner }) => {
             {markdownify(banner.subtitle, "p", "sm:max-w-[600px] mx-auto mb-10 md:text-xl")}
           </div>
 
-          <div data-aos="fade-up" data-aos-delay="100" className="video-wrapper">
+          <div data-aos="fade-up" data-aos-delay="100" className="video-wrapper !aspect-auto">
             <button
               className="flex items-center gap-2 btn relative "
               onClick={() => setOpen(true)}
@@ -61,7 +61,7 @@ const Banner = ({ banner }) => {
                 />
               </svg>
 
-              <span className="min-w-max">{banner.video_button.label}</span>
+              <span className="">{banner.video_button.label}</span>
             </button>
           </div>
         </div>
