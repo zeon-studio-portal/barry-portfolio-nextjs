@@ -2,8 +2,8 @@
 enable: true
 title: LET'S LIGHT UP THE WORLD
 subtitle: >-
-  Barry inspires workers to reignite their purpose and bring renewed energy to
-  their roles.
+  Barry’s talks kindle purpose and passion, enabling people to shine in the work
+  that makes the world better.
 list:
   - enable: true
     quote: >-
