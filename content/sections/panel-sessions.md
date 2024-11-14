@@ -65,7 +65,9 @@ draft: false
 ---
 Startups are hard, very hard. Scaling and successfully exiting is even more challenging. Navigating the startup world can be a rollercoaster of highs and lows, filled with invaluable lessons learned through both triumphs and setbacks. 
 
-In this expert panel, successful founders who have bootstrapped their way to $250M in annual recurring revenue and/or secured $100M in venture capital funding to achieve unicorn status will share their personal and professional journeys. They will vulnerably reveal the breakdowns and breakthroughs that shaped their paths, offering a rare and honest look at the realities of building a startup. Panelists will provide authentic insights into their struggles and how they overcame them, sharing lessons that can significantly improve the odds for the next generation of entrepreneurs. 
+In this expert panel, successful founders who have bootstrapped their way to $250M in annual recurring revenue and/or secured $100M in venture capital funding to achieve unicorn status will share their personal and professional journeys. They will vulnerably reveal the breakdowns and breakthroughs that shaped their paths, offering a rare and honest look at the realities of building a startup. 
+
+Panelists will provide authentic insights into their struggles and how they overcame them, sharing lessons that can significantly improve the odds for the next generation of entrepreneurs. 
 
 Key Takeaways:
 
