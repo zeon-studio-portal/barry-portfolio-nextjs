@@ -82,10 +82,11 @@ list:
           Integrating Rituals into Daily Life: Gain practical tips on how to
           seamlessly incorporate these rituals into your day, even amidst a
           hectic lifestyle.
-      - title: >-
-          Practical Transformation Tools: Gain actionable insights into the
-          practices and modalities that can help you achieve a more harmonious
-          and satisfying life.
+      - title: >
+          Mastering 8 Dimensions of Wellbeing: Explore how consistent daily
+          rituals can lead to long-term wellbeing (physical, emotional,
+          spiritual, financial, environmental, occupational, social and
+          intellectual). 
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
