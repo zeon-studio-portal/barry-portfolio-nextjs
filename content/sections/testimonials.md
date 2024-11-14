@@ -2,7 +2,7 @@
 enable: true
 title: WHAT THEY ARE SAYING...
 subtitle: >-
-  The WOW Factor is real with Barry's at events, conferences, and offsite
+  The WOW Factor is real with Barry at events, conferences, and offsite
   retreats. 
 items:
   - enable: true
