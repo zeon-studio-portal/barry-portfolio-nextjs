@@ -6,7 +6,7 @@ button:
   enable: true
   label: Book Barry
   link: /about
-image: /images/barry.png
+image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
   - company: SUPERNOVA
     image: /images/speaker-bio/heart.png
