@@ -19,7 +19,7 @@ topList:
     alt: gallery image
   - image: /images/gallery/07.png
     alt: gallery image
-  - image: /images/gallery/08.png
+  - image: /Barry Stamos Plane.JPG
     alt: gallery image
   - image: /images/gallery/09.png
     alt: gallery image
@@ -38,7 +38,7 @@ bottomList:
     alt: gallery image
   - image: /images/gallery/08.png
     alt: gallery image
-  - image: /images/gallery/09.png
+  - image: ''
     alt: gallery image
 draft: false
 ---
