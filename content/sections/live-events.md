@@ -1,6 +1,6 @@
 ---
 enable: true
-title: COMPANY OFFSITES & RETREATS
+title: OFFSITES & RETREATS
 subtitle: >-
   Barry is an experienced guide for professional and personal transformative
   experiences. 
