@@ -15,7 +15,7 @@ list:
       saints, who lead and lift the race out of darkness, toward the light. They
       are the law-givers and saviors, the light-bringers, way-showers and
       truth-tellers, and without them, humanity would lose its way in the dark."
-    author: PLATO
+    author: Plato
     image: /images/light-bringer/image.png
     subtitle: 'Plato '
   - enable: true
