@@ -5,7 +5,7 @@ import { useState } from "react";
 import ModalVideo from "react-modal-video";
 
 const WatchHighlights = ({ watchHighlights }) => {
-  const { enable, title, subtitle, thumbnail, youtubeVideoId } = watchHighlights.frontmatter;
+  const { enable, title, subtitle, thumbnail, video_source_options } = watchHighlights.frontmatter;
   const [isOpen, setOpen] = useState(false);
 
   return enable ? (
@@ -49,12 +49,15 @@ const WatchHighlights = ({ watchHighlights }) => {
             </button>
           </div>
         </div>
-
         <ModalVideo
-          channel="youtube"
+          channel={video_source_options.youtubeVideoId ? "youtube" : "vimeo"}
           autoplay={1}
           isOpen={isOpen}
-          videoId={youtubeVideoId}
+          videoId={
+            video_source_options.youtubeVideoId
+              ? video_source_options.youtubeVideoId
+              : video_source_options.vimeoVideoId
+          }
           onClose={() => setOpen(false)}
         />
       </div>

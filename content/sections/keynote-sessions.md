@@ -7,7 +7,9 @@ subtitle: >-
 list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
-    youtubeVideoId: '311508179'
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '311508179'
     youtubeVideoStartTime: '12:55'
     image: /IMG_0480.JPG
     imageAlt: keynotes image
@@ -41,7 +43,7 @@ list:
   - badge: Motivation
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     youtubeVideoId: UIQc7abikzE
-    youtubeVideoStartTime: ''
+    youtubeVideoStartTime: '12:55'
     image: /images/keynote-sessions/image-5.png
     imageAlt: keynotes image
     description: >-

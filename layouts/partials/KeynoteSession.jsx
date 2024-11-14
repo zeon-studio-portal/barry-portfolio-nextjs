@@ -18,6 +18,7 @@ const KeynoteSession = ({ keynoteSessions }) => {
             </div>
           )}
         </div>
+
         <div className="grid md:grid-cols-2 gap-6">
           {list.length &&
             list.map((item, index) => {
