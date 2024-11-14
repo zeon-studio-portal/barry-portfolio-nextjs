@@ -5,17 +5,17 @@ subtitle: >-
   Barry has served as a consultant, advisor, or speaker for over 100+ Fortune
   500 companies.
 list:
-  - title: microsoft
-    image: /images/advisor-brands/advisor_brand_13.png
+  - title: Microsoft
+    image: /microsoft+logo+white.png
   - title: visa
     image: /visa.png
   - title: loreal
-    image: /images/advisor-brands/advisor_brand_15.png
+    image: /Loreal_MMCv2_white.png
   - title: fedex
     image: >-
       /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
-  - title: under
-    image: /images/advisor-brands/advisor_brand_10.png
+  - title: Under Armour
+    image: /UnderArmour.png
   - title: wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
   - title: axa
@@ -37,7 +37,7 @@ list:
   - title: AT&T
     image: /images/advisor-brands/advisor_brand_1.png
   - title: General Motors Logo
-    image: /gm-logo.png
+    image: /GM.webp
   - title: lufthands
     image: /images/advisor-brands/advisor_brand_16.png
   - title: google
@@ -45,7 +45,7 @@ list:
   - title: JP Morgan Chase
     image: /JP Morgan Chase.png
   - title: StubHub
-    image: /Stubhub.jpg
+    image: /stubhub-icon.webp
   - title: Meta
     image: /Meta.webp
   - title: Disney
@@ -60,9 +60,11 @@ list:
     image: /virgin-logo-black-and-white.png
   - title: macys
     image: /macys.png
-  - title: ASU
-    image: /ASU-symbol.jpg
-  - title: American Express
-    image: /amex.png
+  - title: Santander
+    image: /santander1-logo-black-and-white.png
+  - title: IBM
+    image: /ibm.png
+  - title: 'Allstate '
+    image: /Allstate.png
 draft: false
 ---

@@ -6,10 +6,10 @@ subtitle: >-
   minds. 
 list:
   - badge: Motivation
-    title: '**01** It''s Not Business, It''s Personal Put Your Heart Into Your Work'
-    youtubeVideoId: ''
-    youtubeVideoStartTime: ''
-    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
+    title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
+    youtubeVideoId: '311508179'
+    youtubeVideoStartTime: '12:55'
+    image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >-
       The world needs you now. In this keynote, I’ll share how to find your
@@ -42,7 +42,7 @@ list:
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-1.png
+    image: /images/keynote-sessions/image-5.png
     imageAlt: keynotes image
     description: >-
       In today’s rapidly evolving business landscape, traditional approaches can
@@ -75,7 +75,7 @@ list:
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     youtubeVideoId: UIQc7abikzE
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-2.png
+    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
     description: >-
       In a world where machines handle more tasks and data drives decisions,
@@ -179,7 +179,7 @@ list:
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
     youtubeVideoId: ''
     youtubeVideoStartTime: ''
-    image: /images/keynote-sessions/image-5.png
+    image: /images/interviews/image-1.png
     imageAlt: keynotes image
     description: >-
       Artificial Intelligence (AI) is rapidly transforming every aspect of our

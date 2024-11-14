@@ -1,6 +1,6 @@
 ---
 enable: true
-title: EXTRAORDINARY PANEL SESSIONS
+title: MASTER OF CEREMONIES OR PANELIST
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
   lead and facilitate them.  
@@ -18,13 +18,13 @@ list:
       vulnerably reveal the breakdowns and breakthroughs that shaped their
       paths, offering a rare and honest look at the realities of building a
       startup."
-    image: /images/passion-session/passion-session-1.png
+    image: /Founder Stories.jpg
     button:
       enable: true
       label: Read More
       link: '#'
-  - head: Entrepreneurship
-    title: My Panelists Are Pre-committed
+  - head: ''
+    title: 'Wisdom from Successfully Exited Founders '
     description: >-
       As the CEO & Founder of Supernova, I have built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
@@ -35,18 +35,40 @@ list:
       market leader. I’m ready to shine a light on our success secrets and also
       too our shadows.” </br> </br> JT Marino & Dahee Park, Co-founders of
       TN.com </blockquote> 
-    image: /images/passion-session/passion-session-2.png
+    image: /images/gallery/07.png
     button:
       enable: true
       label: Read More
       link: '#'
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
-    description: "Startups are hard, very hard. Scaling and successfully exiting is even more challenging. Navigating the startup world can be a rollercoaster of highs and lows, filled with invaluable lessons learned through both triumphs and setbacks.\_</br></br> In this expert panel, successful founders who have bootstrapped their way to $250M in annual recurring revenue and/or secured $100M in venture capital funding to achieve unicorn status will share their personal and professional journeys. They will vulnerably reveal the breakdowns and breakthroughs that shaped their paths, offering a rare and honest look at the realities of building a startup."
-    image: /images/passion-session/passion-session-3.png
+    description: >-
+      In a world where machines handle more tasks and data drives decisions,
+      leaders face the challenge of maintaining the essence of humanity in their
+      organizations. Without a focus on these core human values, businesses risk
+      losing the warmth and authenticity that foster true loyalty and
+      engagement.
+
+      This panel discussion relays that while technology reshapes the business
+      landscape, our humanity and love are powerful superpowers that can set us
+      apart. By leading with heart and purpose, you can harness these intrinsic
+      qualities to drive success and create a more compassionate and effective
+      workplace. The session will reveal how heart-led leadership can elevate
+      your business, fostering deeper connections and a vibrant company culture
+      that thrives amidst technological advancement.
+    image: /images/gallery/08.png
     button:
       enable: true
       label: Read More
       link: '#'
 draft: false
 ---
+This panel discussion relays that while technology reshapes the business landscape, our humanity and love are powerful superpowers that can set us apart. By leading with heart and purpose, you can harness these intrinsic qualities to drive success and create a more compassionate and effective workplace. The session will reveal how heart-led leadership can elevate your business, fostering deeper connections and a vibrant company culture that thrives amidst technological advancement.
+
+Key Takeaways:
+
+* Put Love To Work: Understand how love and empathy can act as the foundational technology that enhances human-machine collaboration and connection.
+* Purpose-Driven Leadership: Learn how to integrate your core values into your leadership approach, using them as a force to inspire and connect with your team on a deeper level.
+* Building Authentic Connections: Explore strategies to maintain genuine relationships and cultivate a supportive, engaged workforce despite the rise of automation.
+* Imact and Legacy: Discover how to leave a lasting legacy by leading with purpose and using your influence to create positive, sustainable change in the world.
+* By the end of this session, you’ll be inspired to leverage the power of humanity and love as key drivers of success. 
