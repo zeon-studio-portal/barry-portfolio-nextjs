@@ -87,10 +87,7 @@ list:
           rituals can lead to long-term wellbeing (physical, emotional,
           spiritual, financial, environmental, occupational, social and
           intellectual). 
-      - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+      - title: ''
     footer: ''
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
