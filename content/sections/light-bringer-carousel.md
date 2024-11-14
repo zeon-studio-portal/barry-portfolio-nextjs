@@ -1,9 +1,7 @@
 ---
 enable: true
 title: LET'S LIGHT UP THE WORLD
-subtitle: >-
-  Barry’s talks kindle purpose and passion, enabling people to shine in the work
-  that's good for the world.
+subtitle: Let's use business as a force for good in the world.
 list:
   - enable: true
     quote: >-
