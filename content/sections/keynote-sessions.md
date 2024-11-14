@@ -41,11 +41,13 @@ list:
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
           authentic and joyful existence.
-    footer: >-
+    footer: >
       By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+      inspiration to embark on your own journey of inner space travel. you’ll be
+      equipped with the tools and inspiration to embark on your own journey of
+      inner space travel. You’ll learn how to integrate these practices into
+      your life, unlocking personal growth and transformation, and ultimately,
+      living a life you truly love.
   - badge: Motivation
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     video_source_options:
