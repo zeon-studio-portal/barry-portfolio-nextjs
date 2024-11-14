@@ -1,6 +1,6 @@
 ---
 enable: true
-title: TRUSTED ADVISOR & SPEAKER
+title: ADVISOR & SPEAKER
 subtitle: Barry has served as an advisor or speaker for 100+ Fortune 500 companies.
 list:
   - title: Microsoft
