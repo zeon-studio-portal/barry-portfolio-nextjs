@@ -12,13 +12,20 @@ list:
       vimeoVideoId: ''
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
-    description: >-
-      The world needs you now. In this keynote, I’ll share how to find your
-      soul’s purpose and tap into your inner "supernova energy"—a limitless
-      source of light and vitality that can guide you to success in work and
-      life without sacrificing your well-being.
+    description: >
+      It’s not business, it’s personal!  We spend 75% of our waking hours
+      connected to work - getting ready for work, getting to work, working,
+      returning home from work and decompressing and recovering from work. Now
+      that many are working from home it’s likely even higher. 
+
+      In this transformative keynote, Barry Stamos will take you on the greatest
+      journey of a lifetime: traveling inward to bridge the 18 inches between
+      your head and into your heart. Drawing from his personal journey from a
+      Silicon Valley spiritually bankrupt exited unicorn founder to a fulfilled
+      individual, Barry will what he has discovered the keys to unlocking a more
+      purposeful,fulfilled work life.
     keytakeways:
-      - title: >-
+      - title: >
           Heart-Led Leadership: Learn how traveling inward can lead to greater
           fulfillment and balance, bridging the gap between material success and
           spiritual well-being.
