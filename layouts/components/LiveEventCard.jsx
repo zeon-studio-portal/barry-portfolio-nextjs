@@ -4,6 +4,7 @@ import ImageFallback from "./ImageFallback";
 
 const LiveEventCard = ({ item, aosDelay }) => {
   const [isOpen, setOpen] = useState(false);
+  const video_source_options = item.video_source_options;
 
   return (
     <>
@@ -44,11 +45,14 @@ const LiveEventCard = ({ item, aosDelay }) => {
           <h3 className="text-h5 font-medium mb-4">{item.title}</h3>
         </div>
       </div>
+
       <ModalVideo
-        channel="youtube"
+        channel={video_source_options.youtubeVideoId ? "youtube" : "vimeo"}
         autoplay={1}
         isOpen={isOpen}
-        videoId={item.youtubeVideoId}
+        videoId={
+          video_source_options.youtubeVideoId ? video_source_options.youtubeVideoId : video_source_options.vimeoVideoId
+        }
         onClose={() => setOpen(false)}
       />
     </>
