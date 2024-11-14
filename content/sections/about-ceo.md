@@ -30,7 +30,7 @@ bottom_section:
     channel their energy and business pursuits into meaningful, positive
     contributions for more fulfilling work and life success (becoming a living
     masterpiece). 
-  quote: '"Barry delivers experiences that truly transform lives."'
+  quote: '"Barry delivers experiences that transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
     enable: true
