@@ -1,9 +1,9 @@
 ---
 enable: true
-title: ADVISOR & MENTOR
+title: THOUGHT LEADERSHIP
 subtitle: >-
-  Barry is the CEO & Founder of Supernova, 150+ successfully exited founders
-  teaming up to advise, mentor and invest together. 
+  Barry is a visionary and innovative thinker who see the future more clearly
+  than most. 
 list:
   - enable: true
     title: What is the future of luxury?
@@ -12,7 +12,7 @@ list:
       LuxuryLab Global, LATAM
     thumbnail: /images/interviews/image.png
     video_source_options:
-      youtubeVideoId: 'UIQc7abikzE'
+      youtubeVideoId: UIQc7abikzE
       vimeoVideoId: ''
   - enable: true
     title: A New Operating System
