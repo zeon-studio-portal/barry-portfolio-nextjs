@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MC OR PANEL PARTICIPANT
+title: MASTER OF CEREMONIES OR PANELIST
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
   lead and facilitate them.  
