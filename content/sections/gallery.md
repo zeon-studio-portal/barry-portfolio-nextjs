@@ -19,11 +19,6 @@ topList:
     alt: gallery image
   - image: /images/gallery/07.png
     alt: gallery image
-  - image: /Barry Stamos Plane.JPG
-    alt: gallery image
-  - image: /carebear.JPG
-    alt: gallery image
-    title: Carebear
 bottomList:
   - image: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     alt: gallery image
