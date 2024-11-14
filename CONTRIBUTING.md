@@ -1,6 +1,6 @@
-## 🌟 Contributing to 1supernova
+## 🌟 Contributing to Barry Stamos Personal Website
 
-A next js powered static website for 1supernova
+A next js powered static website for barrystamos
 
 ### Prerequisites
 
@@ -48,7 +48,7 @@ docker run -p 3000:3000 nextplate
 
 **Working on the `main` Branch:**
 
-- If you haven't already cloned the 1supernova website repository, clone it.
+- If you haven't already cloned the barry-personal website repository, clone it.
 - Fetch Latest Changes (if applicable).
 - Make your changes directly on your local `main` branch.
 - Commit your changes frequently with clear and descriptive messages.
@@ -64,9 +64,9 @@ docker run -p 3000:3000 nextplate
 
 ### Information
 
-- Staging Branch Hosted on vercel using sumon.themefisher@gmail.com
-- Used [Tina](https://tina.io/) CMS
+- Staging Branch Hosted on vercel using <rubel.themefisher@gmail.com>
+- Used [ZeonCMS](https://zeoncms.com/) CMS
 
 ### Maintainers
 
-- [Muhammad Sumon](https://github.com/tfsumon)
+- [Rubel Hossain](https://github.com/tfrubel)
