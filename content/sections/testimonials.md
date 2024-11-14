@@ -37,7 +37,7 @@ items:
     company: CEO & Founder
     quote: >-
       “My most memorable podcast was with a guy named Barry Stamos (after 1,500+
-      successful founder interviews)."
+      founder interviews)."
   - enable: true
     name: JP Bewley
     image: /Evo.jpeg
