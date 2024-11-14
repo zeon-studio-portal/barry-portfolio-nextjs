@@ -2,8 +2,8 @@
 enable: true
 title: THOUGHT LEADERSHIP
 subtitle: >-
-  Barry is a visionary and innovative thinker who see the future more clearly
-  than most. 
+  Barry is a visionary and innovative thinker who is said to see the future more
+  clearly than most. 
 list:
   - enable: true
     title: What is the future of luxury?
@@ -41,4 +41,5 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
+draft: false
 ---
