@@ -10,7 +10,7 @@ list:
     video_source_options:
       youtubeVideoId: UIQc7abikzE
       vimeoVideoId: ''
-    image: /IMG_0480.JPG
+    image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
     description: >-
       The world needs you now. In this keynote, I’ll share how to find your
