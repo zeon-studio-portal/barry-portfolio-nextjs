@@ -1,7 +1,7 @@
 {
-  "name": "1supernova",
-  "description": "1supernova main website",
-  "version": "1.2.6",
+  "name": "barrystamos",
+  "description": "barrystamos main website",
+  "version": "1.0.0",
   "private": true,
   "license": "UNLICENSED",
   "packageManager": "yarn@1.22.19",

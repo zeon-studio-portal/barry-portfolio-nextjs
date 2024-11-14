@@ -11,26 +11,34 @@ list:
       Elevate and change from the inside out: Barry Stamos interview at
       LuxuryLab Global, LATAM
     thumbnail: /images/interviews/image.png
-    youtubeVideoId: UIQc7abikzE
+    video_source_options:
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
   - enable: true
     title: A New Operating System
     description: >-
       LATAM: Elevate ourselves and change from the inside out - Barry Stamos
       interview at LuxuryLab Global
     thumbnail: /images/interviews/image-1.png
-    youtubeVideoId: iUtnZpzkbG8
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '395353806'
   - enable: true
     title: Oneness is the Universal Key
     description: >-
       Change from the inside out: Barry Stamos interview at LuxuryLab Global,
       LATAM
     thumbnail: /images/interviews/image-2.png
-    youtubeVideoId: mLwlGsRhNIU
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '395353806'
   - enable: true
     title: Altered States of Consciousness
     description: >-
       LuxuryLab Global, LATAM: Barry Stamos interview on elevating ourselves and
       changing from the inside out
     thumbnail: /images/interviews/image.png
-    youtubeVideoId: muczNvx9fgg
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '395353806'
 ---

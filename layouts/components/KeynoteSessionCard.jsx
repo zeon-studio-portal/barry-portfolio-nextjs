@@ -99,6 +99,7 @@ const KeynoteSessionCard = ({ item, isEven }) => {
                   width={1200}
                   height={600}
                   className="w-full aspect-video"
+                  allowFullScreen
                   src={`https://www.youtube.com/embed/${item.video_source_options.youtubeVideoId}?playlist=${item.video_source_options.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1`}
                 ></iframe>
               ) : (

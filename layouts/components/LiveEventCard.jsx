@@ -14,13 +14,15 @@ const LiveEventCard = ({ item, aosDelay }) => {
             <span className="text-base font-medium leading-none">Live</span>
             <span className="inline-block size-2 bg-red-500 rounded-full animate-pulse"></span>
           </div>
+
           <ImageFallback
-            width={542}
-            height={306}
+            width={600}
+            height={350}
             src={item.thumbnail}
             alt="Live Event"
-            className="w-full max-h-[340px] object-cover "
+            className="w-full max-h-[340px] object-cover aspect-[16/11]"
           />
+
           <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
             <button className="video-play-btn" onClick={() => setOpen(true)} aria-label="Play Video">
               <span className="video-play-btn-icon">

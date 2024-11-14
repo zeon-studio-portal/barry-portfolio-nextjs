@@ -13,7 +13,7 @@ const interviews = ({ interviews }) => {
       id={interviews.slug}
       className="section bg-dark-primary py-24 overflow-hidden relative isolate scroll-mt-5"
     >
-      <div ref={largeScreenRef} className="container relative ">
+      <div className="container relative ">
         <div className="relative z-10 ">
           <div className="mb-20 text-center">
             <div data-aos="fade-up-sm">
@@ -31,18 +31,36 @@ const interviews = ({ interviews }) => {
           </div>
           <div className="flex flex-col gap-10" data-aos="fade-up-sm" data-aos-delay="100">
             {/* BIG SCREEN */}
-            <div className=" relative ">
+            <div className="relative" ref={largeScreenRef}>
               <div className="bg-dark-quaternary rounded-2xl overflow-hidden">
-                <iframe
-                  key={activeVideo.youtubeVideoId}
-                  loading="lazy"
-                  title="youtube video"
-                  className="w-full aspect-video "
-                  src={`https://www.youtube.com/embed/${activeVideo.youtubeVideoId}?playlist=${activeVideo.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=${activeVideo.youtubeVideoId || 0}`}
-                  allowFullScreen
-                ></iframe>
+                {activeVideo.video_source_options.youtubeVideoId ? (
+                  <iframe
+                    loading="lazy"
+                    title="background video"
+                    width={1200}
+                    height={600}
+                    className="w-full aspect-video"
+                    allowFullScreen
+                    src={`https://www.youtube.com/embed/${activeVideo.video_source_options.youtubeVideoId}?playlist=${activeVideo.video_source_options.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1`}
+                  ></iframe>
+                ) : (
+                  <iframe
+                    src={`https://player.vimeo.com/video/${activeVideo.video_source_options.vimeoVideoId}?autoplay=1&loop=1&title=0&byline=0&portrait=0`}
+                    width={1200}
+                    height={600}
+                    className="w-full aspect-video bg-dark-primary"
+                    frameBorder="0"
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
+                )}
                 <div className="py-6 px-8 ">
-                  {markdownify(activeVideo.description, "h3", "mb-4 text-3xl text-white font-semibold  ")}
+                  {markdownify(
+                    activeVideo.title,
+                    "h3",
+                    "text-light-primary text-3xl tex font-medium leading-tight mb-4"
+                  )}
+                  {markdownify(activeVideo.description, "h3", "mb-4 text-base text-light-secondary font-normal  ")}
                 </div>
               </div>
             </div>
@@ -56,11 +74,18 @@ const interviews = ({ interviews }) => {
                       item.enable && (
                         <div
                           onClick={() => {
-                            largeScreenRef.current.scrollIntoView({ behavior: "smooth" });
+                            largeScreenRef.current.scrollIntoView({ behavior: "instant" });
+                            // Add 40px offset after scrolling to the element
+                            setTimeout(() => {
+                              window.scrollBy({
+                                top: -100,
+                                behavior: "instant",
+                              });
+                            }, 0); // Small delay to ensure scrollIntoView completes
                             setActiveVideo(list.find((video) => video.title === item.title));
                           }}
                           key={item.title}
-                          className="flex flex-col items-center cursor-pointer bg-dark-quaternary rounded-2xl min-w-[250px] overflow-hidden"
+                          className="flex flex-col items-center cursor-pointer bg-dark-quaternary rounded-2xl max-w-[255px] overflow-hidden"
                           data-aos="fade-in"
                           data-aos-delay={index * 100}
                         >
