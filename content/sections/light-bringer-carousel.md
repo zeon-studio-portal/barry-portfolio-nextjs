@@ -1,7 +1,9 @@
 ---
 enable: true
 title: LET'S LIGHT UP THE WORLD
-subtitle: Let's use business as a force for good in the world.
+subtitle: >-
+  Barry’s talks kindle purpose and passion, enabling people to shine in the work
+  that's good for the world.
 list:
   - enable: true
     quote: >-
@@ -16,6 +18,7 @@ list:
     author: Plato
     image: /images/light-bringer/image.png
     subtitle: 'Plato '
+    title: Plato
   - enable: true
     quote: >-
       "The souls of people, on their way to Earth-life, pass through a room full
