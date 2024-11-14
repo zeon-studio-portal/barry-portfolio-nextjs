@@ -91,15 +91,27 @@ const KeynoteSessionCard = ({ item, isEven }) => {
             ref={ref}
             className="relative z-10 bg-dark-secondary rounded-xl py-10 px-8 max-w-[1100px] max-h-[90%] overflow-auto"
           >
-            {item.youtubeVideoId ? (
-              <iframe
-                loading="lazy"
-                title="background video"
-                width={1200}
-                height={600}
-                className="w-full aspect-video"
-                src={`https://www.youtube.com/embed/${item.youtubeVideoId}?playlist=${item.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&start=${item.youtubeVideoStartTime || 0}`}
-              ></iframe>
+            {item.video_source_options.youtubeVideoId || item.video_source_options.vimeoVideoId ? (
+              item.video_source_options.youtubeVideoId ? (
+                <iframe
+                  loading="lazy"
+                  title="background video"
+                  width={1200}
+                  height={600}
+                  className="w-full aspect-video"
+                  src={`https://www.youtube.com/embed/${item.video_source_options.youtubeVideoId}?playlist=${item.video_source_options.youtubeVideoId}&autoplay=0&mute=0&loop=1&color=white&controls=1&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1`}
+                ></iframe>
+              ) : (
+                <iframe
+                  src={`https://player.vimeo.com/video/${item.video_source_options.vimeoVideoId}?autoplay=1&loop=1&title=0&byline=0&portrait=0`}
+                  width={1200}
+                  height={600}
+                  className="w-full aspect-video bg-dark-primary"
+                  frameBorder="0"
+                  allow="autoplay; fullscreen; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
+              )
             ) : (
               <ImageFallback
                 width={400}
@@ -109,6 +121,7 @@ const KeynoteSessionCard = ({ item, isEven }) => {
                 className="w-full drop-shadow-lg rounded-xl"
               />
             )}
+
             <div className="py-8 flex flex-col gap-6 justify-between items-start h-full">
               <div>
                 {/* BADGE */}

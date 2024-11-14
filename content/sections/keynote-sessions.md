@@ -8,9 +8,8 @@ list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '311508179'
-    youtubeVideoStartTime: '12:55'
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
     image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >-
@@ -42,8 +41,9 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Motivation
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
-    youtubeVideoId: UIQc7abikzE
-    youtubeVideoStartTime: '12:55'
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '311508179'
     image: /images/keynote-sessions/image-5.png
     imageAlt: keynotes image
     description: >-
@@ -75,8 +75,9 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
-    youtubeVideoId: UIQc7abikzE
-    youtubeVideoStartTime: ''
+    video_source_options:
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
     description: >-
@@ -108,8 +109,9 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: The Future of Work
     title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
-    youtubeVideoId: UIQc7abikzE
-    youtubeVideoStartTime: ''
+    video_source_options:
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
     description: >-
@@ -146,8 +148,9 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Entrepreneurship & Startups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
-    youtubeVideoId: UIQc7abikzE
-    youtubeVideoStartTime: ''
+    video_source_options:
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
     image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     imageAlt: keynotes image
     description: >-
@@ -179,8 +182,9 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Ai & the Future of Work
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
-    youtubeVideoId: ''
-    youtubeVideoStartTime: ''
+    video_source_options:
+      youtubeVideoId: 'UIQc7abikzE'
+      vimeoVideoId: ''
     image: /images/interviews/image-1.png
     imageAlt: keynotes image
     description: >-
