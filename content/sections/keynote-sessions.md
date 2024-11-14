@@ -55,16 +55,29 @@ list:
       vimeoVideoId: '311508179'
     image: /images/highlight-thumbnail.png
     imageAlt: keynotes image
-    description: >-
-      In today’s rapidly evolving business landscape, traditional approaches can
-      only take you so far. To truly disrupt trillion-dollar industries and
-      achieve extraordinary success, leaders and executives must embrace the
-      innovative and 
+    description: >
+      In today's fast-paced world, many of us struggle to maintain a sense of
+      balance and wellbeing. The constant demands of work, family, and social
+      obligations often leave us feeling overwhelmed and disconnected from our
+      own needs. Despite our best intentions, we find ourselves caught in a
+      cycle of stress and burnout, unable to achieve the lasting fulfillment and
+      happiness we seek.
+
+      In this keynote session, you will discover the the transformative power of
+      daily rituals in mastering life and achieving true, lasting wellbeing.
+      Drawing from scientific research and timeless wisdom, we will explore
+      practical, actionable strategies that can be integrated into even the
+      busiest of schedules. You will learn how small, intentional habits can
+      create a ripple effect, improving not only your physical health but also
+      your mental, emotional, and spiritual wellbeing. You will be equipped with
+      the knowledge and tools to create lasting positive change in your life,
+      ensuring that you not only survive but truly thrive in all aspects of your
+      work and life.
     keytakeways:
-      - title: >-
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+      - title: >
+          Understanding Rituals: Learn the difference between daily habits,
+          routines and rituals, and why rituals are essential for achieving a
+          balanced and fulfilling life.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
@@ -77,11 +90,7 @@ list:
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
           authentic and joyful existence.
-    footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+    footer: ''
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     video_source_options:
