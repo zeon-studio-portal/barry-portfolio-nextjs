@@ -130,21 +130,28 @@ list:
       vimeoVideoId: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
-    description: >-
+    description: >
       In today’s rapidly evolving business landscape, traditional approaches can
       only take you so far. To truly disrupt trillion-dollar industries and
       achieve extraordinary success, leaders and executives must embrace the
-      innovative and  In this transformative keynote, Barry Stamos will take you
-      on the greatest journey of a lifetime: traveling inward to bridge the 18
-      inches between your head and into your heart. Drawing from his personal
-      journey from a Silicon Valley spiritually bankrupt exited unicorn founder
-      to a fulfilled individual, Barry will what he has discovered the keys to
-      unlocking a more purposeful,fulfilled work life.
+      innovative and unconventional practices that have propelled startups to
+      unicorn status. Yet, understanding how to do more with less—leveraging
+      agility, creativity, and a disruptive mindset—can be challenging for those
+      accustomed to established business models.
+
+      This keynote offers a rare opportunity to learn from the startup journey—a
+      journey marked by bold experimentation, rapid iteration, and the audacity
+      to challenge the status quo. Barry Stamos, co-founder of Supernova, will
+      share the groundbreaking strategies and practices that have enabled a few
+      brave founders to disrupt massive industries with fewer resources and
+      employees. You’ll gain insights into the innovative thinking and
+      unconventional tactics that can be applied to any organization, regardless
+      of size or stage, to drive exponential growth and success.
     keytakeways:
-      - title: >-
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+      - title: >
+          Startup Lessons for Leaders: Discover what executives can learn from
+          the startup world’s approach to disruption, innovation, and doing more
+          with less.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
