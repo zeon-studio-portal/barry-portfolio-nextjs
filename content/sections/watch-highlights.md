@@ -5,7 +5,7 @@ subtitle: >+
   Barry is a top-rated keynote speaker, experience guide, and transformative
   change agent.
 
-thumbnail: /images/speakers/keynotes-1.png
+thumbnail: /images/keynote-sessions/image-3.png
 video_source_options:
   youtubeVideoId: ''
   vimeoVideoId: '1029779698'
