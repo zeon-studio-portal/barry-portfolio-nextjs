@@ -8,7 +8,7 @@ list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     video_source_options:
-      youtubeVideoId: UIQc7abikzE
+      youtubeVideoId: MUiklxHJ0ow
       vimeoVideoId: ''
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
