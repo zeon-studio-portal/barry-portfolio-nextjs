@@ -6,9 +6,7 @@ subtitle: >-
   experiences.
 list:
   - enable: true
-    title: >-
-      Barry is the co-founder and former Chief Heart Officer of 1heart
-      (1heart.com)
+    title: Barry's the co-founder and former Chief Heart Officer of 1heart ❤️
     description: >-
       He has led dozens of heart-led transformative journeys to elevate the
       lives of CEO's, founders, and change-makers.
