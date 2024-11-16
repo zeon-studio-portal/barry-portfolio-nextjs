@@ -32,7 +32,7 @@ bottomList:
     alt: gallery image
   - image: /images/gallery/08.png
     alt: gallery image
-  - image: Jay Shetty.jpg
+  - image: /images/Jay Shetty.jpg
     alt: gallery image
 draft: false
 ---
