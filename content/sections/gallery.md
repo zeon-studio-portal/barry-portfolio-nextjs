@@ -18,7 +18,7 @@ topList:
   - image: /images/gallery/06.png
     alt: gallery image
 bottomList:
-  - image: /91ba6022-f374-4488-9d42-69465afcd391.JPG
+  - image: ''
     alt: gallery image
   - image: /Bio-8.JPG
     alt: gallery image
@@ -28,7 +28,7 @@ bottomList:
     alt: gallery image
   - image: /CTEMyurUwAAnepz.jpeg
     alt: gallery image
-  - image: /images/gallery/07.png
+  - image: ''
     alt: gallery image
   - image: /Barry Stamos Plane.JPG
     alt: gallery image
