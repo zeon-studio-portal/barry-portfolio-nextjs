@@ -1,9 +1,7 @@
 ---
 enable: true
 title: PODCASTS WITH POSITIVITY
-subtitle: >-
-  Barry is available for podcasts interested in serving as a source of light and
-  goodness.
+subtitle: Barry is available for podcasts serving as a source of positivity.
 list:
   - enable: true
     head: Founders
