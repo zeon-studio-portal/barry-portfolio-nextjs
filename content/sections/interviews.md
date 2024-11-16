@@ -1,9 +1,7 @@
 ---
 enable: true
-title: THOUGHT LEADERSHIP
-subtitle: >-
-  Barry is a visionary and innovative thinker who is said to see the future more
-  clearly than most. 
+title: The Truth About Advisory Board
+subtitle: ''
 list:
   - enable: true
     title: What is the future of luxury?
@@ -41,5 +39,11 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
+  - title: ''
+    description: ''
+    thumbnail: ''
+    video_source_options:
+      youtubeVideoId: iJhOa2l8jk4
+      vimeoVideoId: ''
 draft: false
 ---
