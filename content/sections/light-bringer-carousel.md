@@ -1,7 +1,7 @@
 ---
 enable: true
 title: LET'S LIGHT UP THE WORLD
-subtitle: Let's inspire hearts and minds to shine in the good work the world needs.
+subtitle: Let's inspire hearts and minds to shine in the good work for the world.
 list:
   - enable: true
     quote: >-
