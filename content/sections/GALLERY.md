@@ -13,6 +13,8 @@ topList:
     alt: gallery image
   - image: /images/gallery/06.png
     alt: gallery image
+  - image: /Barry Stamos Plane.JPG
+    alt: ''
 bottomList:
   - image: /flyer.jpeg
     alt: gallery image
