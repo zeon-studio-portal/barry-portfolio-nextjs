@@ -9,7 +9,7 @@ list:
     head: Founders
     title: 'First Time Founders: Love is The Human Accelerator'
     thumbnail: /Barry Stamos Dear First Time Founders.png
-    youtubeVideoId: https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB
+    youtubeVideoId: ''
   - enable: true
     head: Consulting
     title: Is heart-led entrepreneurship good for business?
