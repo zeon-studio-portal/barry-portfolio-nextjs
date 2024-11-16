@@ -1,6 +1,6 @@
 ---
 enable: true
-title: THOUGHT LEADERSHIP
+title: RETREATS & OFFSITES
 subtitle: ''
 list:
   - enable: true
