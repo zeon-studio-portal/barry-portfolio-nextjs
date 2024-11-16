@@ -20,9 +20,9 @@ bottomList:
     alt: gallery image
   - image: /MastersofScaleSummit2024.jpg
     alt: gallery image
-  - image: /Barry Stamos Plane.JPG
-    alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
+  - image: /carebear.JPG
+    alt: ''
 draft: false
 ---
