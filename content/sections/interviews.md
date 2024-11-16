@@ -6,14 +6,16 @@ subtitle: >-
   experiences.
 list:
   - enable: true
-    title: What is the future of luxury?
+    title: >-
+      Barry is the co-founder and former Chief Heart Officer of 1heart
+      (1heart.com)
     description: >-
-      Elevate and change from the inside out: Barry Stamos interview at
-      LuxuryLab Global, LATAM
-    thumbnail: /images/interviews/image.png
+      He has led dozens of heart-led transformative journeys to elevate the
+      lives of CEO's, founders, and change-makers.
+    thumbnail: ''
     video_source_options:
-      youtubeVideoId: UIQc7abikzE
-      vimeoVideoId: ''
+      youtubeVideoId: ''
+      vimeoVideoId: '395353806'
   - enable: true
     title: A New Operating System
     description: >-
@@ -49,4 +51,3 @@ list:
       vimeoVideoId: ''
 draft: false
 ---
-Barry Stamos, CEO & Co-founder of Supernova ([www.1supernova.com](http://www.1supernova.com)), the #1 exited founder community, shares key insights and best practices on sourcing, incentivizing, managing and and holding advisory boards and teams accountable for peak performance. This webinar is a reply of an alliance and strategic partnership between Supernova & Algorand Accelerator, which is backed by Borderless Capital - a $500M Fund.
