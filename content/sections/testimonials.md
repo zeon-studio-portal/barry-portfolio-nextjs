@@ -11,8 +11,8 @@ items:
     designation: Ivy.com
     company: CEO
     quote: >-
-      “Barry is a soulful speaker who generously gifts secrets to work & life
-      success.” 
+      “Barry is a soulful speaker who generously gifts proven strategies to work
+      & life success.” 
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
