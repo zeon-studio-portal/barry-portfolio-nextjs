@@ -8,8 +8,8 @@ list:
   - enable: true
     title: Barry's the co-founder and former Chief Heart Officer of 1heart ❤️
     description: >-
-      He has led dozens of heart-led transformative journeys to elevate the
-      lives of CEO's, founders, and change-makers.
+      Barry co-created heart-led transformative journeys to elevate 1,000+ lives
+      of CEO's, founders, and change-makers.
     thumbnail: ''
     video_source_options:
       youtubeVideoId: ''
