@@ -62,7 +62,7 @@ items:
     company: Energize
     quote: >-
       “Barry is an energetic speaker and consultant and blew my clients away
-      during a workshop we held in Amsterdam.”
+      during a workshop in Amsterdam.”
   - name: Tim Sae Koo
     image: /1heart.webp
     designation: Co-founder
