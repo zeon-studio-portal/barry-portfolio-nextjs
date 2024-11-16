@@ -39,7 +39,7 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
-  - title: ''
+  - title: The Truth About Advisory Boards
     description: ''
     thumbnail: ''
     video_source_options:
