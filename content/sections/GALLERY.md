@@ -9,10 +9,6 @@ topList:
     alt: gallery image
   - image: /images/gallery/02.png
     alt: gallery image
-  - image: /images/1-1-690x381.png
-    alt: gallery image
-  - image: /images/gallery/04.png
-    alt: gallery image
   - image: /images/gallery/05.png
     alt: gallery image
   - image: /images/gallery/06.png
