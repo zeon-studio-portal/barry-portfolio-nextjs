@@ -1,7 +1,9 @@
 ---
 enable: true
 title: RETREATS & OFFSITES
-subtitle: ''
+subtitle: >-
+  Barry is an experienced guide for professional and personal transformative
+  experiences.
 list:
   - enable: true
     title: What is the future of luxury?
