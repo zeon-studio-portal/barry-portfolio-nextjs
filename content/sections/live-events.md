@@ -10,11 +10,11 @@ list:
       youtubeVideoId: G2SqSljZBy4
       vimeoVideoId: ''
   - enable: true
-    title: TRANSFORMATIVE RETREATS
-    thumbnail: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
+    title: Supernova Demo Day ⭐
+    thumbnail: ''
     video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '395353806'
-      title: 1heart
+      youtubeVideoId: ZXSyafOnCPA&list=PL-K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
+      vimeoVideoId: ''
+      title: ''
 draft: false
 ---
