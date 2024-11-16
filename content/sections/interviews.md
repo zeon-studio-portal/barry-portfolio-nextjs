@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Thought Leadership
+title: THOUGHT LEADERSHIP
 subtitle: ''
 list:
   - enable: true
