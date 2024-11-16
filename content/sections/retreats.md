@@ -14,5 +14,11 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
+  - title: Barry is the founder of Miami made. (founder community events)
+    description: ''
+    thumbnail: ''
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '357365479'
 draft: false
 ---
