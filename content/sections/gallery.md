@@ -18,15 +18,9 @@ topList:
   - image: /images/gallery/06.png
     alt: gallery image
 bottomList:
-  - image: ''
-    alt: gallery image
-  - image: ''
-    alt: gallery image
   - image: /flyer.jpeg
     alt: gallery image
   - image: /MastersofScaleSummit2024.jpg
-    alt: gallery image
-  - image: /CTEMyurUwAAnepz.jpeg
     alt: gallery image
   - image: /Barry Stamos Plane.JPG
     alt: gallery image
