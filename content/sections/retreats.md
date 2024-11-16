@@ -20,7 +20,7 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '357365479'
-  - title: 'Holiday Party '
+  - title: 'Miami made. Holiday Party '
     description: ''
     thumbnail: ''
     video_source_options:
