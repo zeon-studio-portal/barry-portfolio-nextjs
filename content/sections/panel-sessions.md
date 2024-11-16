@@ -29,12 +29,7 @@ list:
       As the CEO & Founder of Supernova, I have built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
       over $50M) who advise and mentor through my company. Most are open to
-      share their stories and cautionary tales on panels facilitated by
-      me.</br></br>  <blockquote>We bootstrapped our company to $250 Million ARR
-      in 5-years while building a thriving work culture before merging with the
-      market leader. I’m ready to shine a light on our success secrets and also
-      too our shadows.” </br> </br> JT Marino & Dahee Park, Co-founders of
-      TN.com </blockquote> 
+      share their stories and cautionary tales on panels facilitated by me.</br>
     image: /images/gallery/07.png
     button:
       enable: true
