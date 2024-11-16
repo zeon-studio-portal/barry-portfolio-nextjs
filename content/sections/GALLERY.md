@@ -24,5 +24,7 @@ bottomList:
     alt: gallery image
   - image: /carebear.JPG
     alt: ''
+  - image: /images/gallery/09.png
+    alt: ''
 draft: false
 ---
