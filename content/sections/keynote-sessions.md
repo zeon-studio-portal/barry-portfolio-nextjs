@@ -8,9 +8,9 @@ list:
   - badge: Motivation
     title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     video_source_options:
-      youtubeVideoId: MUiklxHJ0ow
+      youtubeVideoId: ''
       vimeoVideoId: ''
-    image: /images/keynote-sessions/image-2.png
+    image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >
       It’s not business, it’s personal!  We spend 75% of our waking hours
