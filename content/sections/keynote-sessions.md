@@ -92,7 +92,7 @@ list:
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     video_source_options:
-      youtubeVideoId: UIQc7abikzE
+      youtubeVideoId: tH7ctIsvhxw
       vimeoVideoId: ''
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
