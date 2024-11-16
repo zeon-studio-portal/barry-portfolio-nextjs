@@ -47,3 +47,4 @@ list:
       vimeoVideoId: ''
 draft: false
 ---
+Barry Stamos, CEO & Co-founder of Supernova (www\.1supernova.com), the #1 exited founder community, shares key insights and best practices on sourcing, incentivizing, managing and and holding advisory boards and teams accountable for peak performance. This webinar is a reply of an alliance and strategic partnership between Supernova & Algorand Accelerator, which is backed by Borderless Capital - a $500M Fund.
