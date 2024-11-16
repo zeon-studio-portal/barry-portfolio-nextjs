@@ -51,9 +51,9 @@ list:
   - badge: Motivation
     title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
     video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '311508179'
-    image: /images/highlight-thumbnail.png
+      youtubeVideoId: MUiklxHJ0ow
+      vimeoVideoId: ''
+    image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
     description: >
       In today's fast-paced world, many of us struggle to maintain a sense of
