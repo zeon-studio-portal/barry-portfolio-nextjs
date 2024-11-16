@@ -12,13 +12,5 @@
     "config/social.json",
     "config/theme.json"
   ],
-  "arrangement": {
-    "content/sections": {
-      "testimonial": {
-        "weight": 0,
-        "include": "*testimonials.md",
-        "exclude": ""
-      }
-    }
-  }
+  "arrangement": {}
 }
