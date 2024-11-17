@@ -30,7 +30,7 @@ list:
       community of 150+ successful exited founders and Super Founders (exit for
       over $50M) who advise and mentor through my company. Most are open to
       share their stories and cautionary tales on panels facilitated by me.</br>
-    image: /image.png
+    image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     button:
       enable: true
       label: Read More
