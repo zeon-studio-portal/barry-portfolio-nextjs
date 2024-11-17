@@ -34,7 +34,7 @@ list:
       youtubeVideoId: ''
       vimeoVideoId: '178041349'
   - title: 'Extraordinary Experiences '
-    description: ''
+    description: Leadership Community in Mexico
     thumbnail: ''
     video_source_options:
       youtubeVideoId: smdD0w5RJXA
