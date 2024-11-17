@@ -1,7 +1,7 @@
 ---
 enable: true
 title: 'MISSION: LIGHT UP THE WORLD'
-subtitle: Let's inspire hearts and minds to shine in the good work for the world.
+subtitle: Together we can align hearts and minds to shine brighter.
 list:
   - enable: true
     quote: >-
