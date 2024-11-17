@@ -13,8 +13,8 @@
     "config/theme.json"
   ],
   "arrangement": {
-    "content/sections/GALLERY.md": {
-      "Gallery Images": {
+    "content/_index.md": {
+      "Page Index": {
         "weight": 0
       }
     },
@@ -23,18 +23,18 @@
         "weight": 1
       }
     },
-    "content/sections/biography.md": {
-      "Biography": {
+    "content/sections/highlights.md": {
+      "Highlights": {
         "weight": 2
+      }
+    },
+    "content/sections/testimonials.md": {
+      "Testimonials": {
+        "weight": 3
       }
     },
     "content/sections/clients.md": {
       "Clients": {
-        "weight": 3
-      }
-    },
-    "content/sections/highlights.md": {
-      "Highlights": {
         "weight": 4
       }
     },
@@ -43,38 +43,38 @@
         "weight": 5
       }
     },
-    "content/sections/live-events.md": {
-      "Live Events": {
+    "content/sections/panels.md": {
+      "Panels": {
         "weight": 6
       }
     },
-    "content/sections/mission.md": {
-      "Mission": {
+    "content/sections/live-events.md": {
+      "Live Events": {
         "weight": 7
-      }
-    },
-    "content/sections/panels.md": {
-      "Panels": {
-        "weight": 8
       }
     },
     "content/sections/podcasts.md": {
       "Podcasts": {
-        "weight": 9
+        "weight": 8
       }
     },
     "content/sections/retreats.md": {
       "Retreats": {
+        "weight": 9
+      }
+    },
+    "content/sections/mission.md": {
+      "Mission": {
         "weight": 10
       }
     },
-    "content/sections/testimonials.md": {
-      "Testimonials": {
+    "content/sections/biography.md": {
+      "Biography": {
         "weight": 11
       }
     },
-    "content/_index.md": {
-      "Page Index": {
+    "content/sections/GALLERY.md": {
+      "Gallery Images": {
         "weight": 12
       }
     },
