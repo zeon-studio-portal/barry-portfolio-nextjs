@@ -5,7 +5,7 @@ subtitle: ''
 list:
   - enable: true
     title: Supernova | Three Founders Changing the World 🌐
-    thumbnail: /images/live-events/image.png
+    thumbnail: ''
     video_source_options:
       youtubeVideoId: G2SqSljZBy4
       vimeoVideoId: ''
