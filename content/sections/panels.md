@@ -23,7 +23,7 @@ list:
       enable: true
       label: Read More
       link: '#'
-  - head: ''
+  - head: Entrepreneurship
     title: 'Wisdom from Successfully Exited Founders '
     description: >-
       As the CEO & Founder of Supernova, I have built the world’s first
