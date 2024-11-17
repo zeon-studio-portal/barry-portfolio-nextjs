@@ -21,5 +21,11 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '357365479'
+  - title: Miami Made | Startup Ecosystem (Holiday Party)
+    description: ''
+    thumbnail: ''
+    video_source_options:
+      youtubeVideoId: ''
+      vimeoVideoId: '308586169'
 draft: false
 ---
