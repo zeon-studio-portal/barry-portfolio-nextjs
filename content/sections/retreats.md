@@ -33,5 +33,11 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '178041349'
+  - title: 'Extraordinary Experiences '
+    description: ''
+    thumbnail: ''
+    video_source_options:
+      youtubeVideoId: smdD0w5RJXA
+      vimeoVideoId: ''
 draft: false
 ---
