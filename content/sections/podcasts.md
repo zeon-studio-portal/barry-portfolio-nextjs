@@ -7,7 +7,7 @@ list:
     head: Founders
     title: 'First Time Founders: Love is The Human Accelerator'
     thumbnail: /Barry Stamos Dear First Time Founders.png
-    podcastSourceOptions: 
+    podcastSourceOptions:
       youtubeVideoId: ''
       vimeoVideoId: ''
       spotifyId: 4PujOwxaXDeXtoyWtRHdsF
@@ -15,17 +15,18 @@ list:
     head: Consulting
     title: Is heart-led entrepreneurship good for business?
     thumbnail: /images/podcasts/image-1.png
-    podcastSourceOptions: 
-      youtubeVideoId: 'iUtnZpzkbG8'
+    podcastSourceOptions:
+      youtubeVideoId: iUtnZpzkbG8
       vimeoVideoId: ''
       spotifyId: ''
   - enable: true
     head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
     thumbnail: /Miami Creators.webp
-    podcastSourceOptions: 
+    podcastSourceOptions:
       youtubeVideoId: ''
-      vimeoVideoId: '43cbJh4ccRD7lzM2730YK3'
-      spotifyId: ''
+      vimeoVideoId: ''
+      spotifyId: >-
+        https://open.spotify.com/episode/6gnvQ9NhcSJZBfGRetPtEY?si=nijIpy32SWKPmfOAXUuCXg
 draft: false
 ---
