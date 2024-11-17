@@ -10,7 +10,7 @@ list:
     description: >-
       Barry co-created heart-led transformative journeys to elevate 1,000+ lives
       of CEO's, founders, and change-makers.
-    thumbnail: '/8d56211e-e0df-42c8-af6d-d768f9440082.jpg'
+    thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
@@ -19,10 +19,9 @@ list:
     description: >-
       Barry co-created heart-led transformative journeys to elevate 1,000+ lives
       of CEO's, founders, and change-makers.
-    thumbnail: '/IMG_0480.jpg'
+    thumbnail: /IMG_0480.jpg
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
-  
 draft: false
 ---
