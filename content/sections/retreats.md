@@ -15,13 +15,11 @@ list:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
   - enable: true
-    title: Co-founder and former Chief Heart Officer of 1heart ❤️
-    description: >-
-      Barry co-created heart-led transformative journeys to elevate 1,000+ lives
-      of CEO's, founders, and change-makers.
+    title: 'Miami Made. | Founder-led community '
+    description: ''
     thumbnail: /IMG_0480.jpg
     video_source_options:
       youtubeVideoId: ''
-      vimeoVideoId: '395353806'
+      vimeoVideoId: '357365479'
 draft: false
 ---
