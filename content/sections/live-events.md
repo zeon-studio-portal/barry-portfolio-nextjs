@@ -11,7 +11,7 @@ list:
       vimeoVideoId: ''
   - enable: true
     title: Supernova Demo Day ⭐
-    thumbnail: /images/live-events/image-2.png
+    thumbnail: /images/podcasts/image-3.png
     video_source_options:
       youtubeVideoId: G2SqSljZBy4
       vimeoVideoId: ''
