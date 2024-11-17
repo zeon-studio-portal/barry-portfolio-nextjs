@@ -12,5 +12,76 @@
     "config/social.json",
     "config/theme.json"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/sections/GALLERY.md": {
+      "Gallery Images": {
+        "weight": 0
+      }
+    },
+    "content/sections/about-barry.md": {
+      "About Barry": {
+        "weight": 1
+      }
+    },
+    "content/sections/biography.md": {
+      "Biography": {
+        "weight": 2
+      }
+    },
+    "content/sections/clients.md": {
+      "Clients": {
+        "weight": 3
+      }
+    },
+    "content/sections/highlights.md": {
+      "Highlights": {
+        "weight": 4
+      }
+    },
+    "content/sections/keynote-speaker.md": {
+      "Keynote Speakers": {
+        "weight": 5
+      }
+    },
+    "content/sections/live-events.md": {
+      "Live Events": {
+        "weight": 6
+      }
+    },
+    "content/sections/mission.md": {
+      "Mission": {
+        "weight": 7
+      }
+    },
+    "content/sections/panels.md": {
+      "Panels": {
+        "weight": 8
+      }
+    },
+    "content/sections/podcasts.md": {
+      "Podcasts": {
+        "weight": 9
+      }
+    },
+    "content/sections/retreats.md": {
+      "Retreats": {
+        "weight": 10
+      }
+    },
+    "content/sections/testimonials.md": {
+      "Testimonials": {
+        "weight": 11
+      }
+    },
+    "content/_index.md": {
+      "Page Index": {
+        "weight": 12
+      }
+    },
+    "content/404.md": {
+      "404": {
+        "weight": 13
+      }
+    }
+  }
 }
