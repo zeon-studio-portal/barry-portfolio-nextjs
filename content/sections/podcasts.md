@@ -10,7 +10,7 @@ list:
     podcastSourceOptions: 
       youtubeVideoId: ''
       vimeoVideoId: ''
-      spotifyId: '4PujOwxaXDeXtoyWtRHdsF'
+      spotifyId: 4PujOwxaXDeXtoyWtRHdsF
   - enable: true
     head: Consulting
     title: Is heart-led entrepreneurship good for business?
