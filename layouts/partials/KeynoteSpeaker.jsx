@@ -25,8 +25,8 @@ const KeynoteSpeaker = ({ keynoteSpeaker }) => {
               const isEven = index % 2 === 0;
               const aosDelay = 100 * (index % 2);
               return (
-                <div key={index} data-aos="fade-up-sm" data-aos-delay={aosDelay}>
-                  <KeynoteSessionCard item={item} isEven={isEven} />
+                <div key={index}>
+                  <KeynoteSessionCard item={item} isEven={isEven} aosDelay={aosDelay} />
                 </div>
               );
             })}

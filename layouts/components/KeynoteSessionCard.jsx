@@ -1,12 +1,14 @@
 import PortalModal from "@layouts/helpers/PortalModal";
 import { markdownify } from "@lib/utils/textConverter";
 import { useRef, useState } from "react";
+import ModalVideo from "react-modal-video";
 import { useOnClickOutside } from "usehooks-ts";
 import ImageFallback from "./ImageFallback";
 
-const KeynoteSessionCard = ({ item, isEven }) => {
+const KeynoteSessionCard = ({ item, isEven, aosDelay }) => {
   const ref = useRef(null);
   const [isOpen, setIsOpen] = useState(false);
+  const [isVideoPopupOpen, setVideoPopupOpen] = useState(false);
 
   const handleCloseModal = () => {
     setIsOpen(false);
@@ -22,6 +24,8 @@ const KeynoteSessionCard = ({ item, isEven }) => {
     <>
       <article
         className={`flex flex-col items-center rounded-2xl overflow-hidden relative ${isEven ? "bg-dark-primary" : " bg-dark-tertiary"}`}
+        data-aos="fade-up-sm"
+        data-aos-delay={aosDelay}
       >
         <div className="absolute top-4 right-4 z-10">
           {markdownify(
@@ -30,13 +34,35 @@ const KeynoteSessionCard = ({ item, isEven }) => {
             "text-primary-800 text-lg bg-dark-tertiary inline-block px-4 py-1 rounded-full mb-4"
           )}
         </div>
-        <ImageFallback
-          width={400}
-          height={320}
-          src={item.image}
-          alt={item.imageAlt}
-          className="w-full aspect-[16/10] object-cover drop-shadow-lg"
-        />
+        <div className="relative">
+          <ImageFallback
+            width={400}
+            height={320}
+            src={item.image}
+            alt={item.imageAlt}
+            className="w-full aspect-[16/10] object-cover drop-shadow-lg"
+          />
+          <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+            <button className="video-play-btn" onClick={() => setVideoPopupOpen(true)} aria-label="Play Video">
+              <span className="video-play-btn-icon">
+                <svg
+                  width="26"
+                  height="26"
+                  viewBox="0 0 26 26"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  className="inline text-light-primary"
+                >
+                  <path
+                    d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </span>
+            </button>
+          </div>
+        </div>
+
         <div className="p-4 sm:p-8 flex flex-col gap-6 justify-between items-start h-full">
           <div>
             <button onClick={handleOpenModal} className="text-left">
@@ -154,6 +180,18 @@ const KeynoteSessionCard = ({ item, isEven }) => {
           </div>
         </PortalModal>
       )}
+
+      <ModalVideo
+        channel={item.video_source_options.youtubeVideoId ? "youtube" : "vimeo"}
+        autoplay={1}
+        isOpen={isVideoPopupOpen}
+        videoId={
+          item.video_source_options.youtubeVideoId
+            ? item.video_source_options.youtubeVideoId
+            : item.video_source_options.vimeoVideoId
+        }
+        onClose={() => setVideoPopupOpen(false)}
+      />
     </>
   );
 };
