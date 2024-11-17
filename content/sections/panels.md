@@ -51,7 +51,7 @@ list:
       workplace. The session will reveal how heart-led leadership can elevate
       your business, fostering deeper connections and a vibrant company culture
       that thrives amidst technological advancement.
-    image: ''
+    image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     button:
       enable: true
       label: Read More
