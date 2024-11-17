@@ -8,6 +8,7 @@ list:
     title: 'First Time Founders: Love is The Human Accelerator'
     thumbnail: /Barry Stamos Dear First Time Founders.png
     podcastSourceOptions: 
+      title: 'Select Podcast Source'
       youtubeVideoId: ''
       vimeoVideoId: ''
       spotifyId: '4PujOwxaXDeXtoyWtRHdsF'
@@ -16,6 +17,7 @@ list:
     title: Is heart-led entrepreneurship good for business?
     thumbnail: /images/podcasts/image-1.png
     podcastSourceOptions: 
+      title: 'Select Podcast Source'
       youtubeVideoId: 'iUtnZpzkbG8'
       vimeoVideoId: ''
       spotifyId: ''
@@ -24,6 +26,7 @@ list:
     title: 'Miami Creators: Featuring Barry Stamos'
     thumbnail: /Miami Creators.webp
     podcastSourceOptions: 
+      title: 'Select Podcast Source'
       youtubeVideoId: ''
       vimeoVideoId: '43cbJh4ccRD7lzM2730YK3'
       spotifyId: ''       
