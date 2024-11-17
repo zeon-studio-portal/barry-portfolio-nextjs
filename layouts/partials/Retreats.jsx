@@ -42,7 +42,7 @@ const retreats = ({ retreats }) => {
                   ></iframe>
                 ) : (
                   <iframe
-                    src={`https://player.vimeo.com/video/${activeVideo.video_source_options.vimeoVideoId}?autoplay=1&loop=1&title=0&byline=0&portrait=0`}
+                    src={`https://player.vimeo.com/video/${activeVideo.video_source_options.vimeoVideoId}?autoplay=0&loop=1&title=0&byline=0&portrait=0`}
                     width={1200}
                     height={600}
                     className="w-full aspect-video bg-dark-primary"
