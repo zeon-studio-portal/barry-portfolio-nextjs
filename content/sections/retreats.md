@@ -10,27 +10,19 @@ list:
     description: >-
       Barry co-created heart-led transformative journeys to elevate 1,000+ lives
       of CEO's, founders, and change-makers.
-    thumbnail: ''
+    thumbnail: '/8d56211e-e0df-42c8-af6d-d768f9440082.jpg'
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '395353806'
-  - title: Barry is the founder of Miami made. (founder community events)
-    description: ''
-    thumbnail: ''
+  - enable: true
+    title: Co-founder and former Chief Heart Officer of 1heart ❤️
+    description: >-
+      Barry co-created heart-led transformative journeys to elevate 1,000+ lives
+      of CEO's, founders, and change-makers.
+    thumbnail: '/IMG_0480.jpg'
     video_source_options:
       youtubeVideoId: ''
-      vimeoVideoId: '357365479'
-  - title: 'Miami made. Holiday Party '
-    description: ''
-    thumbnail: ''
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '308586169'
-  - title: Thrive Together Tuesdays
-    description: ''
-    thumbnail: ''
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '178041349'
+      vimeoVideoId: '395353806'
+  
 draft: false
 ---
