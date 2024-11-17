@@ -26,7 +26,6 @@ list:
     podcastSourceOptions:
       youtubeVideoId: ''
       vimeoVideoId: ''
-      spotifyId: >-
-        https://open.spotify.com/episode/6gnvQ9NhcSJZBfGRetPtEY?si=nijIpy32SWKPmfOAXUuCXg
+      spotifyId: 6gnvQ9NhcSJZBfGRetPtEY?si=nijIpy32SWKPmfOAXUuCXg
 draft: false
 ---
