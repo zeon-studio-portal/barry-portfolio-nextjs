@@ -1,32 +1,32 @@
 import Gallery from "@components/Gallery";
 import Base from "@layouts/Baseof";
 import { getListPage } from "@lib/contentParser";
-import AboutCeo from "@partials/AboutCeo";
-import AdvisorBrands from "@partials/AdvisorBrands";
+import AboutBarry from "@partials/AboutBarry";
 import Banner from "@partials/Banner";
-import Interviews from "@partials/Interviews";
-import KeynoteSession from "@partials/KeynoteSession";
-import LightBringerCarousel from "@partials/LightBringerCarousel";
+import Biography from "@partials/Biography";
+import Clients from "@partials/Clients";
+import Highlights from "@partials/Highlights";
+import KeynoteSpeaker from "@partials/KeynoteSpeaker";
 import LiveEvents from "@partials/LiveEvents";
-import PanelSession from "@partials/PannelSession";
+import MissionCarousel from "@partials/MissionCarousel";
+import Panels from "@partials/Panels";
 import Podcasts from "@partials/Podcasts";
-import SpeakerBiography from "@partials/SpeakerBiography";
+import Retreats from "@partials/Retreats";
 import Testimonials from "@partials/Testimonials";
-import WatchHighlights from "@partials/WatchHighlights";
 
 const Home = ({
   homepage,
-  testimonials_page,
-  aboutCeo,
-  watchHighlights,
-  advisorBrands,
-  keynoteSessions,
-  panelSessions,
+  testimonials,
+  aboutBarry,
+  highlights,
+  clients,
+  keynoteSpeaker,
+  panels,
   liveEvents,
   podcasts,
-  interviews,
-  lightBringerCarousel,
-  speakerBiography,
+  retreats,
+  missionCarousel,
+  biography,
   gallery,
 }) => {
   const { banner, founders } = homepage.frontmatter;
@@ -34,17 +34,17 @@ const Home = ({
   return (
     <Base>
       <Banner banner={banner} founders={founders} />
-      <AboutCeo aboutCeo={aboutCeo} />
-      <WatchHighlights watchHighlights={watchHighlights} />
-      <Testimonials testimonials={testimonials_page} />
-      <AdvisorBrands advisorBrands={advisorBrands} />
-      <KeynoteSession keynoteSessions={keynoteSessions} />
-      <PanelSession panelSessions={panelSessions} />
+      <AboutBarry aboutBarry={aboutBarry} />
+      <Highlights highlights={highlights} />
+      <Testimonials testimonials={testimonials} />
+      <Clients clients={clients} />
+      <KeynoteSpeaker keynoteSpeaker={keynoteSpeaker} />
+      <Panels panels={panels} />
       <LiveEvents liveEvents={liveEvents} />
       <Podcasts podcasts={podcasts} />
-      <Interviews interviews={interviews} />
-      <LightBringerCarousel lightBringerCarousel={lightBringerCarousel} />
-      <SpeakerBiography speakerBiography={speakerBiography} />
+      <Retreats retreats={retreats} />
+      <MissionCarousel missionCarousel={missionCarousel} />
+      <Biography biography={biography} />
       <Gallery gallery={gallery} />
     </Base>
   );
@@ -56,32 +56,32 @@ export default Home;
 export const getStaticProps = async () => {
   const homepage = await getListPage("content/_index.md");
   const testimonials = await getListPage("content/sections/testimonials.md");
-  const aboutCeo = await getListPage("content/sections/about-ceo.md");
-  const watchHighlights = await getListPage("content/sections/watch-highlights.md");
-  const advisorBrands = await getListPage("content/sections/advisor-brands.md");
-  const keynoteSessions = await getListPage("content/sections/keynote-sessions.md");
-  const panelSessions = await getListPage("content/sections/panel-sessions.md");
+  const aboutBarry = await getListPage("content/sections/about-barry.md");
+  const highlights = await getListPage("content/sections/highlights.md");
+  const clients = await getListPage("content/sections/clients.md");
+  const keynoteSpeaker = await getListPage("content/sections/keynote-speaker.md");
+  const panels = await getListPage("content/sections/panels.md");
   const liveEvents = await getListPage("content/sections/live-events.md");
   const podcasts = await getListPage("content/sections/podcasts.md");
-  const interviews = await getListPage("content/sections/interviews.md");
-  const lightBringerCarousel = await getListPage("content/sections/light-bringer-carousel.md");
-  const speakerBiography = await getListPage("content/sections/speaker-biography.md");
-  const gallery = await getListPage("content/sections/gallery.md");
+  const retreats = await getListPage("content/sections/retreats.md");
+  const missionCarousel = await getListPage("content/sections/mission.md");
+  const biography = await getListPage("content/sections/biography.md");
+  const gallery = await getListPage("content/sections/GALLERY.md");
 
   return {
     props: {
       homepage: homepage,
-      testimonials_page: testimonials,
-      aboutCeo: aboutCeo,
-      watchHighlights: watchHighlights,
-      advisorBrands: advisorBrands,
-      keynoteSessions: keynoteSessions,
-      panelSessions: panelSessions,
+      testimonials: testimonials,
+      aboutBarry: aboutBarry,
+      highlights: highlights,
+      clients: clients,
+      keynoteSpeaker: keynoteSpeaker,
+      panels: panels,
       liveEvents: liveEvents,
       podcasts: podcasts,
-      interviews: interviews,
-      lightBringerCarousel: lightBringerCarousel,
-      speakerBiography: speakerBiography,
+      retreats: retreats,
+      missionCarousel: missionCarousel,
+      biography: biography,
       gallery: gallery,
     },
   };

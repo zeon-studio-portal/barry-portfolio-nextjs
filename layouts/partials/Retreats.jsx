@@ -3,16 +3,13 @@ import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useRef, useState } from "react";
 
-const interviews = ({ interviews }) => {
-  const { enable, title, subtitle, list } = interviews.frontmatter;
+const retreats = ({ retreats }) => {
+  const { enable, title, subtitle, list } = retreats.frontmatter;
   const [activeVideo, setActiveVideo] = useState(list[0]);
   const largeScreenRef = useRef(null);
 
   return enable ? (
-    <section
-      id={interviews.slug}
-      className="section bg-dark-primary py-24 overflow-hidden relative isolate scroll-mt-5"
-    >
+    <section id={retreats.slug} className="section bg-dark-primary py-24 overflow-hidden relative isolate scroll-mt-5">
       <div className="container relative ">
         <div className="relative z-10 ">
           <div className="mb-20 text-center">
@@ -160,4 +157,4 @@ const interviews = ({ interviews }) => {
   ) : null;
 };
 
-export default interviews;
+export default retreats;

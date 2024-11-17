@@ -4,12 +4,12 @@ import { markdownify } from "@lib/utils/textConverter";
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
 
-const WatchHighlights = ({ watchHighlights }) => {
-  const { enable, title, subtitle, thumbnail, video_source_options } = watchHighlights.frontmatter;
+const Highlights = ({ highlights }) => {
+  const { enable, title, subtitle, thumbnail, video_source_options } = highlights.frontmatter;
   const [isOpen, setOpen] = useState(false);
 
   return enable ? (
-    <div className="section py-24 bg-primary-600 scroll-mt-5" id={watchHighlights.slug}>
+    <div className="section py-24 bg-primary-600 scroll-mt-5" id={highlights.slug}>
       <div className="container">
         <div className="mb-14 text-center text-dark-primary">
           <div data-aos="fade-up-sm">
@@ -65,4 +65,4 @@ const WatchHighlights = ({ watchHighlights }) => {
   ) : null;
 };
 
-export default WatchHighlights;
+export default Highlights;

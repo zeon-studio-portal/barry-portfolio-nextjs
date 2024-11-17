@@ -5,11 +5,11 @@ import { MdArrowBackIosNew, MdArrowForwardIos } from "react-icons/md";
 import { Autoplay, Navigation } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-const LightBringerCarousel = ({ lightBringerCarousel }) => {
-  const { enable, title, subtitle, list } = lightBringerCarousel.frontmatter;
+const MissionCarousel = ({ missionCarousel }) => {
+  const { enable, title, subtitle, list } = missionCarousel.frontmatter;
 
   return enable ? (
-    <section className="section bg-secondary-600 py-24 scroll-mt-5" id={lightBringerCarousel.slug}>
+    <section className="section bg-secondary-600 py-24 scroll-mt-5" id={missionCarousel.slug}>
       <div className="container">
         <div className="mb-14">
           <div data-aos="fade-up-sm">
@@ -86,4 +86,4 @@ const LightBringerCarousel = ({ lightBringerCarousel }) => {
     </section>
   ) : null;
 };
-export default LightBringerCarousel;
+export default MissionCarousel;

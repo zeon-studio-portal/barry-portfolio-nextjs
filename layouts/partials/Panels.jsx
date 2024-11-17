@@ -2,11 +2,11 @@ import AnimatedText from "@components/AnimatedText";
 import PanelSessionCard from "@components/PanelSessionCard";
 import { markdownify } from "@lib/utils/textConverter";
 
-const PannelSession = ({ panelSessions }) => {
-  const { enable, title, subtitle, list } = panelSessions.frontmatter;
+const Panels = ({ panels }) => {
+  const { enable, title, subtitle, list } = panels.frontmatter;
   return enable ? (
     <section
-      id={panelSessions.slug}
+      id={panels.slug}
       className="testimonials py-24 scroll-mt-5"
       style={{ background: "linear-gradient(96.4deg, #FDD13B 4.58%, #FF8F81 92.51%, #C14ECF 125.17%)" }}
     >
@@ -32,4 +32,4 @@ const PannelSession = ({ panelSessions }) => {
   ) : null;
 };
 
-export default PannelSession;
+export default Panels;

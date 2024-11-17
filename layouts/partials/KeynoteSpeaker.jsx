@@ -2,11 +2,11 @@ import AnimatedText from "@components/AnimatedText";
 import KeynoteSessionCard from "@components/KeynoteSessionCard";
 import { markdownify } from "@lib/utils/textConverter";
 
-const KeynoteSession = ({ keynoteSessions }) => {
-  const { enable, title, subtitle, list } = keynoteSessions.frontmatter;
+const KeynoteSpeaker = ({ keynoteSpeaker }) => {
+  const { enable, title, subtitle, list } = keynoteSpeaker.frontmatter;
 
   return enable ? (
-    <section id={keynoteSessions.slug} className="testimonials bg-dark-secondary py-24">
+    <section id={keynoteSpeaker.slug} className="testimonials bg-dark-secondary py-24">
       <div className="container">
         <div className="mb-20 text-center">
           <div data-aos="fade-up-sm">
@@ -36,4 +36,4 @@ const KeynoteSession = ({ keynoteSessions }) => {
   ) : null;
 };
 
-export default KeynoteSession;
+export default KeynoteSpeaker;

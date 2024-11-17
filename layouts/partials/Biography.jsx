@@ -2,10 +2,10 @@ import ArrowButton from "@components/ArrowButton";
 import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
 
-const SpeakerBiography = ({ speakerBiography }) => {
-  const { enable, title, bio, button, image, companyList } = speakerBiography.frontmatter;
+const Biography = ({ biography }) => {
+  const { enable, title, bio, button, image, companyList } = biography.frontmatter;
   return enable ? (
-    <section className="section bg-dark-primary py-24 scroll-mt-5" id={speakerBiography.slug}>
+    <section className="section bg-dark-primary py-24 scroll-mt-5" id={biography.slug}>
       <div className="container">
         <div className="flex flex-col lg:flex-row lg:items-center gap-10 mb-14">
           {/* LEFT SIDE */}
@@ -58,4 +58,4 @@ const SpeakerBiography = ({ speakerBiography }) => {
   ) : null;
 };
 
-export default SpeakerBiography;
+export default Biography;

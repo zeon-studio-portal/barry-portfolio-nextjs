@@ -3,10 +3,10 @@ import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 
-const AboutCeo = ({ aboutCeo }) => {
-  const { enable, top_section, bottom_section } = aboutCeo.frontmatter;
+const AboutBarry = ({ aboutBarry }) => {
+  const { enable, top_section, bottom_section } = aboutBarry.frontmatter;
   return enable ? (
-    <section className="bg-dark-secondary py-24 scroll-mt-5" id={aboutCeo.slug}>
+    <section className="bg-dark-secondary py-24 scroll-mt-5" id={aboutBarry.slug}>
       <div className="container flex flex-col gap-16 lg:gap-20">
         {top_section.enable && (
           <div className="flex flex-col-reverse md:flex-row max-md:gap-10 items-center">
@@ -116,4 +116,4 @@ const AboutCeo = ({ aboutCeo }) => {
   ) : null;
 };
 
-export default AboutCeo;
+export default AboutBarry;

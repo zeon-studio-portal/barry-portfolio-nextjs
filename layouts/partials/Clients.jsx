@@ -2,11 +2,11 @@ import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
 import { markdownify } from "@lib/utils/textConverter";
 
-const AdvisorBrands = ({ advisorBrands }) => {
-  const { enable, title, subtitle, list } = advisorBrands.frontmatter;
+const Clients = ({ clients }) => {
+  const { enable, title, subtitle, list } = clients.frontmatter;
 
   return enable ? (
-    <section className="section bg-dark-primary py-24" id={advisorBrands.slug}>
+    <section className="section bg-dark-primary py-24" id={clients.slug}>
       <div className="container">
         <div className="mb-20 text-center ">
           <div data-aos="fade-up-sm">
@@ -40,4 +40,4 @@ const AdvisorBrands = ({ advisorBrands }) => {
   ) : null;
 };
 
-export default AdvisorBrands;
+export default Clients;
