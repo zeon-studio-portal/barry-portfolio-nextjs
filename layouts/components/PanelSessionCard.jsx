@@ -28,11 +28,11 @@ const PanelSessionCard = ({ panel }) => {
             height={650}
             src={panel.image}
             alt={panel.title}
-            className="size-full object-cover rounded-2xl"
+            className="size-full max-h-[500px] object-cover rounded-2xl"
           />
         </div>
         {/* RIGHT SIDE */}
-        <div className="w-full lg:w-1/2 py-6 lg:px-6">
+        <div className="w-full lg:w-1/2  lg:px-6">
           <h6 className="font-medium text-[1rem] mb-2">{panel.head}</h6>
           {markdownify(panel.title, "h3", "text-h4_sm text-dark-primary font-medium mb-6")}
           <div>
