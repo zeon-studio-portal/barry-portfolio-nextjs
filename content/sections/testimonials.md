@@ -11,7 +11,7 @@ items:
     designation: Ivy.com
     company: CEO
     quote: >-
-      “Barry is a SOULFUL speaker who generously gifts proven strategies to work
+      “Barry is a soulful speaker who generously gifts proven strategies to work
       & life success.” 
   - enable: true
     name: Matti Anttila
@@ -27,7 +27,7 @@ items:
     designation: Volcano Summit
     company: Founder
     quote: >-
-      “Stamos keynotes our annual summit. He's one of the most impactful
+      “Stamos keynotes our annual summit and is one of the MOST IMPACTFUL
       speakers we've ever had!"
   - enable: true
     name: Andrew Warner
