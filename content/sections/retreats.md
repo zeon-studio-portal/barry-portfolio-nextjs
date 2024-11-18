@@ -7,9 +7,7 @@ subtitle: >-
 list:
   - enable: true
     title: 'Transformative Retreats For Work & LIfe Elevation '
-    description: >-
-      Barry's the co-founder of 1heart ❤️ (1,000+ alumni; CEO's, founders, and
-      change-makers)
+    description: Barry's an experienced guide and host for offsites and retreats.
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     videoLink: https://vimeo.com/395353806
   - enable: true
