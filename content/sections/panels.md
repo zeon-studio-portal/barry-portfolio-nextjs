@@ -22,7 +22,7 @@ list:
       enable: true
       label: Read More
       link: '#'
-  - head: Entrepreneurship
+  - head: Masters of Scale
     title: 'Wisdom from Successfully Exited Founders '
     description: >-
       As the CEO & Founder of Supernova, Barry Stamos built the world’s first
