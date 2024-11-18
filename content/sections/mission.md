@@ -2,8 +2,8 @@
 enable: true
 title: 'MISSION: GUIDING LIGHTS ✨'
 subtitle: >-
-  Spark a light that shines brighter together for the good and welfare of the
-  world.
+  Be a spark of light that shines brighter together for the good and welfare of
+  the world.
 list:
   - enable: true
     quote: >-
