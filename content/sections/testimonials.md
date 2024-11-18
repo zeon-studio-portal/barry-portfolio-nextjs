@@ -76,6 +76,6 @@ items:
     company: Ferrazzi Greenlight
     quote: >-
       "I love Barry because he makes me uncomfortable, and that UNLOCKS REAL
-      CHANAGE."
+      CHANGE."
 draft: false
 ---
