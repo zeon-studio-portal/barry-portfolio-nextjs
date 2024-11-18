@@ -1,24 +1,16 @@
 import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
-import PortalModal from "@layouts/helpers/PortalModal";
+import SpotifyPlayer from "@components/SpotifyPlayer";
+import VimeoPlayer from "@components/VimeoPlayer";
+import YoutubePlayer from "@components/YoutubePlayer";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
-import { useRef, useState } from "react";
-import ModalVideo from "react-modal-video";
-import { useOnClickOutside } from "usehooks-ts";
+import { useState } from "react";
 
 const Podcasts = ({ podcasts }) => {
   const { enable, title, subtitle, list } = podcasts.frontmatter;
   const [activeVideo, setActiveVideo] = useState(list[0]);
-  const [isVideoModalOpen, setVideoModalOpen] = useState(false);
-  const [isSpotifyOpen, setIsSpotifyOpen] = useState(false);
-  const spotifyPortalRef = useRef(null);
-
-  const handleCloseSpotifyClose = () => {
-    setIsSpotifyOpen(false);
-  };
-
-  useOnClickOutside(spotifyPortalRef, handleCloseSpotifyClose);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   return enable ? (
     <>
@@ -44,43 +36,48 @@ const Podcasts = ({ podcasts }) => {
               {activeVideo && (
                 <>
                   <div className="relative">
-                    <ImageFallback
-                      src={activeVideo.thumbnail}
-                      alt={activeVideo.title}
-                      width={600}
-                      height={350}
-                      className="aspect-video object-cover w-full"
-                    />
-                    <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                      <button
-                        className="video-play-btn"
-                        onClick={() => {
-                          // if spotifyId is available
-                          if (activeVideo.podcastSourceOptions.spotifyId) {
-                            setIsSpotifyOpen(true);
-                          } else {
-                            setVideoModalOpen(true);
-                          }
-                        }}
-                        aria-label="Play Video"
-                      >
-                        <span className="video-play-btn-icon">
-                          <svg
-                            width="26"
-                            height="26"
-                            viewBox="0 0 26 26"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                            className="inline text-light-primary"
+                    {!isPlaying ? (
+                      <>
+                        <ImageFallback
+                          src={activeVideo.thumbnail}
+                          alt={activeVideo.title}
+                          width={600}
+                          height={350}
+                          className="aspect-video object-cover w-full"
+                        />
+                        <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+                          <button
+                            className="video-play-btn"
+                            onClick={() => {
+                              setIsPlaying(true);
+                            }}
+                            aria-label="Play"
                           >
-                            <path
-                              d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
-                              fill="currentColor"
-                            />
-                          </svg>
-                        </span>
-                      </button>
-                    </div>
+                            <span className="video-play-btn-icon">
+                              <svg
+                                width="26"
+                                height="26"
+                                viewBox="0 0 26 26"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg"
+                                className="inline text-light-primary"
+                              >
+                                <path
+                                  d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
+                                  fill="currentColor"
+                                />
+                              </svg>
+                            </span>
+                          </button>
+                        </div>
+                      </>
+                    ) : activeVideo.podcastSourceOptions.spotifyLink ? (
+                      <SpotifyPlayer spotifyUrl={activeVideo.podcastSourceOptions.spotifyLink} />
+                    ) : activeVideo.podcastSourceOptions.vimeoVideoId ? (
+                      <VimeoPlayer vimeoId={activeVideo.podcastSourceOptions.vimeoVideoId} autoplay />
+                    ) : (
+                      <YoutubePlayer youtubeId={activeVideo.podcastSourceOptions.youtubeVideoId} />
+                    )}
                   </div>
                   <div className="p-6">
                     <h2 className="text-base font-medium mb-4 text-secondary-800">{activeVideo.head}</h2>
@@ -100,7 +97,10 @@ const Podcasts = ({ podcasts }) => {
                       (item) =>
                         item.enable && (
                           <div
-                            onClick={() => setActiveVideo(list.find((video) => video.title === item.title))}
+                            onClick={() => {
+                              setIsPlaying(false);
+                              setActiveVideo(list.find((video) => video.title === item.title));
+                            }}
                             key={item.title}
                             className="flex items-center gap-4 cursor-pointer"
                           >
@@ -146,40 +146,6 @@ const Podcasts = ({ podcasts }) => {
           </div>
         </div>
       </section>
-
-      {/* OPEN THIS MODAL ONLY FOR YOUTUBE OR VIMEO */}
-      <ModalVideo
-        channel={activeVideo.podcastSourceOptions.youtubeVideoId ? "youtube" : "vimeo"}
-        autoplay={1}
-        isOpen={isVideoModalOpen}
-        videoId={
-          activeVideo.podcastSourceOptions.youtubeVideoId
-            ? activeVideo.podcastSourceOptions.youtubeVideoId
-            : activeVideo.podcastSourceOptions.vimeoVideoId
-        }
-        onClose={() => setVideoModalOpen(false)}
-      />
-
-      {/* OPEN SPOTIFY */}
-      {isSpotifyOpen && (
-        <PortalModal>
-          <PortalModal.Close handleClose={handleCloseSpotifyClose} />
-          <div
-            ref={spotifyPortalRef}
-            className="relative z-10 bg-dark-secondary rounded-xl w-full max-w-[800px] max-h-[90%] overflow-auto"
-          >
-            <iframe
-              src={`https://open.spotify.com/embed/episode/${activeVideo.podcastSourceOptions.spotifyId}`}
-              width="600"
-              height="352"
-              frameBorder="0"
-              allowfullscreen=""
-              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-              className="w-full"
-            ></iframe>
-          </div>
-        </PortalModal>
-      )}
     </>
   ) : null;
 };

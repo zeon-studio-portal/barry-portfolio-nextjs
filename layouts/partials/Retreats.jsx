@@ -11,7 +11,6 @@ const retreats = ({ retreats }) => {
   const [isVideoModalOpen, setIsVideoModalOpen] = useState(false);
   const largeScreenRef = useRef(null);
 
-  console.log("🪲 :", activeListItem);
   return enable ? (
     <>
       <section

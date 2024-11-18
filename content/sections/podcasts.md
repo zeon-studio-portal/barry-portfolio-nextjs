@@ -9,8 +9,8 @@ list:
     thumbnail: /Barry Stamos Dear First Time Founders.png
     podcastSourceOptions:
       youtubeVideoId: ''
-      vimeoVideoId: ''
-      spotifyId: 5VNxcIooEMOI4beZtzdEiX
+      vimeoVideoId: '1009918448'
+      spotifyLink: ''
   - enable: true
     head: Consulting
     title: Is heart-led entrepreneurship good for business?
@@ -18,7 +18,7 @@ list:
     podcastSourceOptions:
       youtubeVideoId: iUtnZpzkbG8
       vimeoVideoId: ''
-      spotifyId: ''
+      spotifyLink: ''
   - enable: true
     head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
@@ -26,6 +26,6 @@ list:
     podcastSourceOptions:
       youtubeVideoId: ''
       vimeoVideoId: ''
-      spotifyId: 6gnvQ9NhcSJZBfGRetPtEY?si=nijIpy32SWKPmfOAXUuCXg
+      spotifyLink: 'https://open.spotify.com/episode/4PujOwxaXDeXtoyWtRHdsF?si=bpp9pAlbRMC-854hyWihbw'
 draft: false
 ---
