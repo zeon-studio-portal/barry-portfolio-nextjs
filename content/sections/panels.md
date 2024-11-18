@@ -51,7 +51,7 @@ list:
       workplace. The session will reveal how heart-led leadership can elevate
       your business, fostering deeper connections and a vibrant company culture
       that thrives amidst technological advancement.
-    image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
+    image: /images/keynote-sessions/image.png
     button:
       enable: true
       label: Read More
