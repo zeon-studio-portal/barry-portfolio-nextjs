@@ -28,8 +28,7 @@ bottom_section:
     audiences worldwide — from billionaires and celebrities to founders and
     leaders. More than just a talk, Barry sparks within each listener a drive to
     channel their energy and business pursuits into meaningful, positive
-    contributions for more fulfilling work and life success (becoming a living
-    masterpiece). 
+    contributions for more fulfilling work and life success. 
   quote: '"Barry delivers experiences that transform lives."'
   name: TRANSFORMATIVE CHANGE AGENT
   button:
