@@ -21,14 +21,16 @@ list:
     description: ''
     thumbnail: ''
     videoLink: 'https://vimeo.com/308586169'
-    enable: true
+    enable: false
   - title: Thrive Together Tuesdays
     description: ''
     thumbnail: ''
     videoLink: 'https://vimeo.com/178041349'
+    enable: false
   - title: 'Extraordinary Experiences '
     description: Leadership Community in Mexico
     thumbnail: ''
     videoLink: 'https://vimeo.com/smdD0w5RJXA'
+    enable: false
 draft: false
 ---
