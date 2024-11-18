@@ -25,10 +25,11 @@ list:
   - head: Entrepreneurship
     title: 'Wisdom from Successfully Exited Founders '
     description: >-
-      As the CEO & Founder of Supernova, I have built the world’s first
+      As the CEO & Founder of Supernova, Barry Stamos built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
-      over $50M) who advise and mentor through my company. Most are open to
-      share their stories and cautionary tales on panels facilitated by me.</br>
+      over $50M) who advise, mentor, and invest in world-changing companies.
+      Most are open to sharing their stories and cautionary tales on panels
+      facilitated by me.
     image: /images/gallery/08.png
     button:
       enable: true
