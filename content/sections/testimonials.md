@@ -84,4 +84,3 @@ items:
     quote: ''
 draft: false
 ---
-HIS PRESENCE alone lights up any room! Barry Stamos a ray of sunshine.
