@@ -77,5 +77,11 @@ items:
     quote: >-
       "Barry is the REAL DEAL. I love Barry because he makes me uncomfortable
       and that unlocks real change."
+  - name: Mark Worster
+    image: /images/EO logo.png
+    designation: 'President '
+    company: 'Entrepreneurs Organization '
+    quote: ''
 draft: false
 ---
+Barry Stamos a ray of sunshine. HIS PRESENCE alone lights up any room!
