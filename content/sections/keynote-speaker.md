@@ -22,7 +22,7 @@ list:
       your head and into your heart. Drawing from his personal journey from a
       Silicon Valley spiritually bankrupt exited unicorn founder to a fulfilled
       individual, Barry will what he has discovered the keys to unlocking a more
-      purposeful,fulfilled work life.
+      purposeful,fulfilled work life. 
     keytakeways:
       - title: >
           Heart-Led Leadership: Learn how traveling inward can lead to greater
