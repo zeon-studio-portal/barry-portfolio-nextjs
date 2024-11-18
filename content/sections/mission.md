@@ -2,8 +2,8 @@
 enable: true
 title: 'MISSION: LIGHT UP THE WORLD'
 subtitle: >-
-  We can spark a light that shines brighter together for the good and welfare of
-  the world.
+  Spark a light that shines brighter together for the good and welfare of the
+  world.
 list:
   - enable: true
     quote: >-
