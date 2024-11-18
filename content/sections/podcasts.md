@@ -16,9 +16,9 @@ list:
     title: Is heart-led entrepreneurship good for business?
     thumbnail: /images/mixergy-stamos.jpeg
     podcastSourceOptions:
-      youtubeVideoId: iUtnZpzkbG8
+      youtubeVideoId: ''
       vimeoVideoId: ''
-      spotifyLink: ''
+      spotifyLink: https://mixergy.com/interviews/inbox-marketing-with-barry-stamos/
   - enable: true
     head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
