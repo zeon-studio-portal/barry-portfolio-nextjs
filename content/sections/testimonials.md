@@ -79,8 +79,10 @@ items:
       and that unlocks real change."
   - name: Mark Worster
     image: /images/EO logo.png
-    designation: 'President '
+    designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
-    quote: ''
+    quote: >-
+      "I hope EVERYONE can hear Barry share his story - life will never be the
+      same."
 draft: false
 ---
