@@ -30,7 +30,7 @@ list:
         https://open.spotify.com/episode/4PujOwxaXDeXtoyWtRHdsF?si=bpp9pAlbRMC-854hyWihbw
   - head: ''
     title: Off The Clock
-    thumbnail: ''
+    thumbnail: /images/32579e738116456cb90e930c11427d93_464_464.webp
     podcastSourceOptions:
       youtubeVideoId: xn6pwdBP4Io?si=yehR91CxRiLbZ0LW
       vimeoVideoId: ''
