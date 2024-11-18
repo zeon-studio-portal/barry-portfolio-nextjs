@@ -12,7 +12,7 @@ list:
       vimeoVideoId: '1009918448'
       spotifyLink: ''
   - enable: true
-    head: Consulting
+    head: Exited Founder Stories
     title: Is heart-led entrepreneurship good for business?
     thumbnail: /images/mixergy-stamos.jpeg
     podcastSourceOptions:
