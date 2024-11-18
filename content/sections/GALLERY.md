@@ -30,5 +30,7 @@ bottomList:
     alt: ''
   - image: /images/Barry.jpeg
     alt: ''
+  - image: /images/DJ.jpg
+    alt: ''
 draft: false
 ---
