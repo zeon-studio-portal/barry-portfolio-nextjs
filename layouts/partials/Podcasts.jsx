@@ -74,9 +74,9 @@ const Podcasts = ({ podcasts }) => {
                     ) : activeVideo.podcastSourceOptions.spotifyLink ? (
                       <SpotifyPlayer spotifyUrl={activeVideo.podcastSourceOptions.spotifyLink} />
                     ) : activeVideo.podcastSourceOptions.vimeoVideoId ? (
-                      <VimeoPlayer vimeoId={activeVideo.podcastSourceOptions.vimeoVideoId} />
+                      <VimeoPlayer videoId={activeVideo.podcastSourceOptions.vimeoVideoId} />
                     ) : (
-                      <YoutubePlayer youtubeId={activeVideo.podcastSourceOptions.youtubeVideoId} />
+                      <YoutubePlayer videoId={activeVideo.podcastSourceOptions.youtubeVideoId} />
                     )}
                   </div>
                   <div className="p-6">

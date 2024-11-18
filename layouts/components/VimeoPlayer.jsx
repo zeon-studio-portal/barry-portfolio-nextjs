@@ -1,7 +1,8 @@
-const VimeoPlayer = ({ vimeoId, autoplay = false }) => {
+const VimeoPlayer = ({ videoId, autoplay = false }) => {
   return (
     <iframe
-      src={`https://player.vimeo.com/video/${vimeoId}?autoplay=${autoplay ? 1 : 0}`}
+      src={`https://player.vimeo.com/video/${videoId}?autoplay=${autoplay ? 1 : 0}`}
+      title="vimeo player"
       width="100%"
       height="100%"
       frameborder="0"
