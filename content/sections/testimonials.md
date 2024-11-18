@@ -68,8 +68,8 @@ items:
     designation: Co-founder
     company: 1heart.com
     quote: >-
-      "Barry is THE go-to guy when it comes to authentic positive energy x
-      remembering to live life as a miracle."
+      "Barry is THE GO-TO resource for authentic positive energy x help people
+      remember to live life as a miracle."
   - name: Keith Ferrazzi
     image: /FG.jpg
     designation: CEO & Founder
