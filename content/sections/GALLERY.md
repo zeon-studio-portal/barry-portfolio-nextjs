@@ -15,6 +15,8 @@ topList:
     alt: gallery image
   - image: /Barry Stamos Plane.JPG
     alt: ''
+  - image: /images/Selfie.jpg
+    alt: ''
 bottomList:
   - image: /flyer.jpeg
     alt: gallery image
@@ -23,8 +25,6 @@ bottomList:
   - image: /images/Jay Shetty.jpg
     alt: gallery image
   - image: /images/gallery/09.png
-    alt: ''
-  - image: /images/Selfie.jpg
     alt: ''
 draft: false
 ---
