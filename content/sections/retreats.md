@@ -1,6 +1,6 @@
 ---
 enable: true
-title: RETREATS & SPECIAL EVENTS
+title: RETREATS, OFFSITES & CELEBRATIONS
 subtitle: >-
   Barry is an experienced guide for professional and personal transformative
   experiences.
