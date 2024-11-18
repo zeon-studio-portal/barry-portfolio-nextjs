@@ -28,7 +28,7 @@ items:
     company: Founder
     quote: >-
       “Stamos keynotes our annual summit. He's one of the most impactful
-      speakers we've ever had. We invite him back every year!"
+      speakers we've ever had!"
   - enable: true
     name: Andrew Warner
     image: >-
