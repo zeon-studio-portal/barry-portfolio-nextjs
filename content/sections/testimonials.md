@@ -75,7 +75,7 @@ items:
     designation: CEO & Founder
     company: Ferrazzi Greenlight
     quote: >-
-      "I love Barry because he makes me uncomfortable and that UNLOCKS REAL
-      CHANGE."
+      "Barry is the REAL DEAL. I love Barry because he makes me uncomfortable
+      and that unlocks real change."
 draft: false
 ---
