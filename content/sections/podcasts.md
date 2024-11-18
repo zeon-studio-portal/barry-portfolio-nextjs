@@ -42,5 +42,6 @@ list:
       youtubeVideoId: https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
       vimeoVideoId: ''
       spotifyLink: ''
+    enable: true
 draft: false
 ---
