@@ -27,7 +27,7 @@ list:
     video_source_options:
       youtubeVideoId: ''
       vimeoVideoId: '308586169'
-    enable: true
+    enable: false
   - title: Thrive Together Tuesdays
     description: ''
     thumbnail: ''
