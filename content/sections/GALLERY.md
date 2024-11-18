@@ -18,13 +18,13 @@ topList:
 bottomList:
   - image: /flyer.jpeg
     alt: gallery image
-  - image: /MastersofScaleSummit2024.jpg
-    alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
   - image: /images/gallery/09.png
     alt: ''
   - image: /Barry Stamos Plane.JPG
+    alt: ''
+  - image: /MastersofScaleSummit2024.jpg
     alt: ''
 draft: false
 ---
