@@ -36,8 +36,8 @@ list:
       vimeoVideoId: ''
       spotifyLink: ''
   - head: ''
-    title: Celebrity Work & Life Transformations
-    thumbnail: ''
+    title: 'Awakened Leader: Transformative Stories'
+    thumbnail: /images/Podcast-Palak-Patel.webp
     podcastSourceOptions:
       youtubeVideoId: https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
       vimeoVideoId: ''
