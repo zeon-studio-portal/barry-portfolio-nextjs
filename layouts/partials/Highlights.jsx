@@ -1,11 +1,12 @@
 import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
+import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
 import { markdownify } from "@lib/utils/textConverter";
 import { useState } from "react";
-import ReactPlayer from "react-player";
 
 const Highlights = ({ highlights }) => {
-  const { enable, title, subtitle, thumbnail, video_source_options, videoLink } = highlights.frontmatter;
+  const { enable, title, subtitle, thumbnail, video_source_options, mediaLink_supports_youtube_vimeo } =
+    highlights.frontmatter;
   const [isPlay, setIsPlay] = useState(false);
 
   return enable ? (
@@ -23,14 +24,7 @@ const Highlights = ({ highlights }) => {
         {/* VIDEO THUMBNAIL */}
         <div className="relative" data-aos="fade-up-sm">
           {isPlay ? (
-            <ReactPlayer
-              url={videoLink}
-              playing
-              controls
-              style={{ aspectRatio: "16 / 9" }}
-              width={"100%"}
-              height={"100%"}
-            />
+            <ReactPlayerWrapper url={mediaLink_supports_youtube_vimeo} />
           ) : (
             <div>
               <ImageFallback
