@@ -1,5 +1,5 @@
 ---
-enable: false
+enable: true
 title: RETREATS & SPECIAL EVENTS
 subtitle: >-
   Barry is an experienced guide for professional and personal transformative
