@@ -163,7 +163,7 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: Entrepreneurship & Startups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
-    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=UIQc7abikzE
+    mediaLink_supports_youtube_vimeo: ''
     image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     imageAlt: keynotes image
     description: >-
