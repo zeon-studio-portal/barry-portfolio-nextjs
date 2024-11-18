@@ -10,7 +10,7 @@ list:
     description: >-
       Barry's the co-founder of 1heart ❤️ (1,000+ alumni; CEO's, founders, and
       change-makers)
-    thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
+    thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     videoLink: https://vimeo.com/395353806
   - enable: true
     title: 'Miami Made. | Founder-led community '
