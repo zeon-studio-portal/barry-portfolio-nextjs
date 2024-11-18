@@ -35,5 +35,12 @@ list:
       youtubeVideoId: xn6pwdBP4Io?si=yehR91CxRiLbZ0LW
       vimeoVideoId: ''
       spotifyLink: ''
+  - head: ''
+    title: Celebrity Work & Life Transformations
+    thumbnail: ''
+    podcastSourceOptions:
+      youtubeVideoId: watch?v=mRu0iC_I_ys&t=279s
+      vimeoVideoId: ''
+      spotifyLink: ''
 draft: false
 ---
