@@ -6,10 +6,10 @@ subtitle: >-
   experiences.
 list:
   - enable: true
-    title: Barry's the co-founder and former Chief Heart Officer of 1heart ❤️
+    title: 'Transformative Retreats For Work & LIfe Elevation '
     description: >-
-      Barry co-created heart-led transformative journeys to elevate 1,000+ lives
-      of CEO's, founders, and change-makers.
+      Barry's the co-founder of 1heart ❤️ (1,000+ alumni; CEO's, founders, and
+      change-makers)
     thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
     videoLink: https://vimeo.com/395353806
   - enable: true
