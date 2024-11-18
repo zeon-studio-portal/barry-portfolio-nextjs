@@ -26,5 +26,7 @@ bottomList:
     alt: ''
   - image: /MastersofScaleSummit2024.jpg
     alt: ''
+  - image: /images/Barry Check.jpeg
+    alt: ''
 draft: false
 ---
