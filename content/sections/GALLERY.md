@@ -28,5 +28,7 @@ bottomList:
     alt: ''
   - image: /images/Barry Check.jpeg
     alt: ''
+  - image: /images/Barry.jpeg
+    alt: ''
 draft: false
 ---
