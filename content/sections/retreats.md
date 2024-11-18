@@ -17,9 +17,9 @@ list:
     description: ''
     thumbnail: /images/mmgroup1-1.jpg
     videoLink: https://vimeo.com/357365479
-  - title: Miami Made | Startup Ecosystem (Holiday Party)
+  - title: Startup Ecosystem (Holiday Party)
     description: ''
-    thumbnail: ''
+    thumbnail: /images/0-bjt_0437.jpg
     videoLink: https://vimeo.com/308586169
     enable: true
   - title: Thrive Together Tuesdays
