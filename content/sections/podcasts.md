@@ -9,8 +9,9 @@ list:
     thumbnail: /Barry Stamos Dear First Time Founders.png
     podcastSourceOptions:
       youtubeVideoId: ''
-      vimeoVideoId: '1009918448'
-      spotifyLink: ''
+      vimeoVideoId: ''
+      spotifyLink: >-
+        https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
   - enable: true
     head: Founders
     title: 'Miami Creators: Featuring Barry Stamos'
