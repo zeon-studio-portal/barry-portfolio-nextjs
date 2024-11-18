@@ -58,15 +58,4 @@ list:
       link: https://vimeo.com/247885432
 draft: false
 ---
-In a world where machines handle more tasks and data drives decisions, leaders face the challenge of maintaining the essence of humanity in their organizations. Without a focus on these core human values, businesses risk losing the warmth and authenticity that foster true loyalty and engagement.
-
-This panel discussion relays that while technology reshapes the business landscape, our humanity and love are powerful superpowers that can set us apart. By leading with heart and purpose, you can harness these intrinsic qualities to drive success and create a more compassionate and effective workplace. The session will reveal how heart-led leadership can elevate your business, fostering deeper connections and a vibrant company culture that thrives amidst technological advancement.
-
-Key Takeaways:
-
-* Put Love To Work: Understand how love and empathy can act as the foundational technology that enhances human-machine collaboration and connection.
-* Purpose-Driven Leadership: Learn how to integrate your core values into your leadership approach, using them as a force to inspire and connect with your team on a deeper level.
-* Building Authentic Connections: Explore strategies to maintain genuine relationships and cultivate a supportive, engaged workforce despite the rise of automation.
-* Impact and Legacy: Discover how to leave a lasting legacy by leading with purpose and using your influence to create positive, sustainable change in the world.
-
-By the end of this session, you’ll be inspired to leverage the power of humanity and love as key drivers of success. 
+The IVY speaker panel in Miami, featuring Barry Stamos and Brandon Evans, brought together startup founders to explore the transformative power of conscious leadership and the future of work. The panelists shared actionable insights on fostering purpose-driven organizations, aligning business goals with human values, and creating workplaces that inspire innovation and fulfillment. Through engaging discussions, they highlighted how embracing conscious leadership can drive both personal growth and collective success, leaving the audience energized to shape a more meaningful and impactful future for their companies.
