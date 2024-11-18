@@ -1,6 +1,6 @@
 ---
 enable: true
-title: 'MISSION: LIGHT UP THE WORLD'
+title: 'MISSION: GUIDING LIGHTS ✨'
 subtitle: >-
   Spark a light that shines brighter together for the good and welfare of the
   world.
