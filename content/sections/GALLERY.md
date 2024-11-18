@@ -20,7 +20,7 @@ bottomList:
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
-  - image: /images/gallery/09.png
+  - image: ''
     alt: ''
   - image: /Barry Stamos Plane.JPG
     alt: ''
