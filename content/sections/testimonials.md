@@ -42,7 +42,7 @@ items:
     name: JP Bewley
     image: /Evo.jpeg
     designation: Big Cloud Analytics (EVO)
-    company: J Patrick Bewley
+    company: CEO & Founder
     quote: >-
       “Barry is THE most upbeat and energetic change agent I have EVER met. A
       visionary who sees the future more clearly than most." 
@@ -84,4 +84,4 @@ items:
     quote: ''
 draft: false
 ---
-HIS PRESENCE alone lights up any room! Barry Stamos a ray of sunshine. 
+HIS PRESENCE alone lights up any room! Barry Stamos a ray of sunshine.
