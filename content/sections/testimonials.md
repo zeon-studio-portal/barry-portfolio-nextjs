@@ -50,7 +50,7 @@ items:
     name: Cameron Wenaus
     image: /RG.png
     designation: Retreat.Guru
-    company: 'Cameron Wenaus '
+    company: CEO & Co-founder
     quote: >-
       “Barry is a POWERHOUSE. He inspires teams to execute. He must have a small
       nuclear reactor powering him, as I've never seen such energy and output
