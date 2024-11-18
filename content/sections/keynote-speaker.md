@@ -83,7 +83,6 @@ list:
           rituals can lead to long-term wellbeing (physical, emotional,
           spiritual, financial, environmental, occupational, social and
           intellectual). 
-      - title: ''
     footer: ''
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
