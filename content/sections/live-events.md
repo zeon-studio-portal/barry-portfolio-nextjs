@@ -5,15 +5,11 @@ subtitle: ''
 list:
   - enable: true
     title: Supernova | Three Founders Changing the World 🌐
-    thumbnail: ''
-    video_source_options:
-      youtubeVideoId: G2SqSljZBy4
-      vimeoVideoId: ''
+    thumbnail: '/images/podcasts/image-3.png'
+    mediaLink_supports_youtube_vimeo: 'https://www.youtube.com/watch?v=G2SqSljZBy4'
   - enable: true
     title: Supernova Demo Day ⭐
     thumbnail: /images/podcasts/image-3.png
-    video_source_options:
-      youtubeVideoId: G2SqSljZBy4
-      vimeoVideoId: ''
+    mediaLink_supports_youtube_vimeo: 'https://www.youtube.com/watch?v=G2SqSljZBy4'
 draft: false
 ---

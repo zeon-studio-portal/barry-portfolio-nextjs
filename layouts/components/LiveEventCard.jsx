@@ -1,10 +1,16 @@
-import { useState } from "react";
-import ModalVideo from "react-modal-video";
+import PortalModal from "@layouts/helpers/PortalModal";
+import { useRef, useState } from "react";
+import { useOnClickOutside } from "usehooks-ts";
 import ImageFallback from "./ImageFallback";
+import ReactPlayerWrapper from "./ReactPlayerWrapper";
 
 const LiveEventCard = ({ item, aosDelay }) => {
   const [isOpen, setOpen] = useState(false);
-  const video_source_options = item.video_source_options;
+  const videoPopupRef = useRef(null);
+  const handleCloseVideoModal = () => {
+    setOpen(false);
+  };
+  useOnClickOutside(videoPopupRef, handleCloseVideoModal);
 
   return (
     <>
@@ -48,15 +54,18 @@ const LiveEventCard = ({ item, aosDelay }) => {
         </div>
       </div>
 
-      <ModalVideo
-        channel={video_source_options.youtubeVideoId ? "youtube" : "vimeo"}
-        autoplay={1}
-        isOpen={isOpen}
-        videoId={
-          video_source_options.youtubeVideoId ? video_source_options.youtubeVideoId : video_source_options.vimeoVideoId
-        }
-        onClose={() => setOpen(false)}
-      />
+      {isOpen && (
+        <PortalModal>
+          <PortalModal.Close handleClose={handleCloseVideoModal} />
+          <div className="w-[800px] mx-auto" ref={videoPopupRef}>
+            <ReactPlayerWrapper
+              customThumbnail={item.thumbnail}
+              url={item.mediaLink_supports_youtube_vimeo}
+              playing={true}
+            />
+          </div>
+        </PortalModal>
+      )}
     </>
   );
 };

@@ -59,8 +59,8 @@ const ReactPlayerWrapper = ({ url, playing: shouldAutoPlay = true, customThumbna
       ) : (
         <div>
           <ImageFallback
-            width={600}
-            height={350}
+            width={1100}
+            height={600}
             src={customThumbnail}
             alt="Live Event"
             className="w-full object-cover aspect-video "
