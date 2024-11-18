@@ -24,7 +24,7 @@ list:
     enable: true
   - title: Thrive Together Tuesdays
     description: ''
-    thumbnail: /images/Miami made.jpeg
+    thumbnail: /images/live-events/image-2.png
     videoLink: https://vimeo.com/178041349
     enable: true
   - title: 'Extraordinary Experiences '
