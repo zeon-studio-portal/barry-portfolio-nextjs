@@ -31,6 +31,6 @@ list:
     description: Leadership Community in Mexico
     thumbnail: ''
     videoLink: https://vimeo.com/smdD0w5RJXA
-    enable: false
+    enable: true
 draft: false
 ---
