@@ -14,7 +14,7 @@ list:
   - enable: true
     head: Consulting
     title: Is heart-led entrepreneurship good for business?
-    thumbnail: /images/podcasts/image-1.png
+    thumbnail: /images/mixergy-stamos.jpeg
     podcastSourceOptions:
       youtubeVideoId: iUtnZpzkbG8
       vimeoVideoId: ''
