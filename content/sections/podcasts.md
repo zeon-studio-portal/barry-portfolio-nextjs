@@ -35,6 +35,7 @@ list:
       youtubeVideoId: xn6pwdBP4Io?si=yehR91CxRiLbZ0LW
       vimeoVideoId: ''
       spotifyLink: ''
+    enable: true
   - head: ''
     title: 'Awakened Leader: Transformative Stories'
     thumbnail: /images/Podcast-Palak-Patel.webp
