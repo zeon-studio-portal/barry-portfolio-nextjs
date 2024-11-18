@@ -15,7 +15,7 @@ list:
   - enable: true
     title: 'Miami Made. | Founder-led community '
     description: ''
-    thumbnail: /images/live-events/image-2.png
+    thumbnail: /images/mmgroup1-1.jpg
     videoLink: https://vimeo.com/357365479
   - title: Miami Made | Startup Ecosystem (Holiday Party)
     description: ''
