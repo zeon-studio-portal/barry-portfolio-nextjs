@@ -52,7 +52,7 @@ items:
     designation: Retreat.Guru
     company: 'Cameron Wenaus '
     quote: >-
-      “Barry is a powerhouse. He inspires teams to execute. He must have a small
+      “Barry is a POWERHOUSE. He inspires teams to execute. He must have a small
       nuclear reactor powering him, as I've never seen such energy and output
       from one person.”
   - enable: true
