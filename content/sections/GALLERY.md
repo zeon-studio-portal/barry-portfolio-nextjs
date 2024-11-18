@@ -22,9 +22,9 @@ bottomList:
     alt: gallery image
   - image: /images/Jay Shetty.jpg
     alt: gallery image
-  - image: /carebear.JPG
-    alt: ''
   - image: /images/gallery/09.png
+    alt: ''
+  - image: /images/Selfie.jpg
     alt: ''
 draft: false
 ---
