@@ -55,7 +55,7 @@ list:
     button:
       enable: true
       label: Read More
-      link: '#'
+      link: '247008938'
 draft: false
 ---
 In a world where machines handle more tasks and data drives decisions, leaders face the challenge of maintaining the essence of humanity in their organizations. Without a focus on these core human values, businesses risk losing the warmth and authenticity that foster true loyalty and engagement.
