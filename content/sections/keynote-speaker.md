@@ -119,7 +119,7 @@ list:
       growth and transformation, and ultimately, living a life you truly love.
   - badge: The Future of Work
     title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
-    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=UIQc7abikzE
+    mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
     description: >
