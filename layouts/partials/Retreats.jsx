@@ -1,10 +1,9 @@
 import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
-import VimeoPlayer from "@components/VimeoPlayer";
-import YoutubePlayer from "@components/YoutubePlayer";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useRef, useState } from "react";
+import ReactPlayer from "react-player";
 
 const retreats = ({ retreats }) => {
   const { enable, title, subtitle, list } = retreats.frontmatter;
@@ -39,43 +38,53 @@ const retreats = ({ retreats }) => {
               <div className="relative" ref={largeScreenRef}>
                 <div className="bg-dark-quaternary rounded-2xl overflow-hidden">
                   {isPlay ? (
-                    // Play Video In this order for single video
-                    activeListItem.video_source_options.vimeoVideoId ? (
-                      <VimeoPlayer videoId={activeListItem.video_source_options.vimeoVideoId} />
-                    ) : (
-                      <YoutubePlayer videoId={activeListItem.video_source_options.youtubeVideoId} />
-                    )
-                  ) : (
-                    activeListItem.thumbnail && (
-                      <div className="relative">
-                        <ImageFallback
-                          src={activeListItem.thumbnail}
-                          alt={activeListItem.title}
-                          width={1920}
-                          height={1080}
-                          className="aspect-video w-full object-cover"
-                        />
-                        <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                          <button className="video-play-btn" onClick={() => setIsPlay(true)} aria-label="Play Video">
-                            <span className="video-play-btn-icon">
-                              <svg
-                                width="26"
-                                height="26"
-                                viewBox="0 0 26 26"
-                                fill="none"
-                                xmlns="http://www.w3.org/2000/svg"
-                                className="inline text-light-primary"
-                              >
-                                <path
-                                  d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
-                                  fill="currentColor"
-                                />
-                              </svg>
-                            </span>
-                          </button>
-                        </div>
+                    <ReactPlayer
+                      url={activeListItem.videoLink}
+                      playing
+                      controls
+                      style={{ aspectRatio: "16 / 9" }}
+                      width={"100%"}
+                      height={"100%"}
+                    />
+                  ) : activeListItem.thumbnail ? (
+                    <div className="relative">
+                      <ImageFallback
+                        src={activeListItem.thumbnail}
+                        alt={activeListItem.title}
+                        width={1920}
+                        height={1080}
+                        className="aspect-video w-full object-cover"
+                      />
+                      <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
+                        <button className="video-play-btn" onClick={() => setIsPlay(true)} aria-label="Play Video">
+                          <span className="video-play-btn-icon">
+                            <svg
+                              width="26"
+                              height="26"
+                              viewBox="0 0 26 26"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                              className="inline text-light-primary"
+                            >
+                              <path
+                                d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
+                                fill="currentColor"
+                              />
+                            </svg>
+                          </span>
+                        </button>
                       </div>
-                    )
+                    </div>
+                  ) : (
+                    <ReactPlayer
+                      url={activeListItem.videoLink}
+                      playing
+                      controls
+                      style={{ aspectRatio: "16 / 9" }}
+                      width={"100%"}
+                      height={"100%"}
+                      light
+                    />
                   )}
 
                   <div className="py-6 px-8 ">

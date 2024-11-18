@@ -11,34 +11,24 @@ list:
       Barry co-created heart-led transformative journeys to elevate 1,000+ lives
       of CEO's, founders, and change-makers.
     thumbnail: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '395353806'
+    videoLink: 'https://vimeo.com/395353806'
   - enable: true
     title: 'Miami Made. | Founder-led community '
     description: ''
     thumbnail: /IMG_0480.jpg
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '357365479'
-  - title: Miami Made | Startup Ecosystem (Holiday Party)
+    videoLink: 'https://vimeo.com/357365479'
+  - title: 'Miami Made | Startup Ecosystem (Holiday Party)'
     description: ''
     thumbnail: ''
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '308586169'
-    enable: false
+    videoLink: 'https://vimeo.com/308586169'
+    enable: true
   - title: Thrive Together Tuesdays
     description: ''
     thumbnail: ''
-    video_source_options:
-      youtubeVideoId: ''
-      vimeoVideoId: '178041349'
+    videoLink: 'https://vimeo.com/178041349'
   - title: 'Extraordinary Experiences '
     description: Leadership Community in Mexico
     thumbnail: ''
-    video_source_options:
-      youtubeVideoId: smdD0w5RJXA
-      vimeoVideoId: ''
+    videoLink: 'https://vimeo.com/smdD0w5RJXA'
 draft: false
 ---
