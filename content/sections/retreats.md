@@ -7,7 +7,9 @@ subtitle: >-
 list:
   - enable: true
     title: 'Leadership Retreats For Work & Life Elevation '
-    description: 95% received a life-changing breakthrough with 1,000+ Alumni References.
+    description: >-
+      Barry is the co-founder & Chief Heart Officer where 95% of 1,000+ alumni
+      received a life-changing breakthrough per reviews and references.
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
