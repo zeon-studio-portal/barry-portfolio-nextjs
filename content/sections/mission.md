@@ -39,7 +39,7 @@ list:
       "If we continue to accumulate only power and not wisdom, we will surely
       destroy ourselves."
     author: ~ Carl Sagan, Astronomer & Planetary Scientist
-    image: /images/Barry Bio Photo.png
+    image: /images/Wallpaper4.jpeg
     subtitle: ''
     title: ''
 draft: false
