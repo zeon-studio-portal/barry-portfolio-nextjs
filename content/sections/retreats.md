@@ -15,7 +15,7 @@ list:
   - enable: true
     title: Community Building | Miami made.
     description: >-
-      I am the co-founder of Miami made. with a mission to create a more
+      Barry's founded Miami made with a mission is to create a more
       collaborative startup ecosystem.
     thumbnail: /images/mmgroup1-1.jpg
     mediaLink_supports_youtube_vimeo: https://vimeo.com/357365479
