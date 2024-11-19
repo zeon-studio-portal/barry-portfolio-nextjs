@@ -11,7 +11,7 @@ list:
       https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
   - enable: true
     head: Founders
-    title: 'Miami Creators: Featuring Barry Stamos'
+    title: 'Miami Creators: Barry Stamos'
     thumbnail: /Miami Creators.webp
     mediaLink_supports_spotify_youtube_vimeo: >-
       https://open.spotify.com/episode/6gnvQ9NhcSJZBfGRetPtEY?si=4ucpBHrhR12R5sU5oVnzYA
