@@ -9,8 +9,8 @@ bio: >-
   companies. My 25+ year career includes consulting for 20% of the Fortune 500,
   building a $315M business at Acxiom as a global corporate innovation leader,
   and scaling my first startup to a $1.6B exit with Oracle. I also co-founded
-  1heart, guiding 1,000+ leaders toward purpose-driven lives who, in turn,
-  reshape, rebuild, and reimagine our future. <br /><br />At conferences,
+  1heart, guiding 1,000+ leaders toward heart-centered, purpose-driven lives
+  who, in turn, co-elevate a better future. <br /><br />At conferences,
   corporate events, and leadership retreats, I empower audiences to rise to the
   moment—unlocking their purpose and life’s work to solve the pressing
   challenges of our time, thrive, and play a greater game. <br /><br />As the
