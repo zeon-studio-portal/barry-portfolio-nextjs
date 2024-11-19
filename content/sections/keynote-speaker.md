@@ -215,7 +215,7 @@ list:
       and ensuring their business thrives in a competitive landscape.
   - badge: Ai & the Future of Work
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
-    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=UIQc7abikzE
+    mediaLink_supports_youtube_vimeo: https://youtu.be/dG2pjcAhlM0?si=kEoEJnOcgEg-vuDO
     image: /images/interviews/image-1.png
     imageAlt: keynotes image
     description: >-
