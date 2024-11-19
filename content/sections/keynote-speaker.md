@@ -143,9 +143,9 @@ list:
           the startup world’s approach to disruption, innovation, and doing more
           with less.
       - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+          Disruptive Practices: Explore the unconventional strategies that have
+          allowed startups to challenge and transform trillion-dollar
+          industries.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
