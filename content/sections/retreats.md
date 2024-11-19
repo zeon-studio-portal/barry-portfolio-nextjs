@@ -1,6 +1,6 @@
 ---
 enable: true
-title: LEADERSHIP RETREATS & COMPANY EVENTS
+title: LEADERSHIP RETREATS & COMMUNITY BUILDING EVENTS
 subtitle: >-
   Barry is a trusted experienced guide for professional and personal
   transformative experiences.
