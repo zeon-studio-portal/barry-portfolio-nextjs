@@ -20,7 +20,7 @@ items:
     company: President
     quote: >-
       “Barry's a RARE FIND. He is a Unicorn founder, Fortune 500 executive, and
-      energy shaman who shares real wisdom.”
+      energy shaman who shares wisdom to elevate lives.”
   - enable: true
     name: Jenma Bardi
     image: /Screenshot 2024-11-13 at 7.48.04 AM.png
@@ -76,7 +76,7 @@ items:
     company: Ferrazzi Greenlight
     quote: >-
       "I love Barry because he makes me uncomfortable and that ignites REAL
-      CHANGE."
+      CHANGE to elevate lives."
     enable: true
   - name: Mark Worster
     image: /images/EO logo.png
