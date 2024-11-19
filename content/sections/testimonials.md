@@ -70,6 +70,7 @@ items:
     quote: >-
       "Barry is THE GO-TO guide for authentic positive energy x help people
       remember to live life as a miracle."
+    enable: true
   - name: Keith Ferrazzi
     image: /FG.jpg
     designation: CEO & Founder
