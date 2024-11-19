@@ -164,16 +164,26 @@ list:
     mediaLink_supports_youtube_vimeo: ''
     image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
     imageAlt: keynotes image
-    description: >-
+    description: >
       Scaling a business is one of the most challenging and critical phases in
       an organization's growth. Whether you're an entrepreneur or a corporate
       leader, the pressure to scale effectively can be overwhelming. Without the
-      right  
+      right strategies, you risk stalling growth, missing market opportunities,
+      or even facing business failure. Many leaders struggle to identify and
+      implement the best practices that will truly move the needle and deliver
+      measurable results. In this high-energy, fast-paced keynote, you’ll be
+      immersed in a firestorm of knowledge sharing, packed with 30 proven best
+      practices that can drive real, tangible results. These practices are
+      backed by real case studies and proof points, ensuring you leave with
+      actionable insights that have been tested and validated in the real world.
+      Whether you're looking to optimize hiring, master marketing, raise
+      capital, or scale sales, this session will provide you with the essential
+      strategies you need to succeed.
     keytakeways:
-      - title: >-
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+      - title: >
+          Rapid-Fire Best Practices: Absorb 30 powerful and actionable best
+          practices across various business functions, delivered in a concise,
+          no-nonsense format.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
