@@ -14,7 +14,7 @@ list:
     title: 'Miami Creators: Featuring Barry Stamos'
     thumbnail: /Miami Creators.webp
     mediaLink_supports_spotify_youtube_vimeo: >-
-      https://open.spotify.com/episode/4PujOwxaXDeXtoyWtRHdsF?si=bpp9pAlbRMC-854hyWihbw
+      https://open.spotify.com/episode/6gnvQ9NhcSJZBfGRetPtEY?si=4ucpBHrhR12R5sU5oVnzYA
   - head: ''
     title: Off The Clock
     thumbnail: /images/32579e738116456cb90e930c11427d93_464_464.webp
