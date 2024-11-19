@@ -193,9 +193,9 @@ list:
           unique business needs, whether you’re focused on scaling, improving
           leadership, or refining product development.
       - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+          Immediate Implementation: Walk away with a toolkit of quick wins that
+          you can start applying to your business immediately to see rapid
+          results.
     footer: >-
       By the end of this session, you’ll be equipped with the tools and
       inspiration to embark on your own journey of inner space travel. You’ll
