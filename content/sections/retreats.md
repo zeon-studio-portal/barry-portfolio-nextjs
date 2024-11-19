@@ -13,8 +13,10 @@ list:
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
-    title: Miami Made. | Community Building
-    description: ''
+    title: Community Building | Miami made.
+    description: >-
+      I am the co-founder of Miami made. with a mission to create a more
+      collaborative startup ecosystem.
     thumbnail: /images/mmgroup1-1.jpg
     mediaLink_supports_youtube_vimeo: https://vimeo.com/357365479
   - title: Startup Ecosystem (Holiday Party)
