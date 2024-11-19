@@ -6,8 +6,8 @@ subtitle: >-
   transformative experiences.
 list:
   - enable: true
-    title: 'Transformative Retreats For Work & LIfe Elevation '
-    description: Barry's an experienced guide and host for offsites and retreats.
+    title: 'Leadership Retreats For Work & Life Elevation '
+    description: 95% received a life-changing breakthrough with 1,000+ Alumni References.
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
