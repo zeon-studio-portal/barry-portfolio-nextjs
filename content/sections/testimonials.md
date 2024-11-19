@@ -73,11 +73,12 @@ items:
     enable: true
   - name: Keith Ferrazzi
     image: /FG.jpg
-    designation: CEO & Founder
+    designation: Chairman
     company: Ferrazzi Greenlight
     quote: >-
       "Barry is the REAL DEAL. I love Barry because he makes me uncomfortable
       and that unlocks real change."
+    enable: true
   - name: Mark Worster
     image: /images/EO logo.png
     designation: Past President & Board Member
