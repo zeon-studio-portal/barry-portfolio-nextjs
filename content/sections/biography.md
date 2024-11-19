@@ -13,10 +13,10 @@ bio: >-
   consciousness to solve planetary problems ❤️. <br /><br /> I'm here to serve
   and spark the mindset shift our future demands. At conferences, corporate
   events, and leadership retreats, my talks empower audiences to rise to the
-  moment—unlocking access to our higher selves and superpowers. As the world
-  evolves at hyperspeed, the demand for conscious leadership has never been
-  greater. <br /><br />Let’s connect and co-create an unforgettable experience
-  together. It's our time to shine by solving the pressing challenges of our
+  moment—unlocking access to our higher selves and superpowers. <br /><br
+  />Let’s connect and co-create an unforgettable experience together. As the
+  world evolves at hyperspeed, the demand for conscious leadership has never
+  been greater. It's our time to shine by solving the pressing challenges of our
   time and this is only possible when we play a greater game together.
 button:
   enable: true
