@@ -57,18 +57,16 @@ list:
       obligations often leave us feeling overwhelmed and disconnected from our
       own needs. Despite our best intentions, we find ourselves caught in a
       cycle of stress and burnout, unable to achieve the lasting fulfillment and
-      happiness we seek.
-
-      In this keynote session, you will discover the the transformative power of
-      daily rituals in mastering life and achieving true, lasting wellbeing.
-      Drawing from scientific research and timeless wisdom, we will explore
-      practical, actionable strategies that can be integrated into even the
-      busiest of schedules. You will learn how small, intentional habits can
-      create a ripple effect, improving not only your physical health but also
-      your mental, emotional, and spiritual wellbeing. You will be equipped with
-      the knowledge and tools to create lasting positive change in your life,
-      ensuring that you not only survive but truly thrive in all aspects of your
-      work and life.
+      happiness we seek. In this keynote session, you will discover the the
+      transformative power of daily rituals in mastering life and achieving
+      true, lasting wellbeing. Drawing from scientific research and timeless
+      wisdom, we will explore practical, actionable strategies that can be
+      integrated into even the busiest of schedules. You will learn how small,
+      intentional habits can create a ripple effect, improving not only your
+      physical health but also your mental, emotional, and spiritual wellbeing.
+      You will be equipped with the knowledge and tools to create lasting
+      positive change in your life, ensuring that you not only survive but truly
+      thrive in all aspects of your work and life.
     keytakeways:
       - title: >
           Understanding Rituals: Learn the difference between daily habits,
@@ -83,17 +81,7 @@ list:
           rituals can lead to long-term wellbeing (physical, emotional,
           spiritual, financial, environmental, occupational, social and
           intellectual). 
-    footer: >-
-      In this keynote session, you will discover the the transformative power of
-      daily rituals in mastering life and achieving true, lasting wellbeing.
-      Drawing from scientific research and timeless wisdom, we will explore
-      practical, actionable strategies that can be integrated into even the
-      busiest of schedules. You will learn how small, intentional habits can
-      create a ripple effect, improving not only your physical health but also
-      your mental, emotional, and spiritual wellbeing. You will be equipped with
-      the knowledge and tools to create lasting positive change in your life,
-      ensuring that you not only survive but truly thrive in all aspects of your
-      work and life.
+    footer: ''
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
