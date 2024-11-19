@@ -34,6 +34,7 @@ list:
     image: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
     subtitle: ''
     title: ''
+    enable: true
   - quote: ''
     author: ''
     image: ''
