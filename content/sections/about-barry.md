@@ -34,6 +34,6 @@ bottom_section:
   button:
     enable: true
     label: Keynote Sessions
-    link: /#keynote-sessions
+    link: /#keynote-speaker
 draft: false
 ---
