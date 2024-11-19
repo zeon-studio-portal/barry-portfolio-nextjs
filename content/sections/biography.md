@@ -1,7 +1,34 @@
 ---
 enable: true
 title: LET'S PLAY TOGETHER   ;-)
-bio: "Barry is a 3x exited Silicon Valley tech entrepreneur turned conscious capitalist. He is the CEO & Founder of SUPERNOVA (1supernova.com), 150+ exited founders helping world-changing companies achieve their missions, faster.\_ Barry's an Entrepreneur-in-Residence at 500 Global (500.co), the most active global venture capital firm in the world (#1 in VC Deal Counts & Exits).</br></br> Barry is the co-founder of 1heart (1heart.com), a human accelerator to elevate leaders' lives with 1,000+ alumni. Barry's been a paid consultant to 20% of the Fortune 500. He is one of the 100 Most Influential Leaders in Technology (Techweek). Barry built and sold his first startup INBOX Marketing in San Francisco to Responsys pre-IPO and exited to Oracle for $1.6 Billion in 2006.</br></br> Barry's been an intrapreneur, as a Global Practice Leader of Strategy & Innovation at Acxiom (NASDAQ: ACXM), where he helped build a business unit from scratch to $315MM annual revenues that sold to IPG for $2.3 Billion in 2018. Barry is a keynote speaker and subject matter expert in work and life transformation.\_ Barry lives in Mount Pleasant, SC with his wife Christine, and two boys Beau & Nico Stamos."
+bio: >-
+  I’m thrilled to introduce Barry Stamos, a visionary speaker who transforms
+  audiences with his profound insights into conscious leadership and the future
+  of work. Barry is a 3x exited Silicon Valley tech entrepreneur turned
+  conscious capitalist, now the CEO and Founder of SUPERNOVA, where 150+ exited
+  founders accelerate world-changing companies toward their missions.
+
+
+  Barry’s expertise spans industries and global platforms. As an
+  Entrepreneur-in-Residence at 500 Global—the most active VC firm worldwide—he
+  has mentored countless innovators. His entrepreneurial journey includes
+  co-founding 1heart, a human accelerator with 1,000+ alumni, and driving
+  record-breaking success as a Global Practice Leader at Acxiom, growing
+  revenues to $315M annually. Named one of Techweek’s 100 Most Influential
+  Leaders in Technology, Barry has also been a trusted consultant to 20% of
+  Fortune 500 companies.
+
+
+  With his dynamic speaking style, Barry weaves together his experiences to
+  inspire leaders to channel their energy and organizations toward meaningful
+  impact. Whether addressing leading corporations, conferences, or universities,
+  Barry captivates audiences by sparking new perspectives, igniting purpose, and
+  delivering actionable strategies for success.
+
+
+  We’d love to explore how Barry can engage and energize your audience. Let’s
+  collaborate and “play” together to create an unforgettable experience that
+  inspires your community to thrive.
 button:
   enable: true
   label: Book Barry
