@@ -13,7 +13,7 @@ list:
     thumbnail: /91ba6022-f374-4488-9d42-69465afcd391.JPG
     mediaLink_supports_youtube_vimeo: https://vimeo.com/395353806
   - enable: true
-    title: 'Miami Made. | Founder-led community '
+    title: Miami Made. | Community Building
     description: ''
     thumbnail: /images/mmgroup1-1.jpg
     mediaLink_supports_youtube_vimeo: https://vimeo.com/357365479
