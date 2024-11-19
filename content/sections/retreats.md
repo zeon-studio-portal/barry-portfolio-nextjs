@@ -27,10 +27,5 @@ list:
     thumbnail: /images/live-events/image-2.png
     mediaLink_supports_youtube_vimeo: https://vimeo.com/178041349
     enable: true
-  - title: 'Extraordinary Experiences '
-    description: Leadership Community in Mexico
-    thumbnail: ''
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/smdD0w5RJXA
-    enable: true
 draft: false
 ---
