@@ -15,8 +15,8 @@ bio: >-
   spark the mindset shift our future demands. At conferences, corporate events,
   and leadership retreats, my talks empower audiences to rise to the
   moment—unlocking access to our higher selves and superpowers. It's our time to
-  shine by solving the pressing challenges of our time and play a greater game
-  together.<br /><br />Let’s connect and co-create an unforgettable experience
+  shine by solving the pressing challenges of our time and play a greater
+  game.<br /><br />Let’s connect and co-create an unforgettable experience
   together. 
 button:
   enable: true
