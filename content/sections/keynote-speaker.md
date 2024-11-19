@@ -210,12 +210,21 @@ list:
       Artificial Intelligence (AI) is rapidly transforming every aspect of our
       lives, especially how we work and communicate to how we make decisions and
       solve problems. Yet, despite its growing influence, many individuals and
-      organizations
+      organizations struggle to keep pace with AI advancements and leverage them
+      effectively. The gap between potential and reality often leads to missed
+      opportunities, inefficiencies, and a lack of preparedness for the future.
+
+      In this keynote session, you will dive deep into the transformative power
+      of AI and how it is reshaping the world around us. We will explore the
+      latest AI trends, innovations, and real-world applications that are
+      driving change across industries. You’ll gain a clear understanding of how
+      AI can be harnessed to enhance productivity, creativity, and
+      decision-making in your personal and professional life. 
     keytakeways:
       - title: >-
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+          Adapting Faster To Leverage AI's Impact: Learn how AI is
+          revolutionizing various sectors and the implications for your industry
+          and everyday life.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
@@ -229,9 +238,10 @@ list:
           align your life with your true passions and values, leading to a more
           authentic and joyful existence.
     footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+      This session will demystify AI, providing you with the insights and tools
+      you need to stay ahead in a rapidly evolving landscape. By the end of this
+      session, you will be equipped with a clear vision of how AI is shaping
+      tomorrow's world today and the practical knowledge to leverage AI in ways
+      that will future-proof your career, business, and life.
 draft: false
 ---
