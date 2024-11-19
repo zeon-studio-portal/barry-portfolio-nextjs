@@ -27,9 +27,9 @@ list:
     subtitle: ''
     title: ''
   - quote: >-
-      "When I was a boy and I would see scary things in the news, my mother
-      would say to me, "Look for the helpers. You will always find people who
-      are helping."
+      "Whenever there is a tragedy or catastrophe... look for the helpers. There
+      will always be helpers on the sidelines. Cause if you look for the
+      helpers, you'll know there is hope."
     author: Mr. Rogers
     image: /c6371b95-22aa-406a-a6a5-1ba19c4a1123.JPG
     subtitle: ''
