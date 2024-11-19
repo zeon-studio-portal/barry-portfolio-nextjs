@@ -39,7 +39,7 @@ list:
       "If we continue to accumulate only power and not wisdom, we will surely
       destroy ourselves."
     author: Carl Sagan, Astronomer & Planetary Scientist
-    image: /images/speakers/interviews-5.png
+    image: /images/Navigating-the-2024-Total-Solar-Eclipse-Safely.webp
     subtitle: ''
     title: ''
     enable: true
