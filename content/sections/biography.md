@@ -16,8 +16,7 @@ bio: >-
   challenges of our time, thrive, and play a greater game. As the world evolves
   at hyperspeed, the demand for conscious leadership has never been greater. <br
   /><br />Let’s connect and collaborate to create an unforgettable experience
-  together, sparking the mindset shift our future demands.<br /><br />Choose
-  love, - Barry Stamos
+  together, sparking the mindset shift our future demands.
 button:
   enable: true
   label: Book Barry
