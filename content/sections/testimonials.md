@@ -80,7 +80,7 @@ items:
       CHANGE to elevate lives."
     enable: true
   - name: Mark Worster
-    image: /images/EO.png
+    image: /images/EO logo.png
     designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
     quote: >-
