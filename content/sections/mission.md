@@ -1,9 +1,9 @@
 ---
 enable: true
 title: 'MISSION: GUIDING LIGHTS ✨'
-subtitle: >-
-  Spark a light that shines brighter together for the good and welfare of the
-  world.
+subtitle: >
+  Ignite the transformative spark, so our collective light shines like a
+  supernova. 🔆
 list:
   - enable: true
     quote: >-
