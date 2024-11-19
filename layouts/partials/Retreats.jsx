@@ -1,5 +1,6 @@
 import AnimatedText from "@components/AnimatedText";
 import ImageFallback from "@components/ImageFallback";
+import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useRef, useState } from "react";
@@ -38,8 +39,9 @@ const retreats = ({ retreats }) => {
               <div className="relative" ref={largeScreenRef}>
                 <div className="bg-dark-quaternary rounded-2xl overflow-hidden">
                   {isPlay ? (
-                    <ReactPlayer
-                      url={activeListItem.videoLink}
+                    <ReactPlayerWrapper
+                      url={activeListItem.mediaLink_supports_youtube_vimeo}
+                      customThumbnail={activeListItem.thumbnail}
                       playing
                       controls
                       style={{ aspectRatio: "16 / 9" }}
@@ -77,7 +79,7 @@ const retreats = ({ retreats }) => {
                     </div>
                   ) : (
                     <ReactPlayer
-                      url={activeListItem.videoLink}
+                      url={activeListItem.mediaLink_supports_youtube_vimeo}
                       playing
                       controls
                       style={{ aspectRatio: "16 / 9" }}
