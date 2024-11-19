@@ -5,7 +5,7 @@ subtitle: Barry is available for podcasts serving as a source of positivity.
 list:
   - enable: true
     head: Founders
-    title: 'First Time Founders: Love is The Human Accelerator'
+    title: Love is The Human Accelerator
     thumbnail: /Barry Stamos Dear First Time Founders.png
     mediaLink_supports_spotify_youtube_vimeo: >-
       https://open.spotify.com/episode/3BRhQSQSVb7slH9iz2TTDB?si=YwTOWfq_SWWfZf1D81CQdQ
