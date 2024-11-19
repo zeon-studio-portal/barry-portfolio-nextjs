@@ -108,9 +108,9 @@ list:
           foundational technology that enhances human-machine collaboration and
           connection.
       - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+          Purpose-Driven Leadership: Learn how to integrate your core values
+          into your leadership approach, using them as a force to inspire and
+          connect with your team on a deeper level.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
