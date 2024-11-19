@@ -112,9 +112,9 @@ list:
           into your leadership approach, using them as a force to inspire and
           connect with your team on a deeper level.
       - title: >-
-          Practical Transformation Tools: Gain actionable insights into the
-          practices and modalities that can help you achieve a more harmonious
-          and satisfying life.
+          Building Authentic Connections: Explore strategies to maintain genuine
+          relationships and cultivate a supportive, engaged workforce despite
+          the rise of automation.
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
