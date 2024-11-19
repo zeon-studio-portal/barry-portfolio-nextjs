@@ -116,9 +116,9 @@ list:
           with purpose and using your influence to create positive, sustainable
           change in the world.
       - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+          Creating a Compassionate Culture: Find out how to infuse your company
+          culture with humanity, ensuring that technology complements rather
+          than replaces the essential human touch.
     footer: >-
       By the end of this session, you’ll be equipped with the tools and
       inspiration to embark on your own journey of inner space travel. You’ll
