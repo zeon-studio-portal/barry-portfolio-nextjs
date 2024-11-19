@@ -119,11 +119,13 @@ list:
           Creating a Compassionate Culture: Find out how to infuse your company
           culture with humanity, ensuring that technology complements rather
           than replaces the essential human touch.
-    footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+    footer: >
+      By the end of this session, you’ll be inspired to leverage the power of
+      humanity and love as key drivers of success. You’ll gain insights into how
+      these qualities can enhance your leadership and foster a thriving company
+      culture, proving that even in an era of rapid technological change, and
+      create a workplace where both humans and machines work together seamlessly
+      and effectively.
   - badge: The Future of Work
     title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
     mediaLink_supports_youtube_vimeo: ''
