@@ -27,7 +27,7 @@ items:
     designation: Volcano Summit
     company: Founder
     quote: >-
-      “Stamos keynotes our annual summit with 1,800 attendees. He is one of the
+      “Barry keynotes our annual summit with 1,800 attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!"
   - enable: true
     name: Andrew Warner
