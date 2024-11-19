@@ -53,7 +53,8 @@ items:
     company: CEO & Co-founder
     quote: >-
       “Barry is a POWERHOUSE. He must have a small nuclear reactor powering him,
-      as I've never seen such energy and output from one person.”
+      as I've never seen such energy and output from one person. He inspires
+      teams to execute.”
   - enable: true
     name: Klaas Weima
     image: /energize.png
