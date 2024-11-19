@@ -92,12 +92,21 @@ list:
       In a world where machines handle more tasks and data drives decisions,
       leaders face the challenge of maintaining the essence of humanity in their
       organizations. Without a focus on these core human values, businesses risk
-      losing the 
+      losing the warmth and authenticity that foster true loyalty and
+      engagement.
+
+      This keynote emphasizes that while technology reshapes the business
+      landscape, our humanity and love are powerful superpowers that can set us
+      apart. By leading with heart and purpose, you can harness these intrinsic
+      qualities to drive success and create a more compassionate and effective
+      workplace. The session will reveal how heart-led leadership can elevate
+      your business, fostering deeper connections and a vibrant company culture
+      that thrives amidst technological advancement.
     keytakeways:
       - title: >-
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+          Put Love To Work: Understand how love and empathy can act as the
+          foundational technology that enhances human-machine collaboration and
+          connection.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
