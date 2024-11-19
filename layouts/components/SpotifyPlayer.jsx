@@ -1,4 +1,4 @@
-const SpotifyPlayer = ({ spotifyUrl, autoplay = false }) => {
+const SpotifyPlayer = ({ spotifyUrl, autoplay = false, onReady, className }) => {
   // Extract the Spotify URI and type from the URL
   const getSpotifyEmbedUrl = (url, autoplay) => {
     try {
@@ -37,9 +37,10 @@ const SpotifyPlayer = ({ spotifyUrl, autoplay = false }) => {
       width="600"
       height="352"
       frameBorder="0"
-      allowfullscreen=""
+      allowFullScreen=""
       allow="autoplay; clipboard-write; encrypted-media; fullscreen"
-      className="w-full"
+      className={`w-full ${className}`}
+      onLoad={onReady} // Trigger callback when iframe is loaded
     />
   );
 };

@@ -1,8 +1,5 @@
 import AnimatedText from "@components/AnimatedText";
-import ImageFallback from "@components/ImageFallback";
-import SpotifyPlayer from "@components/SpotifyPlayer";
-import VimeoPlayer from "@components/VimeoPlayer";
-import YoutubePlayer from "@components/YoutubePlayer";
+import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useState } from "react";
@@ -10,7 +7,6 @@ import { useState } from "react";
 const Podcasts = ({ podcasts }) => {
   const { enable, title, subtitle, list } = podcasts.frontmatter;
   const [activeVideo, setActiveVideo] = useState(list[0]);
-  const [isPlaying, setIsPlaying] = useState(false);
 
   return enable ? (
     <>
@@ -36,48 +32,11 @@ const Podcasts = ({ podcasts }) => {
               {activeVideo && (
                 <>
                   <div className="relative">
-                    {!isPlaying ? (
-                      <>
-                        <ImageFallback
-                          src={activeVideo.thumbnail}
-                          alt={activeVideo.title}
-                          width={600}
-                          height={350}
-                          className="aspect-video object-cover w-full"
-                        />
-                        <div className="video-wrapper absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-                          <button
-                            className="video-play-btn"
-                            onClick={() => {
-                              setIsPlaying(true);
-                            }}
-                            aria-label="Play"
-                          >
-                            <span className="video-play-btn-icon">
-                              <svg
-                                width="26"
-                                height="26"
-                                viewBox="0 0 26 26"
-                                fill="none"
-                                xmlns="http://www.w3.org/2000/svg"
-                                className="inline text-light-primary"
-                              >
-                                <path
-                                  d="M18.6278 14.7363L9.49228 19.9566C8.15896 20.7185 6.5 19.7558 6.5 18.2201V12.9998V7.77953C6.5 6.24389 8.15897 5.28115 9.49228 6.04305L18.6278 11.2634C19.9714 12.0311 19.9714 13.9685 18.6278 14.7363Z"
-                                  fill="currentColor"
-                                />
-                              </svg>
-                            </span>
-                          </button>
-                        </div>
-                      </>
-                    ) : activeVideo.podcastSourceOptions.spotifyLink ? (
-                      <SpotifyPlayer spotifyUrl={activeVideo.podcastSourceOptions.spotifyLink} />
-                    ) : activeVideo.podcastSourceOptions.vimeoVideoId ? (
-                      <VimeoPlayer videoId={activeVideo.podcastSourceOptions.vimeoVideoId} />
-                    ) : (
-                      <YoutubePlayer videoId={activeVideo.podcastSourceOptions.youtubeVideoId} />
-                    )}
+                    <ReactPlayerWrapper
+                      url={activeVideo.mediaLink_supports_spotify_youtube_vimeo}
+                      playing={false}
+                      customThumbnail={activeVideo.thumbnail}
+                    />
                   </div>
                   <div className="p-6">
                     <h2 className="text-base font-medium mb-4 text-secondary-800">{activeVideo.head}</h2>
@@ -98,7 +57,6 @@ const Podcasts = ({ podcasts }) => {
                         item.enable && (
                           <div
                             onClick={() => {
-                              setIsPlaying(false);
                               setActiveVideo(list.find((video) => video.title === item.title));
                             }}
                             key={item.title}
