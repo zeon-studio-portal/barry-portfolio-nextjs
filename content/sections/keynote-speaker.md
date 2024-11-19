@@ -226,9 +226,9 @@ list:
           revolutionizing various sectors and the implications for your industry
           and everyday life.
       - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+          AI Innovations: Discover cutting-edge AI technologies and how they are
+          being applied to solve complex challenges and create new
+          opportunities.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
