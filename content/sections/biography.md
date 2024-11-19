@@ -24,17 +24,15 @@ button:
   link: https://calendly.com/stamos
 image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
-  - company: 1heart
-    image: /images/speaker-bio/heart.png
   - company: SUPERNOVA
     image: /images/speaker-bio/supernova.png
   - company: Miami
     image: /images/speaker-bio/Miami.png
   - company: Aximcom
     image: /images/speaker-bio/acxiom-aximcom.png
-  - company: Aximcom
-    image: /images/speaker-bio/company-x.png
   - company: Oracle Response
     image: /images/speaker-bio/oracle-response.png
+  - company: ''
+    image: /images/speaker-bio/heart.png
 draft: false
 ---
