@@ -112,9 +112,9 @@ list:
           into your leadership approach, using them as a force to inspire and
           connect with your team on a deeper level.
       - title: >-
-          Building Authentic Connections: Explore strategies to maintain genuine
-          relationships and cultivate a supportive, engaged workforce despite
-          the rise of automation.
+          Impact and Legacy: Discover how to leave a lasting legacy by leading
+          with purpose and using your influence to create positive, sustainable
+          change in the world.
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
