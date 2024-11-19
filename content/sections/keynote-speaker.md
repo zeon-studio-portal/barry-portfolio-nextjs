@@ -230,9 +230,9 @@ list:
           being applied to solve complex challenges and create new
           opportunities.
       - title: >-
-          Practical Transformation Tools: Gain actionable insights into the
-          practices and modalities that can help you achieve a more harmonious
-          and satisfying life.
+          Practical AI Integration: Gain strategies for integrating AI into your
+          workflows and business models to drive efficiency, innovation, and
+          growth.
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
