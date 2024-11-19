@@ -36,8 +36,8 @@ items:
     designation: Mixergy.com
     company: CEO & Founder
     quote: >-
-      “My MOST MEMORABLE podcast was with a guy named Barry Stamos (after 1,500+
-      founder interviews)."
+      “My MOST MEMORABLE podcast was with a guy named Barry Stamos (and I've
+      done 1,500+ founder interviews)."
   - enable: true
     name: JP Bewley
     image: /Evo.jpeg
