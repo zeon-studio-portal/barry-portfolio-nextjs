@@ -2,33 +2,26 @@
 enable: true
 title: LET'S PLAY TOGETHER   ;-)
 bio: >-
-  I’m thrilled to introduce Barry Stamos, a visionary speaker who transforms
-  audiences with his profound insights into conscious leadership and the future
-  of work. Barry is a 3x exited Silicon Valley tech entrepreneur turned
-  conscious capitalist, now the CEO and Founder of SUPERNOVA, where 150+ exited
-  founders accelerate world-changing companies toward their missions.
+  I’m Barry Stamos, a 3x exited Silicon Valley entrepreneur turned conscious
+  capitalist. As the world evolves at hyperspeed, the demand for conscious
+  leadership has never been greater.
 
 
-  Barry’s expertise spans industries and global platforms. As an
-  Entrepreneur-in-Residence at 500 Global—the most active VC firm worldwide—he
-  has mentored countless innovators. His entrepreneurial journey includes
-  co-founding 1heart, a human accelerator with 1,000+ alumni, and driving
-  record-breaking success as a Global Practice Leader at Acxiom, growing
-  revenues to $315M annually. Named one of Techweek’s 100 Most Influential
-  Leaders in Technology, Barry has also been a trusted consultant to 20% of
-  Fortune 500 companies.
+  As CEO of SUPERNOVA, I lead 150+ exited founders accelerating transformative
+  companies. My 25+ year career includes consulting for 20% of the Fortune 500,
+  building a $315M business at Acxiom as a global corporate innovation leader,
+  and scaling my first startup to a $1.6B exit with Oracle. I also co-founded
+  1heart, guiding 1,000+ leaders toward purpose-driven lives.
 
 
-  With his dynamic speaking style, Barry weaves together his experiences to
-  inspire leaders to channel their energy and organizations toward meaningful
-  impact. Whether addressing leading corporations, conferences, or universities,
-  Barry captivates audiences by sparking new perspectives, igniting purpose, and
-  delivering actionable strategies for success.
+  At conferences, corporate events, and leadership retreats, I empower audiences
+  to rise to the moment—unlocking their life’s work as a platform to solve the
+  pressing challenges of our time, thrive, and play a greater game for the
+  impact our world urgently needs.
 
 
-  We’d love to explore how Barry can engage and energize your audience. Let’s
-  collaborate and “play” together to create an unforgettable experience that
-  inspires your community to thrive.
+  Let’s create an unforgettable experience together, sparking the mindset shift
+  our future demands.
 button:
   enable: true
   label: Book Barry
