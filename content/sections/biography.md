@@ -9,7 +9,7 @@ bio: >-
   companies. My 25+ year career includes consulting for 20% of the Fortune 500,
   building a $315M business at Acxiom as a global corporate innovation leader,
   and scaling my first startup to a $1.6B exit with Oracle. I also co-founded
-  1heart, a human accelerator to elevate leaders lives by expanding
+  1heart, a human accelerator to elevate leaders' lives by expanding
   consciousness to solve planetary problems. <br /><br /> I'm here to serve and
   spark the mindset shift our future demands. At conferences, corporate events,
   and leadership retreats, my talks empower audiences to rise to the
