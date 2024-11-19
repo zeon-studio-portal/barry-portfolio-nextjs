@@ -19,5 +19,17 @@ list:
     image: /images/light-bringer/image.png
     subtitle: 'Plato '
     title: Plato
+  - quote: >-
+      “If we continue to accumulate only power and not wisdom, we will surely
+      destroy ourselves."
+    author: 'Carl Sagan, Astronomer & Planetary Scientist '
+    image: /images/Wallpaper4.jpeg
+    subtitle: ''
+    title: ''
+  - quote: ''
+    author: ''
+    image: ''
+    subtitle: ''
+    title: ''
 draft: false
 ---
