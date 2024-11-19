@@ -86,5 +86,6 @@ items:
     quote: >-
       "I hope EVERYONE can hear Barry share his story - life will never be the
       same."
+    enable: true
 draft: false
 ---
