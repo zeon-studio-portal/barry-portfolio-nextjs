@@ -5,7 +5,7 @@ bio: >-
   Hi, I'm Barry - 3x exited Silicon Valley entrepreneur turned conscious
   capitalist. <br /><br />
 
-  As CEO of SUPERNOVA, I lead 150+ exited founders accelerating transformative
+  As CEO of SUPERNOVA, I lead 150+ exited founders backing world-changing
   companies. My 25+ year career includes consulting for 20% of the Fortune 500,
   building a $315M business at Acxiom as a global corporate innovation leader,
   and scaling my first startup to a $1.6B exit with Oracle. I also co-founded
