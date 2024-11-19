@@ -75,8 +75,8 @@ items:
     designation: Chairman
     company: Ferrazzi Greenlight
     quote: >-
-      "Barry is the REAL DEAL. I love Barry because he makes me uncomfortable
-      and that unlocks real change."
+      "I love Barry because he makes me uncomfortable and that triggers REAL
+      CHANGE."
     enable: true
   - name: Mark Worster
     image: /images/EO logo.png
