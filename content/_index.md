@@ -5,7 +5,7 @@ banner:
   background_youtube_video_id: Mq61xLTDdGI
   video_button:
     label: Watch Barry in Action
-    youtube_id: UfPWxoRp6Sk?si=VEFCt3GZq5xtvWt1
+    youtube_id: PL-K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6&si=QU8p88aQqKr91h7A
     vimeo_id: ''
 draft: false
 ---
