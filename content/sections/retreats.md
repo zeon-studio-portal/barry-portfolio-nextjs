@@ -1,9 +1,9 @@
 ---
 enable: true
-title: RETREATS, OFFSITES & CELEBRATIONS
+title: LEADERSHIP RETREATS & COMPANY EVENTS
 subtitle: >-
-  Barry is an experienced guide for professional and personal transformative
-  experiences.
+  Barry is a trusted experienced guide for professional and personal
+  transformative experiences.
 list:
   - enable: true
     title: 'Transformative Retreats For Work & LIfe Elevation '
