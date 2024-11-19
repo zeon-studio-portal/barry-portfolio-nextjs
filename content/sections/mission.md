@@ -2,8 +2,8 @@
 enable: true
 title: 'MISSION: GUIDING LIGHTS ✨'
 subtitle: >
-  Ignite the transformative spark in others, so our collective light shines like
-  a supernova. 🔆
+  Ignite the transformative spark, so our collective light shines like a
+  supernova. 🔆
 list:
   - enable: true
     quote: >-
