@@ -147,9 +147,9 @@ list:
           allowed startups to challenge and transform trillion-dollar
           industries.
       - title: >-
-          Practical Transformation Tools: Gain actionable insights into the
-          practices and modalities that can help you achieve a more harmonious
-          and satisfying life.
+          Efficiency and Agility: Learn how to implement agile practices and
+          resourceful approaches within your organization to maximize impact
+          with lean teams.
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
