@@ -10,14 +10,14 @@ bio: >-
   building a $315M business at Acxiom as a global corporate innovation leader,
   and scaling my first startup to a $1.6B exit with Oracle. I also co-founded
   1heart, a human accelerator for leaders embodying heart-centered,
-  purpose-driven lives. <br /><br /> I empower audiences by sparking the mindset
-  shift our future demands. Together at conferences, corporate events, and
-  leadership retreats, we rise to the moment—unlocking access to our higher
-  selves and superpowers. As the world evolves at hyperspeed, the demand for
-  conscious leadership has never been greater. It's our time to shine by solving
-  the pressing challenges of our time and this is only possible when we play a
-  greater game together.<br /><br />Let’s connect and co-create an unforgettable
-  experience together. 
+  purpose-driven lives. <br /><br /> I'm here to serve and spark the mindset
+  shift our future demands. At conferences, corporate events, and leadership
+  retreats, my talks empower audiences to rise to the moment—unlocking access to
+  our higher selves and superpowers. As the world evolves at hyperspeed, the
+  demand for conscious leadership has never been greater. It's our time to shine
+  by solving the pressing challenges of our time and this is only possible when
+  we play a greater game together.<br /><br />Let’s connect and co-create an
+  unforgettable experience together. 
 button:
   enable: true
   label: Book Barry
