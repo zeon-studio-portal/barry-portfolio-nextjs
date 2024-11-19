@@ -44,8 +44,8 @@ items:
     designation: Big Cloud Analytics (EVO)
     company: CEO & Founder
     quote: >-
-      “Barry is THE most upbeat and energetic change agent I have EVER met. A
-      visionary who sees the future more clearly than most." 
+      “Barry is THE most upbeat and energetic change agent I have EVER met. He
+      sees the future more clearly than most." 
   - enable: true
     name: Cameron Wenaus
     image: /RG.png
