@@ -27,7 +27,7 @@ list:
     subtitle: ''
     title: ''
   - quote: >-
-      "Whenever there is a tragedy or catastrophe... look for the helpers. There
+      "Whenever there is a tragedy or catastrophe look for the helpers. There
       will always be helpers on the sidelines. Cause if you look for the
       helpers, you'll know there is hope."
     author: Mr. Rogers
