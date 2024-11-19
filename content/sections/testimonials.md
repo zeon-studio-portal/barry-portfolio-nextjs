@@ -77,7 +77,7 @@ items:
     company: Ferrazzi Greenlight
     quote: >-
       "I love Barry because he makes me uncomfortable and that ignites REAL
-      CHANGE to elevate lives."
+      CHANGE and co-elevates lives."
     enable: true
   - name: Mark Worster
     image: /images/EO logo.png
