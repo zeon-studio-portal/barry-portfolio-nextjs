@@ -154,11 +154,13 @@ list:
           Innovative Mindset: Cultivate a disruptive mindset that encourages
           innovation, challenges the norm, and positions your organization for
           Supernova success.
-    footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+    footer: >
+      By the end of this session, you’ll be equipped with the tools and mindset
+      needed to infuse your leadership with the disruptive innovation and
+      efficiency that define the startup world. Whether you’re leading a large
+      corporation or a small team, this session will inspire you to rethink how
+      you operate and empower you to drive unprecedented growth and success in
+      your own industry.
   - badge: Entrepreneurship & Startups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     mediaLink_supports_youtube_vimeo: ''
