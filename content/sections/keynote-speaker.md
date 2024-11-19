@@ -234,9 +234,9 @@ list:
           workflows and business models to drive efficiency, innovation, and
           growth.
       - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+          Future-Ready Mindset: Explore how to cultivate a mindset that embraces
+          AI as a tool for continuous improvement and adaptability in a changing
+          world.
     footer: >-
       This session will demystify AI, providing you with the insights and tools
       you need to stay ahead in a rapidly evolving landscape. By the end of this
