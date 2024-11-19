@@ -76,8 +76,8 @@ items:
     designation: Chairman
     company: Ferrazzi Greenlight
     quote: >-
-      "I love Barry because he makes me uncomfortable and that ignites REAL
-      CHANGE and co-elevates lives."
+      "I love Barry because he makes me uncomfortable in a good way that ignites
+      REAL CHANGE and co-elevates lives."
     enable: true
   - name: Mark Worster
     image: /images/EO logo.png
