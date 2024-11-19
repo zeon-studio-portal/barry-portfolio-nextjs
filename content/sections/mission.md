@@ -42,5 +42,6 @@ list:
     image: /images/Wallpaper4.jpeg
     subtitle: ''
     title: ''
+    enable: true
 draft: false
 ---
