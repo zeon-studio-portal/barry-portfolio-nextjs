@@ -18,14 +18,12 @@ list:
   - head: ''
     title: Off The Clock
     thumbnail: /images/32579e738116456cb90e930c11427d93_464_464.webp
-    mediaLink_supports_spotify_youtube_vimeo: >-
-      https://www.youtube.com/watch?v=xn6pwdBP4Io
+    mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=xn6pwdBP4Io
     enable: true
   - head: ''
     title: 'Awakened Leader: Transformative Stories'
     thumbnail: /images/Podcast-Palak-Patel.webp
-    mediaLink_supports_spotify_youtube_vimeo: >-
-      https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
+    mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
     enable: true
 draft: false
 ---
