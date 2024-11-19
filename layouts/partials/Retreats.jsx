@@ -72,7 +72,7 @@ const retreats = ({ retreats }) => {
                               setActiveListItem(list.find((video) => video.title === item.title));
                             }}
                             key={item.title}
-                            className="flex flex-col items-center cursor-pointer bg-dark-quaternary rounded-2xl max-w-[255px] overflow-hidden"
+                            className="flex flex-col items-center cursor-pointer bg-dark-quaternary rounded-2xl min-w-[255px] overflow-hidden"
                             data-aos="fade-in"
                             data-aos-delay={index * 100}
                           >
