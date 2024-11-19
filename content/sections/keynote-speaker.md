@@ -185,9 +185,9 @@ list:
           practices across various business functions, delivered in a concise,
           no-nonsense format.
       - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+          Real-World Case Studies: See how these best practices have been
+          successfully implemented in real companies, with evidence of their
+          impact on growth and success.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
