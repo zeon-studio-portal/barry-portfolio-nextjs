@@ -27,7 +27,7 @@ items:
     designation: Volcano Summit
     company: Founder
     quote: >-
-      “Stamos keynotes our annual summit and is one of the MOST IMPACTFUL
+      “Stamos keynotes our annual summit. He is one of the MOST IMPACTFUL
       speakers we've ever had!"
   - enable: true
     name: Andrew Warner
