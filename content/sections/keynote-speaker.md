@@ -197,10 +197,10 @@ list:
           you can start applying to your business immediately to see rapid
           results.
     footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. You’ll
-      learn how to integrate these practices into your life, unlocking personal
-      growth and transformation, and ultimately, living a life you truly love.
+      By the end of this session, you’ll be armed with a comprehensive set of
+      best practices to help you scale successfully and avoid common pitfalls.
+      This is a must-attend session for anyone serious about accelerating growth
+      and ensuring their business thrives in a competitive landscape.
   - badge: Ai & the Future of Work
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=UIQc7abikzE
