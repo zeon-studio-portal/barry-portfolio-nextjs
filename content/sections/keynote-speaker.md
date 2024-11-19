@@ -151,9 +151,9 @@ list:
           resourceful approaches within your organization to maximize impact
           with lean teams.
       - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+          Innovative Mindset: Cultivate a disruptive mindset that encourages
+          innovation, challenges the norm, and positions your organization for
+          Supernova success.
     footer: >-
       By the end of this session, you’ll be equipped with the tools and
       inspiration to embark on your own journey of inner space travel. You’ll
