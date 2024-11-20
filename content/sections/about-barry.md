@@ -18,7 +18,7 @@ top_section:
     Founder of INBOX/Responsys (IPO and Exit to Oracle for $1.6B). Barry has
     been hired as a speaker or consultant to 100+ Fortune 500 companies.
     Visionary. Heart-led Leader. Speaker. Mentor. Community Builder. Father.
-    Brother. Son. Friend. Global citizen. 
+    Brother. Son. Friend. Global citizen.
   name: KEYNOTE SPEAKER
   designation: '"It''s no longer ''just'' business, it''s personal."'
   linkedin:
