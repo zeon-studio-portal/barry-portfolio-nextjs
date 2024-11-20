@@ -32,8 +32,8 @@ list:
       facilitated by me.
     image: /images/gallery/08.png
     button:
-      enable: true
-      label: Read More
+      enable: false
+      label: Play Video
       link: '#'
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
@@ -54,7 +54,7 @@ list:
     image: /images/speakers/panel_thumb_4.png
     button:
       enable: true
-      label: Play Video
+      label: Learn More
       link: https://vimeo.com/247885432
 draft: false
 ---
