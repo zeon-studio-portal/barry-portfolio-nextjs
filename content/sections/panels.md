@@ -54,7 +54,7 @@ list:
     image: /images/speakers/panel_thumb_4.png
     button:
       enable: true
-      label: Learn More
+      label: Play Video
       link: https://vimeo.com/247885432
 draft: false
 ---
