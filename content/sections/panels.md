@@ -19,8 +19,8 @@ list:
       honest look at the realities of building a startup.
     image: /Founder Stories.jpg
     button:
-      enable: true
-      label: Read More
+      enable: false
+      label: Learn More
       link: '#'
   - head: Masters of Scale
     title: 'Wisdom from Successfully Exited Founders '
@@ -34,7 +34,7 @@ list:
     button:
       enable: false
       label: Play Video
-      link: '#'
+      link: ''
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
     description: >-
