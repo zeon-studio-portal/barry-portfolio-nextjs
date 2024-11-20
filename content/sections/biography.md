@@ -32,7 +32,7 @@ companyList:
     image: /images/speaker-bio/acxiom-aximcom.png
   - company: Oracle Response
     image: /images/speaker-bio/oracle-response.png
-  - company: ''
+  - company: 1heart
     image: /images/speaker-bio/heart.png
 draft: false
 ---
