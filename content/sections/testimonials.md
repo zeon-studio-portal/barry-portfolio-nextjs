@@ -28,7 +28,7 @@ items:
     company: Founder
     quote: >-
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
-      MOST IMPACTFUL speakers we've ever had!"
+      MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Andrew Warner
     image: >-
