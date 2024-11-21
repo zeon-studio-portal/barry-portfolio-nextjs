@@ -6,7 +6,7 @@ subtitle: >-
   lead and facilitate them. 
 list:
   - head: Entrepreneurship
-    title: 'Startup Secrets: What I Wish I Would Have Known'
+    title: 'Startup Secrets: What I Wish I Knew Then'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/247885432
     description: >-
       Startups are hard, very hard. Scaling and successfully exiting is even
