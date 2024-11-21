@@ -37,7 +37,7 @@ list:
       label: Learn More
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/247008938?share=copy
+    mediaLink_supports_youtube_vimeo: https://vimeo.com/247008938
     description: >-
       In a world where machines handle more tasks and data drives decisions,
       leaders face the challenge of maintaining the essence of humanity in their
