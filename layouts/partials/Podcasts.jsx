@@ -1,5 +1,5 @@
 import AnimatedText from "@components/AnimatedText";
-import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "@components/ReactPlayerWrapperV2";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useState } from "react";
@@ -32,10 +32,10 @@ const Podcasts = ({ podcasts }) => {
               {activeVideo && (
                 <>
                   <div className="relative">
-                    <ReactPlayerWrapper
+                    <ReactPlayerWrapperV2
                       url={activeVideo.mediaLink_supports_spotify_youtube_vimeo}
                       playing={false}
-                      customThumbnail={activeVideo.thumbnail}
+                      thumbnail={activeVideo.thumbnail}
                     />
                   </div>
                   <div className="p-6">

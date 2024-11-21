@@ -2,7 +2,7 @@ import PortalModal from "@layouts/helpers/PortalModal";
 import { useRef, useState } from "react";
 import { useOnClickOutside } from "usehooks-ts";
 import ImageFallback from "./ImageFallback";
-import ReactPlayerWrapper from "./ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "./ReactPlayerWrapperV2";
 
 const LiveEventCard = ({ item, aosDelay }) => {
   const [isOpen, setOpen] = useState(false);
@@ -58,10 +58,10 @@ const LiveEventCard = ({ item, aosDelay }) => {
         <PortalModal>
           <PortalModal.Close handleClose={handleCloseVideoModal} />
           <div className="w-[800px] mx-auto" ref={videoPopupRef}>
-            <ReactPlayerWrapper
-              customThumbnail={item.thumbnail}
+            <ReactPlayerWrapperV2
+              thumbnail={item.thumbnail}
               url={item.mediaLink_supports_youtube_vimeo}
-              playing={true}
+              autoplay={true}
             />
           </div>
         </PortalModal>

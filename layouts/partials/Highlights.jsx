@@ -1,5 +1,5 @@
 import AnimatedText from "@components/AnimatedText";
-import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "@components/ReactPlayerWrapperV2";
 import { markdownify } from "@lib/utils/textConverter";
 
 const Highlights = ({ highlights }) => {
@@ -18,11 +18,11 @@ const Highlights = ({ highlights }) => {
         </div>
 
         {/* VIDEO THUMBNAIL */}
-        <div className="relative" data-aos="fade-up-sm">
-          <ReactPlayerWrapper
+        <div className="relative" data-aos="fade-up-sm" suppressHydrationWarning={true}>
+          <ReactPlayerWrapperV2
             url={mediaLink_supports_youtube_vimeo}
-            customThumbnail={thumbnail}
-            playing={false}
+            thumbnail={thumbnail}
+            autoplay={false}
             className="rounded-xl overflow-hidden"
           />
         </div>

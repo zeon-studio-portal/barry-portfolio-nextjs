@@ -1,5 +1,5 @@
 import AnimatedText from "@components/AnimatedText";
-import ReactPlayerWrapper from "@components/ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "@components/ReactPlayerWrapperV2";
 import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 import { useRef, useState } from "react";
@@ -35,12 +35,11 @@ const retreats = ({ retreats }) => {
               {/* BIG SCREEN */}
               <div className="relative" ref={largeScreenRef}>
                 <div className="bg-dark-quaternary rounded-2xl overflow-hidden">
-                  <ReactPlayerWrapper
+                  <ReactPlayerWrapperV2
                     url={activeListItem.mediaLink_supports_youtube_vimeo}
-                    playing={false}
-                    customThumbnail={activeListItem.thumbnail}
+                    thumbnail={activeListItem.thumbnail}
+                    autoplay={false}
                   />
-
                   <div className="py-6 px-8 ">
                     {markdownify(
                       activeListItem.title,

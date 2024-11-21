@@ -4,7 +4,7 @@ import { useRef, useState } from "react";
 import { useOnClickOutside } from "usehooks-ts";
 import ImageFallback from "./ImageFallback";
 import PlayButton from "./PlayButton";
-import ReactPlayerWrapper from "./ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "./ReactPlayerWrapperV2";
 
 const PanelSessionCard = ({ panel }) => {
   const ref = useRef(null);
@@ -97,10 +97,10 @@ const PanelSessionCard = ({ panel }) => {
             className="relative z-10 bg-dark-secondary rounded-xl py-10 px-8 max-w-[1100px] max-h-[90%] overflow-auto"
           >
             {panel.mediaLink_supports_youtube_vimeo ? (
-              <ReactPlayerWrapper
+              <ReactPlayerWrapperV2
                 url={panel.mediaLink_supports_youtube_vimeo}
-                playing={false}
-                customThumbnail={panel.image}
+                autoplay={false}
+                thumbnail={panel.image}
               />
             ) : (
               // Fallback image if no video link is provided
@@ -132,10 +132,10 @@ const PanelSessionCard = ({ panel }) => {
         <PortalModal>
           <PortalModal.Close handleClose={handleCloseVideoModal} />
           <div className="w-[800px] mx-auto" ref={videoPopupRef}>
-            <ReactPlayerWrapper
-              customThumbnail={panel.image}
+            <ReactPlayerWrapperV2
+              thumbnail={panel.image}
               url={panel.mediaLink_supports_youtube_vimeo}
-              playing={true}
+              autoplay={true}
             />
           </div>
         </PortalModal>

@@ -27,16 +27,26 @@ const ReactPlayerWrapperV2 = ({ url, thumbnail, autoplay, className }) => {
   // reset autoplay when url changes
   useEffect(() => {
     setLoading(true);
-    setAutoPlay(autoPlay);
+    setAutoPlay(autoplay);
   }, [url]);
 
   const RenderSpotify = () => {
     return (
-      <div>
+      <div className={className}>
         {autoPlay ? (
           <div>
-            <SpotifyPlayer spotifyUrl={url} autoplay={autoPlay} onReady={() => setLoading(false)} />
-            {loading && <LoadingSpinnerThumbnail thumbnail={thumbnail} />}
+            <SpotifyPlayer
+              spotifyUrl={url}
+              className="aspect-video"
+              autoplay={autoPlay}
+              onReady={() => setLoading(false)}
+            />
+
+            {loading && (
+              <div className="absolute inset-0 size-full">
+                <LoadingSpinnerThumbnail thumbnail={thumbnail} />
+              </div>
+            )}
           </div>
         ) : (
           <Thumbnail thumbnail={thumbnail} onClick={() => setAutoPlay(true)} />
@@ -45,14 +55,14 @@ const ReactPlayerWrapperV2 = ({ url, thumbnail, autoplay, className }) => {
     );
   };
 
-  console.log("🪲 :", autoPlay);
   const RenderReactPlayer = () => {
     return (
-      <div>
+      <div className={className}>
         {autoPlay ? (
           <div>
             <ReactPlayer
               url={url}
+              controls
               playing={autoPlay}
               style={{ aspectRatio: "16 / 9", display: loading ? "none" : "block" }}
               width="100%"
@@ -62,8 +72,21 @@ const ReactPlayerWrapperV2 = ({ url, thumbnail, autoplay, className }) => {
             />
             {loading && <LoadingSpinnerThumbnail thumbnail={thumbnail} />}
           </div>
-        ) : (
+        ) : // check if thumbnail is provided
+        thumbnail ? (
           <Thumbnail thumbnail={thumbnail} onClick={() => setAutoPlay(true)} />
+        ) : (
+          <div>
+            <ReactPlayer
+              url={url}
+              controls
+              playing={autoPlay}
+              style={{ aspectRatio: "16 / 9" }}
+              width="100%"
+              height="100%"
+              light
+            />
+          </div>
         )}
       </div>
     );
@@ -88,15 +111,17 @@ const Thumbnail = ({ thumbnail, onClick }) => {
 };
 
 const LoadingSpinnerThumbnail = ({ thumbnail }) => (
-  <div className="size-full relative">
+  <div className="size-full relative aspect-video">
     <LoadingSpinner />
-    <ImageFallback
-      width={1024}
-      height={450}
-      src={thumbnail}
-      alt="thumbnail"
-      className="w-full object-cover aspect-video "
-    />
+    {thumbnail && (
+      <ImageFallback
+        width={1024}
+        height={450}
+        src={thumbnail}
+        alt="thumbnail"
+        className="size-full object-cover aspect-video "
+      />
+    )}
   </div>
 );
 

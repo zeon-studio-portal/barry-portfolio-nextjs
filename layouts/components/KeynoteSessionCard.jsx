@@ -4,7 +4,7 @@ import { memo, useCallback, useRef, useState } from "react";
 import { useOnClickOutside } from "usehooks-ts";
 import ImageFallback from "./ImageFallback";
 import PlayButton from "./PlayButton";
-import ReactPlayerWrapper from "./ReactPlayerWrapper";
+import ReactPlayerWrapperV2 from "./ReactPlayerWrapperV2";
 
 const LearnMoreButton = memo(({ onClick }) => (
   <button className="text-secondary-800 font-medium flex items-center gap-2" onClick={onClick} aria-label="learn more">
@@ -134,10 +134,10 @@ const KeynoteSessionCard = ({ item, isEven, aosDelay }) => {
             className="relative z-10 bg-dark-secondary rounded-xl py-10 px-8 max-w-[1100px] max-h-[90%] overflow-auto"
           >
             {item.mediaLink_supports_youtube_vimeo ? (
-              <ReactPlayerWrapper
+              <ReactPlayerWrapperV2
                 url={item.mediaLink_supports_youtube_vimeo}
-                playing={false}
-                customThumbnail={item.image}
+                autoplay={false}
+                thumbnail={item.image}
               />
             ) : (
               // Fallback image if no video link is provided
@@ -172,11 +172,7 @@ const KeynoteSessionCard = ({ item, isEven, aosDelay }) => {
         <PortalModal>
           <PortalModal.Close handleClose={handleCloseVideoModal} />
           <div className="w-[800px] mx-auto" ref={videoPopupRef}>
-            <ReactPlayerWrapper
-              customThumbnail={item.image}
-              url={item.mediaLink_supports_youtube_vimeo}
-              playing={true}
-            />
+            <ReactPlayerWrapperV2 thumbnail={item.image} url={item.mediaLink_supports_youtube_vimeo} autoplay={true} />
           </div>
         </PortalModal>
       )}
