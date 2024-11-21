@@ -30,7 +30,7 @@ list:
       community of 150+ successful exited founders and Super Founders (exit for
       over $50M) who advise, mentor, and invest in world-changing companies.
       Most are open to sharing their stories and cautionary tales on panels
-      facilitated by me.
+      expertly facilitated by Barry.
     image: /images/gallery/08.png
     button:
       enable: false
