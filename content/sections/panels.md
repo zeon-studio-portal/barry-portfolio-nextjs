@@ -7,6 +7,7 @@ subtitle: >-
 list:
   - head: Entrepreneurship
     title: 'Startup Secrets: What I wish I would have known'
+    mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
     description: >-
       Startups are hard, very hard. Scaling and successfully exiting is even
       more challenging. Navigating the startup world can be a rollercoaster of
@@ -21,9 +22,9 @@ list:
     button:
       enable: true
       label: Read More
-      link: '#'
   - head: Masters of Scale
     title: 'Wisdom from Successfully Exited Founders '
+    mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
     description: >-
       As the CEO & Founder of Supernova, Barry Stamos built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
@@ -34,9 +35,9 @@ list:
     button:
       enable: true
       label: Read More
-      link: '#'
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
+    mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
     description: >-
       In a world where machines handle more tasks and data drives decisions,
       leaders face the challenge of maintaining the essence of humanity in their

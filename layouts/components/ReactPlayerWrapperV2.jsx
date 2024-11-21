@@ -44,6 +44,7 @@ const ReactPlayerWrapperV2 = ({ url, thumbnail, autoplay, className }) => {
       </div>
     );
   };
+
   console.log("🪲 :", autoPlay);
   const RenderReactPlayer = () => {
     return (
