@@ -28,7 +28,7 @@ top_section:
   button:
     enable: true
     label: Book Barry
-    link: www.calendly.com/stamos
+    link: https://calendly.com/stamos
 bottom_section:
   enable: true
   title: WHAT TO **EXPECT**
