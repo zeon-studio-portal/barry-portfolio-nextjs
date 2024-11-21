@@ -20,7 +20,7 @@ items:
     company: President
     quote: >-
       “Barry's a RARE FIND. He is a Unicorn founder, Fortune 500 executive, and
-      energy shaman who shares wisdom.”
+      energy shaman who transfers wisdom.”
   - enable: true
     name: Jenma Bardi
     image: /Screenshot 2024-11-13 at 7.48.04 AM.png
@@ -28,7 +28,7 @@ items:
     company: Founder
     quote: >-
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
-      MOST IMPACTFUL speakers we've ever had!"
+      MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Andrew Warner
     image: >-
@@ -37,7 +37,7 @@ items:
     company: CEO & Founder
     quote: >-
       “My MOST MEMORABLE podcast was with a guy named Barry Stamos (and I've
-      done 1,500+ founder interviews)."
+      done 1,500+ founder interviews on Mixergy)."
   - enable: true
     name: JP Bewley
     image: /Evo.jpeg
@@ -76,16 +76,17 @@ items:
     designation: Chairman
     company: Ferrazzi Greenlight
     quote: >-
-      "I love Barry because he makes me uncomfortable and that ignites REAL
-      CHANGE to elevate lives."
+      "I love Barry because he makes me uncomfortable in a good way. He ignites
+      REAL CHANGE and co-elevates lives."
     enable: true
   - name: Mark Worster
-    image: /images/EO.png
+    image: /images/EO logo.png
     designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
     quote: >-
-      "I hope EVERYONE can hear Barry share his story - life will never be the
-      same."
+      "Barry is part of my inner circle and I've been influenced by his message
+      in the deepest of ways. I hope EVERYONE can hear Barry share his story and
+      perspective - life will never be the same."
     enable: true
 draft: false
 ---

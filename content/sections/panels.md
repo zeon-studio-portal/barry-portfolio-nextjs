@@ -6,7 +6,7 @@ subtitle: >-
   lead and facilitate them. 
 list:
   - head: Entrepreneurship
-    title: 'Startup Secrets: What I wish I would have known'
+    title: 'Startup Secrets: What I Wish I Would Have Known'
     mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
     description: >-
       Startups are hard, very hard. Scaling and successfully exiting is even
@@ -21,7 +21,8 @@ list:
     image: /Founder Stories.jpg
     button:
       enable: true
-      label: Read More
+      label: Learn More
+ 
   - head: Masters of Scale
     title: 'Wisdom from Successfully Exited Founders '
     mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
@@ -33,8 +34,9 @@ list:
       facilitated by me.
     image: /images/gallery/08.png
     button:
-      enable: true
-      label: Read More
+      enable: false
+      label: Learn More
+
   - head: Conscious Leadership
     title: Heart-Led Leadership:</br>Embodying The Future of Work
     mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247885432'
@@ -56,7 +58,6 @@ list:
     button:
       enable: true
       label: Learn More
-      link: https://vimeo.com/247885432
+
 draft: false
 ---
-The IVY.com speaker panel in Miami, featuring Barry Stamos and Brandon Evans, brought together startup founders to explore the transformative power of conscious leadership and the future of work. The panelists shared actionable insights on fostering purpose-driven organizations, aligning business goals with human values, and creating workplaces that inspire innovation and fulfillment. Through engaging discussions, they highlighted how embracing conscious leadership can drive both personal growth and collective success, leaving the audience energized to shape a more meaningful and impactful future for their companies.

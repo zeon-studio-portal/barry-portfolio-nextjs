@@ -15,6 +15,8 @@ topList:
     alt: gallery image
   - image: /images/Selfie.jpg
     alt: ''
+  - image: /images/WhatsApp Image 2024-11-19 at 6.32.54 PM.jpeg
+    alt: ''
 bottomList:
   - image: /flyer.jpeg
     alt: gallery image
