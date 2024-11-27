@@ -70,7 +70,7 @@ items:
     quote: >-
       "Barry is captivating. His business acumen gives him permission to stretch
       an audience and open them up in exactly the ways they need. He ignites
-      REAL CHANGE and co-elevates lives.""
+      REAL CHANGE and co-elevates lives."
     enable: true
   - name: Mark Worster
     image: /images/EO logo.png
