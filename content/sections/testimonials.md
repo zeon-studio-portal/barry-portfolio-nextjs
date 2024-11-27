@@ -6,14 +6,6 @@ subtitle: >-
   retreats. 
 items:
   - enable: true
-    name: Beric Meric
-    image: /IVY.png
-    designation: Ivy.com
-    company: CEO
-    quote: >-
-      “Barry is a SOULFUL SPEAKER who generously gifts proven strategies to
-      accelerate work & life success.” 
-  - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
     designation: YPO Southern 7
