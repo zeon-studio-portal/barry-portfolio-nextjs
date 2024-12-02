@@ -10,18 +10,17 @@ list:
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
     imageAlt: keynotes image
-    description: >
+    description: >-
       It’s not business, it’s personal!  We spend 75% of our waking hours
       connected to work - getting ready for work, getting to work, working,
-      returning home from work and decompressing and recovering from work. Now
-      that many are working from home it’s likely even higher. 
-
-      In this transformative keynote, Barry Stamos will take you on the greatest
-      journey of a lifetime: traveling inward to bridge the 18 inches between
-      your head and into your heart. Drawing from his personal journey from a
-      Silicon Valley spiritually bankrupt exited unicorn founder to a fulfilled
-      individual, Barry will what he has discovered the keys to unlocking a more
-      purposeful,fulfilled work life. 
+      returning home from work and recovering from work. Now that many are
+      working from home it’s likely even higher. In this transformative keynote,
+      Barry Stamos will take you on the greatest journey of a lifetime:
+      traveling inward to bridge the 18 inches between your head and into your
+      heart. Drawing from his personal journey from a Silicon Valley spiritually
+      bankrupt exited unicorn founder to a fulfilled individual, Barry will what
+      he has discovered the keys to unlocking a more purposeful,fulfilled work
+      life. 
     keytakeways:
       - title: >
           Heart-Led Leadership: Learn how traveling inward can lead to greater
