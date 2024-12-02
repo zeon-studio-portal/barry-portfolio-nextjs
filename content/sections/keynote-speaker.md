@@ -130,28 +130,34 @@ list:
     mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
-    description: >
-      In today’s rapidly evolving business landscape, traditional approaches can
-      only take you so far. To truly disrupt trillion-dollar industries and
-      achieve extraordinary success, leaders and executives must embrace the
-      innovative and unconventional practices that have propelled startups to
-      unicorn status. Yet, understanding how to do more with less—leveraging
-      agility, creativity, and a disruptive mindset—can be challenging for those
-      accustomed to established business models.
-
-      This keynote offers a rare opportunity to learn from the startup journey—a
-      journey marked by bold experimentation, rapid iteration, and the audacity
-      to challenge the status quo. Barry Stamos, co-founder of Supernova, will
-      share the groundbreaking strategies and practices that have enabled a few
-      brave founders to disrupt massive industries with fewer resources and
-      employees. You’ll gain insights into the innovative thinking and
-      unconventional tactics that can be applied to any organization, regardless
-      of size or stage, to drive exponential growth and success.
+    description: >-
+      n this deeply personal and transformative keynote, Barry Stamos shares the
+      raw, unfiltered story of his own entrepreneurial journey, revealing both
+      the breakdowns and breakthroughs that have shaped his path. With
+      vulnerability and honesty, Barry walks you through the highs and lows of
+      building companies, navigating failure, and facing the challenges that
+      come with success. Through his own struggles and lessons learned, he opens
+      the door for you to explore how these truths can help you create better
+      companies, stronger teams, and a more meaningful life.  This talk isn’t
+      just about success—it’s about embracing failure, growth, and reinvention
+      as essential parts of the journey. Barry shares his story not for
+      applause, but as a blueprint for others to avoid common pitfalls, learn
+      from mistakes, and rise above obstacles. By exposing the personal side of
+      entrepreneurship, Barry helps you see that your breakdowns are often the
+      very things that lead to breakthroughs, not just for your business, but
+      for you as a leader and a human being.  In this keynote, Barry emphasizes
+      the importance of vulnerability, shared wisdom, and self-awareness in
+      creating not only impactful businesses but also a life aligned with
+      purpose and fulfillment. Through his story, you’ll discover how embracing
+      both the light and dark sides of entrepreneurship can lead to real
+      transformation—at work, at home, and within yourself.
     keytakeways:
-      - title: >
-          Startup Lessons for Leaders: Discover what executives can learn from
-          the startup world’s approach to disruption, innovation, and doing more
-          with less.
+      - title: >-
+          Vulnerability Is Strength: Learn how embracing vulnerability, sharing
+          your struggles, and owning your breakdowns can lead to powerful
+          breakthroughs in both your personal and professional life. Barry’s
+          story shows that the most successful leaders are those who are willing
+          to be open and honest about their challenges.
       - title: >-
           Disruptive Practices: Explore the unconventional strategies that have
           allowed startups to challenge and transform trillion-dollar
