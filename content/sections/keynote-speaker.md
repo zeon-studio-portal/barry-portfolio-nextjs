@@ -167,9 +167,11 @@ list:
           expect them, and they can lead you to a more purposeful life and
           business.
       - title: >-
-          Efficiency and Agility: Learn how to implement agile practices and
-          resourceful approaches within your organization to maximize impact
-          with lean teams.
+          Building Better Companies Starts with Building Better Leaders:
+          Discover how your personal evolution as a leader impacts the success
+          of your company. Barry shares how working on himself, understanding
+          his weaknesses, and learning from his mistakes allowed him to lead
+          more effectively and create businesses that matter.
       - title: >-
           Innovative Mindset: Cultivate a disruptive mindset that encourages
           innovation, challenges the norm, and positions your organization for
@@ -265,5 +267,5 @@ list:
       session, you will be equipped with a clear vision of how AI is shaping
       tomorrow's world today and the practical knowledge to leverage AI in ways
       that will future-proof your career, business, and life.
-draft: true
+draft: false
 ---
