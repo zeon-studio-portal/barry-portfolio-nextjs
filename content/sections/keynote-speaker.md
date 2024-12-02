@@ -131,7 +131,7 @@ list:
       culture, proving that even in an era of rapid technological change, and
       create a workplace where both humans and machines work together seamlessly
       and effectively.
-  - badge: The Future of Work
+  - badge: 'Entrepreneurship: From Startups to Unicorns'
     title: '**04** The Creator’s Journey: Wisdom From Exited Founders'
     mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
