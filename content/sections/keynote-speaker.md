@@ -81,7 +81,13 @@ list:
           rituals can lead to long-term wellbeing (physical, emotional,
           spiritual, financial, environmental, occupational, social and
           intellectual). 
-    footer: ''
+    footer: >-
+      This keynote is for anyone who wants to understand the human side of
+      leadership and entrepreneurship—the parts that don’t often make it to the
+      boardroom but are essential for creating sustainable, impactful success.
+      It’s a powerful reminder that the path to greatness is rarely linear, and
+      by embracing vulnerability and learning from each other’s journeys, we can
+      all play a greater game, both in work and in life.
   - badge: Leadership & Teamwork
     title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
