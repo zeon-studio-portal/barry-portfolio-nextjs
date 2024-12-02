@@ -126,7 +126,7 @@ list:
       create a workplace where both humans and machines work together seamlessly
       and effectively.
   - badge: The Future of Work
-    title: '**04** From Startups to Unicorns: Wisdom from Exited Founders'
+    title: '**04** The Creator’s Journey: From Startups to Unicorns'
     mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
@@ -178,13 +178,13 @@ list:
           of your company. Barry shares how working on himself, understanding
           his weaknesses, and learning from his mistakes allowed him to lead
           more effectively and create businesses that matter.
-    footer: >
-      By the end of this session, you’ll be equipped with the tools and mindset
-      needed to infuse your leadership with the disruptive innovation and
-      efficiency that define the startup world. Whether you’re leading a large
-      corporation or a small team, this session will inspire you to rethink how
-      you operate and empower you to drive unprecedented growth and success in
-      your own industry.
+    footer: >-
+      This keynote is for anyone who wants to understand the human side of
+      leadership and entrepreneurship—the parts that don’t often make it to the
+      boardroom but are essential for creating sustainable, impactful success.
+      It’s a powerful reminder that the path to greatness is rarely linear, and
+      by embracing vulnerability and learning from each other’s journeys, we can
+      all play a greater game, both in work and in life.
   - badge: Entrepreneurship & Startups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     mediaLink_supports_youtube_vimeo: ''
