@@ -47,7 +47,7 @@ list:
       your life, unlocking personal growth and transformation, and ultimately,
       living a life you truly love.
   - badge: Motivation
-    title: '**02** Daily Rituals: Mastering the Dimensions of Wellbeing'
+    title: '**02** Daily Rituals: Mastering the Dimensions of Work & Wellbeing'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
