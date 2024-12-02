@@ -167,11 +167,11 @@ list:
           expect them, and they can lead you to a more purposeful life and
           business.
       - title: >-
-          Building Better Companies Starts with Building Better Leaders:
-          Discover how your personal evolution as a leader impacts the success
-          of your company. Barry shares how working on himself, understanding
-          his weaknesses, and learning from his mistakes allowed him to lead
-          more effectively and create businesses that matter.
+          Learn from Real-Life Struggles: Get an inside look into the realities
+          of building companies, facing setbacks, and dealing with personal and
+          professional conflicts. Barry’s breakdowns are your lessons—avoid the
+          mistakes he made and implement the strategies he used to emerge
+          stronger and wiser.
       - title: >-
           Innovative Mindset: Cultivate a disruptive mindset that encourages
           innovation, challenges the norm, and positions your organization for
