@@ -131,9 +131,9 @@ list:
     image: /Founder Stories.jpg
     imageAlt: keynotes image
     description: >-
-      n this deeply personal and transformative keynote, Barry Stamos shares the
-      raw, unfiltered story of his own entrepreneurial journey, revealing both
-      the breakdowns and breakthroughs that have shaped his path. With
+      In this deeply personal and transformative keynote, Barry Stamos shares
+      the raw, unfiltered story of his own entrepreneurial journey, revealing
+      both the breakdowns and breakthroughs that have shaped his path. With
       vulnerability and honesty, Barry walks you through the highs and lows of
       building companies, navigating failure, and facing the challenges that
       come with success. Through his own struggles and lessons learned, he opens
