@@ -159,9 +159,13 @@ list:
           story shows that the most successful leaders are those who are willing
           to be open and honest about their challenges.
       - title: >-
-          Disruptive Practices: Explore the unconventional strategies that have
-          allowed startups to challenge and transform trillion-dollar
-          industries.
+          Breakdowns Lead to Breakthroughs: Understand that failure and
+          challenges are not the end—they are the starting point for growth.
+          Barry’s story shows how the moments of deepest despair can be the
+          catalysts for the greatest transformations. By sharing his own
+          journey, he teaches that breakthroughs often come when you least
+          expect them, and they can lead you to a more purposeful life and
+          business.
       - title: >-
           Efficiency and Agility: Learn how to implement agile practices and
           resourceful approaches within your organization to maximize impact
@@ -261,5 +265,5 @@ list:
       session, you will be equipped with a clear vision of how AI is shaping
       tomorrow's world today and the practical knowledge to leverage AI in ways
       that will future-proof your career, business, and life.
-draft: false
+draft: true
 ---
