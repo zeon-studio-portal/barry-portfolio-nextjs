@@ -191,7 +191,7 @@ list:
       It’s a powerful reminder that the path to greatness is rarely linear, and
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
-  - badge: Entrepreneurship & Startups
+  - badge: Entrepreneurship, Startups & Scaleups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     mediaLink_supports_youtube_vimeo: ''
     image: /1a4acf63-cc40-4b1b-a07e-6042caca41f6.JPG
