@@ -126,7 +126,7 @@ list:
       create a workplace where both humans and machines work together seamlessly
       and effectively.
   - badge: The Future of Work
-    title: '**04** The Creator’s Journey: From Startups to Unicorns'
+    title: '**04** The Creator’s Journey: Wisdom From Exited Founders'
     mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
     imageAlt: keynotes image
