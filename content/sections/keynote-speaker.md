@@ -173,9 +173,11 @@ list:
           mistakes he made and implement the strategies he used to emerge
           stronger and wiser.
       - title: >-
-          Innovative Mindset: Cultivate a disruptive mindset that encourages
-          innovation, challenges the norm, and positions your organization for
-          Supernova success.
+          Building Better Companies Starts with Building Better Leaders:
+          Discover how your personal evolution as a leader impacts the success
+          of your company. Barry shares how working on himself, understanding
+          his weaknesses, and learning from his mistakes allowed him to lead
+          more effectively and create businesses that matter.
     footer: >
       By the end of this session, you’ll be equipped with the tools and mindset
       needed to infuse your leadership with the disruptive innovation and
