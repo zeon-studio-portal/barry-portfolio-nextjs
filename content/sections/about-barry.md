@@ -16,7 +16,7 @@ top_section:
     at Arora Project (Raised $125MM+; Exit to Republic.com), Global Head of
     Strategy & Innovation at Acxiom (Built $318MM business and exited for
     $2.3B), and Founder of INBOX Marketing/Responsys (IPO and Exit to Oracle for
-    $1.6B; Unicorn 🦄). 
+    $1.6B🦄). 
   name: KEYNOTE SPEAKER
   designation: '"Let''s play a greater game."'
   linkedin:
