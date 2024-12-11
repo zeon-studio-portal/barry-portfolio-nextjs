@@ -1,7 +1,7 @@
 ---
 banner:
   title: Ignite Purpose, Drive Growth
-  subtitle: 'Play The Greater Game: Business Success, Impact & Fulfillment'
+  subtitle: Ready to Play A Greater Game? Business Success, Impact & Satisfaction
   background_youtube_video_id: PL-K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6&si=99iU7QoeLk12GUPX
   video_button:
     enable: true
