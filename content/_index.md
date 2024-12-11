@@ -1,7 +1,7 @@
 ---
 banner:
   title: Ignite Purpose, Drive Growth
-  subtitle: 'Build Businesses, Impact The World & Experience Fulfillment '
+  subtitle: 'Play The Greater Game: Business Success, Impact & Fulfillment'
   background_youtube_video_id: PL-K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6&si=99iU7QoeLk12GUPX
   video_button:
     enable: true
