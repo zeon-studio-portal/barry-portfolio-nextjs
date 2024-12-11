@@ -16,9 +16,7 @@ top_section:
     Relations at Arora Project (Raised $125MM+; Exit to Republic.com), Global
     Head of Strategy & Innovation at Acxiom (Built $318MM business and exited
     for $2.3B), and Founder of INBOX/Responsys (IPO and Exit to Oracle for
-    $1.6B). Barry has been hired as a speaker or consultant to 100+ Fortune 500
-    companies. Visionary. Heart-led Leader. Speaker. Mentor. Father. Brother.
-    Son. Friend. Global citizen.
+    $1.6B). 
   name: KEYNOTE SPEAKER
   designation: '"Let''s play a greater game."'
   linkedin:
