@@ -20,7 +20,7 @@ top_section:
     Visionary. Heart-led Leader. Speaker. Mentor. Father. Brother. Son. Friend.
     Global citizen.
   name: KEYNOTE SPEAKER
-  designation: '"It''s no longer ''just'' business, it''s personal."'
+  designation: '"Let''s play a greater game."'
   linkedin:
     enable: true
     label: linkedin.com/in/bstamos
