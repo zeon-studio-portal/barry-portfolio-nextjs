@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Beyond Business As Usual
-  subtitle: A New Mindset For Work And Life Harmony
+  title: Ignite Purpose, Drive Growth
+  subtitle: 'Build Businesses, Impact The World & Experience Fulfillment '
   background_youtube_video_id: Mq61xLTDdGI
   video_button:
     enable: true
