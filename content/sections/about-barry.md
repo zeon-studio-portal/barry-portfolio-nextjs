@@ -6,20 +6,19 @@ top_section:
   title: WHO IS **BARRY STAMOS**
   image: /images/Barry Stamos Headshot.png
   description: >-
-    Barry brings 25+ years as a successful change agent hired by 20% of the
-    Fortune 500. He excels at transforming company mindsets, igniting purpose
-    and drive greater profits while positively impacting corporate cultures.⭐️ 
-    Street creds: 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn),
-    Tier 1 VC (EIR), Corporate Innovation Leader (Public company), & Management
-    Consultant (Big 4). Barry is the CEO & Founder of Supernova (150+ exited
-    founder community), former Chief Heart Officer & Co-founder of 1heart.com
-    (Human accelerator), EIR at 500 Global (#1 VC in exits), Head of Investor
-    Relations at Arora Project (Raised $125MM+; Exit to Republic.com), Global
-    Head of Strategy & Innovation at Acxiom (Built $318MM business and exited
-    for $2.3B), and Founder of INBOX/Responsys (IPO and Exit to Oracle for
-    $1.6B). Barry has been hired as a speaker or consultant to 100+ Fortune 500
-    companies. Visionary. Heart-led Leader. Speaker. Mentor. Father. Brother.
-    Son. Friend. Global citizen.
+    Barry is the go-to change agent hired by 20% of the Fortune 500 to 
+    transforming company mindsets to ignite purpose for greater profitability.
+    ⭐️  Street creds: 25+ year track record: Startup Founder (3 Exits:
+    IPO/Unicorn), Tier 1 VC (EIR), Corporate Innovation Leader (Public company),
+    & Management Consultant (Big 4). Barry is the CEO & Founder of Supernova
+    (150+ exited founder community), former Chief Heart Officer & Co-founder of
+    1heart.com (Human accelerator), EIR at 500 Global (#1 VC in exits), Head of
+    Investor Relations at Arora Project (Raised $125MM+; Exit to Republic.com),
+    Global Head of Strategy & Innovation at Acxiom (Built $318MM business and
+    exited for $2.3B), and Founder of INBOX/Responsys (IPO and Exit to Oracle
+    for $1.6B). Barry has been hired as a speaker or consultant to 100+ Fortune
+    500 companies. Visionary. Heart-led Leader. Speaker. Mentor. Father.
+    Brother. Son. Friend. Global citizen.
   name: KEYNOTE SPEAKER
   designation: '"Let''s play a greater game."'
   linkedin:
