@@ -4,7 +4,7 @@ title: ABOUT BARRY
 top_section:
   enable: true
   title: WHO IS **BARRY STAMOS**
-  image: /images/speakers/barry_stamos.png
+  image: /images/Barry Stamos Headshot.png
   description: >-
     Barry's purpose is to ignite the transformative spark in others, so our
     collective light shines as bright as a Supernova. ⭐️ Street creds: 25+ year
