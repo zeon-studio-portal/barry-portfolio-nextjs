@@ -7,7 +7,7 @@ top_section:
   image: /images/Barry Stamos Headshot.png
   description: >-
     Barry is the go-to change agent hired by 20% of the Fortune 500 to transform
-    company mindsets by igniting purpose for greater profitability. ⭐️ Street
+    mindsets by igniting purpose for greater profitability and impact. ⭐️ Street
     creds: 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn), Tier 1
     VC (EIR), Corporate Innovation Leader (Public company), & Management
     Consultant (Big 4). Barry is the CEO & Founder of Supernova (150+ exited
