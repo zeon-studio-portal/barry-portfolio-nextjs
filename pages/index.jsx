@@ -34,9 +34,9 @@ const Home = ({
   return (
     <Base>
       <Banner banner={banner} founders={founders} />
+      <Testimonials testimonials={testimonials} />
       <AboutBarry aboutBarry={aboutBarry} />
       <Highlights highlights={highlights} />
-      <Testimonials testimonials={testimonials} />
       <Clients clients={clients} />
       <KeynoteSpeaker keynoteSpeaker={keynoteSpeaker} />
       <Panels panels={panels} />

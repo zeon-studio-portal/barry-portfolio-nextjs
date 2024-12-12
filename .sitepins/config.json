@@ -6,17 +6,17 @@
   "content": {
     "root": "content"
   },
-  "themeConfig": [
-    "config/config.json",
-    "config/menu.json",
-    "config/social.json",
-    "config/theme.json"
-  ],
+  "themeConfig": ["config/config.json", "config/menu.json", "config/social.json", "config/theme.json"],
   "arrangement": [
     {
       "type": "file",
       "targetPath": "content/_index.md",
       "groupName": "Page Index"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/testimonials.md",
+      "groupName": "Testimonials"
     },
     {
       "type": "file",
@@ -28,11 +28,7 @@
       "targetPath": "content/sections/highlights.md",
       "groupName": "Highlights"
     },
-    {
-      "type": "file",
-      "targetPath": "content/sections/testimonials.md",
-      "groupName": "Testimonials"
-    },
+
     {
       "type": "file",
       "targetPath": "content/sections/clients.md",
