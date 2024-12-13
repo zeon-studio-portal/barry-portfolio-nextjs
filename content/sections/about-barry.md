@@ -41,8 +41,8 @@ bottom_section:
     listener a drive to channel their energy and business pursuits into
     meaningful, positive contributions resulting in deeper and more fulfilling
     work and life success.
-  quote: '"Barry delivers experiences that transform lives."'
-  name: TRANSFORMATIVE CHANGE AGENT
+  quote: '"Barry delivers experiences that light up lives."'
+  name: KEYNOTE SPEAKER
   button:
     enable: true
     label: Keynote Sessions
