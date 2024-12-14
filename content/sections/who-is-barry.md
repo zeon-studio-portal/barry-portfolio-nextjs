@@ -12,6 +12,7 @@ button:
   enable: true
   label: Book Barry
   link: https://calendly.com/stamos
+draft: false
 ---
 Barry is the go-to change agent hired by 20% of the Fortune 500 to transform
 mindsets by igniting purpose for profitability & impact. ⭐️ Street creds:
@@ -24,8 +25,3 @@ at Arora Project (Raised $125MM+; Exit to Republic.com), Global Head of
 Strategy & Innovation at Acxiom (Built $318MM business and exited for
 $2.3B), and Founder of INBOX Marketing/Responsys (IPO and Exit to Oracle for
 $1.6B🦄).
-
-* Markdown content
-* Markdown content
-* Markdown content
-* Markdown content
