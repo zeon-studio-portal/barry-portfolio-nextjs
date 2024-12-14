@@ -16,8 +16,9 @@ import Testimonials from "@partials/Testimonials";
 
 const Home = ({
   homepage,
+  whoIsBarry,
+  whatToExpect,
   testimonials,
-  aboutBarry,
   highlights,
   clients,
   keynoteSpeaker,
@@ -35,7 +36,7 @@ const Home = ({
     <Base>
       <Banner banner={banner} founders={founders} />
       <Testimonials testimonials={testimonials} />
-      <AboutBarry aboutBarry={aboutBarry} />
+      <AboutBarry whoIsBarry={whoIsBarry} whatToExpect={whatToExpect} />
       <Highlights highlights={highlights} />
       <Clients clients={clients} />
       <KeynoteSpeaker keynoteSpeaker={keynoteSpeaker} />
@@ -55,8 +56,9 @@ export default Home;
 // for homepage data
 export const getStaticProps = async () => {
   const homepage = await getListPage("content/_index.md");
+  const whoIsBarry = await getListPage("content/sections/who-is-barry.md");
+  const whatToExpect = await getListPage("content/sections/what-to-expect.md");
   const testimonials = await getListPage("content/sections/testimonials.md");
-  const aboutBarry = await getListPage("content/sections/about-barry.md");
   const highlights = await getListPage("content/sections/highlights.md");
   const clients = await getListPage("content/sections/clients.md");
   const keynoteSpeaker = await getListPage("content/sections/keynote-speaker.md");
@@ -71,8 +73,9 @@ export const getStaticProps = async () => {
   return {
     props: {
       homepage: homepage,
+      whoIsBarry: whoIsBarry,
+      whatToExpect: whatToExpect,
       testimonials: testimonials,
-      aboutBarry: aboutBarry,
       highlights: highlights,
       clients: clients,
       keynoteSpeaker: keynoteSpeaker,

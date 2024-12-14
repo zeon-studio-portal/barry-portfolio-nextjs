@@ -222,9 +222,18 @@
 // content style
 .content {
   @apply prose max-w-none;
-  @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:leading-tight prose-headings:text-light-primary;
-  @apply prose-p:text-base prose-p:text-gray-400;
-  @apply prose-a:text-light-primary prose-a:underline;
+  @apply prose-headings:mb-[.5em] prose-headings:mt-[1em] prose-headings:font-medium prose-headings:text-white prose-headings:![letter-spacing:unset];
+  @apply prose-h1:text-h1_sm;
+  @apply prose-h2:text-h2_sm;
+  @apply prose-h3:text-h3_sm;
+  @apply prose-img:max-w-full prose-img:rounded-3xl;
+  @apply prose-p:text-light-tertiary;
+  @apply prose-pre:rounded-lg;
+  @apply prose-code:px-1 prose-code:text-primary;
+  @apply prose-strong:text-white;
+  @apply prose-a:text-light-primary prose-a:underline hover:prose-a:text-primary;
+  @apply prose-li:!my-1 prose-li:text-light-primary marker:text-light-primary;
+  @apply prose-ol:pl-[1em];
 
   &-superstar {
     @apply prose-p:mb-1.5 prose-p:mt-0 prose-ul:pl-4 prose-li:text-light-quaternary;
