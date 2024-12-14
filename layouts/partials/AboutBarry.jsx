@@ -79,7 +79,7 @@ const AboutBarry = ({ whoIsBarry, whatToExpect }) => {
           </div>
         )}
         {whatToExpectFrontmatter.enable && (
-          <div className="flex flex-col-reverse md:flex-row-reverse max-md:gap-10 ">
+          <div className="flex flex-col-reverse md:flex-row-reverse max-md:gap-10 " id={whatToExpect.slug}>
             <div className="md:w-[50%] md:pl-20">
               <div className="flex flex-col gap-8">
                 <div>

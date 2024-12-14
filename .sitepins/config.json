@@ -20,8 +20,13 @@
     },
     {
       "type": "file",
-      "targetPath": "content/sections/about-barry.md",
-      "groupName": "About Barry"
+      "targetPath": "content/sections/who-is-barry.md",
+      "groupName": "Who is Barry"
+    },
+    {
+      "type": "file",
+      "targetPath": "content/sections/what-to-expect.md",
+      "groupName": "What to Expect"
     },
     {
       "type": "file",
