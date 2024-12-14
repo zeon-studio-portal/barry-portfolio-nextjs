@@ -83,7 +83,7 @@ const Banner = ({ banner }) => {
           </div>
         </div>
         <div className="video-background">
-          <VideoBG background_youtube_video_id={banner.background_youtube_video_id} />
+          <VideoBG background_youtube_playlist_id={banner.background_youtube_playlist_id} />
         </div>
       </section>
 
