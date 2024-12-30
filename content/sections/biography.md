@@ -15,7 +15,7 @@ bio: >-
   audiences to rise to the moment—unlocking access to our higher selves and
   superpowers. It's our time to shine by solving the pressing challenges of our
   time and play a greater game.<br /><br />Let’s connect and co-create an
-  unforgettable experience together. 
+  unforgettable experience together.
 button:
   enable: true
   label: Book Barry
