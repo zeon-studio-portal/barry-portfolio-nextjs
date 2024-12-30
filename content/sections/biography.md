@@ -3,8 +3,8 @@ enable: true
 title: LET'S PLAY TOGETHER   ;-)
 bio: >-
   Hi, I'm Barry - 3x exited Silicon Valley entrepreneur turned conscious
-  capitalist. <br /><br />As CEO of SUPERNOVA, I lead a tiger team of 150+
-  exited founders who invest, advise and mentor world-changing companies to
+  capitalist. <br /><br />As CEO of SUPERNOVA, I lead a conscious collective of
+  150+ exited founders who invest, advise and mentor world-changing companies to
   achieve their missions, faster.<br /><br />My 25+ year career includes
   consulting for 20% of the Fortune 500, building a $315MM+ business at Acxiom
   as a global corporate innovation leader, and scaling my first startup to a
