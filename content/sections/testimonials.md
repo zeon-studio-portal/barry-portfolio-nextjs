@@ -36,9 +36,9 @@ items:
     designation: Acxiom
     company: Global Organization Leader
     quote: >-
-      “Barry is THE most upbeat and energetic change agent I have EVER met.
-      Transformational change agent responsible for building a business unit
-      that grew from $0 to $318 million business unit in less than 5-years." 
+      “Barry is THE most upbeat and energetic change agent I have EVER met. He
+      is responsible for building a business unit that grew from $0 to $318
+      million business unit in less than 5-years." 
   - enable: true
     name: Cameron Wenaus
     image: /RG.png
