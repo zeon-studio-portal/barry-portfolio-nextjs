@@ -32,7 +32,7 @@ items:
       done 1,500+ founder interviews on Mixergy)."
   - enable: true
     name: JP Bewley
-    image: /images/acxiom-logo-navy-teal-square-1.png
+    image: /images/iz-9z93H_400x400.jpg
     designation: Acxiom
     company: Global Organization Leader
     quote: >-
