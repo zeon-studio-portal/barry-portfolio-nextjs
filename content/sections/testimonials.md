@@ -32,12 +32,13 @@ items:
       done 1,500+ founder interviews on Mixergy)."
   - enable: true
     name: JP Bewley
-    image: /Evo.jpeg
-    designation: Big Cloud Analytics (EVO)
-    company: CEO & Founder
+    image: /images/acxiom-logo-navy-teal-square-1.png
+    designation: Acxiom
+    company: Global Organization Leader
     quote: >-
-      “Barry is THE most upbeat and energetic change agent I have EVER met. He
-      sees the future more clearly than most." 
+      “Barry is THE most upbeat and energetic change agent I have EVER met.
+      Transformational change agent responsible for building a business unit
+      that grew from $0 to $318 million business unit in less than 5-years." 
   - enable: true
     name: Cameron Wenaus
     image: /RG.png
