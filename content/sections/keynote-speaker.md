@@ -65,7 +65,7 @@ list:
       It’s a powerful reminder that the path to greatness is rarely linear, and
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
-  - badge: Culture & Wellness
+  - badge: Productivity, Culture & Wellness
     title: '**02** Daily Rituals: Mastering the Dimensions of Work & Wellbeing'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
