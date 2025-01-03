@@ -66,7 +66,7 @@ list:
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
   - badge: Wellbeing In The Workplace
-    title: '**02** Work & Life Balance: We Are Multidimensional Beings'
+    title: '**02** Work & Life Balance: Integrating Multidimensional Beings'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
