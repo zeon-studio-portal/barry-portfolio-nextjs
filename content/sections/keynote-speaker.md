@@ -108,7 +108,7 @@ list:
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
   - badge: Leadership & Impact
-    title: '**03** The Heart of Leadership: Love Is Open Source Technology'
+    title: '**03** The Heart of Leadership: Love Is The Ultimate Technology'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
