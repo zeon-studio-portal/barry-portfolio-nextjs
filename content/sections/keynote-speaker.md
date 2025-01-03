@@ -6,7 +6,7 @@ subtitle: >-
   realities. 
 list:
   - badge: Motivation
-    title: '**0X** The Truth Behind Success: Wisdom From A Unicorn Founder'
+    title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
     imageAlt: keynotes image
@@ -184,12 +184,12 @@ list:
           align your life with your true passions and values, leading to a more
           authentic and joyful existence.
     footer: >-
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. you’ll be
-      equipped with the tools and inspiration to embark on your own journey of
-      inner space travel. You’ll learn how to integrate these practices into
-      your life, unlocking personal growth and transformation, and ultimately,
-      living a life you truly love.
+      This keynote is for anyone who wants to understand the human side of
+      leadership and entrepreneurship—the parts that don’t often make it to the
+      boardroom but are essential for creating sustainable, impactful success.
+      It’s a powerful reminder that the path to greatness is rarely linear, and
+      by embracing vulnerability and learning from each other’s journeys, we can
+      all play a greater game, both in work and in life.
   - badge: Entrepreneurship, Startups & Scaleups
     title: '**05** Scale or Fail: 30 Best Practices in 60 Minutes'
     mediaLink_supports_youtube_vimeo: ''
