@@ -152,7 +152,7 @@ list:
       and effectively.
   - badge: Leadership & Growth
     title: '**04** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
-    mediaLink_supports_youtube_vimeo: ''
+    mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /Founder Stories.jpg
     imageAlt: keynotes image
     description: >-
