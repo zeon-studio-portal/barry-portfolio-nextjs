@@ -150,7 +150,7 @@ list:
       culture, proving that even in an era of rapid technological change, and
       create a workplace where both humans and machines work together seamlessly
       and effectively.
-  - badge: 'Entrepreneurship: From Startups to Unicorns'
+  - badge: Leadership & Growth
     title: '**04** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
     mediaLink_supports_youtube_vimeo: ''
     image: /Founder Stories.jpg
