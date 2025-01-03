@@ -180,11 +180,9 @@ list:
           practices and modalities that can help you achieve a more harmonious
           and satisfying life.
       - title: >-
-          Building Better Companies Starts with Building Better Leaders:
-          Discover how your personal evolution as a leader impacts the success
-          of your company. Barry shares how working on himself, understanding
-          his weaknesses, and learning from his mistakes allowed him to lead
-          more effectively and create businesses that matter.
+          Working & Living On-Purpose: Explore how these tools can help you
+          align your life with your true passions and values, leading to a more
+          authentic and joyful existence.
     footer: >-
       This keynote is for anyone who wants to understand the human side of
       leadership and entrepreneurship—the parts that don’t often make it to the
