@@ -2,15 +2,14 @@
 enable: true
 title: WHAT TO **EXPECT**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
-quote: '"Barry delivers experiences that light up lives."'
+quote: '"I help world-changing companies achieve their mission, faster."'
 name: KEYNOTE SPEAKER
 button:
   enable: true
   label: Keynote Sessions
   link: /#keynote-speaker
 ---
-
-Barry ignites hearts and minds, whether speaking on stage to an audience of
+Barry sparks hearts and minds, whether speaking on stage to an audience of
 10,000+, facilitating an intimate executive workshop, or guiding
 transformative offsite retreats. By tailoring each talk with care, his
 stories, cautionary tales, strategies and actionable insights leave a
