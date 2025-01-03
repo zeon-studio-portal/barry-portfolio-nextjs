@@ -1,6 +1,6 @@
 ---
 enable: true
-title: LEADERSHIP OFFSITES
+title: TRANSFORMATIVE OFFSITES
 subtitle: >-
   Barry is a trusted experienced guide for professional and personal
   transformative experiences.
