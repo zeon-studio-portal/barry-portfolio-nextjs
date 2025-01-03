@@ -39,11 +39,13 @@ list:
           his weaknesses, and learning from his mistakes allowed him to lead
           more effectively and create businesses that matter.
       - title: >-
-          Vulnerability Is Strength: Learn how embracing vulnerability, sharing
-          your struggles, and owning your breakdowns can lead to powerful
-          breakthroughs in both your personal and professional life. Barry’s
-          story shows that the most successful leaders are those who are willing
-          to be open and honest about their challenges.
+          Breakdowns Lead to Breakthroughs: Understand that failure and
+          challenges are not the end—they are the starting point for growth.
+          Barry’s story shows how the moments of deepest despair can be the
+          catalysts for the greatest transformations. By sharing his own
+          journey, he teaches that breakthroughs often come when you least
+          expect them, and they can lead you to a more purposeful life and
+          business.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
