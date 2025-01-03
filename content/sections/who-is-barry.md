@@ -14,8 +14,8 @@ button:
   link: https://calendly.com/stamos
 draft: false
 ---
-Barry is THE Go-To Change Agent hired by 20% of the Fortune 500 to shift
-mindsets and accelerate growth, innovation & impact. ⭐️ Street creds:
+Barry is THE Go-To Change Agent, trusted by 20% of the Fortune 500 to shift
+mindsets and catalyze growth, innovation & impact. ⭐️ Street creds:
 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn), Tier 1 VC
 (EIR), Corporate Innovation Leader (NASDAQ: ACXM), & Management Consultant
 (Big 4). Barry is the CEO & Founder of Supernova (150+ exited founder
