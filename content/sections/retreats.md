@@ -1,12 +1,12 @@
 ---
 enable: true
-title: TRANSFORMATIVE OFFSITES
+title: LEADERSHIP OFFSITES
 subtitle: >-
   Barry is a trusted experienced guide for professional and personal
   transformative experiences.
 list:
   - enable: true
-    title: 'Leadership Retreats For Work & Life Elevation '
+    title: 'Experience Guide For Transformational Retreats '
     description: >-
       Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
       breakthroughs.
