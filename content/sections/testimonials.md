@@ -61,8 +61,8 @@ items:
     designation: Co-founder
     company: 1heart.com
     quote: >-
-      "Barry is THE GO-TO Change Agent! Authentic big burst of positive energy +
-      helping people remember to live life as a miracle."
+      "Barry is THE GO-TO Change Agent! Authentic big positive energy + helps
+      people remember to live life as a miracle."
     enable: true
   - name: Keith Ferrazzi
     image: /FG.jpg
