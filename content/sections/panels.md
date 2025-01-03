@@ -29,8 +29,8 @@ list:
       As the CEO & Founder of Supernova, Barry Stamos built the world’s first
       community of 150+ successful exited founders and Super Founders (exit for
       over $50M) who advise, mentor, and invest in world-changing companies.
-      Most are open to sharing their stories and cautionary tales on panels
-      expertly facilitated by Barry.
+      Many are open to joining Barry on-stage as panelists to share their
+      stories and cautionary tales to pay-it-forward.
     image: /images/gallery/08.png
     button:
       enable: false
