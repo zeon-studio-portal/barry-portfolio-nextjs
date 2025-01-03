@@ -53,9 +53,11 @@ list:
           story shows that the most successful leaders are those who are willing
           to be open and honest about their challenges.
       - title: >-
-          Working & Living On-Purpose: Explore how these tools can help you
-          align your life with your true passions and values, leading to a more
-          authentic and joyful existence.
+          Learn from Real-Life Struggles: Get an inside look into the realities
+          of building companies, facing setbacks, and dealing with personal and
+          professional conflicts. Barry’s breakdowns are your lessons—avoid the
+          mistakes he made and implement the strategies he used to emerge
+          stronger and wiser.
     footer: >
       By the end of this session, you’ll be equipped with the tools and
       inspiration to embark on your own journey of inner space travel. you’ll be
