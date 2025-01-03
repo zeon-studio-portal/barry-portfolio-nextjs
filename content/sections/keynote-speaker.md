@@ -107,8 +107,8 @@ list:
       It’s a powerful reminder that the path to greatness is rarely linear, and
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
-  - badge: Inclusive Cultures
-    title: '**03** Extreme Transformation: Nourishing Our Human Nature'
+  - badge: Community & Impact
+    title: '**03** The Heart of Leadership: Elevating Lives Via Business'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
@@ -150,8 +150,8 @@ list:
       culture, proving that even in an era of rapid technological change, and
       create a workplace where both humans and machines work together seamlessly
       and effectively.
-  - badge: Leadership
-    title: '**04** Beyond Business As Usual: It''s Not Business, It''s Personal'
+  - badge: 'Future of Work '
+    title: '**04** Work & Life Harmony: It''s Not Business, It''s Personal'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /Founder Stories.jpg
     imageAlt: keynotes image
