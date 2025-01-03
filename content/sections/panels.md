@@ -6,8 +6,8 @@ subtitle: >-
   lead and facilitate them. 
 list:
   - head: Entrepreneurship
-    title: 'Startup Secrets: What I Wish I Knew Then'
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/247885432
+    title: 'Startup Secrets: The Light & Dark Side of Startup Life'
+    mediaLink_supports_youtube_vimeo: ''
     description: >-
       Startups are hard, very hard. Scaling and successfully exiting is even
       more challenging. Navigating the startup world can be a rollercoaster of
