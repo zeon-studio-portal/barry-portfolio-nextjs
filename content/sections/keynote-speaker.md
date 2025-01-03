@@ -12,13 +12,13 @@ list:
     imageAlt: keynotes image
     description: >-
       In this deeply personal and transformative keynote, Barry Stamos shares
-      the raw, unfiltered story of his own journey, revealing both the
-      breakdowns and breakthroughs that have shaped his path. With vulnerability
-      and honesty, Barry walks you through the highs and lows of building
-      companies, navigating failure, and facing the challenges that come with
-      success. Through his own struggles and lessons learned, he opens the door
-      for you to explore how these truths can help you create better companies,
-      stronger teams, and a more meaningful life.  This talk isn’t just about
+      the raw, unfiltered story of his journey, revealing both the breakdowns
+      and breakthroughs that have shaped his path. With vulnerability and
+      honesty, Barry walks you through the highs and lows of building companies,
+      navigating failure, and facing the challenges that come with success.
+      Through his own struggles and lessons learned, he opens the door for you
+      to explore how these truths can help you create better companies, stronger
+      teams, and a more meaningful life.  This talk isn’t just about
       success—it’s about embracing failure, growth, and reinvention as essential
       parts of the journey. Barry shares his story not for applause, but as a
       blueprint for others to avoid common pitfalls, learn from mistakes, and
