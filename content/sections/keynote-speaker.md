@@ -151,7 +151,7 @@ list:
       create a workplace where both humans and machines work together seamlessly
       and effectively.
   - badge: Leadership & Growth
-    title: '**04** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
+    title: '**04** Play A Greater Game: It''s Not Business, It''s Personal'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /Founder Stories.jpg
     imageAlt: keynotes image
