@@ -26,7 +26,7 @@ list:
     title: 'Wisdom from Successfully Exited Founders '
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=Mq61xLTDdGI
     description: >-
-      As the CEO & Founder of Supernova, Barry united 150+ successful exited
+      As the CEO & Founder of Supernova, Barry unites 150+ successful exited
       founders and Super Founders (exit for over $50M) who advise, mentor, and
       invest in world-changing companies. Many are open to joining Barry
       on-stage as panelists to share their stories and cautionary tales to
