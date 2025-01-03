@@ -6,7 +6,7 @@ subtitle: >-
   realities. 
 list:
   - badge: Motivation
-    title: '**0X** What It Really Takes: Wisdom From A Unicorn Founder'
+    title: '**0X** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
     imageAlt: keynotes image
