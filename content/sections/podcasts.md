@@ -24,6 +24,10 @@ list:
     title: 'Transformative Stories: Awakened Leader'
     thumbnail: /images/Podcast-Palak-Patel.webp
     mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
-    enable: false
+    enable: true
+  - head: 'Human Future Podcast '
+    title: Unicorn Founder Reveals The Dark Side of Chasing Wealth
+    thumbnail: /images/Barry Podcast Human Future.png
+    mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
 draft: false
 ---
