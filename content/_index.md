@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Your Change Agent
+  title: 'Your Change Agent '
   subtitle: Shifting Mindsets For Greater Growth, Innovation & Impact
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
