@@ -7,7 +7,7 @@ subtitle: >-
 list:
   - badge: Motivation & Innovation
     title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
+    mediaLink_supports_youtube_vimeo: ''
     image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >-
