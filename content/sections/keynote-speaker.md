@@ -176,11 +176,9 @@ list:
           modern techniques can transform your life, enhance your well-being,
           and bring about profound personal growth.
       - title: >-
-          Learn from Real-Life Struggles: Get an inside look into the realities
-          of building companies, facing setbacks, and dealing with personal and
-          professional conflicts. Barry’s breakdowns are your lessons—avoid the
-          mistakes he made and implement the strategies he used to emerge
-          stronger and wiser.
+          Practical Transformation Tools: Gain actionable insights into the
+          practices and modalities that can help you achieve a more harmonious
+          and satisfying life.
       - title: >-
           Building Better Companies Starts with Building Better Leaders:
           Discover how your personal evolution as a leader impacts the success
