@@ -5,7 +5,7 @@ subtitle: >-
   Barry tailors his talks to meet audiences' needs to spark world-changing
   realities. 
 list:
-  - badge: Motivation
+  - badge: Motivation & Innovation
     title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
