@@ -6,7 +6,7 @@ subtitle: >-
   realities. 
 list:
   - badge: Motivation
-    title: '**0X** Behind the Scenes: Wisdom From A Unicorn Founder'
+    title: '**0X** What It Really Takes: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
     imageAlt: keynotes image
@@ -39,9 +39,11 @@ list:
           his weaknesses, and learning from his mistakes allowed him to lead
           more effectively and create businesses that matter.
       - title: >-
-          Transformation at Work : Discover how combining ancient wisdom with
-          modern techniques can transform your life, enhance your well-being,
-          and bring about profound personal growth.
+          Vulnerability Is Strength: Learn how embracing vulnerability, sharing
+          your struggles, and owning your breakdowns can lead to powerful
+          breakthroughs in both your personal and professional life. Barry’s
+          story shows that the most successful leaders are those who are willing
+          to be open and honest about their challenges.
       - title: >-
           Practical Transformation Tools: Gain actionable insights into the
           practices and modalities that can help you achieve a more harmonious
