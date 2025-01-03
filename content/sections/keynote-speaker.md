@@ -47,9 +47,11 @@ list:
           expect them, and they can lead you to a more purposeful life and
           business.
       - title: >-
-          Practical Transformation Tools: Gain actionable insights into the
-          practices and modalities that can help you achieve a more harmonious
-          and satisfying life.
+          Vulnerability Is Strength: Learn how embracing vulnerability, sharing
+          your struggles, and owning your breakdowns can lead to powerful
+          breakthroughs in both your personal and professional life. Barry’s
+          story shows that the most successful leaders are those who are willing
+          to be open and honest about their challenges.
       - title: >-
           Working & Living On-Purpose: Explore how these tools can help you
           align your life with your true passions and values, leading to a more
