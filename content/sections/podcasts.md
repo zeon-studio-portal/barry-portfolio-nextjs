@@ -24,6 +24,6 @@ list:
     title: 'Transformative Stories: Awakened Leader'
     thumbnail: /images/Podcast-Palak-Patel.webp
     mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=mRu0iC_I_ys&t=279s
-    enable: true
+    enable: false
 draft: false
 ---
