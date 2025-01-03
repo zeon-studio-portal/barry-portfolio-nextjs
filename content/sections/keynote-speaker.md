@@ -65,7 +65,7 @@ list:
       It’s a powerful reminder that the path to greatness is rarely linear, and
       by embracing vulnerability and learning from each other’s journeys, we can
       all play a greater game, both in work and in life.
-  - badge: Culture & Wellness
+  - badge: Wellbeing In The Workplace
     title: '**02** Daily Rituals: Mastering the Dimensions of Work & Wellbeing'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
@@ -232,7 +232,7 @@ list:
       best practices to help you scale successfully and avoid common pitfalls.
       This is a must-attend session for anyone serious about accelerating growth
       and ensuring their business thrives in a competitive landscape.
-  - badge: Future of Work
+  - badge: Ai & the Future of Work
     title: '**06** AI Extreme Makeovers: Tomorrow’s World Today'
     mediaLink_supports_youtube_vimeo: https://youtu.be/dG2pjcAhlM0?si=kEoEJnOcgEg-vuDO
     image: /images/interviews/image-1.png
