@@ -6,26 +6,38 @@ subtitle: >-
   realities. 
 list:
   - badge: Motivation
-    title: '**01** It''s Not Business, It''s Personal; Put Your Heart Into Your Work'
+    title: '**0X** Behind the Scenes: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /IMG_0480.JPG
     imageAlt: keynotes image
     description: >-
-      It’s not business, it’s personal!  We spend 75% of our waking hours
-      connected to work - getting ready for work, getting to work, working,
-      returning home from work and recovering from work. Now that many are
-      working from home it’s likely even higher. In this transformative keynote,
-      Barry Stamos will take you on the greatest journey of a lifetime:
-      traveling inward to bridge the 18 inches between your head and into your
-      heart. Drawing from his personal journey from a Silicon Valley spiritually
-      bankrupt exited unicorn founder to a fulfilled individual, Barry will what
-      he has discovered the keys to unlocking a more purposeful,fulfilled work
-      life. 
+      In this deeply personal and transformative keynote, Barry Stamos shares
+      the raw, unfiltered story of his own entrepreneurial journey, revealing
+      both the breakdowns and breakthroughs that have shaped his path. With
+      vulnerability and honesty, Barry walks you through the highs and lows of
+      building companies, navigating failure, and facing the challenges that
+      come with success. Through his own struggles and lessons learned, he opens
+      the door for you to explore how these truths can help you create better
+      companies, stronger teams, and a more meaningful life.  This talk isn’t
+      just about success—it’s about embracing failure, growth, and reinvention
+      as essential parts of the journey. Barry shares his story not for
+      applause, but as a blueprint for others to avoid common pitfalls, learn
+      from mistakes, and rise above obstacles. By exposing the personal side of
+      entrepreneurship, Barry helps you see that your breakdowns are often the
+      very things that lead to breakthroughs, not just for your business, but
+      for you as a leader and a human being.  In this keynote, Barry emphasizes
+      the importance of vulnerability, shared wisdom, and self-awareness in
+      creating not only impactful businesses but also a life aligned with
+      purpose and fulfillment. Through his story, you’ll discover how embracing
+      both the light and dark sides of entrepreneurship can lead to real
+      transformation—at work, at home, and within yourself.
     keytakeways:
-      - title: >
-          Heart-Led Leadership: Learn how traveling inward can lead to greater
-          fulfillment and balance, bridging the gap between material success and
-          spiritual well-being.
+      - title: >-
+          Building Better Companies Starts with Building Better Leaders:
+          Discover how your personal evolution as a leader impacts the success
+          of your company. Barry shares how working on himself, understanding
+          his weaknesses, and learning from his mistakes allowed him to lead
+          more effectively and create businesses that matter.
       - title: >-
           Transformation at Work : Discover how combining ancient wisdom with
           modern techniques can transform your life, enhance your well-being,
