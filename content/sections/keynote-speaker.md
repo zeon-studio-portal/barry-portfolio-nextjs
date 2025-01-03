@@ -172,13 +172,9 @@ list:
           fulfillment and balance, bridging the gap between material success and
           spiritual well-being.
       - title: >-
-          Breakdowns Lead to Breakthroughs: Understand that failure and
-          challenges are not the end—they are the starting point for growth.
-          Barry’s story shows how the moments of deepest despair can be the
-          catalysts for the greatest transformations. By sharing his own
-          journey, he teaches that breakthroughs often come when you least
-          expect them, and they can lead you to a more purposeful life and
-          business.
+          Transformation at Work : Discover how combining ancient wisdom with
+          modern techniques can transform your life, enhance your well-being,
+          and bring about profound personal growth.
       - title: >-
           Learn from Real-Life Struggles: Get an inside look into the realities
           of building companies, facing setbacks, and dealing with personal and
