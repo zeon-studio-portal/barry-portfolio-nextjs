@@ -58,13 +58,13 @@ list:
           professional conflicts. Barry’s breakdowns are your lessons—avoid the
           mistakes he made and implement the strategies he used to emerge
           stronger and wiser.
-    footer: >
-      By the end of this session, you’ll be equipped with the tools and
-      inspiration to embark on your own journey of inner space travel. you’ll be
-      equipped with the tools and inspiration to embark on your own journey of
-      inner space travel. You’ll learn how to integrate these practices into
-      your life, unlocking personal growth and transformation, and ultimately,
-      living a life you truly love.
+    footer: >-
+      This keynote is for anyone who wants to understand the human side of
+      leadership and entrepreneurship—the parts that don’t often make it to the
+      boardroom but are essential for creating sustainable, impactful success.
+      It’s a powerful reminder that the path to greatness is rarely linear, and
+      by embracing vulnerability and learning from each other’s journeys, we can
+      all play a greater game, both in work and in life.
   - badge: Motivation
     title: '**02** Daily Rituals: Mastering the Dimensions of Work & Wellbeing'
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
