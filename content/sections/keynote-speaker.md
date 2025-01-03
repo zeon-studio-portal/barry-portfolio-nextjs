@@ -150,7 +150,7 @@ list:
       culture, proving that even in an era of rapid technological change, and
       create a workplace where both humans and machines work together seamlessly
       and effectively.
-  - badge: Leadership & Growth
+  - badge: Leadership
     title: '**04** Beyond Business As Usual: It''s Not Business, It''s Personal'
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
     image: /Founder Stories.jpg
