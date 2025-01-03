@@ -27,7 +27,7 @@ list:
     enable: true
   - head: 'Human Future Podcast '
     title: Unicorn Founder Reveals The Dark Side of Chasing Wealth
-    thumbnail: /images/Barry Podcast Human Future.png
+    thumbnail: /images/Barry Thumbnail It's Not business, it's personal.jpeg
     mediaLink_supports_spotify_youtube_vimeo: https://www.youtube.com/watch?v=_XTt3K7TiDc
     enable: true
 draft: false
