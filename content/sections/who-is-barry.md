@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHO IS **BARRY STAMOS**
-image: /images/Barry Stamos Headshot.png
+image: /images/Barry Stamos Bio Photo.png
 name: YOUR CHANGE AGENT
 designation: '"My purpose is to ignite the transformative spark in others."'
 linkedin:
