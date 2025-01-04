@@ -13,8 +13,8 @@
       "url": "/#clients"
     },
     {
-      "name": "Offsites",
-      "url": "/#retreats"
+      "name": "Summits",
+      "url": "/#summits"
     }
   ],
   "footer": [
@@ -41,8 +41,8 @@
       "url": "/#clients"
     },
     {
-      "name": "Offsites",
-      "url": "/#offsites"
+      "name": "Summits",
+      "url": "/#summits"
     }
   ]
 }
