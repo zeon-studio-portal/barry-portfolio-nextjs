@@ -1,9 +1,7 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING...
-subtitle: >-
-  The WOW Factor is real with Barry impacting your summits, conferences, events
-  and offsites.
+subtitle: The WOW Factor is real with Barry positively impacting your experiences.
 items:
   - enable: true
     name: Matti Anttila
