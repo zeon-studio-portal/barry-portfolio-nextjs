@@ -6,7 +6,7 @@ subtitle: >-
   transformative experiences.
 list:
   - enable: true
-    title: 'Experience Guide For Transformation '
+    title: 'Experience Guide For Retreats & Offsites '
     description: >-
       Barry co-founded 1heart where 95% of 1,000+ alumni received life-changing
       breakthroughs.
