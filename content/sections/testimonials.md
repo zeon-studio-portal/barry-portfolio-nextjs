@@ -9,7 +9,7 @@ items:
     name: Matti Anttila
     image: /ypo-logo-white.png
     designation: YPO Southern 7
-    company: President
+    company: 'President '
     quote: >-
       “Barry's a RARE FIND. He is a Unicorn founder, Fortune 500 executive, Tier
       1 VC and high-vibe energy shaman.”
