@@ -2,7 +2,7 @@
 enable: true
 title: ADVISOR & SPEAKER
 subtitle: >-
-  Barry has been hired by 100+ Fortune 500 companies as a consultant, advisor or
+  Barry's been hired by 100+ Fortune 500 companies as a consultant, advisor or
   speaker.
 list:
   - title: Microsoft
