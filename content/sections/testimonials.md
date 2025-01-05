@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING...
-subtitle: The WOW Factor is real with Barry enriching your experiences.
+subtitle: The WOW Factor is real when booking Barry for your events.
 items:
   - enable: true
     name: Matti Anttila
