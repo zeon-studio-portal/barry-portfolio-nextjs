@@ -1,7 +1,7 @@
 ---
 enable: true
 title: LIVE STREAMING EVENTS
-subtitle: He is available to host your live streaming events as an MC.
+subtitle: He is available to host your live streaming events as a dynamic MC.
 list:
   - enable: true
     title: Three Founders Changing the World 🌐
