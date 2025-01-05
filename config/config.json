@@ -9,11 +9,13 @@
     "mobile_nav_text": "Barry Stamos"
   },
   "metadata": {
+    "title": "Metadata",
     "meta_author": "Barry Stamos",
     "meta_image": "/images/hero.png",
     "meta_description": "Barry Stamos is a CEO, Founder, Advisor, VC, Fortune 500 Executive and Community Builder. "
   },
   "params": {
+    "title": "Site Parameters",
     "header_cta_link": "https://calendly.com/stamos",
     "announcement": "Bring Barry to Your Private Event, Conference, or Offsite Retreat.",
     "tag_manager_id": "",
