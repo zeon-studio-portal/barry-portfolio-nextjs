@@ -2,7 +2,7 @@
 enable: true
 title: MOST POPULAR TALKS
 subtitle: >-
-  Barry tailors his talks to meet audiences' needs to spark world-changing
+  He tailors his talks to meet audiences' needs to spark world-changing
   realities. 
 list:
   - badge: Motivation, Strategy & Innovation
