@@ -3,7 +3,7 @@ enable: true
 title: POWERFUL PANEL SESSIONS
 subtitle: >-
   Barry believes we tell a better story together and can serve as a panelist or
-  lead and facilitate them. 
+  lead them. 
 list:
   - head: Entrepreneurship
     title: The Light & Dark Side of Startup Life
