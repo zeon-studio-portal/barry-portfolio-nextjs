@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING...
-subtitle: Barry brings the WOW Factor, creating next-level experiences.
+subtitle: Barry’s impact makes all the difference at your events.
 items:
   - enable: true
     name: Matti Anttila
