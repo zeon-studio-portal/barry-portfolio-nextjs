@@ -5,7 +5,7 @@ galleryImageWidth: 250px
 animationSpeedForTop: 105s
 animationSpeedForBottom: 120s
 topList:
-  - image: /images/gallery/01.png
+  - image: /images/Screenshot 2025-01-06 at 8.43.30 AM.png
     alt: gallery image
   - image: /images/gallery/02.png
     alt: gallery image
