@@ -8,7 +8,7 @@ list:
   - badge: Motivation, Strategy & Innovation
     title: '**01** The Truth Behind Success: Wisdom From A Unicorn Founder'
     mediaLink_supports_youtube_vimeo: ''
-    image: /IMG_0480.JPG
+    image: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
     imageAlt: keynotes image
     description: >-
       In this deeply personal and transformative keynote, Barry Stamos shares
