@@ -4,14 +4,6 @@ title: WHAT THEY ARE SAYING....
 subtitle: Barry’s impact makes all the difference at your events.
 items:
   - enable: true
-    name: Matti Anttila
-    image: /ypo-logo-white.png
-    designation: YPO Southern 7
-    company: 'President '
-    quote: >-
-      “Barry's a RARE FIND: Unicorn founder, Fortune 500 corporate innovation
-      leader, Tier 1 VC and high-vibe energy shaman.”
-  - enable: true
     name: Jenma Bardi
     image: /Screenshot 2024-11-13 at 7.48.04 AM.png
     designation: Volcano Summit
@@ -26,6 +18,14 @@ items:
     quote: >-
       "Barry ignites the transformative spark in others for growth, innovation
       and impact."
+  - enable: true
+    name: Matti Anttila
+    image: /ypo-logo-white.png
+    designation: YPO Southern 7
+    company: 'President '
+    quote: >-
+      “Barry's a RARE FIND: Unicorn founder, Fortune 500 corporate innovation
+      leader, Tier 1 VC and high-vibe energy shaman.”
   - enable: true
     name: JP Bewley
     image: /images/iz-9z93H_400x400.jpg
