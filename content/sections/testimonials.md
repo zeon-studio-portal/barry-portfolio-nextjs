@@ -78,5 +78,12 @@ items:
       in the deepest of ways. I hope EVERYONE can hear Barry share his story and
       perspective - life will never be the same."
     enable: true
+  - name: Dan Springer
+    image: media/public/images/DocuSign-Logo-New.png
+    designation: 'CEO '
+    company: DocuSign
+    quote: >-
+      "Barry ignites the transformative spark in others for growth, innovation
+      and impact."
 draft: false
 ---
