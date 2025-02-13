@@ -19,13 +19,13 @@ items:
     quote: >-
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
-  - enable: true
-    name: Andrew Warner
-    image: >-
-      /mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
-    designation: Mixergy.com
-    company: CEO & Founder
-    quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
+  - name: Dan Springer
+    image: media/public/images/DocuSign-Logo-New.png
+    designation: 'CEO '
+    company: DocuSign
+    quote: >-
+      "Barry ignites the transformative spark in others for growth, innovation
+      and impact."
   - enable: true
     name: JP Bewley
     image: /images/iz-9z93H_400x400.jpg
@@ -78,12 +78,12 @@ items:
       in the deepest of ways. I hope EVERYONE can hear Barry share his story and
       perspective - life will never be the same."
     enable: true
-  - name: Dan Springer
-    image: media/public/images/DocuSign-Logo-New.png
-    designation: 'CEO '
-    company: DocuSign
-    quote: >-
-      "Barry ignites the transformative spark in others for growth, innovation
-      and impact."
+  - enable: true
+    name: Andrew Warner
+    image: >-
+      /mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
+    designation: Mixergy.com
+    company: CEO & Founder
+    quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
 draft: false
 ---
