@@ -11,9 +11,8 @@ items:
     quote: >-
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
-  - enable: true
-    name: Dan Springer
-    image: /images/DocuSign-Logo-New.png
+  - name: Dan Springer
+    image: media/public/images/ds-logo-on-dark.png
     designation: 'CEO '
     company: DocuSign
     quote: >-
@@ -53,16 +52,15 @@ items:
     quote: >-
       “Barry is an ENERGETIC SPEAKER and consultant and blew my clients away at
       a workshop in Amsterdam.”
-  - enable: true
-    name: Tim Sae Koo
+  - name: Tim Sae Koo
     image: /1heart.webp
     designation: Co-founder
     company: 1heart.com
     quote: >-
       "Barry is THE GO-TO Change Agent! Authentic big positive energy + helps
       people remember to live life as a miracle."
-  - enable: true
-    name: Keith Ferrazzi
+    enable: true
+  - name: Keith Ferrazzi
     image: /FG.jpg
     designation: 'Chairman '
     company: Ferrazzi Greenlight
@@ -70,8 +68,8 @@ items:
       "Barry is CAPTIVATING. His business acumen gives him permission to stretch
       an audience and open them up in exactly the ways they need. He ignites
       REAL CHANGE and co-elevates lives."
-  - enable: true
-    name: Mark Worster
+    enable: true
+  - name: Mark Worster
     image: /images/EO logo.png
     designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
@@ -79,6 +77,7 @@ items:
       "Barry is part of my inner circle and I've been influenced by his message
       in the deepest of ways. I hope EVERYONE can hear Barry share his story and
       perspective - life will never be the same."
+    enable: true
   - enable: true
     name: Andrew Warner
     image: >-
