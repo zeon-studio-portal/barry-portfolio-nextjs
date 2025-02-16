@@ -12,13 +12,14 @@ items:
       “Barry keynotes our annual summit with 1,800 attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
   - name: Dan Springer
-    image: media/public/images/DocuSign-Logo-New.png
+    image: /images/DocuSign-Logo-New.png
     designation: 'CEO '
     company: DocuSign
     quote: >-
       "Barry ignites the transformative spark in others for growth, innovation
       and impact."
-    enable: true
+    enable:
+      value: true
   - enable: true
     name: Matti Anttila
     image: /ypo-logo-white.png
