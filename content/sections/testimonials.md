@@ -16,7 +16,7 @@ items:
     designation: 'CEO '
     company: DocuSign
     quote: >-
-      "Barry ignites the transformative spark in others for growth, innovation
+      "Barry IGNITES the transformative spark in others for growth, innovation
       and impact."
   - enable: true
     name: Matti Anttila
