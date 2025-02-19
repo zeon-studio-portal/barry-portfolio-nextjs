@@ -1,7 +1,7 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING....
-subtitle: Barry’s impact makes all the difference at your events.
+subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
     name: Jenma Bardi
