@@ -14,7 +14,7 @@ items:
   - enable: true
     name: Dan Springer
     image: /images/ds-logo-on-dark.png
-    designation: 'CEO '
+    designation: CEO
     company: DocuSign
     quote: >-
       "Barry IGNITES the transformative spark in others for growth, innovation
