@@ -14,7 +14,7 @@ items:
   - name: Dan Springer
     image: media/public/images/ds-logo-on-dark.png
     designation: DocuSign
-    company: Chief Executive Officer
+    company: 'Chief Executive Officer '
     quote: >-
       "Barry IGNITES the transformative spark in others for growth, innovation
       and impact."
