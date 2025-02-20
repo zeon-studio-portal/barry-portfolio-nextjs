@@ -13,7 +13,7 @@ items:
       MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Dan Springer
-    image: /ds-logo-on-dark.png
+    image: /images/ds-logo-on-dark.png
     designation: 'CEO '
     company: DocuSign
     quote: >-
