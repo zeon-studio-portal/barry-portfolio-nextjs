@@ -2,7 +2,6 @@ import { defineConfig } from "tinacms";
 import biography from "./collections/biography";
 import clients from "./collections/clients";
 import gallery from "./collections/gallary";
-import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
 import menu from "./collections/global/menu";
 import socials from "./collections/global/socials";
@@ -39,7 +38,6 @@ export default defineConfig({
   },
   schema: {
     collections: [
-      announcement,
       index,
       testimonials,
       whoIsBarry,
