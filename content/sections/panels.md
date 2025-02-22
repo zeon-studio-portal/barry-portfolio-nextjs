@@ -24,7 +24,7 @@ list:
       label: Learn More
   - head: Masters of Scale
     title: 'Wisdom from Successfully Exited Founders '
-    mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=Mq61xLTDdGI
+    mediaLink_supports_youtube_vimeo: 'https://www.youtube.com/watch?v=Mq61xLTDdGI'
     description: >-
       As the CEO & Founder of Supernova, Barry unites 150+ successful exited
       founders and Super Founders (exit for over $50M) who advise, mentor, and
@@ -36,8 +36,8 @@ list:
       enable: false
       label: Learn More
   - head: Conscious Leadership
-    title: Heart-Led Leadership:</br>Embodying The Future of Work
-    mediaLink_supports_youtube_vimeo: https://vimeo.com/247008938
+    title: 'Heart-Led Leadership:</br>Embodying The Future of Work'
+    mediaLink_supports_youtube_vimeo: 'https://vimeo.com/247008938'
     description: >-
       In a world where machines handle more tasks and data drives decisions,
       leaders face the challenge of maintaining the essence of humanity in their
@@ -56,5 +56,5 @@ list:
     button:
       enable: true
       label: Learn More
-draft: false
 ---
+

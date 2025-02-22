@@ -19,7 +19,7 @@ bio: >-
 button:
   enable: true
   label: Book Barry
-  link: https://calendly.com/stamos
+  link: 'https://calendly.com/stamos'
 image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
   - company: SUPERNOVA
@@ -32,5 +32,5 @@ companyList:
     image: /images/speaker-bio/oracle-response.png
   - company: 1heart
     image: /images/speaker-bio/heart.png
-draft: false
 ---
+

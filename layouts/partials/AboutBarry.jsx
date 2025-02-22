@@ -6,7 +6,6 @@ import { MDXRemote } from "next-mdx-remote";
 import Link from "next/link";
 
 const AboutBarry = ({ whoIsBarry, whatToExpect }) => {
-  // const { enable, whoIsBarry, bottom_section } = aboutBarry.frontmatter;
   const whoIsBarryFrontmatter = whoIsBarry.frontmatter;
   const whatToExpectFrontmatter = whatToExpect.frontmatter;
   const enableSection = whoIsBarryFrontmatter.enable || whatToExpectFrontmatter.enable;

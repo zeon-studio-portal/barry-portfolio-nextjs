@@ -23,35 +23,40 @@ const podcasts = {
       type: "string",
     },
     {
-      type: "object",
+      label: "Subtitle",
+      name: "subtitle",
+      type: "string",
+    },
+    {
+      label: "List",
       name: "list",
-      label: "Podcast List",
+      type: "object",
       list: true,
       fields: [
         {
-          type: "boolean",
-          name: "enable",
           label: "Enable",
+          name: "enable",
+          type: "boolean",
         },
         {
-          type: "string",
-          name: "head",
           label: "Head",
+          name: "head",
+          type: "string",
         },
         {
-          type: "string",
+          label: "Title",
           name: "title",
-          label: "Podcast Title",
-        },
-        {
-          type: "image",
-          name: "thumbnail",
-          label: "Thumbnail",
-        },
-        {
           type: "string",
-          name: "youtubeVideoId",
-          label: "YouTube Video ID",
+        },
+        {
+          label: "Thumbnail",
+          name: "thumbnail",
+          type: "image",
+        },
+        {
+          label: "Media Link (Supports Spotify/YouTube/Vimeo)",
+          name: "mediaLink_supports_spotify_youtube_vimeo",
+          type: "string",
         },
       ],
       ui: {

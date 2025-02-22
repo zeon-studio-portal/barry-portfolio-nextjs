@@ -66,5 +66,4 @@ list:
     image: /ibm.png
   - title: 'Allstate '
     image: /Allstate.png
-draft: false
 ---

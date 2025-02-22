@@ -1,20 +1,23 @@
 import { defineConfig } from "tinacms";
-import aboutCeo from "./collections/about-ceo";
-import advisorBrands from "./collections/advisor-brands";
+import biography from "./collections/biography";
+import clients from "./collections/clients";
+import gallery from "./collections/gallary";
 import announcement from "./collections/global/announcement";
 import config from "./collections/global/config";
 import menu from "./collections/global/menu";
+import socials from "./collections/global/socials";
+import highlights from "./collections/highlights";
 import index from "./collections/index";
-import interviews from "./collections/interviews";
-import keynoteSessions from "./collections/keynote-sessions";
-import lightBringerCarousel from "./collections/light-bringer-carousel";
+import keynoteSpeaker from "./collections/keynote-speaker";
 import liveEvents from "./collections/live-events";
+import mission from "./collections/mission";
 import pages from "./collections/pages";
-import panelSessions from "./collections/panel-sessions";
+import panels from "./collections/panels";
 import podcasts from "./collections/podcasts";
-import speakerBiography from "./collections/speaker-biography";
+import retreats from "./collections/retreats";
 import testimonials from "./collections/testimonials";
-import watchHighlights from "./collections/watch-highlights";
+import whatToExpect from "./collections/what-to-expect";
+import whoIsBarry from "./collections/who-is-barry";
 
 export default defineConfig({
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
@@ -38,20 +41,23 @@ export default defineConfig({
     collections: [
       announcement,
       index,
-      pages,
       testimonials,
-      aboutCeo,
-      watchHighlights,
-      keynoteSessions,
-      advisorBrands,
-      panelSessions,
+      whoIsBarry,
+      whatToExpect,
+      highlights,
+      clients,
+      keynoteSpeaker,
+      panels,
       liveEvents,
       podcasts,
-      interviews,
-      lightBringerCarousel,
-      speakerBiography,
+      retreats,
+      mission,
+      biography,
+      gallery,
+      pages,
       config,
       menu,
+      socials,
     ],
   },
 });

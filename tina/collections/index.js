@@ -28,8 +28,8 @@ const index = {
           type: "string",
         },
         {
-          label: "Background Video Youtube ID",
-          name: "background_youtube_video_id",
+          label: "Background YouTube Playlist ID",
+          name: "background_youtube_playlist_id",
           type: "string",
         },
         {
@@ -38,13 +38,18 @@ const index = {
           type: "object",
           fields: [
             {
-              label: "label",
+              label: "Enable",
+              name: "enable",
+              type: "boolean",
+            },
+            {
+              label: "Label",
               name: "label",
               type: "string",
             },
             {
-              label: "youtube_id",
-              name: "youtube_id",
+              label: "Media Link (Supports YouTube/Vimeo)",
+              name: "mediaLink_supports_youtube_vimeo",
               type: "string",
             },
           ],

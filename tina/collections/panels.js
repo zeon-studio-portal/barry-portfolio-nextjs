@@ -1,6 +1,6 @@
-const liveEvents = {
-  label: "Live Events",
-  name: "liveEvents",
+const panels = {
+  label: "Panels",
+  name: "panels",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const liveEvents = {
     },
   },
   match: {
-    include: "live-events",
+    include: "panels",
   },
   fields: [
     {
@@ -34,9 +34,9 @@ const liveEvents = {
       list: true,
       fields: [
         {
-          label: "Enable",
-          name: "enable",
-          type: "boolean",
+          label: "Head",
+          name: "head",
+          type: "string",
         },
         {
           label: "Title",
@@ -44,14 +44,37 @@ const liveEvents = {
           type: "string",
         },
         {
-          label: "Thumbnail",
-          name: "thumbnail",
-          type: "image",
-        },
-        {
           label: "Media Link (Supports YouTube/Vimeo)",
           name: "mediaLink_supports_youtube_vimeo",
           type: "string",
+        },
+        {
+          label: "Description",
+          name: "description",
+          type: "string",
+          ui: { component: "textarea" },
+        },
+        {
+          label: "Image",
+          name: "image",
+          type: "image",
+        },
+        {
+          label: "Button",
+          name: "button",
+          type: "object",
+          fields: [
+            {
+              label: "Enable",
+              name: "enable",
+              type: "boolean",
+            },
+            {
+              label: "Label",
+              name: "label",
+              type: "string",
+            },
+          ],
         },
       ],
       ui: {
@@ -63,4 +86,4 @@ const liveEvents = {
   ],
 };
 
-export default liveEvents;
+export default panels;

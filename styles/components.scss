@@ -13,8 +13,25 @@
 }
 
 // AOS Style
+
 [data-aos="fade-up-sm"] {
-  transform: translate3d(0, 30px, 0);
+  transform: translateY(15px);
+  opacity: 0;
+  transition-property: transform, opacity;
+  &.aos-animate {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+[data-aos="fade-right-sm"] {
+  transform: translateX(-15px);
+  opacity: 0;
+  transition-property: transform, opacity;
+  &.aos-animate {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 [data-aos="rotate"] {
   opacity: 0;

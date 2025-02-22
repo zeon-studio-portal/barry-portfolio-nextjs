@@ -26,7 +26,7 @@ const Footer = () => {
             <div className="flex space-x-16">
               <ul data-aos="fade-up-sm" data-aos-delay="100">
                 <li className="mb-6 font-medium text-2xl">Company</li>
-                {menu.company.map((menu) => (
+                {menu.footer.map((menu) => (
                   <li className="mb-2" key={menu.name}>
                     <Link href={menu.url} className="text-white transition-all hover:underline hover:opacity-75">
                       {menu.name}

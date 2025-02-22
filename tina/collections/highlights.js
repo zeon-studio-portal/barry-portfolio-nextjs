@@ -1,6 +1,6 @@
-const watchHighlights = {
-  label: "Watch Highlights",
-  name: "watchHighlights",
+const highlights = {
+  label: "Highlights",
+  name: "highlights",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const watchHighlights = {
     },
   },
   match: {
-    include: "watch-highlights",
+    include: "highlights",
   },
   fields: [
     {
@@ -33,11 +33,11 @@ const watchHighlights = {
       type: "image",
     },
     {
-      label: "Youtube Video ID",
-      name: "youtubeVideoId",
+      label: "Media Link (Supports YouTube/Vimeo)",
+      name: "mediaLink_supports_youtube_vimeo",
       type: "string",
     },
   ],
 };
 
-export default watchHighlights;
+export default highlights;

@@ -11,5 +11,5 @@ list:
     title: Supernova Demo Day ⭐
     thumbnail: /images/podcasts/image-3.png
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=G2SqSljZBy4
-draft: false
+
 ---

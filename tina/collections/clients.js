@@ -1,6 +1,6 @@
-const advisorBrands = {
-  label: "Advisor Brands Logo",
-  name: "advisorBrands",
+const clients = {
+  label: "Clients Logo",
+  name: "clients",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const advisorBrands = {
     },
   },
   match: {
-    include: "advisor-brands",
+    include: "clients",
   },
   fields: [
     {
@@ -23,14 +23,19 @@ const advisorBrands = {
       type: "string",
     },
     {
+      label: "Subtitle",
+      name: "subtitle",
+      type: "string",
+    },
+    {
       label: "Image Lists",
       name: "list",
       type: "object",
       list: true,
       fields: [
         {
-          label: "Image Alt",
-          name: "imageAlt",
+          label: "Title",
+          name: "title",
           type: "string",
         },
         {
@@ -41,11 +46,11 @@ const advisorBrands = {
       ],
       ui: {
         itemProps: (item) => {
-          return { label: `${item?.imageAlt}` };
+          return { label: `${item?.title}` };
         },
       },
     },
   ],
 };
 
-export default advisorBrands;
+export default clients;

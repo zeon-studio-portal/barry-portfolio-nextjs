@@ -19,14 +19,16 @@ list:
     image: /images/light-bringer/image.png
     subtitle: 'Plato '
     title: Plato
-  - quote: >-
+  - enable: true
+    quote: >-
       “If we continue to accumulate only power and not wisdom, we will surely
       destroy ourselves."
     author: 'Carl Sagan, Astronomer & Planetary Scientist '
     image: /images/Wallpaper4.jpeg
     subtitle: ''
     title: ''
-  - quote: >-
+  - enable: true
+    quote: >-
       "Whenever there is a tragedy or catastrophe look for the helpers. There
       will always be helpers on the sidelines. Cause if you look for the
       helpers, you'll know there is hope."
@@ -34,14 +36,14 @@ list:
     image: /c8b3f5a7-39a8-4039-9b13-68b415e48d74.JPG
     subtitle: ''
     title: ''
-    enable: true
-  - quote: >-
+  - enable: true
+    quote: >-
       "If we continue to accumulate only power and not wisdom, we will surely
       destroy ourselves."
     author: Carl Sagan, Astronomer & Planetary Scientist
     image: /images/Navigating-the-2024-Total-Solar-Eclipse-Safely.webp
     subtitle: ''
     title: ''
-    enable: true
-draft: false
+    
+
 ---

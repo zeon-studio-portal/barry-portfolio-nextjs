@@ -29,5 +29,4 @@ list:
     thumbnail: /images/live-events/image-2.png
     mediaLink_supports_youtube_vimeo: https://vimeo.com/178041349
     enable: true
-draft: false
 ---

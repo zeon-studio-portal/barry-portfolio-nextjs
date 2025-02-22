@@ -10,7 +10,7 @@ const announcement = {
     },
   },
   match: {
-    include: "settings",
+    include: "config",
   },
   fields: [
     {
@@ -24,7 +24,7 @@ const announcement = {
       type: "string",
       ui: {
         component: "textarea",
-      }
+      },
     },
     {
       label: "Tag Manager ID",

@@ -1,6 +1,6 @@
-const panelSessions = {
-  label: "Panel Sessions",
-  name: "panelSessions",
+const retreats = {
+  label: "Retreats",
+  name: "retreats",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const panelSessions = {
     },
   },
   match: {
-    include: "panel-sessions",
+    include: "retreats",
   },
   fields: [
     {
@@ -23,15 +23,20 @@ const panelSessions = {
       type: "string",
     },
     {
+      label: "Subtitle",
+      name: "subtitle",
+      type: "string",
+    },
+    {
       label: "List",
       name: "list",
       type: "object",
       list: true,
       fields: [
         {
-          label: "Head",
-          name: "head",
-          type: "string",
+          label: "Enable",
+          name: "enable",
+          type: "boolean",
         },
         {
           label: "Title",
@@ -45,31 +50,14 @@ const panelSessions = {
           ui: { component: "textarea" },
         },
         {
-          label: "Image",
-          name: "image",
+          label: "Thumbnail",
+          name: "thumbnail",
           type: "image",
         },
         {
-          label: "Link",
-          name: "button",
-          type: "object",
-          fields: [
-            {
-              label: "Enable",
-              name: "enable",
-              type: "boolean",
-            },
-            {
-              label: "Label",
-              name: "label",
-              type: "string",
-            },
-            {
-              label: "Link",
-              name: "link",
-              type: "string",
-            },
-          ],
+          label: "Media Link (Supports YouTube/Vimeo)",
+          name: "mediaLink_supports_youtube_vimeo",
+          type: "string",
         },
       ],
       ui: {
@@ -81,4 +69,4 @@ const panelSessions = {
   ],
 };
 
-export default panelSessions;
+export default retreats;

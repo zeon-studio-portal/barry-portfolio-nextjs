@@ -274,5 +274,5 @@ list:
       session, you will be equipped with a clear vision of how AI is shaping
       tomorrow's world today and the practical knowledge to leverage AI in ways
       that will future-proof your career, business, and life.
-draft: false
+
 ---

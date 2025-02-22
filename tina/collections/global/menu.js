@@ -60,52 +60,6 @@ const menu = {
         },
       },
     },
-    {
-      label: "Company Menu",
-      name: "company",
-      type: "object",
-      list: true,
-      fields: [
-        {
-          label: "Name",
-          name: "name",
-          type: "string",
-        },
-        {
-          label: "URL",
-          name: "url",
-          type: "string",
-        },
-      ],
-      ui: {
-        itemProps: (item) => {
-          return { label: `${item?.name}` };
-        },
-      },
-    },
-    {
-      label: "Join Us Menu",
-      name: "join_us",
-      type: "object",
-      list: true,
-      fields: [
-        {
-          label: "Name",
-          name: "name",
-          type: "string",
-        },
-        {
-          label: "URL",
-          name: "url",
-          type: "string",
-        },
-      ],
-      ui: {
-        itemProps: (item) => {
-          return { label: `${item?.name}` };
-        },
-      },
-    },
   ],
 };
 

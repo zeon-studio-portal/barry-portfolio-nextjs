@@ -1,15 +1,15 @@
-const lightBringerCarousel = {
-  label: "Light Bringer Carousel",
-  name: "lightBringerCarousel",
+const mission = {
+  name: "mission",
+  label: "Mission Sliders",
   path: "content/sections",
+  match: {
+    include: "mission",
+  },
   ui: {
     allowedActions: {
       create: false,
       delete: false,
     },
-  },
-  match: {
-    include: "light-bringer-carousel",
   },
   fields: [
     {
@@ -28,30 +28,41 @@ const lightBringerCarousel = {
       type: "string",
     },
     {
-      type: "object",
+      label: "List",
       name: "list",
-      label: "Quotes",
+      type: "object",
       list: true,
       fields: [
         {
-          type: "boolean",
-          name: "enable",
           label: "Enable",
+          name: "enable",
+          type: "boolean",
         },
         {
-          type: "string",
-          name: "quote",
           label: "Quote",
-        },
-        {
+          name: "quote",
           type: "string",
-          name: "author",
-          label: "Author",
+          ui: { component: "textarea" },
         },
         {
-          type: "image",
-          name: "image",
+          label: "Author",
+          name: "author",
+          type: "string",
+        },
+        {
           label: "Image",
+          name: "image",
+          type: "image",
+        },
+        {
+          label: "Subtitle",
+          name: "subtitle",
+          type: "string",
+        },
+        {
+          label: "Title",
+          name: "title",
+          type: "string",
         },
       ],
       ui: {
@@ -62,5 +73,4 @@ const lightBringerCarousel = {
     },
   ],
 };
-
-export default lightBringerCarousel;
+export default mission;

@@ -34,5 +34,5 @@ bottomList:
     alt: ''
   - image: /images/DJ.jpg
     alt: ''
-draft: false
 ---
+

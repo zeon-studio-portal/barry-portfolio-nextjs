@@ -54,6 +54,31 @@ const config = {
           name: "mobile_nav_text",
           type: "string",
         },
+        {
+          label: "Header CTA Link",
+          name: "header_cta_link",
+          type: "string",
+        },
+        {
+          label: "Announcement",
+          name: "announcement",
+          type: "string",
+        },
+        {
+          label: "Tag Manager ID",
+          name: "tag_manager_id",
+          type: "string",
+        },
+        {
+          label: "Footer Copy",
+          name: "footer_copy",
+          type: "string",
+        },
+        {
+          label: "Copyright",
+          name: "copyright",
+          type: "string",
+        },
       ],
     },
     {
@@ -61,6 +86,11 @@ const config = {
       name: "metadata",
       type: "object",
       fields: [
+        {
+          label: "Meta Title",
+          name: "meta_title",
+          type: "string",
+        },
         {
           label: "Meta Author",
           name: "meta_author",
@@ -79,18 +109,16 @@ const config = {
       ],
     },
     {
-      label: "Social",
-      name: "social_media",
+      label: "Site Parameters",
+      name: "params",
       type: "object",
-      list: true,
       fields: [
-        { label: "Name", name: "name", type: "string" },
-        { label: "Link", name: "link", type: "string" },
-        {
-          label: "Icon",
-          name: "icon",
-          type: "image",
-        },
+        { label: "Title", name: "title", type: "string" },
+        { label: "Header CTA Link", name: "header_cta_link", type: "string" },
+        { label: "Announcement", name: "announcement", type: "string" },
+        { label: "Tag Manager ID", name: "tag_manager_id", type: "string" },
+        { label: "Footer Copy", name: "footer_copy", type: "string" },
+        { label: "Copyright", name: "copyright", type: "string" },
       ],
       ui: {
         itemProps: (item) => {

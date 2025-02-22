@@ -1,6 +1,6 @@
-const keynoteSessions = {
-  label: "Keynote Sessions",
-  name: "keynoteSessions",
+const keynoteSpeaker = {
+  label: "Keynote Speakers",
+  name: "keynoteSpeakers",
   path: "content/sections",
   ui: {
     allowedActions: {
@@ -9,7 +9,7 @@ const keynoteSessions = {
     },
   },
   match: {
-    include: "keynote-sessions",
+    include: "keynote-speaker",
   },
   fields: [
     {
@@ -23,7 +23,12 @@ const keynoteSessions = {
       type: "string",
     },
     {
-      label: "Keynote Sessions",
+      label: "Subtitle",
+      name: "subtitle",
+      type: "string",
+    },
+    {
+      label: "List",
       name: "list",
       type: "object",
       list: true,
@@ -39,13 +44,8 @@ const keynoteSessions = {
           type: "string",
         },
         {
-          label: "Youtube Video ID",
-          name: "youtubeVideoId",
-          type: "string",
-        },
-        {
-          label: "Youtube Video Start Time",
-          name: "youtubeVideoStartTime",
+          label: "Media Link (Supports YouTube/Vimeo)",
+          name: "mediaLink_supports_youtube_vimeo",
           type: "string",
         },
         {
@@ -54,7 +54,7 @@ const keynoteSessions = {
           type: "image",
         },
         {
-          label: "Image Alt",
+          label: "Image Alt Text",
           name: "imageAlt",
           type: "string",
         },
@@ -62,9 +62,10 @@ const keynoteSessions = {
           label: "Description",
           name: "description",
           type: "string",
+          ui: { component: "textarea" },
         },
         {
-          label: "Key Takeways",
+          label: "Key Takeaways",
           name: "keytakeways",
           type: "object",
           list: true,
@@ -73,18 +74,15 @@ const keynoteSessions = {
               label: "Title",
               name: "title",
               type: "string",
+              ui: { component: "textarea" },
             },
           ],
-          ui: {
-            itemProps: (item) => {
-              return { label: `${item?.title}` };
-            },
-          },
         },
         {
           label: "Footer",
           name: "footer",
           type: "string",
+          ui: { component: "textarea" },
         },
       ],
       ui: {
@@ -96,4 +94,4 @@ const keynoteSessions = {
   ],
 };
 
-export default keynoteSessions;
+export default keynoteSpeaker;

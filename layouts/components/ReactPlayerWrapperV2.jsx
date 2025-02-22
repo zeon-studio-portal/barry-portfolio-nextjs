@@ -101,8 +101,8 @@ const Thumbnail = ({ thumbnail, onClick }) => {
       <ImageFallback
         src={thumbnail}
         alt="thumbnail"
-        width={600}
-        height={350}
+        width={1111}
+        height={625}
         className="w-full object-cover aspect-video"
       />
       <PlayButton onClick={onClick} />

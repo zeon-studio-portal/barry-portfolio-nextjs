@@ -70,7 +70,7 @@ const Testimonials = ({ testimonials }) => {
                   (item, index) =>
                     item.enable === true && (
                       <SwiperSlide key={index}>
-                        <div className="rounded-2xl bg-dark-quaternary" data-aos="fade-left" data-aos-delay={100}>
+                        <div className="rounded-2xl bg-dark-quaternary " data-aos="fade-left" data-aos-delay={100}>
                           <div
                             className={`bg-[url("/images/testimonials/bg.svg")] bg-cover bg-center px-6 py-7 lg:px-10`}
                           >

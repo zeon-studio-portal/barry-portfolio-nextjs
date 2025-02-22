@@ -1,15 +1,15 @@
-const testimonials = {
-  label: "Testimonials",
-  name: "testimonials",
+const biography = {
+  name: "biography",
+  label: "Biography",
   path: "content/sections",
+  match: {
+    include: "biography",
+  },
   ui: {
     allowedActions: {
       create: false,
       delete: false,
     },
-  },
-  match: {
-    include: "testimonials",
   },
   fields: [
     {
@@ -23,15 +23,15 @@ const testimonials = {
       type: "string",
     },
     {
-      label: "Subtitle",
-      name: "subtitle",
+      label: "Bio",
+      name: "bio",
       type: "string",
+      ui: { component: "textarea" },
     },
     {
-      label: "Testimonial Items",
-      name: "items",
+      label: "Button",
+      name: "button",
       type: "object",
-      list: true,
       fields: [
         {
           label: "Enable",
@@ -39,8 +39,31 @@ const testimonials = {
           type: "boolean",
         },
         {
-          label: "Name",
-          name: "name",
+          label: "Label",
+          name: "label",
+          type: "string",
+        },
+        {
+          label: "Link",
+          name: "link",
+          type: "string",
+        },
+      ],
+    },
+    {
+      label: "Image",
+      name: "image",
+      type: "image",
+    },
+    {
+      label: "Company List",
+      name: "companyList",
+      type: "object",
+      list: true,
+      fields: [
+        {
+          label: "Company",
+          name: "company",
           type: "string",
         },
         {
@@ -48,30 +71,14 @@ const testimonials = {
           name: "image",
           type: "image",
         },
-        {
-          label: "Designation",
-          name: "designation",
-          type: "string",
-        },
-        {
-          label: "Company",
-          name: "company",
-          type: "string",
-        },
-        {
-          label: "Quote",
-          name: "quote",
-          type: "string",
-          ui: { component: "textarea" },
-        },
       ],
       ui: {
         itemProps: (item) => {
-          return { label: `${item?.name}` };
+          return { label: `${item?.company}` };
         },
       },
     },
   ],
 };
 
-export default testimonials;
+export default biography;
