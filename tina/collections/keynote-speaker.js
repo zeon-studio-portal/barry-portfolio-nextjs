@@ -77,6 +77,11 @@ const keynoteSpeaker = {
               ui: { component: "textarea" },
             },
           ],
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.title?.substring(0, 50)}${item?.title?.length > 50 ? "..." : ""}` };
+            },
+          },
         },
         {
           label: "Footer",
