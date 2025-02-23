@@ -16,7 +16,7 @@ list:
       /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
   - title: Under Armour
     image: /UnderArmour.png
-  - title: wholefoods
+  - title: Wholefoods
     image: /whole-foods-market-logo-5vgczakthtlmphyl.png
   - title: axa
     image: /images/advisor-brands/advisor_brand_12.png
