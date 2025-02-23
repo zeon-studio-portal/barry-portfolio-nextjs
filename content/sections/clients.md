@@ -9,7 +9,7 @@ list:
     image: /microsoft+logo+white.png
   - title: visa
     image: /visa.png
-  - title: loreal
+  - title: Loreal
     image: /Loreal_MMCv2_white.png
   - title: fedex
     image: >-
