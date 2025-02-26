@@ -2,7 +2,7 @@
 
 ## Dependency
 
-- node v21+
+- node v22.13.0+
 - npm v9+
 - next v14+
 - tailwind v3+
