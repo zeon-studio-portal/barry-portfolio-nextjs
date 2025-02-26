@@ -1,6 +1,6 @@
 ---
 enable: true
-title: LET'S PLAY TOGETHER   ;-)
+title: LET'S PLAY TOGETHER  ;-)
 bio: >-
   Hi, I'm Barry - 3x exited Silicon Valley entrepreneur turned conscious
   capitalist. <br /><br />As CEO of SUPERNOVA, I lead a conscious collective of
