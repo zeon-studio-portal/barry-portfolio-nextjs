@@ -1,6 +1,6 @@
 ---
 enable: true
-title: SEE BARRY IN ACTION (SPEAKER REEL)
+title: WATCH THE BARRY STAMOS SPEAKER REEL
 subtitle: 'Barry is a top-rated keynote speaker, change agent, and community builder.'
 thumbnail: /images/Barry Stamos - Human Spirit At Work.png
 mediaLink_supports_youtube_vimeo: >-
