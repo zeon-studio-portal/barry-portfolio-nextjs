@@ -14,7 +14,7 @@ button:
   link: 'https://calendly.com/stamos'
 ---
 
-Barry is THE Go-To Change Agent, trusted by 20% of the Fortune 500 to shift
+Barry is the Go-To Change Agent, trusted by 20% of the Fortune 500 to shift
 mindsets and catalyze growth, innovation & impact. ⭐️ Street creds:
 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn), Tier 1 VC
 (EIR), Corporate Innovation Leader (NASDAQ: ACXM), & Management Consultant
