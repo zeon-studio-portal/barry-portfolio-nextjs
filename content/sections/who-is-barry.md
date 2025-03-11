@@ -18,7 +18,7 @@ Barry is THE Go-To Change Agent, trusted by 20% of the Fortune 500 to shift
 mindsets and catalyze growth, innovation & impact. ⭐️ Street creds:
 25+ year track record: Startup Founder (3 Exits: IPO/Unicorn), Tier 1 VC
 (EIR), Corporate Innovation Leader (NASDAQ: ACXM), & Management Consultant
-(Big 4). Barry is the CEO & Founder of Supernova (150+ exited founders advising, mentoring & investing together), former Chief Heart Officer & Co-founder of 1heart.com (Human
+(Big 4). Barry's the CEO & Founder of Supernova (fund run by 150+ exited founders advising and investing together), former Chief Heart Officer & Co-founder of 1heart.com (Human
 accelerator), EIR at 500 Global (#1 VC in exits), Head of Investor Relations
 at Arora Project (Raised $125MM+; Exit to Republic.com), Global Head of
 Strategy & Innovation at Acxiom (Built $318MM business and exited for
