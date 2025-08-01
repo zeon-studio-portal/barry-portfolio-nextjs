@@ -65,9 +65,8 @@ items:
     designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
     quote: >-
-      "Barry is part of my inner circle and I've been influenced by his message
-      in the deepest of ways. I hope EVERYONE can hear Barry share his story and
-      perspective - life will never be the same."
+      "I hope EVERYONE can hear Barry share his story and perspective - life
+      will never be the same."
   - enable: true
     name: Andrew Warner
     image: >-
