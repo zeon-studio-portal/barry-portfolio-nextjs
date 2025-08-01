@@ -25,8 +25,8 @@ items:
     designation: YPO Southern 7
     company: 'President '
     quote: >-
-      “Barry's a RARE FIND: Unicorn founder, Fortune 500 corporate innovation
-      leader, Tier 1 VC and high-vibe energy shaman.”
+      “Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
+      and high-vibe energy shaman.”
   - enable: true
     name: JP Bewley
     image: /images/iz-9z93H_400x400.jpg
