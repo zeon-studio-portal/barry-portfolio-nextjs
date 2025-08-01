@@ -5,15 +5,15 @@ subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
     name: Jenma Bardi
-    image: /Screenshot 2024-11-13 at 7.48.04 AM.png
+    image: /images/Screenshot 2024-11-13 at 7.48.04 AM.png
     designation: Volcano Summit
     company: Founder
     quote: >-
-      “Barry keynotes our annual summit with 1,800 attendees. He is one of the
+      “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Dan Springer
-    image: /ds-logo-on-dark.png
+    image: /images/ds-logo-on-dark.png
     designation: DocuSign
     company: 'Chief Executive Officer '
     quote: >-
@@ -21,7 +21,7 @@ items:
       and impact."
   - enable: true
     name: Matti Anttila
-    image: /ypo-logo-white.png
+    image: /images/ypo-logo-white.png
     designation: YPO Southern 7
     company: 'President '
     quote: >-
@@ -38,7 +38,7 @@ items:
       less than 5-years." 
   - enable: true
     name: Cameron Wenaus
-    image: /RG.png
+    image: /images/RG.png
     designation: Retreat.Guru
     company: CEO & Co-founder
     quote: >-
@@ -47,7 +47,7 @@ items:
       teams to execute.”
   - enable: true
     name: Klaas Weima
-    image: /energize.png
+    image: /images/energize.png
     designation: CEO & Founder
     company: Energize
     quote: >-
@@ -55,7 +55,7 @@ items:
       a workshop in Amsterdam.”
   - enable: true
     name: Tim Sae Koo
-    image: /1heart.webp
+    image: /images/1heart.webp
     designation: Co-founder
     company: 1heart.com
     quote: >-
@@ -63,7 +63,7 @@ items:
       people remember to live life as a miracle."
   - enable: true
     name: Keith Ferrazzi
-    image: /FG.jpg
+    image: /images/FG.jpg
     designation: 'Chairman '
     company: Ferrazzi Greenlight
     quote: >-
@@ -82,10 +82,9 @@ items:
   - enable: true
     name: Andrew Warner
     image: >-
-      /mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
+      /images/mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
     designation: Mixergy.com
     company: CEO & Founder
     quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
-
 ---
 
