@@ -1,7 +1,7 @@
 ---
 draft: false
 banner:
-  title: Scaling With Soul
+  title: Scale With Soul
   subtitle: >-
     Barry Stamos is a 3x exited (unicorn) founder who guides leaders to scale
     what matters—profit, purpose, and personal transformation. A true ambassador
