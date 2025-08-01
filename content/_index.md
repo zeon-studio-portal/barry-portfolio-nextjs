@@ -5,8 +5,8 @@ banner:
   subtitle: >-
     Barry Stamos is a Silicon Valley founder (IPO/Unicorn) helping leaders scale
     what matters—profit, purpose, and impact. An AI-Savvy CEO, he brings
-    credibility and soul to the stage, igniting the human spirit for inward and
-    upward growth and sustainable success.
+    credibility and soul to the stage, igniting the human spirit to power
+    sustainable growth inward and upward.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
