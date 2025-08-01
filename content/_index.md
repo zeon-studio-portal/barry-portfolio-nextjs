@@ -3,8 +3,8 @@ draft: false
 banner:
   title: Scale With Soul
   subtitle: >-
-    Barry Stamos is a Silicon Valley founder (IPO/Unicorn) helping leaders scale
-    what matters—profit, purpose, and impact. An AI-Savvy CEO, he brings
+    Barry Stamos is a Silicon Valley founder (IPO/Unicorn) guilding leaders
+    scaling what matters—profit, purpose, and impact. An AI-Savvy CEO, he brings
     credibility and soul to the stage, igniting the human spirit as the ultimate
     growth engine of lasting success.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
