@@ -5,7 +5,8 @@ banner:
   subtitle: >-
     Barry Stamos is a 3x exited unicorn founder helping leaders scale what
     matters—profit, purpose, and impact. A results-driven CEO who brings
-    credibility and soul to the stage to ignite inward and upward growth.
+    credibility and soul to the stage to ignite inward and upward growth and
+    transformation.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
