@@ -44,9 +44,7 @@ items:
     image: /images/energize.png
     designation: CEO & Founder
     company: Energize
-    quote: >-
-      “Barry is an ENERGETIC SPEAKER and consultant and blew my clients away at
-      a workshop in Amsterdam.”
+    quote: “Barry is an ENERGETIC SPEAKER. Blew my clients away.”
   - enable: true
     name: Tim Sae Koo
     image: /images/1heart.webp
