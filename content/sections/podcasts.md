@@ -5,7 +5,7 @@ subtitle: Barry is available for podcasts serving as a source of positivity.
 list:
   - enable: true
     head: Made It Podcast
-    title: 'Scaling Startups to Zebras, Unicorns & Decacorns'
+    title: 'Scaling Startups to Zebras, Unicorns & Decacorns '
     thumbnail: /images/barry-zebra.jpg
     mediaLink_supports_spotify_youtube_vimeo: 'https://youtu.be/gZIoe6bu2GY?si=9bESyaeUCsW5pqN8&t=1'
   - enable: true
