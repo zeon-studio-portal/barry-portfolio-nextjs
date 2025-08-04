@@ -8,7 +8,7 @@ items:
     designation: Executive Producer
     company: Masters of Scale Summit
     quote: >-
-      "A true ambassador of conscious scaling — not a mindset guru, but a
+      "A true ambassador of CONSCIOUS SCALING — not a mindset guru, but a
       seasoned CEO with multiple exits, who brings both credibility and soul to
       the stage."
   - enable: true
