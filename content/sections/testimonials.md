@@ -1,21 +1,21 @@
 ---
 enable: true
 title: WHAT THEY ARE SAYING....
-subtitle: 'Barry’s impact makes all the difference at your events. '
+subtitle: "Barry’s impact makes all the difference at your events. "
 items:
   - enable: true
     name: Jenma Bardi
-    image: /images/2025-08-04_10-14.png
+    image: /images/Screenshot 2024-11-13 at 7.48.04 AM.png
     designation: Volcano Summit
     company: Founder
     quote: >-
       “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
-      MOST IMPACTFUL speakers we've ever had!" 
+      MOST IMPACTFUL speakers we've ever had!"
   - enable: true
     name: Dan Springer
     image: /images/ds-logo-on-dark.png
     designation: DocuSign
-    company: 'Chief Executive Officer '
+    company: "Chief Executive Officer "
     quote: >-
       "Barry IGNITES the transformative spark in others for growth, innovation
       and impact."
@@ -23,7 +23,7 @@ items:
     name: Matti Anttila
     image: /images/ypo-logo-white.png
     designation: YPO Southern 7
-    company: 'President '
+    company: "President "
     quote: >-
       “Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
       and high-vibe energy shaman.”
@@ -54,7 +54,7 @@ items:
   - enable: true
     name: Keith Ferrazzi
     image: /images/FG.jpg
-    designation: 'Chairman '
+    designation: "Chairman "
     company: Ferrazzi Greenlight
     quote: >-
       "Barry is CAPTIVATING. His business acumen gives him permission to stretch
@@ -63,7 +63,7 @@ items:
     name: Mark Worster
     image: /images/EO logo.png
     designation: Past President & Board Member
-    company: 'Entrepreneurs Organization '
+    company: "Entrepreneurs Organization "
     quote: >-
       "I hope EVERYONE can hear Barry share his story and perspective - life
       will never be the same."
@@ -75,4 +75,3 @@ items:
     company: CEO & Founder
     quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
 ---
-
