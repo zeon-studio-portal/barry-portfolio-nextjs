@@ -13,7 +13,7 @@ items:
       exits, who brings both credibility and soul to the stage."
   - enable: true
     name: Jenma Bardi
-    image: /images/2025-08-04_10-14.png
+    image: /images/Volcano Summit logo.png
     designation: Volcano Summit
     company: Founder
     quote: >-
