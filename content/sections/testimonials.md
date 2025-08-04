@@ -5,7 +5,7 @@ subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
     name: Jenma Bardi
-    image: /images/Screenshot 2024-11-13 at 7.48.04 AM.png
+    image: /images/2025-08-04_10-14.png
     designation: Volcano Summit
     company: Founder
     quote: >-
