@@ -3,7 +3,8 @@ enable: true
 title: WHAT THEY ARE SAYING....
 subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
-  - name: Jai Punjabi
+  - enable: true
+    name: Jai Punjabi
     image: /images/Ity2xEj0_400x400.jpg
     designation: Executive Producer
     company: Masters of Scale Summit
