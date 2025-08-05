@@ -34,14 +34,6 @@ items:
       “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
-    name: Keith Ferrazzi
-    image: /images/FG.jpg
-    designation: 'Chairman '
-    company: Ferrazzi Greenlight
-    quote: >-
-      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
-      an audience and open them up in exactly the ways they need."
-  - enable: true
     name: Andrew Warner
     image: >-
       /images/mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
@@ -56,6 +48,14 @@ items:
     quote: >-
       “Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
       and high-vibe energy shaman.”
+  - enable: true
+    name: Keith Ferrazzi
+    image: /images/FG.jpg
+    designation: 'Chairman '
+    company: Ferrazzi Greenlight
+    quote: >-
+      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
+      an audience and open them up in exactly the ways they need."
   - enable: true
     name: Cameron Wenaus
     image: /images/RG.png
