@@ -49,6 +49,14 @@ items:
       “Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
       and high-vibe energy shaman.”
   - enable: true
+    name: Mark Worster
+    image: /images/EO logo.png
+    designation: Past President & Board Member
+    company: 'Entrepreneurs Organization '
+    quote: >-
+      "I hope EVERYONE can hear Barry share his story and perspective - life
+      will never be the same."
+  - enable: true
     name: Keith Ferrazzi
     image: /images/FG.jpg
     designation: 'Chairman '
@@ -57,30 +65,22 @@ items:
       "Barry is CAPTIVATING. His business acumen gives him permission to stretch
       an audience and open them up in exactly the ways they need."
   - enable: true
-    name: Cameron Wenaus
-    image: /images/RG.png
-    designation: Retreat.Guru
-    company: CEO & Co-founder
-    quote: “Barry is a POWERHOUSE. He inspires teams to execute.”
-  - enable: true
     name: Klaas Weima
     image: /images/energize.png
     designation: CEO & Founder
     company: Energize
     quote: “Barry is an ENERGETIC SPEAKER. Blew my clients away.”
   - enable: true
+    name: Cameron Wenaus
+    image: /images/RG.png
+    designation: Retreat.Guru
+    company: CEO & Co-founder
+    quote: “Barry is a POWERHOUSE. He inspires teams to execute.”
+  - enable: true
     name: Tim Sae Koo
     image: /images/1heart.webp
     designation: Co-founder
     company: 1heart.com
     quote: '"Barry is THE GO-TO Change Agent! Authentic big positive energy."'
-  - enable: true
-    name: Mark Worster
-    image: /images/EO logo.png
-    designation: Past President & Board Member
-    company: 'Entrepreneurs Organization '
-    quote: >-
-      "I hope EVERYONE can hear Barry share his story and perspective - life
-      will never be the same."
 ---
 
