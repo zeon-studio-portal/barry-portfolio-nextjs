@@ -4,6 +4,20 @@ title: WHAT THEY ARE SAYING....
 subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
+    name: JP Bewley
+    image: /images/iz-9z93H_400x400.jpg
+    designation: Acxiom
+    company: Global Organization Leader
+    quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
+  - enable: true
+    name: Dan Springer
+    image: /images/ds-logo-on-dark.png
+    designation: DocuSign
+    company: 'Chief Executive Officer '
+    quote: >-
+      "Barry IGNITES the transformative spark in others for growth, innovation
+      and impact."
+  - enable: true
     name: Jai Punjabi
     image: /images/Ity2xEj0_400x400.jpg
     designation: Executive Producer
@@ -20,13 +34,20 @@ items:
       “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
-    name: Dan Springer
-    image: /images/ds-logo-on-dark.png
-    designation: DocuSign
-    company: 'Chief Executive Officer '
+    name: Keith Ferrazzi
+    image: /images/FG.jpg
+    designation: 'Chairman '
+    company: Ferrazzi Greenlight
     quote: >-
-      "Barry IGNITES the transformative spark in others for growth, innovation
-      and impact."
+      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
+      an audience and open them up in exactly the ways they need."
+  - enable: true
+    name: Andrew Warner
+    image: >-
+      /images/mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
+    designation: Mixergy.com
+    company: CEO & Founder
+    quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
   - enable: true
     name: Matti Anttila
     image: /images/ypo-logo-white.png
@@ -35,12 +56,6 @@ items:
     quote: >-
       “Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
       and high-vibe energy shaman.”
-  - enable: true
-    name: JP Bewley
-    image: /images/iz-9z93H_400x400.jpg
-    designation: Acxiom
-    company: Global Organization Leader
-    quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
   - enable: true
     name: Cameron Wenaus
     image: /images/RG.png
@@ -60,14 +75,6 @@ items:
     company: 1heart.com
     quote: '"Barry is THE GO-TO Change Agent! Authentic big positive energy."'
   - enable: true
-    name: Keith Ferrazzi
-    image: /images/FG.jpg
-    designation: 'Chairman '
-    company: Ferrazzi Greenlight
-    quote: >-
-      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
-      an audience and open them up in exactly the ways they need."
-  - enable: true
     name: Mark Worster
     image: /images/EO logo.png
     designation: Past President & Board Member
@@ -75,12 +82,5 @@ items:
     quote: >-
       "I hope EVERYONE can hear Barry share his story and perspective - life
       will never be the same."
-  - enable: true
-    name: Andrew Warner
-    image: >-
-      /images/mixergy-logo-for-open-graph-social-sharing-facebook-twitter-1200x630-1.png
-    designation: Mixergy.com
-    company: CEO & Founder
-    quote: “One of my MOST MEMORABLE podcasts was with a guy named Barry Stamos."
 ---
 
