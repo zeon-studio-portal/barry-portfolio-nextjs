@@ -10,6 +10,14 @@ items:
     company: Global Organization Leader
     quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
   - enable: true
+    name: Keith Ferrazzi
+    image: /images/FG.jpg
+    designation: 'Chairman '
+    company: Ferrazzi Greenlight
+    quote: >-
+      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
+      an audience and open them up in exactly the ways they need."
+  - enable: true
     name: Jenma Bardi
     image: /images/Volcano Summit logo.png
     designation: Volcano Summit
@@ -18,14 +26,6 @@ items:
       “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
       MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
-    name: Dan Springer
-    image: /images/ds-logo-on-dark.png
-    designation: DocuSign
-    company: 'Chief Executive Officer '
-    quote: >-
-      "Barry IGNITES the transformative spark in others for growth, innovation
-      and impact."
-  - enable: true
     name: Jai Punjabi
     image: /images/Ity2xEj0_400x400.jpg
     designation: Executive Producer
@@ -33,6 +33,14 @@ items:
     quote: >-
       "A true ambassador of CONSCIOUS SCALING. Barry's a seasoned CEO with
       multiple exits, who brings both credibility and soul to the stage."
+  - enable: true
+    name: Dan Springer
+    image: /images/ds-logo-on-dark.png
+    designation: DocuSign
+    company: 'Chief Executive Officer '
+    quote: >-
+      "Barry IGNITES the transformative spark in others for growth, innovation
+      and impact."
   - enable: true
     name: Andrew Warner
     image: >-
@@ -56,14 +64,6 @@ items:
     quote: >-
       "I hope EVERYONE can hear Barry share his story and perspective - life
       will never be the same."
-  - enable: true
-    name: Keith Ferrazzi
-    image: /images/FG.jpg
-    designation: 'Chairman '
-    company: Ferrazzi Greenlight
-    quote: >-
-      "Barry is CAPTIVATING. His business acumen gives him permission to stretch
-      an audience and open them up in exactly the ways they need."
   - enable: true
     name: Klaas Weima
     image: /images/energize.png
