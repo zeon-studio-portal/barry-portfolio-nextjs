@@ -17,8 +17,8 @@ items:
     designation: Volcano Summit
     company: Founder
     quote: >-
-      “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
-      MOST IMPACTFUL speakers we've ever had!" 
+      “Barry keynotes our annual summit with 2,000+ attendees. One of the MOST
+      IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Jai Punjabi
     image: /images/Ity2xEj0_400x400.jpg
