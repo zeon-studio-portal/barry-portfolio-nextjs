@@ -3,7 +3,7 @@ draft: false
 banner:
   title: Scale With Soul
   subtitle: >-
-    Barry Stamos is a successful Silicon Valley founder helping leaders scale
+    Barry Stamos is a successful Silicon Valley founder who helps leaders scale
     what matters—profit, purpose, and impact. An AI-savvy CEO, he brings
     credibility and soul to the stage, igniting the human spirit as the ultimate
     growth engine for lasting success.
