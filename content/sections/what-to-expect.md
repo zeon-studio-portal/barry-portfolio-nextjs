@@ -11,11 +11,4 @@ button:
   link: /#keynote-speaker
 ---
 
-Barry ignites hearts and minds, whether speaking on stage to an audience of
-10,000+, facilitating an intimate executive workshop, or guiding
-transformative off-site retreats. By tailoring each talk with care, his
-stories, cautionary tales, strategies, and actionable insights leave a
-lasting impact on audiences worldwide. More than just a talk, Barry sparks within each
-listener a drive to channel their energy and business pursuits into
-meaningful, positive contributions resulting in deeper and more fulfilling
-work and life success.
+Barry Stamos speaks to spark transformation He is a true ambassador of conscious scaling—not a mindset guru, but a seasoned CEO with multiple exits, including a unicorn and IPO. He brings both credibility and soul to the stage. With battle-tested wisdom and a proven playbook for scaling companies that lead with purpose. Whether energizing arenas of 10,000+, facilitating intimate boardroom breakthroughs, or leading immersive off-sites, Barry delivers high-impact experiences that shift thinking and spark meaningful action. His stories, strategies, and cautionary tales move audiences beyond inspiration into execution, aligning business success with human fulfillment.
