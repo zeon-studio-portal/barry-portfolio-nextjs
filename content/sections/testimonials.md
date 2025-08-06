@@ -10,6 +10,14 @@ items:
     company: Global Organization Leader
     quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
   - enable: true
+    name: Jenma Bardi
+    image: /images/Volcano Summit logo.png
+    designation: Volcano Summit
+    company: Founder
+    quote: >-
+      “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
+      MOST IMPACTFUL speakers we've ever had!" 
+  - enable: true
     name: Dan Springer
     image: /images/ds-logo-on-dark.png
     designation: DocuSign
@@ -25,14 +33,6 @@ items:
     quote: >-
       "A true ambassador of CONSCIOUS SCALING. Barry's a seasoned CEO with
       multiple exits, who brings both credibility and soul to the stage."
-  - enable: true
-    name: Jenma Bardi
-    image: /images/Volcano Summit logo.png
-    designation: Volcano Summit
-    company: Founder
-    quote: >-
-      “Barry keynotes our annual summit with 2,000+ attendees. He is one of the
-      MOST IMPACTFUL speakers we've ever had!" 
   - enable: true
     name: Andrew Warner
     image: >-
