@@ -4,12 +4,6 @@ title: WHAT THEY ARE SAYING....
 subtitle: 'Barry’s impact makes all the difference at your events. '
 items:
   - enable: true
-    name: JP Bewley
-    image: /images/iz-9z93H_400x400.jpg
-    designation: Acxiom
-    company: Global Organization Leader
-    quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
-  - enable: true
     name: Keith Ferrazzi
     image: /images/FG.jpg
     designation: 'Chairman '
@@ -64,6 +58,12 @@ items:
     quote: >-
       "I hope EVERYONE can hear Barry share his story and perspective - life
       will never be the same."
+  - enable: true
+    name: JP Bewley
+    image: /images/iz-9z93H_400x400.jpg
+    designation: Acxiom
+    company: Global Organization Leader
+    quote: '“Barry is THE most upbeat and energetic change agent I have EVER met." '
   - enable: true
     name: Klaas Weima
     image: /images/energize.png
