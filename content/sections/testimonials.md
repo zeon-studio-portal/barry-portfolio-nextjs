@@ -52,8 +52,8 @@ items:
     designation: Past President & Board Member
     company: 'Entrepreneurs Organization '
     quote: >-
-      "I hope EVERYONE can hear Barry share his story and perspective - life
-      will never be the same."
+      "I hope EVERYONE can hear Barry share his story - life will never be the
+      same."
   - enable: true
     name: JP Bewley
     image: /images/iz-9z93H_400x400.jpg
