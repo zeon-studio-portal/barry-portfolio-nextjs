@@ -10,7 +10,7 @@ items:
     company: Ferrazzi Greenlight
     quote: >-
       "Barry is CAPTIVATING. His business acumen allows him to open and stretch
-      an audience in exactly the way they need." 
+      an audience in exactly the way they need."
   - enable: true
     name: Jenma Bardi
     image: /images/Volcano Summit logo.png
