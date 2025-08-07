@@ -8,7 +8,7 @@ items:
     image: /images/FG.jpg
     designation: 'Chairman '
     company: Ferrazzi Greenlight
-    quote: '"Barry is CAPTIVATING."'
+    quote: '"Barry is CAPTIVATING." '
   - enable: true
     name: Jenma Bardi
     image: /images/Volcano Summit logo.png
