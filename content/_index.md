@@ -7,7 +7,7 @@ banner:
     what matters—profit, purpose, and impact. An AI-savvy CEO with multiple
     exits (IPO/Unicorn), he brings credibility and soul to the stage, sharing
     wisdom to igniting the human spirit as the ultimate growth engine for
-    sustainable and lasting success.
+    sustainable, lasting success.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
