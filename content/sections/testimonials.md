@@ -24,7 +24,9 @@ items:
     image: /images/Ity2xEj0_400x400.jpg
     designation: Executive Producer
     company: Masters of Scale Summit
-    quote: '"A true ambassador of CONSCIOUS SCALING."'
+    quote: >-
+      "A true ambassador of CONSCIOUS SCALING...brings both credibility and soul
+      to the stage.”
   - enable: true
     name: Dan Springer
     image: /images/ds-logo-on-dark.png
