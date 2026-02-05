@@ -1,12 +1,6 @@
 {
-  "media": {
-    "root": "public/images",
-    "public": "public"
-  },
-  "content": {
-    "root": "content"
-  },
-  "themeConfig": ["config/config.json", "config/menu.json", "config/social.json", "config/theme.json"],
+  "media": "public/images",
+  "content": "content",
   "arrangement": [
     {
       "type": "file",
@@ -33,7 +27,6 @@
       "targetPath": "content/sections/highlights.md",
       "groupName": "Highlights"
     },
-
     {
       "type": "file",
       "targetPath": "content/sections/clients.md",
@@ -84,5 +77,12 @@
       "targetPath": "content/404.md",
       "groupName": "404"
     }
+  ],
+  "public": "public",
+  "configs": [
+    "config/config.json",
+    "config/menu.json",
+    "config/social.json",
+    "config/theme.json"
   ]
 }
