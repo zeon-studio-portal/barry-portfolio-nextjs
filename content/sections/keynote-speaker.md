@@ -32,6 +32,7 @@ list:
       - title: A Practical Framework for Leading Through Uncertainty When the Old
           Scoreboard Stops Working
       - title: What Creates Meaning, Trust, and Belonging When Work Changes Rapidly
+      - title: Why Human Evolution Is Becoming a Leadership Imperative
     footer: "AI is changing business faster than humans are adapting. This keynote
       gives leaders a framework for staying valuable, trusted, and effective
       while the rules of leadership are being rewritten in real time. "
