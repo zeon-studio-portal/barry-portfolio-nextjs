@@ -13,11 +13,17 @@ button:
   label: Book Barry For Your Next Event
   link: https://calendly.com/stamos
 ---
-Barry Stamos has built billion-dollar companies, scaled through multiple waves of technological disruption, and now works alongside 250+ exited founders building what comes next.
+Barry Stamos has built billion-dollar companies and now works alongside 250+ exited founders building what comes next.
 
-After 25+ years as a Silicon Valley founder, Fortune 500 innovation leader, venture-backed operator, and advisor, Barry believes most organizations are focused on the wrong AI conversation entirely.
+After 25+ years across Silicon Valley startups, Fortune 500 innovation, venture capital, and leadership advisory, he believes most organizations are focused on the wrong AI conversation entirely.
 
 The real risk is not that AI becomes more powerful.
+
+It’s that humans fail to evolve alongside it.
+
+Barry’s work explores how AI is reshaping leadership, identity, trust, culture, decision-making, and what it means to stay valuable in a world where execution is becoming automated.
+
+He is the founder of Supernova, a network of exited founders backing high-growth companies, and previously helped scale Responsys to a unicorn IPO and \$1.6B exit to Oracle. risk is not that AI becomes more powerful.
 
 It’s that humans fail to evolve alongside it.
 
