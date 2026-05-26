@@ -1,10 +1,10 @@
 ---
 enable: true
-title: WATCH BARRY'S SPEAKER REEL
+title: WATCH BARRY LIVE
 subtitle: >-
-  Barry Stamos is a top-rated keynote speaker, change agent, and community
-  builder.
+  Barry speaks about the human consequences of AI before most leaders can fully
+  articulate what they’re feeling.
 thumbnail: /images/Barry Stamos - Human Spirit At Work.png
 mediaLink_supports_youtube_vimeo: 'https://youtu.be/hHOAOAT7o98'
 ---
-
+​
