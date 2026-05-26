@@ -184,36 +184,82 @@ list:
     image: /images/interviews/image-1.png
     imageAlt: keynotes image
     description: >-
-      Artificial Intelligence (AI) is rapidly transforming every aspect of our
-      lives, especially how we work and communicate to how we make decisions and
-      solve problems. Yet, despite its growing influence, many individuals and
-      organizations struggle to keep pace with AI advancements and leverage them
-      effectively. The gap between potential and reality often leads to missed
-      opportunities, inefficiencies, and a lack of preparedness for the future.
+      AI is not just changing business. It is rewriting status, leadership,
+      identity, trust, and what it means to be valuable.
 
-      In this keynote session, you will dive deep into the transformative power
-      of AI and how it is reshaping the world around us. We will explore the
-      latest AI trends, innovations, and real-world applications that are
-      driving change across industries. You’ll gain a clear understanding of how
-      AI can be harnessed to enhance productivity, creativity, and
-      decision-making in your personal and professional life. 
+
+      Every executive in this room can feel it.
+
+
+      The speed.
+
+      The uncertainty.
+
+      The pressure.
+
+      The quiet realization that entire careers were built on skills AI is
+      beginning to compress in real time.
+
+
+      Most companies think they are facing a technology transition.
+
+
+      They are not.
+
+
+      They are facing a human transition.
+
+
+      For the first time in modern business history, execution is becoming
+      commoditized at scale. AI can write. Analyze. Design. Code. Forecast.
+      Optimize. Automate. Entire departments are being reshaped in quarters
+      instead of decades.
+
+
+      But beneath the excitement is something leaders rarely say out loud:
+
+
+      If AI becomes better at the thing that made me valuable… then who do I
+      become next?
+
+
+      That question is now sitting quietly inside boardrooms, founder
+      communities, leadership teams, and entire industries.
+
+
+      What Barry sees happening behind closed doors is clear:
+
+
+      The winners of the AI era will not simply be the fastest adopters of
+      technology.
+
+
+      They will be the leaders who adapt psychologically, emotionally,
+      culturally, and strategically faster than everyone else.
+
+
+      This keynote challenges audiences to rethink leadership itself in an era
+      where information is infinite, execution is cheap, and human judgment
+      becomes the last true differentiator.
     keytakeways:
-      - title: "Adapting Faster To Leverage AI's Impact: Learn how AI is revolutionizing
-          various sectors and the implications for your industry and everyday
-          life."
-      - title: "AI Innovations: Discover cutting-edge AI technologies and how they are
-          being applied to solve complex challenges and create new
-          opportunities."
-      - title: "Practical AI Integration: Gain strategies for integrating AI into your
-          workflows and business models to drive efficiency, innovation, and
-          growth."
-      - title: "Future-Ready Mindset: Explore how to cultivate a mindset that embraces
-          AI as a tool for continuous improvement and adaptability in a changing
-          world."
-    footer: This session will demystify AI, providing you with the insights and
-      tools you need to stay ahead in a rapidly evolving landscape. By the end
-      of this session, you will be equipped with a clear vision of how AI is
-      shaping tomorrow's world today and the practical knowledge to leverage AI
-      in ways that will future-proof your career, business, and life.
+      - title: A new framework for understanding how AI is reshaping leadership,
+          identity, and organizational value creation
+      - title: The hidden psychological shifts quietly impacting executives, founders,
+          and high performers during rapid AI disruption
+      - title: "The human capabilities that increase in value as automation rises:
+          judgment, trust, emotional resilience, self-awareness, and meaning"
+      - title: A practical lens for building organizations that become more human as
+          technology accelerates, not less
+    footer: >-
+      Most AI talks focus on tools, productivity, and efficiency.
+
+
+      Very few address the deeper human consequences reshaping leadership,
+      culture, decision-making, and enterprise value itself.
+
+
+      This is the conversation leaders are already having privately.
+
+      Soon it will become the defining business conversation of the decade.
 ---
 ​
