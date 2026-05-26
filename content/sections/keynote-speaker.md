@@ -20,11 +20,8 @@ list:
       - title: Which Leadership Skills Compound in the AI Era — and Which Quietly Erode
       - title: The Three-Phase Identity Transition Every High Performer Goes Through
           During Major Technology Shifts
-      - title: "Vulnerability Is Strength: Learn how embracing vulnerability, sharing
-          your struggles, and owning your breakdowns can lead to powerful
-          breakthroughs in both your personal and professional life. Barry’s
-          story shows that the most successful leaders are those who are willing
-          to be open and honest about their challenges."
+      - title: How to Build Leadership Identity Around Human Capabilities AI Cannot
+          Replace
       - title: "Learn from Real-Life Struggles: Get an inside look into the realities of
           building companies, facing setbacks, and dealing with personal and
           professional conflicts. Barry’s breakdowns are your lessons—avoid the
