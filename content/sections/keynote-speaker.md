@@ -29,9 +29,11 @@ list:
       few years ago are no longer the same skills that matter most today. As AI
       compresses expertise, automates execution, and accelerates decision
       cycles, the leaders who adapt their identity, judgment, and leadership
-      style fastest will define the next decade. The ones who don’t risk
-      becoming highly experienced operators in a game that no longer rewards
-      what made them successful in the first place.
+      style fastest will define the next decade. The greatest risk is not AI
+      itself. It is human stagnation during a period of exponential
+      technological acceleration. The leaders and organizations that evolve
+      fastest psychologically, strategically, and culturally will shape the next
+      era of business and society.
   - badge: Leadership, Culture & Human Performance
     title: "**02** AI Is Making Humans More Valuable"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
