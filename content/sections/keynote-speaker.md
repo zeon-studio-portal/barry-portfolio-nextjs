@@ -63,12 +63,12 @@ list:
       - title: |
           How to Avoid Becoming Operationally Faster While Strategically Weaker
       - title: The Leadership Traits Compounding Most in the AI Economy
-    footer: This keynote is for anyone who wants to understand the human side of
-      leadership and entrepreneurship—the parts that don’t often make it to the
-      boardroom but are essential for creating sustainable, impactful success.
-      It’s a powerful reminder that the path to greatness is rarely linear, and
-      by embracing vulnerability and learning from each other’s journeys, we can
-      all play a greater game, both in work and in life.
+    footer: "AI is rapidly democratizing execution across nearly every industry. As
+      information, workflows, and production become increasingly automated,
+      companies can no longer rely on speed alone as a differentiator. The
+      organizations that outperform over the next decade will be the ones that
+      strengthen the human capabilities AI cannot replicate: trust, culture,
+      judgment, adaptability, and leadership under pressure."
   - badge: Leadership & Impact
     title: "**03** The Heart of Leadership: Love Is Transformational Technology"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
