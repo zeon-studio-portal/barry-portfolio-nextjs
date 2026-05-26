@@ -1,14 +1,24 @@
 ---
 draft: false
 enable: true
-title: WHAT TO **EXPECT**
+title: WHAT LEADERS NEED **NEXT**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
-quote: '"Barry lights a fire that lasts long after the applause."'
-name: KEYNOTE SPEAKER
+quote: '“The leaders winning next will evolve faster than the technology.”'
+name: KEYNOTE EXPERIENCES
 button:
   enable: true
-  label: Keynote Sessions
+  label: Keynote Experiences
   link: /#keynote-speaker
 ---
+Most AI talks focus on tools, prompts, and productivity.
 
-Barry speaks to spark transformation. From keynote talks to audiences of 10,000+, to intimate workshops and boardroom breakthroughs, Barry delivers high-impact experiences that shift thinking and ignite action.  He is a true ambassador of conscious scaling—not a mindset guru, but a seasoned CEO with multiple exits, including a unicorn and IPO. He brings both credibility and soul to the stage, with battle-tested wisdom and a proven playbook for scaling companies that lead with purpose. His hard-earned stories and strategies move audiences beyond inspiration into execution, aligning business success with human fulfillment.
+Barry speaks about the deeper shift happening underneath them:
+&#x20;the future of leadership, human performance, trust, culture, and identity in an era where machines increasingly outperform humans at execution.
+
+His keynotes challenge audiences to rethink what creates value when information becomes infinite and automation becomes everywhere.
+
+Drawing from decades building companies through major technology shifts, Barry combines Silicon Valley operating experience with insights from 250+ exited founders actively shaping the future of business.
+
+The result is not motivation.
+
+It’s a new lens for leading through one of the fastest transformations in modern history.&#x20;
