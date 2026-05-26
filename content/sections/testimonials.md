@@ -2,7 +2,7 @@
 enable: true
 title: Why Leaders Are Bringing Barry In...
 subtitle: 'Founders, executives, and leadership teams are realizing AI is not
-  just changing business. It’s changing humans.'
+  just changing business. It’s changing humans. '
 items:
   - enable: true
     name: Keith Ferrazzi
