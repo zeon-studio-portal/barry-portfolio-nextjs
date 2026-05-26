@@ -97,19 +97,14 @@ list:
     keytakeways:
       - title: The Psychological Impact of AI on Leadership Identity and Self-Worth
       - title: Why Expertise Alone Is Becoming a Dangerous Leadership Strategy
-      - title: "Impact and Legacy: Discover how to leave a lasting legacy by leading
-          with purpose and using your influence to create positive, sustainable
-          change in the world."
-      - title: "Creating a Compassionate Culture: Find out how to infuse your company
-          culture with humanity, ensuring that technology complements rather
-          than replaces the essential human touch."
-    footer: >
-      By the end of this session, you’ll be inspired to leverage the power of
-      humanity and love as key drivers of success. You’ll gain insights into how
-      these qualities can enhance your leadership and foster a thriving company
-      culture, proving that even in an era of rapid technological change, and
-      create a workplace where both humans and machines work together seamlessly
-      and effectively.
+      - title: How High Performers Successfully Reinvent During Major Technology Shifts
+      - title: What Humans Must Develop as Machines Absorb More Cognitive Work
+    footer: The World Economic Forum estimates that billions of workers globally
+      will need significant reskilling as AI reshapes modern work. But the
+      deeper challenge is psychological, not technical. Entire industries are
+      entering an era where competence, relevance, and status are being
+      redefined in real time. Leaders who adapt internally will outperform those
+      who only adapt operationally.
   - badge: Motivation & Culture
     title: "**04** A Game-Changing Mindset: It's Not Business, It's Personal"
     mediaLink_supports_youtube_vimeo: https://vimeo.com/311508179
