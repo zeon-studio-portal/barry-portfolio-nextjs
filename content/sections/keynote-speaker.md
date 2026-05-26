@@ -62,6 +62,7 @@ list:
           Automated
       - title: |
           How to Avoid Becoming Operationally Faster While Strategically Weaker
+      - title: The Leadership Traits Compounding Most in the AI Economy
     footer: This keynote is for anyone who wants to understand the human side of
       leadership and entrepreneurship—the parts that don’t often make it to the
       boardroom but are essential for creating sustainable, impactful success.
