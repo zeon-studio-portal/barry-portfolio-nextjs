@@ -69,29 +69,33 @@ list:
       organizations that outperform over the next decade will be the ones that
       strengthen the human capabilities AI cannot replicate: trust, culture,
       judgment, adaptability, and leadership under pressure."
-  - badge: Leadership & Impact
-    title: "**03** The Heart of Leadership: Love Is Transformational Technology"
+  - badge: AI, Identity & Leadership
+    title: "**03** What Happens When AI Becomes Better Than You At The Thing That
+      Made You Valuable?"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=tH7ctIsvhxw
     image: /8d56211e-e0df-42c8-af6d-d768f9440082.JPG
     imageAlt: keynotes image
     description: >-
-      In a world where machines handle more tasks and data drives decisions,
-      leaders face the challenge of maintaining the essence of humanity in their
-      organizations. Without a focus on these core human values, businesses risk
-      losing the warmth and authenticity that foster true loyalty and
-      engagement.
+      For decades, high performers built identities around expertise.
 
-      This keynote emphasizes that while technology reshapes the business
-      landscape, our humanity and love are powerful superpowers that can set us
-      apart. By leading with heart and purpose, you can harness these intrinsic
-      qualities to drive success and create a more compassionate and effective
-      workplace. The session will reveal how heart-led leadership can elevate
-      your business, fostering deeper connections and a vibrant company culture
-      that thrives amidst technological advancement.
+
+      The smartest strategist.
+
+      The elite operator.
+
+      The trusted advisor.
+
+      The rainmaker.
+
+
+      AI is disrupting all of it simultaneously.
+
+
+      Barry explores the hidden identity crisis spreading through founders,
+      executives, creators, and leadership teams as technology reshapes what
+      humans are valued for in business and life.
     keytakeways:
-      - title: "Put Love To Work: Understand how love and empathy can act as the
-          foundational technology that enhances human-machine collaboration and
-          connection."
+      - title: The Psychological Impact of AI on Leadership Identity and Self-Worth
       - title: "Purpose-Driven Leadership: Learn how to integrate your core values into
           your leadership approach, using them as a force to inspire and connect
           with your team on a deeper level."
