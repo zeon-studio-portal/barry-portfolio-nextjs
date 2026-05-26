@@ -96,9 +96,7 @@ list:
       humans are valued for in business and life.
     keytakeways:
       - title: The Psychological Impact of AI on Leadership Identity and Self-Worth
-      - title: "Purpose-Driven Leadership: Learn how to integrate your core values into
-          your leadership approach, using them as a force to inspire and connect
-          with your team on a deeper level."
+      - title: Why Expertise Alone Is Becoming a Dangerous Leadership Strategy
       - title: "Impact and Legacy: Discover how to leave a lasting legacy by leading
           with purpose and using your influence to create positive, sustainable
           change in the world."
