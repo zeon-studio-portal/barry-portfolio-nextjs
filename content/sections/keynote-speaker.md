@@ -227,8 +227,16 @@ list:
       communities, leadership teams, and entire industries.
 
 
-      What Barry sees happening behind closed doors is clear:
+      Barry Stamos has spent 25+ years at the intersection of technology
+      disruption and human performance. He has built venture-backed companies
+      through multiple platform shifts, scaled a company to a $1.6B exit, led
+      innovation inside Fortune 500 organizations, advised hypergrowth startups,
+      and now leads Supernova, a network of 250+ exited founders deploying
+      capital and operating experience into the next generation of AI-era
+      companies.
 
+
+      What he sees happening behind closed doors is clear:
 
       The winners of the AI era will not simply be the fastest adopters of
       technology.
