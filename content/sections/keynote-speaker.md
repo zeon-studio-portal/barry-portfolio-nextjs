@@ -18,12 +18,8 @@ list:
       shaping what comes next.
     keytakeways:
       - title: Which Leadership Skills Compound in the AI Era — and Which Quietly Erode
-      - title: "Breakdowns Lead to Breakthroughs: Understand that failure and challenges
-          are not the end—they are the starting point for growth. Barry’s story
-          shows how the moments of deepest despair can be the catalysts for the
-          greatest transformations. By sharing his own journey, he teaches that
-          breakthroughs often come when you least expect them, and they can lead
-          you to a more purposeful life and business."
+      - title: The Three-Phase Identity Transition Every High Performer Goes Through
+          During Major Technology Shifts
       - title: "Vulnerability Is Strength: Learn how embracing vulnerability, sharing
           your struggles, and owning your breakdowns can lead to powerful
           breakthroughs in both your personal and professional life. Barry’s
