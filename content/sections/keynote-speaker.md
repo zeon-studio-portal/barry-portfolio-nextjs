@@ -58,9 +58,8 @@ list:
       - title: Why AI Is Flattening Traditional Competitive Advantages Faster Than Most
           Leaders Realize
       - title: >
-          Integrating Rituals into Daily Life: Gain practical tips on how to
-          seamlessly incorporate these rituals into your day, even amidst a
-          hectic lifestyle.
+          The Human Capabilities Increasing in Value as Execution Becomes
+          Automated
       - title: >
           Mastering 8 Dimensions of Wellbeing: Explore how consistent daily
           rituals can lead to long-term wellbeing (physical, emotional,
