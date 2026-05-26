@@ -22,11 +22,8 @@ list:
           During Major Technology Shifts
       - title: How to Build Leadership Identity Around Human Capabilities AI Cannot
           Replace
-      - title: "Learn from Real-Life Struggles: Get an inside look into the realities of
-          building companies, facing setbacks, and dealing with personal and
-          professional conflicts. Barry’s breakdowns are your lessons—avoid the
-          mistakes he made and implement the strategies he used to emerge
-          stronger and wiser."
+      - title: A Practical Framework for Leading Through Uncertainty When the Old
+          Scoreboard Stops Working
     footer: This keynote is for anyone who wants to understand the human side of
       leadership and entrepreneurship—the parts that don’t often make it to the
       boardroom but are essential for creating sustainable, impactful success.
