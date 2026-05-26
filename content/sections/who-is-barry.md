@@ -10,7 +10,7 @@ linkedin:
   link: https://www.linkedin.com/in/bstamos/
 button:
   enable: true
-  label: Book Barry For Your Next Event
+  label: "Book Barry "
   link: https://calendly.com/stamos
 ---
 Barry Stamos has built billion-dollar companies and now works alongside 250+ exited founders building what comes next.
