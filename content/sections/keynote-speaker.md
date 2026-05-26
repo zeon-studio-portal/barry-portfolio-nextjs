@@ -34,31 +34,29 @@ list:
     footer: "AI is changing business faster than humans are adapting. This keynote
       gives leaders a framework for staying valuable, trusted, and effective
       while the rules of leadership are being rewritten in real time. "
-  - badge: Mental Health & Wellbeing
-    title: "**02** Work & Life Balance: Fulfilling Needs As Multidimensional Beings"
+  - badge: Leadership, Culture & Human Performance
+    title: "**02** AI Is Making Humans More Valuable"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
     image: /images/keynote-sessions/image-2.png
     imageAlt: keynotes image
-    description: In today's fast-paced world, many of us struggle to maintain a
-      sense of balance and wellbeing. The constant demands of work, family, and
-      social obligations often leave us feeling overwhelmed and disconnected
-      from our own needs. Despite our best intentions, we find ourselves caught
-      in a cycle of stress and burnout, unable to achieve the lasting
-      fulfillment and happiness we seek. In this keynote session, you will
-      discover the the transformative power of daily rituals in mastering life
-      and achieving true, lasting wellbeing. Drawing from scientific research
-      and timeless wisdom, we will explore practical, actionable strategies that
-      can be integrated into even the busiest of schedules. You will learn how
-      small, intentional habits can create a ripple effect, improving not only
-      your physical health but also your mental, emotional, and spiritual
-      wellbeing. You will be equipped with the knowledge and tools to create
-      lasting positive change in your life, ensuring that you not only survive
-      but truly thrive in all aspects of your work and life.
+    description: >-
+      Most organizations are asking the wrong question about AI.
+
+
+      They ask how to become more efficient.
+
+
+      The companies pulling away are asking something far more important:
+
+      What becomes more valuable when execution is free?
+
+
+      Barry explores why trust, judgment, emotional resilience, relationships,
+      culture, and leadership clarity are becoming the real competitive
+      advantages in a world where AI increasingly automates operational wor
     keytakeways:
-      - title: >
-          Understanding Rituals: Learn the difference between daily habits,
-          routines and rituals, and why rituals are essential for achieving a
-          balanced and fulfilling life.
+      - title: Why AI Is Flattening Traditional Competitive Advantages Faster Than Most
+          Leaders Realize
       - title: >
           Integrating Rituals into Daily Life: Gain practical tips on how to
           seamlessly incorporate these rituals into your day, even amidst a
