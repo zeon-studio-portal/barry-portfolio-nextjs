@@ -15,7 +15,14 @@ list:
       trust, culture, and what it means to stay valuable. Barry explores the
       human side of AI disruption through the lens of a founder who has built
       billion-dollar companies and now works alongside 250+ exited founders
-      shaping what comes next.
+      shaping what comes next. <br> Why this matters now? </br>McKinsey
+      estimates that 70% of the skills that predicted leadership success just a
+      few years ago are no longer the same skills that matter most today. As AI
+      compresses expertise, automates execution, and accelerates decision
+      cycles, the leaders who adapt their identity, judgment, and leadership
+      style fastest will define the next decade. The ones who don’t risk
+      becoming highly experienced operators in a game that no longer rewards
+      what made them successful in the first place.
     keytakeways:
       - title: Which Leadership Skills Compound in the AI Era — and Which Quietly Erode
       - title: The Three-Phase Identity Transition Every High Performer Goes Through
@@ -24,9 +31,9 @@ list:
           Replace
       - title: A Practical Framework for Leading Through Uncertainty When the Old
           Scoreboard Stops Working
-    footer: AI is changing business faster than humans are adapting. This keynote
+    footer: "AI is changing business faster than humans are adapting. This keynote
       gives leaders a framework for staying valuable, trusted, and effective
-      while the rules of leadership are being rewritten in real time.
+      while the rules of leadership are being rewritten in real time. "
   - badge: Mental Health & Wellbeing
     title: "**02** Work & Life Balance: Fulfilling Needs As Multidimensional Beings"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
