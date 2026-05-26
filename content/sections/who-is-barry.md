@@ -30,3 +30,7 @@ It’s that humans fail to evolve alongside it.
 His work explores how AI is reshaping leadership, identity, trust, culture, decision-making, and what it means to stay valuable in a world where execution is becoming automated.
 
 Barry is the founder of Supernova, a network of exited founders backing high-growth companies, and previously helped scale Responsys to a unicorn IPO and \$1.6B exit to Oracle.
+
+Barry combines Silicon Valley credibility with decades of work around leadership transformation, founder psychology, performance, and human potential.
+
+That combination allows him to speak to both the strategic and deeply personal dimensions of AI disruption in a way audiences rarely experience.
