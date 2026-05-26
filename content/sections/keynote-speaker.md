@@ -179,7 +179,7 @@ list:
       This is a must-attend session for anyone serious about accelerating growth
       and ensuring their business thrives in a competitive landscape.
   - badge: AI & the Future of Work
-    title: "**06** AI Extreme Makeovers: Tomorrow’s World Today"
+    title: "**06** The Human Crisis Hidden Inside the AI Boom"
     mediaLink_supports_youtube_vimeo: https://youtu.be/dG2pjcAhlM0?si=kEoEJnOcgEg-vuDO
     image: /images/interviews/image-1.png
     imageAlt: keynotes image
