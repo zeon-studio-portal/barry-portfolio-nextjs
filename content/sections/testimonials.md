@@ -43,8 +43,8 @@ items:
     image: /images/ypo-logo-white.png
     designation: YPO Southern 7
     company: "President "
-    quote: "“Barry's a RARE FIND: Unicorn founder, Fortune 500 executive, Tier 1 VC
-      and high-vibe energy shaman.”"
+    quote: “Barry connects AI, leadership, culture, and human performance in a way
+      that hits founders immediately.”
   - enable: true
     name: Mark Worster
     image: /images/EO logo.png
