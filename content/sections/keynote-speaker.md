@@ -5,37 +5,19 @@ subtitle: >-
   Barry speaks about leadership, culture, identity, and human adaptation in a
   world where AI is changing faster than people are prepared for.
 list:
-  - badge: Motivation, Strategy & Innovation
-    title: "**01** The Truth Behind Success: Wisdom From A Unicorn Founder"
+  - badge: AI, Leadership & Human Evolution
+    title: "**01** The Exit Nobody Talks About"
     mediaLink_supports_youtube_vimeo: ""
     image: /images/09ce8d68-d3ed-4567-93ce-79abdd069e53.JPG
     imageAlt: keynotes image
-    description: In this deeply personal and transformative keynote, Barry Stamos
-      shares the raw, unfiltered story of his journey, revealing both the
-      breakdowns and breakthroughs that have shaped his path. With vulnerability
-      and honesty, Barry walks you through the highs and lows of building
-      companies, navigating failure, and facing the challenges that come with
-      success. Through his own struggles and lessons learned, he opens the door
-      for you to explore how these truths can help you create better companies,
-      stronger teams, and a more meaningful life.  This talk isn’t just about
-      success—it’s about embracing failure, growth, and reinvention as essential
-      parts of the journey. Barry shares his story not for applause, but as a
-      blueprint for others to avoid common pitfalls, learn from mistakes, and
-      rise above obstacles. By exposing the personal side of entrepreneurship,
-      Barry helps you see that your breakdowns are often the very things that
-      lead to breakthroughs, not just for your business, but for you as a leader
-      and a human being.  In this keynote, Barry emphasizes the importance of
-      vulnerability, shared wisdom, and self-awareness in creating not only
-      impactful businesses but also a life aligned with purpose and fulfillment.
-      Through his story, you’ll discover how embracing both the light and dark
-      sides of entrepreneurship can lead to real transformation—at work, at
-      home, and within yourself.
+    description: AI won't save you! Human evolution might. If you lead it right. AI
+      is not just changing business. It is rewriting leadership, identity,
+      trust, culture, and what it means to stay valuable. Barry explores the
+      human side of AI disruption through the lens of a founder who has built
+      billion-dollar companies and now works alongside 250+ exited founders
+      shaping what comes next.
     keytakeways:
-      - title: "Building Better Companies Starts with Building Better Leaders: Discover
-          how your personal evolution as a leader impacts the success of your
-          company. Barry shares how working on himself, understanding his
-          weaknesses, and learning from his mistakes allowed him to lead more
-          effectively and create businesses that matter."
+      - title: Which Leadership Skills Compound in the AI Era — and Which Quietly Erode
       - title: "Breakdowns Lead to Breakthroughs: Understand that failure and challenges
           are not the end—they are the starting point for growth. Barry’s story
           shows how the moments of deepest despair can be the catalysts for the
