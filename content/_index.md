@@ -2,12 +2,14 @@
 draft: false
 banner:
   title: AI Won't Save You
-  subtitle: "Barry Stamos is a Silicon Valley founder who helps leaders scale what
-    matters in the age of AI: human judgment, meaning, relationships, purpose,
-    and impact. An AI-savvy CEO with multiple exits (IPO/Unicorn), he works
-    alongside 250+ exited founders and advises top startups and companies,
-    sharing hard-earned lessons on human choices as technology shapes business,
-    leadership, and life."
+  subtitle: "Human evolution might. If we lead it right. I’ve built billion-dollar
+    companies and now work alongside 250+ exited founders shaping the future of
+    business. Here’s what we see firsthand: AI is accelerating faster than
+    humans are adapting. The leaders winning next will not simply use better
+    technology. They will evolve faster psychologically, strategically, and
+    culturally than everyone else around them. Because in a world where AI
+    scales execution, human judgment, trust, resilience, and meaning become the
+    real competitive advantage."
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
