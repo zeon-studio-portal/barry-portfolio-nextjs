@@ -1,9 +1,11 @@
 ---
 enable: true
-title: ADVISOR & SPEAKER
+title: Trusted by Leaders Navigating the AI Era
 subtitle: >-
-  Barry's been hired by 100+ Fortune 500 companies as a consultant, advisor or
-  speaker.
+  Barry has advised founders, Fortune 500 executives, and high-growth companies
+  through multiple waves of technological disruption. He speaks at the
+  intersection of AI, leadership, culture, and human evolution during one of the
+  fastest transformations in modern history.
 list:
   - title: Microsoft
     image: /microsoft+logo+white.png
@@ -12,8 +14,7 @@ list:
   - title: Loreal
     image: /Loreal_MMCv2_white.png
   - title: fedex
-    image: >-
-      /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
+    image: /fedex-7d76f96d96ecd8cd3991a39011277b1cc542391c733df628a43ea1883c186634.webp
   - title: Under Armour
     image: /UnderArmour.png
   - title: Wholefoods
@@ -64,6 +65,7 @@ list:
     image: /santander1-logo-black-and-white.png
   - title: IBM
     image: /ibm.png
-  - title: 'Allstate '
+  - title: "Allstate "
     image: /Allstate.png
 ---
+​
