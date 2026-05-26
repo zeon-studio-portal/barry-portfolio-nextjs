@@ -24,12 +24,9 @@ list:
           Replace
       - title: A Practical Framework for Leading Through Uncertainty When the Old
           Scoreboard Stops Working
-    footer: This keynote is for anyone who wants to understand the human side of
-      leadership and entrepreneurship—the parts that don’t often make it to the
-      boardroom but are essential for creating sustainable, impactful success.
-      It’s a powerful reminder that the path to greatness is rarely linear, and
-      by embracing vulnerability and learning from each other’s journeys, we can
-      all play a greater game, both in work and in life.
+    footer: AI is changing business faster than humans are adapting. This keynote
+      gives leaders a framework for staying valuable, trusted, and effective
+      while the rules of leadership are being rewritten in real time.
   - badge: Mental Health & Wellbeing
     title: "**02** Work & Life Balance: Fulfilling Needs As Multidimensional Beings"
     mediaLink_supports_youtube_vimeo: https://www.youtube.com/watch?v=MUiklxHJ0ow
