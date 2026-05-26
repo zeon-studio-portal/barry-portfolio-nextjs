@@ -60,11 +60,8 @@ list:
       - title: >
           The Human Capabilities Increasing in Value as Execution Becomes
           Automated
-      - title: >
-          Mastering 8 Dimensions of Wellbeing: Explore how consistent daily
-          rituals can lead to long-term wellbeing (physical, emotional,
-          spiritual, financial, environmental, occupational, social and
-          intellectual). 
+      - title: |
+          How to Avoid Becoming Operationally Faster While Strategically Weaker
     footer: This keynote is for anyone who wants to understand the human side of
       leadership and entrepreneurship—the parts that don’t often make it to the
       boardroom but are essential for creating sustainable, impactful success.
