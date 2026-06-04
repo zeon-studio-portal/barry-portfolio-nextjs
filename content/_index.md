@@ -9,15 +9,19 @@ banner:
     The leaders who win next won't just adopt smart technology. They'll evolve
     faster than everyone else around them.
 
+
     As AI scales execution, human judgment, trust, relationships, resilience,
-    and culture become the ultimate advantage. <br> <br> After 25 years at the
-    forefront of technological disruption, three successful exits, two
-    billion-dollar companies, and lessons from 250+ exited founders, Barry
-    Stamos explores one of the defining questions of our time:
+    and culture become the ultimate competitive advantage.
 
 
-    The question isn't whether AI will evolve. <br> The question is whether we
-    will.
+    After 25 years at the forefront of technological disruption, three
+    successful exits, two billion-dollar companies, and lessons from 250+ exited
+    founders, Barry Stamos explores one of the defining questions of our time:
+
+
+    The question isn't whether AI will evolve.
+
+    The question is whether we will.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
