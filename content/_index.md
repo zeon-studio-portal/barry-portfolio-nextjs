@@ -5,18 +5,22 @@ banner:
   subtitle: >-
     AI is accelerating faster than humans are adapting.
 
+    How we show up in this moment shapes how billions live tomorrow.
 
-    The leaders who win next won't just adopt better technology. They'll evolve
-    faster than everyone else around them.
+    Better technology creates leverage.
+
+    Better humans create legacy.
 
 
     As AI scales execution, human judgment, trust, relationships, resilience,
-    and meaning become the only advantage. 
+    and meaning become the only advantage that can't be copied. At least not
+    yet.
 
 
-    Barry has led decades of technology disruption and human transformation.
-    helps leaders evolve faster than the moment requires. He's not here to
-    explain AI. He's here to prepare you for what it demands of you.
+    Barry has founded, built, scaled, and sold billion-dollar companies leading
+    technology disruption and human transformation. He's not here to explain AI.
+    He's here to prepare you for what it demands of you. 
+
 
     **The question isn't whether AI will evolve.
 
