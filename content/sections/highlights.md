@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "SEE FOR YOURSELF "
+title: "BARRY LIVE ON STAGE"
 subtitle: >-
   Barry speaks about the human consequences of AI before most leaders can fully
   articulate what they’re feeling.
