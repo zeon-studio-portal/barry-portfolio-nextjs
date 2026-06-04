@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Meet Barry Staos
-image: /images/Barry Stamos.jpg
+title: "Meet Barry "
+image: /images/Barry Stamos - Human Spirit At Work.png
 name: The Human Side of AI
 designation: 'Founder. Operator. Investor. Father. Barry has lived every side of
   this disruption.'
@@ -14,7 +14,7 @@ button:
   label: "Book Barry "
   link: https://calendly.com/stamos
 ---
-Barry Stamos has founded, built, and scaled billion-dollar companies — and now leads Supernova, a network of 250+ exited founders backing what comes next.
+​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has founded, built, and scaled billion-dollar companies — and now leads Supernova, a network of 250+ exited founders backing what comes next.
 
 After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most organizations are focused on the wrong AI conversation entirely.
 
