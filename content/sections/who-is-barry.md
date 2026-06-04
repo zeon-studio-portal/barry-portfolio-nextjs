@@ -22,6 +22,6 @@ The real risk isn't that AI becomes more powerful. It's that humans fail to evol
 
 Barry's work explores how AI is reshaping leadership, identity, trust, culture, and decision-making and what it means to stay valuable in a world where execution is a commodity.
 
-He previously helped scale Responsys to a unicorn IPO and a \$1.6B exit to Oracle. He speaks from both sides of the disruption, the technology and the humans running it.
+He is 3x exited founder who helped scale Responsys to a unicorn IPO and a \$1.6B exit to Oracle. He speaks from both sides of the disruption, the technology and the humans running it.
 
 That combination lets him speak to the strategic and deeply personal dimensions of this moment in a way most audiences have never experienced before, leaving a lasting impact.
