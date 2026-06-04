@@ -1,9 +1,9 @@
 ---
 draft: false
 enable: true
-title: WHAT LEADERS NEED **NEXT**
+title: WHAT LEADERS **NEED**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
-quote: '“The leaders winning next will evolve faster than the technology.”'
+quote: '“Leaders must evolve, not just adapt.”'
 name: KEYNOTE EXPERIENCES
 button:
   enable: true
