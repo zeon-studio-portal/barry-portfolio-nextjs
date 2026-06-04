@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "The Human Side of AI"
+title: "Meet Barry Stamos"
 image: /images/Barry Stamos Bio Photo.png
 name: Founder. Operator. Investor. Father.
 designation: 'Barry has lived every side of technology and human transformation'
