@@ -1,8 +1,11 @@
 ---
 enable: true
 title: What Leaders Are Saying
-subtitle: 'Founders, executives, and leadership teams are bringing Barry in to
-  help them lead through both.'
+subtitle: 'From YPO stages to Fortune 500 boardrooms to the world''s top founder
+  summits.
+
+
+  '
 items:
   - enable: true
     name: Keith Ferrazzi
