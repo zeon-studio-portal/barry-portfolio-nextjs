@@ -1,7 +1,7 @@
 ---
 draft: false
 banner:
-  title: AI Won't Save You <BR> Human Evolution Will </BR>
+  title: AI Won't Save You <BR> Human Evolution Might </BR>
   subtitle: >-
     AI is accelerating faster than humans are adapting.
 
