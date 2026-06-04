@@ -3,7 +3,7 @@ enable: true
 title: "The Human Side of AI"
 image: /images/Barry Stamos Bio Photo.png
 name: Founder. Operator. Investor. Father.
-designation: 'Barry has lived every side of tech and human transformation'
+designation: 'Barry has lived every side of technology and human transformation'
 linkedin:
   enable: true
   label: linkedin.com/in/bstamos
