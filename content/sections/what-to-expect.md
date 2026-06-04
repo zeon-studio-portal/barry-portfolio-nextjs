@@ -7,7 +7,7 @@ quote: '“Leaders must evolve, not just adapt.”'
 name: KEYNOTE EXPERIENCES
 button:
   enable: true
-  label: Keynote Experiences
+  label: Most Popular Talks
   link: /#keynote-speaker
 ---
 Most AI talks focus on tools, prompts, and productivity.
