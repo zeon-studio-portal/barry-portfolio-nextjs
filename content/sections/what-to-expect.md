@@ -10,7 +10,7 @@ button:
   label: Most Popoular Talks
   link: /#keynote-speaker
 ---
-Most AI talks focus on tools, prompts, and productivity.
+of Most AI talks focus on tools, prompts, and productivity.
 
 Barry speaks about the deeper shift underneath: the future of leadership, trust, culture, and identity in an era where machines increasingly outperform humans at execution.
 
