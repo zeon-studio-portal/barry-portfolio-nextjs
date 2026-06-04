@@ -1,8 +1,9 @@
 ---
 enable: true
-title: "Trusted by "
+title: "Trusted by Market Leaders"
 subtitle: >-
-  Trusted by leaders navigating the AI era.
+  Over 100 Fortune 500 companies have called on Barry as a speaker, advisor, or
+  subject matter expert.
 list:
   - title: Microsoft
     image: /microsoft+logo+white.png
