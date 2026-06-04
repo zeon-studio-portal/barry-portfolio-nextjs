@@ -19,6 +19,4 @@ After 25 years across Silicon Valley startups, Fortune 500 innovation, and ventu
 
 A 3x exited founder, he helped scale Responsys to a unicorn IPO and \$1.B exit to Oracle. His work explores how AI is reshaping leadership, identity, trust, culture, and meaning, and how to stay valuable in a world where execution is a commodity.&#x20;
 
-He speaks from both sides of this disruption: the technology and the humans running it.&#x20;
-
-_This is the conversation most stages haven't had yet._
+He speaks from both sides of this disruption: the technology and the humans running it. _This is the conversation most stages haven't had yet._
