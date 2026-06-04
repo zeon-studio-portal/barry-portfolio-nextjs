@@ -11,12 +11,17 @@ banner:
 
 
     Because as AI scales execution, human judgment, trust, resilience, and
-    meaning become the ultimate competitive advantage.
+    meaning become the ultimate competitive advantage. <br> <br> After 25 years
+    at the forefront of technological disruption, Barry Stamos has reached a
+    surprising conclusion:
 
 
-    Drawing on three exits, two billion-dollar companies, and lessons from 250+
-    exited founders, Barry Stamos reveals what it takes to remain indispensable
-    in the age of AI. 
+    As AI becomes more powerful, being human becomes more valuable.
+
+
+    Drawing on three successful exits, experience helping build two
+    billion-dollar companies, and insights from 250+ exited founders, Barry
+    reveals what it takes to remain indispensable in the age of AI.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
