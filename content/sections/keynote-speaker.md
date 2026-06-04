@@ -1,6 +1,6 @@
 ---
 enable: true
-title: THE CONVERSATIONS LEADERS NEED NOW
+title: WHAT LEADERS NEED NOW
 subtitle: >-
   Barry speaks about leadership, culture, identity, and human adaptation in a
   world where AI is changing faster than people are prepared for.
