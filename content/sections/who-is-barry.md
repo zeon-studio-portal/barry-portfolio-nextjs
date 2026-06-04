@@ -15,7 +15,7 @@ button:
 ---
 ​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has founded, built, scaled, and sold billion-dollar companies through decades of technology disruption and human transformation. He's not here to explain AI. He's here to prepare leaders for what it demands of them.
 
-After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most organizations are focused on the wrong AI conversation entirely.
+After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most focus on the wrong AI conversation entirely.
 
 The real risk isn't that AI becomes more powerful. **It's that humans fail to evolve alongside it.**&#x20;
 
