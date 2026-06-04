@@ -111,7 +111,7 @@ const AboutBarry = ({ whoIsBarry, whatToExpect }) => {
               </div>
             </div>
             <div className="md:w-[50%]">
-              <div data-aos="fade-up-sm">
+              <div data-aos="fade-up-sm" className="sticky top-24 ">
                 <ImageFallback
                   src={whatToExpectFrontmatter.image}
                   alt={whatToExpectFrontmatter.name}
