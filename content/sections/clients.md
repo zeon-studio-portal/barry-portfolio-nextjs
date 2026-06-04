@@ -1,11 +1,8 @@
 ---
 enable: true
-title: Trusted by Leaders Navigating the AI Era
+title: "Trusted by "
 subtitle: >-
-  Barry has advised founders, Fortune 500 executives, and high-growth companies
-  through multiple waves of technological disruption. He speaks at the
-  intersection of AI, leadership, culture, and human evolution during one of the
-  fastest transformations in modern history.
+  Trusted by leaders navigating the AI era.
 list:
   - title: Microsoft
     image: /microsoft+logo+white.png
