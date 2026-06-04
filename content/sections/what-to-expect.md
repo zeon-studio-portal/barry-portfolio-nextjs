@@ -1,13 +1,13 @@
 ---
 draft: false
-enable: true
+enable: false
 title: NOT ANOTHER **AI TALK**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
 quote: '“Leaders must evolve, not just adapt.”'
 name: KEYNOTE EXPERIENCES
 button:
   enable: true
-  label: See the Talks
+  label: Most Popoular Talks
   link: /#keynote-speaker
 ---
 Most AI talks focus on tools, prompts, and productivity.
