@@ -17,12 +17,6 @@ banner:
     yet.
 
 
-    Silicon Valley founder Barry Stamos has founded, built, scaled, and sold
-    billion-dollar companies through decades of technology disruption and human
-    transformation. He's not here to explain AI. He's here to prepare leaders
-    for what it demands of them.
-
-
     **The question isn't whether AI will evolve.
 
 
