@@ -15,13 +15,19 @@ banner:
 
 
     After 25 years leading technology disruption and human transformation, Barry
-    Stamos is a go-to guide to help modern leaders answer the most important
-    questions of our time:
+    Stamos has become a trusted guide to founders, CEOs, and leaders navigating
+    the opportunities and challenges of the AI era.
+
+
+    Drawing on three successful exits, experience helping build two
+    billion-dollar companies, and insights from 250+ exited founders, Barry is
+    leading one of the defining conversations of our time:
 
 
     The question isn't whether AI will evolve.
 
-    The question is whether we will.**
+
+    The question is whether we will.
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
