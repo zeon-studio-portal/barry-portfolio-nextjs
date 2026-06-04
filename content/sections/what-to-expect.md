@@ -1,7 +1,7 @@
 ---
 draft: false
 enable: true
-title: WHAT LEADERS **NEED**
+title: NOT ANOTHER **AI TALK**
 image: /images/WhatsApp Image 2024-11-19 at 6.30.42 PM.jpeg
 quote: '“Leaders must evolve, not just adapt.”'
 name: KEYNOTE EXPERIENCES
@@ -13,8 +13,6 @@ button:
 Most AI talks focus on tools, prompts, and productivity.
 
 Barry speaks about the deeper shift underneath: the future of leadership, trust, culture, and identity in an era where machines increasingly outperform humans at execution.
-
-His keynotes challenge audiences to rethink what creates value in this new era.
 
 Drawing from decades building companies through major technology shifts, Barry combines Silicon Valley operating experience with insights from 250+ exited founders actively shaping the future of business.
 
