@@ -2,8 +2,9 @@
 enable: true
 title: Meet Barry Staos
 image: /images/Barry Stamos.jpg
-name: The real risk is not AI. It’s human stagnation.
-designation: '“AI is accelerating faster than humans are adapting.”'
+name: The Human Side of AI
+designation: 'Founder. Operator. Investor. Father. Barry has lived every side of
+  this disruption.'
 linkedin:
   enable: true
   label: linkedin.com/in/bstamos
