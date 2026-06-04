@@ -1,6 +1,6 @@
 ---
 enable: true
-title: AI Isn't Just Changing Business. It's Changing Us.
+title: What Leaders Are Saying
 subtitle: 'Founders, executives, and leadership teams are bringing Barry in to
   help them lead through both.'
 items:
