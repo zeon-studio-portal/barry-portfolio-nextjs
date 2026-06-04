@@ -23,4 +23,4 @@ Barry's work explores how AI is reshaping leadership, identity, trust, culture, 
 
 He previously helped scale Responsys to a unicorn IPO and a \$1.6B exit to Oracle. He speaks from both sides of the disruption, the technology and the humans running it.
 
-That combination lets him speak to the strategic and deeply personal dimensions of this moment in a way most audiences have never experienced for real change and impact.
+That combination lets him speak to the strategic and deeply personal dimensions of this moment in a way most audiences have never experienced that leaves a lasting impact.
