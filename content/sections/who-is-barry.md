@@ -17,8 +17,6 @@ button:
 
 After 25 years across Silicon Valley startups, Fortune 500 innovation, and venture capital, he believes most companies focus on the wrong AI conversation entirely. The real risk isn't that AI becomes more powerful. **It's that humans fail to evolve alongside it.**&#x20;
 
-A 3x exited founder, he helped scale Responsys to a unicorn IPO and \$1.B exit to Oracle. His work explores how AI is reshaping leadership, identity, trust, culture, and meaning, and how to stay valuable in a world where execution is a commodity.
-
-He speaks from both sides of this disruption: the technology and the humans running it.
+A 3x exited founder, he helped scale Responsys to a unicorn IPO and \$1.B exit to Oracle. His work explores how AI is reshaping leadership, identity, trust, culture, and meaning, and how to stay valuable in a world where execution is a commodity. He speaks from both sides of this disruption: the technology and the humans running it.&#x20;
 
 _This is the conversation most stages haven't had yet._
