@@ -55,7 +55,7 @@ const WhoIsBarry = ({ whoIsBarry }) => {
               </div>
             </div>
             <div className="md:w-[50%] md:pl-20">
-              <div data-aos="fade-up-sm">
+              <div data-aos="fade-up-sm" className="sticky top-24 ">
                 <ImageFallback
                   src={top_section.image}
                   alt={top_section.name}
