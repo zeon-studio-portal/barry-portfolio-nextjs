@@ -16,4 +16,4 @@ Barry speaks about the deeper shift underneath: the future of leadership, trust,
 
 Drawing from decades building companies through major technology shifts, Barry combines Silicon Valley operating experience with insights from 250+ exited founders actively shaping the future of business.
 
-Audiences leave with a clearer view of what actually creates value right now and what they need to become to lead what's coming.
+Audiences leave with a clearer view of what actually creates value right now and what they need to become to lead what's coming.&#x20;
