@@ -15,9 +15,7 @@ banner:
 
 
     After 25 years leading technology disruption and human transformation, Barry
-    Stamos has become a trusted guide to founders, CEOs, and leaders navigating
-    the opportunities and challenges of the AI era.
-
+    Stamos helps yleaders evolve faster than the moment requires.
 
     Drawing on three successful exits, experience helping build two
     billion-dollar companies, and insights from 250+ exited founders, Barry is
