@@ -6,17 +6,17 @@ banner:
     AI is accelerating faster than humans are adapting.
 
 
-    The leaders who win next won't just adopt smart technology. They'll evolve
+    The leaders who win next won't just adopt better technology. They'll evolve
     faster than everyone else around them.
 
 
     As AI scales execution, human judgment, trust, relationships, resilience,
-    and culture become the ultimate competitive advantage.
+    and meaning become the ultimate advantage.
 
 
-    After 25 years at the forefront of technological disruption, three
-    successful exits, two billion-dollar companies, and lessons from 250+ exited
-    founders, Barry Stamos explores one of the defining questions of our time:
+    After 25 years leading technology disruption and human transformation, Barry
+    Stamos is a go-to guide to help modern leaders answer the most important
+    questions of our time:
 
 
     The question isn't whether AI will evolve.
