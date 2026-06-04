@@ -1,8 +1,7 @@
 ---
 enable: true
 title: What Leaders Are Saying
-subtitle: 'From keynote stages to Fortune 500 boardrooms to the world''s top
-  founder summits.'
+subtitle: 'From keynote stages to Fortune 500 boardrooms to top founder summits.'
 items:
   - enable: true
     name: Keith Ferrazzi
