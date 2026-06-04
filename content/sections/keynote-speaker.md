@@ -2,8 +2,7 @@
 enable: true
 title: MOST REQUESTED TALKS
 subtitle: >-
-  Barry speaks about leadership, culture, identity, and human adaptation in a
-  world where AI is changing faster than people are prepared for.
+  Six keynotes for the moment every organization is facing.
 list:
   - badge: AI, Leadership & Human Evolution
     title: "**01** The Exit Nobody Talks About"
