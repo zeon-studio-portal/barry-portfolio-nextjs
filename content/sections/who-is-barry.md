@@ -2,15 +2,15 @@
 enable: true
 title: "The Human Side of AI"
 image: /images/Barry Stamos Bio Photo.png
-name: Founder. Operator. Investor. Father. Global Citizen.
-designation: 'Barry has lived every side of tech and human evolution'
+name: Founder. Operator. Investor. Father.
+designation: 'Barry has lived every side of this disruption'
 linkedin:
   enable: true
   label: linkedin.com/in/bstamos
   link: https://www.linkedin.com/in/bstamos/
 button:
   enable: true
-  label: "Book Barry "
+  label: "Talk to Barry "
   link: https://calendly.com/stamos
 ---
 ​[Barry Stamos](https://www.linkedin.com/in/bstamos/) has founded, built, and scaled billion-dollar companies and now leads Supernova, a network of 250+ exited founders backing what comes next.\<br>
