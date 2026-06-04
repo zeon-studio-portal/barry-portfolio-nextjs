@@ -1,7 +1,7 @@
 ---
 draft: false
 banner:
-  title: AI Won't Save You <BR> Human Evolution Might </BR>
+  title: "**AI Won't Save You** <BR> Human Evolution Might </BR>"
   subtitle: >-
     AI is accelerating faster than humans are adapting.
 
@@ -16,7 +16,7 @@ banner:
 
     Drawing on three exits, two billion-dollar companies, and lessons from 250+
     exited founders, Barry Stamos reveals what it takes to remain indispensable
-    in the age of AI.
+    in the age of AI. 
   background_youtube_playlist_id: K8x8Z0Hq1mOvU83vdIVS7-ImcVqTmc6
   video_button:
     enable: true
