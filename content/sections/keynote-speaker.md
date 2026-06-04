@@ -1,6 +1,6 @@
 ---
 enable: true
-title: WHAT LEADERS NEED NOW
+title: MOST REQUESTED TALKS
 subtitle: >-
   Barry speaks about leadership, culture, identity, and human adaptation in a
   world where AI is changing faster than people are prepared for.
