@@ -1,6 +1,6 @@
 ---
 enable: true
-title: Why Leaders Are Bringing Barry In...
+title: Why They Bring In Barry...
 subtitle: 'Founders, executives, and leadership teams are realizing AI is not
   just changing business. It’s changing humans. '
 items:
