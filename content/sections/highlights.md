@@ -1,6 +1,6 @@
 ---
 enable: true
-title: WATCH BARRY LIVE
+title: "SEE FOR YOURSELF "
 subtitle: >-
   Barry speaks about the human consequences of AI before most leaders can fully
   articulate what they’re feeling.
