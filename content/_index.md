@@ -13,7 +13,7 @@ banner:
 
 
     As AI scales execution, human judgment, trust, relationships, resilience,
-    and meaning become advantages that can't be copied. At least not yet.
+    and meaning become advantages that can't be copied. *At least not yet.*
 
 
     The question isn't whether AI will rapidly evolve.
