@@ -16,7 +16,7 @@ banner:
     and meaning become advantages that can't be copied. At least not yet.
 
 
-    The question isn't whether AI will evolve.
+    The question isn't whether AI will rapidly evolve.
 
 
     **The question is whether we will.**
