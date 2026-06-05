@@ -10,9 +10,11 @@ button:
   label: Most Popoular Talks
   link: /#keynote-speaker
 ---
+Barry speaks about the human consequences of AI.
+
 Most AI talks focus on trends, tools, prompts, and productivity.
 
-Barry speaks about the deeper shift underneath: what happens to leadership, trust, identity, relationships and meaning in an era where machines increasingly outperform humans at execution.
+His talks address the deeper shift underneath: what happens to leadership, trust, identity, relationships and meaning in an era where machines increasingly outperform humans at execution.
 
 Drawing on decades building successful companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
