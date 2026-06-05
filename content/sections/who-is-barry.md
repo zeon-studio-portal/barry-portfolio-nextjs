@@ -3,7 +3,7 @@ enable: true
 title: "Meet Barry Stamos"
 image: /images/Barry Stamos Bio Photo.png
 name: "Founder. Operator. Investor. "
-designation: 'Barry has lived every side of technology and human transformation'
+designation: '"Disruption is what I do. Human transformation is why."'
 linkedin:
   enable: true
   label: linkedin.com/in/bstamos
