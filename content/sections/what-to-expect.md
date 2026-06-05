@@ -12,7 +12,7 @@ button:
 ---
 Most AI talks focus on tools, prompts, and productivity.
 
-Barry speaks about the deeper shift underneath: the future of leadership, trust, culture, identity and meaning in an era where machines increasingly outperform humans at execution.
+Barry speaks about the deeper shift underneath: the future of leadership, trust, culture, identity, and meaning in an era where machines increasingly outperform humans at execution.&#x20;
 
 Drawing from decades building companies through major technology shifts, Barry combines Silicon Valley operating experience with insights from 250+ exited founders actively shaping the future of business.
 
