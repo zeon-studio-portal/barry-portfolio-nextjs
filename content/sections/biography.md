@@ -2,7 +2,7 @@
 enable: true
 title: LET'S PLAY TOGETHER  ;-)
 bio: >-
-  Hi, I'm Barry - 3x exited Silicon Valley entrepreneur turned conscious
+  Hi, I'm Barry, 3x exited Silicon Valley entrepreneur turned conscious
   capitalist. <br /><br />As CEO of SUPERNOVA, I lead a conscious collective of
   150+ exited founders who invest, advise and mentor world-changing companies to
   achieve their missions, faster.<br /><br />My 25+ year career includes
@@ -12,14 +12,14 @@ bio: >-
   leaders' lives by expanding consciousness and solving planetary problems.<br
   /><br /> I'm here to serve and spark the mindset shift our future demands. At
   conferences, corporate events, and leadership retreats, my talks empower
-  audiences to rise to the moment—unlocking access to our higher selves and
+  audiences to rise to the moment, unlocking access to our higher selves and
   superpowers. It's our time to shine by solving the pressing challenges of our
-  time and play a greater game.<br /><br />Let’s connect and co-create an
-  unforgettable experience together.
+  time and play a greater game.<br /><br />Let’s co-create an unforgettable
+  experience together.
 button:
   enable: true
   label: Book Barry
-  link: 'https://calendly.com/stamos'
+  link: https://calendly.com/stamos
 image: /Screenshot 2024-11-12 at 6.13.28 PM.png
 companyList:
   - company: SUPERNOVA
@@ -33,4 +33,4 @@ companyList:
   - company: 1heart
     image: /images/speaker-bio/heart.png
 ---
-
+​
