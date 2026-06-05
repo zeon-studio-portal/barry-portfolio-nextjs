@@ -12,7 +12,7 @@ button:
 ---
 Most AI talks focus on trends, tools, prompts, and productivity.
 
-Barry speaks about the deeper shift underneath: what happens to leadership, trust, identity, and meaning in an era where machines increasingly outperform humans at execution.
+Barry speaks about the deeper shift underneath: what happens to leadership, trust, identity, relationships and meaning in an era where machines increasingly outperform humans at execution.
 
 Drawing on decades building companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
