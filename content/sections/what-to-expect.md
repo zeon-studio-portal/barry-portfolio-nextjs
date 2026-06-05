@@ -16,4 +16,4 @@ Barry speaks about the deeper shift underneath: what happens to leadership, trus
 
 Drawing on decades building successful companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
-Audiences leave knowing what it means to evolve (not just adapt), and what it costs not to.
+Audiences leave knowing what it means to evolve (not just adapt) and what it costs not to.
