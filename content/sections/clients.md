@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Trusted by Market Leaders"
+title: "Trusted by Global Leaders"
 subtitle: >-
   Over 100 Fortune 500 companies have called on Barry as a speaker, advisor, or
   subject matter expert.
