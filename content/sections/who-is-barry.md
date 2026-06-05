@@ -2,7 +2,7 @@
 enable: true
 title: "Meet Barry Stamos"
 image: /images/Barry Stamos Bio Photo.png
-name: Founder. Operator. Investor. Father.
+name: "Founder. Operator. Investor. "
 designation: 'Barry has lived every side of technology and human transformation'
 linkedin:
   enable: true
