@@ -42,8 +42,8 @@ items:
     image: /images/ypo-logo-white.png
     designation: YPO Southern 7
     company: "President "
-    quote: “Barry is a rare find..connects AI, leadership, culture, and human
-      performance in a way that hits immediately.”
+    quote: “Barry is a rare find.. connects AI, leadership, meaning and culture in a
+      way that hits immediately.”
   - enable: true
     name: Mark Worster
     image: /images/EO logo.png
