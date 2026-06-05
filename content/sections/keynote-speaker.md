@@ -1,6 +1,6 @@
 ---
 enable: true
-title: MOST REQUESTED TALKS
+title: HIGHLY RATED TALKS
 subtitle: >-
   Six keynotes for the moment every organization is facing.
 list:
