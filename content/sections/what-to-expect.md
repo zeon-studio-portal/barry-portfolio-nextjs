@@ -14,7 +14,7 @@ Most AI :
 
 ***
 
-Most AI talks focus on tools, prompts, and productivity.
+Most AI talks focus on trends, tools, prompts, and productivity.
 
 Barry speaks about the deeper shift underneath: what happens to leadership, trust, identity, and meaning in an era where machines increasingly outperform humans at execution.
 
