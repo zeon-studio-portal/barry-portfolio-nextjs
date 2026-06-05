@@ -10,10 +10,14 @@ button:
   label: Most Popoular Talks
   link: /#keynote-speaker
 ---
+Most AI :
+
+***
+
 Most AI talks focus on tools, prompts, and productivity.
 
-Barry speaks about the deeper shift underneath: the future of leadership, trust, culture, identity, and meaning in an era where machines increasingly outperform humans at execution.&#x20;
+Barry speaks about the deeper shift underneath: what happens to leadership, trust, identity, and meaning in an era where machines increasingly outperform humans at execution.
 
-Drawing from decades building companies through major technology shifts, Barry combines Silicon Valley operating experience with insights from 250+ exited founders actively shaping the future of business.
+Drawing on decades building companies through major technology shifts, he reveals what separates the leaders who win from the ones who get left behind.
 
-Audiences leave with a clearer view of what actually creates value right now and what they need to become to lead what's coming.&#x20;
+Audiences leave knowing what it means to evolve (not just adapt), and what it costs not to.&#x20;
