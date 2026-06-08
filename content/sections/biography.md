@@ -1,6 +1,6 @@
 ---
 enable: true
-title: LET'S PLAY TOGETHER  ;-)
+title: The AI Edge Is Human
 bio: >-
   Hi, I'm Barry, 3x exited Silicon Valley entrepreneur turned conscious
   capitalist. <br /><br />As CEO of SUPERNOVA, I lead a conscious collective of
@@ -13,8 +13,8 @@ bio: >-
   problems.<br /><br /> I'm here to serve and spark the mindset shift our future
   demands. At conferences, corporate events, and leadership retreats, my talks
   empower audiences to rise to the moment, unlocking access to our higher selves
-  and superpowers. It's our time to shine by solving the pressing challenges of
-  our time and play a greater game.<br /><br />Let’s co-create an unforgettable
+  and superpowers. It's our time to shine, solve the pressing challenges of our
+  time, and play a greater game.<br /><br />Let’s co-create an unforgettable
   experience together.
 button:
   enable: true
